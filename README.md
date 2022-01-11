@@ -1,4 +1,4 @@
 # Recursive-NPs
-Probing the knowledge about recursive Noun Phrases (NPs) in state-of-the-art language models.
+Code and data acccompanying the paper [<Is "my favorite new movie" my favorite movie? Probing the Understanding of Recursive Noun Phrases>](https://arxiv.org/abs/2112.08326).
 
-Code and data coming shortly!
+Coming shortly!
