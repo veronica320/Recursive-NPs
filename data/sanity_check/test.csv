@@ -1,0 +1,51 @@
+index,prompt0,prompt1,ending,label
+1,A human being is necessarily,A human being isn't necessarily,male.,1
+2,A flower is necessarily,A flower isn't necessarily,red.,1
+3,A language does necessarily have,A language doesn't necessarily have,gender.,1
+4,A man is necessarily,A man isn't necessarily,American.,1
+5,A woman is necessarily,A woman isn't necessarily,blonde.,1
+6,A car is necessarily,A car isn't necessarily,white.,1
+7,A ball is necessarily,A ball isn't necessarily,small.,1
+8,A cook is necessarily,A cook isn't necessarily,good.,1
+9,A place is necessarily,A place isn't necessarily,famous.,1
+10,Food is necessarily,Food isn't necessarily,tasty.,1
+11,River is necessarily,River isn't necessarily,clear.,1
+12,A computer is necessarily,A computer isn't necessarily,fast.,1
+13,A show is necessarily,A show isn't necessarily,enjoyable.,1
+14,An equation is necessarily,An equation isn't necessarily,correct.,1
+15,Water is necessarily,Water isn't necessarily,hot.,1
+16,An answer is necessarily,An answer isn't necessarily,correct.,1
+17,A leaf is necessarily,A leaf isn't necessarily,yellow.,1
+18,A theory is necessarily,A theory isn't necessarily,scientific.,1
+19,A marriage is necessarily,A marriage isn't necessarily,happy.,1
+20,A clock is necessarily,A clock isn't necessarily,accurate.,1
+21,A table is necessarily,A table isn't necessarily,wooden.,1
+22,A chair is necessarily,A chair isn't necessarily,comfortable.,1
+23,Clothes are necessarily,Clothes aren't necessarily,warm.,1
+24,Gifts are necessarily,Gifts aren't necessarily,expensive.,1
+25,A rabbit is necessarily,A rabbit isn't necessarily,white.,1
+26,Zebras are necessarily,Zebras aren't necessarily,herbivores.,0
+27,Donald Trump is necessarily,Donald Trump isn't necessarily,American.,0
+28,Blood is necessarily,Blood isn't necessarily,red.,0
+29,Glass is necessarily,Glass isn't necessarily,transparent.,0
+30,A giant is necessarily,A giant isn't necessarily,tall.,0
+31,A skyscraper is necessarily,A skyscraper isn't necessarily,high.,0
+32,A unicorn is necessarily,A unicorn isn't necessarily,mythical.,0
+33,Sugar is necessarily,Sugar isn't necessarily,sweet.,0
+34,Soy sauce is necessarily,Soy sauce isn't necessarily,salty.,0
+35,Ice is necessarily,Ice isn't necessarily,cold.,0
+36,Fire is necessarily,Fire isn't necessarily,hot.,0
+37,The earth is necessarily,The earth isn't necessarily,spherical.,0
+38,A dwarf is necessarily,A dwarf isn't necessarily,short.,0
+39,Copper is necessarily,Copper isn't necessarily,electrically conductive.,0
+40,Diamond is necessarily,Diamond isn't necessarily,hard.,0
+41,An elephant is necessarily,An elephant isn't necessarily,mammalian.,0
+42,An actress is necessarily,An actress isn't necessarily,female.,0
+43,An infant is necessarily,An infant isn't necessarily,young.,0
+44,The sun is necessarily,The sun isn't necessarily,hot.,0
+45,Humans are mortal,Humans aren't necessarily,mortal.,0
+46,A woman is necessarily,A woman isn't necessarily,female.,0
+47,A man is necessarily,A man isn't necessarily,male.,0
+48,A circle is necessarily,A circle isn't necessarily,round.,0
+49,Dinosaurs are necessarily,Dinosaurs aren't necessarily,extinct.,0
+50,Tigers are necessarily,Tigers aren't necessarily,carnivores.,0

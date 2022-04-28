@@ -1,0 +1,1613 @@
+index	sentence1	sentence2	label
+2082	Urine is tested to check for disease.	Dark urine is tested to check for disease.	2
+12641	News is relevant.	False news is relevant.	0
+11485	Rice is stirred.	Fresh rice is stirred.	1
+886	Plastic is made of carbon.	Colorful plastic is made of carbon.	1
+5863	Sometimes hiking causes a smile.	Sometimes abundant hiking causes a smile.	1
+9558	A sheep lives in a field.	A free-range sheep lives in a field.	1
+14674	A firefighter rushes to a burning building.	A full-time firefighter rushes to a burning building.	1
+12610	An oboe is for creating sound with a double reed.	A double oboe is for creating sound with a double reed.	1
+6890	A pavement is hard.	A porous pavement is hard.	1
+8070	A pit is found in a cherry.	An unusual pit is found in a cherry.	1
+5739	A shop sails over the ocean.	A pro shop sails over the ocean.	1
+2543	A scale is for helping you loose weight.	A senior scale is for helping you loose weight.	1
+6152	A rabbit has long ears.	A frightened rabbit has long ears.	1
+2243	You use a system to beat the dealer.	You use an omnivorous system to beat the dealer.	0
+8368	You use a calendar to obtain a pretty picture.	You use a virtual calendar to obtain a pretty picture.	1
+9207	A town is for people to party in.	A past town is for people to party in.	0
+3734	The internet is made of networked computers.	The base internet is made of networked computers.	1
+10100	You use a ring to get engaged.	You use a fake ring to get engaged.	0
+9627	The alphabet contains all the letters.	The runic alphabet contains all the letters.	1
+15481	A robot sometimes needs oil.	An artificial robot sometimes needs oil.	1
+5981	Food is very pleasurable.	False food is very pleasurable.	0
+11712	An eagle spots a rabbit on the ground.	A big eagle spots a rabbit on the ground.	1
+2767	Trash may consist of bottles.	Dead trash may consist of bottles.	1
+7144	A telephone is for making prank phone calls.	A current telephone is for making prank phone calls.	1
+3006	An idea bridges difference between cultures.	A doubtful idea bridges difference between cultures.	0
+15137	The storm rains on our heads.	The magnetic storm rains on our heads.	0
+8528	A gallery is for art.	A virtual gallery is for art.	1
+13225	A council is for performing some task.	A present council is for performing some task.	1
+1752	Ketchup is eaten with hot dogs.	Special ketchup is eaten with hot dogs.	1
+5256	A pavement is for avoiding falls.	An off pavement is for avoiding falls.	1
+3708	A queen is for her people.	A so-called queen is for her people.	1
+240	You use a stadium to play sport events.	You use a historic stadium to play sport events.	1
+4881	Breaking something is bad.	Controlled breaking something is bad.	0
+259	Dish is used for scan.	Cheap dish is used for scan.	1
+8623	Bleach is alkaline.	Liquid bleach is alkaline.	1
+3180	A driver drives a car in reverse.	An unidirectional driver drives a car in reverse.	0
+5629	A rat races through a maze.	A stinking rat races through a maze.	1
+13094	A desk is for storing and working with papers.	An antique desk is for storing and working with papers.	1
+5919	A pouch is for a joey.	A main pouch is for a joey.	1
+11350	You use a cloud to hide a plane.	You use a thinned cloud to hide a plane.	0
+9266	A president signs a bill.	An erstwhile president signs a bill.	1
+10812	A trunk is for storing cleaning products.	A standard trunk is for storing cleaning products.	1
+5968	A predator hunts for food.	An apparent predator hunts for food.	1
+7664	A union agrees to contract negotiations.	A native union agrees to contract negotiations.	1
+487	A text is for reflection.	A single text is for reflection.	1
+3659	Grease coats a bearing.	Old grease coats a bearing.	1
+2666	Yacht is used for sail.	Historic yacht is used for sail.	1
+15797	A road branches right or left.	An extra road branches right or left.	1
+2143	An attic is for storic boxes of used clothing.	A residential attic is for storic boxes of used clothing.	1
+13518	A mall is used for gathering shops.	A modern mall is used for gathering shops.	1
+9791	You use a bazaar to shop for things.	You use an annual bazaar to shop for things.	1
+11187	A poet is for rhyming.	A visual poet is for rhyming.	0
+10377	Glue sticks wood.	Red glue sticks wood.	1
+7371	A seat is for slouching into.	A metallic seat is for slouching into.	1
+7925	You use a cello to play a quartet.	You use a principal cello to play a quartet.	1
+14305	A tooth is used for a lucky charm.	A next tooth is used for a lucky charm.	0
+12949	A seed sprout.	A select seed sprout.	1
+4762	A ticket is used for enterance.	A blank ticket is used for enterance.	0
+4803	An event surprises you.	A celestial event surprises you.	1
+7176	A family has descendants.	A territorial family has descendants.	1
+10582	You use a bowl to hold chips.	You use a false bowl to hold chips.	0
+10176	The police questions the suspect now.	The national police questions the suspect now.	1
+14662	You use a condom to prevent pregnancy.	You use an effective condom to prevent pregnancy.	2
+6687	Bread is used for sandwiches.	Low bread is used for sandwiches.	1
+10291	You use a passageway to get out of a building.	You use a fake passageway to get out of a building.	0
+1942	An attic is for boxes.	An inaccessible attic is for boxes.	0
+7506	You use a mirror to see your reflection.	You use a variable mirror to see your reflection.	1
+7680	A text is for studying.	A funny text is for studying.	0
+6432	A tourniquet is used for pressing vascules.	A homemade tourniquet is used for pressing vascules.	1
+14085	Buffing fairs a surface.	Clean buffing fairs a surface.	1
+13355	An acrylic is used for art.	A dental acrylic is used for art.	0
+3938	Oil is for frying food in.	Likely oil is for frying food in.	0
+1898	People kisses their lover.	Young people kisses their lover.	1
+5366	An instrument is used for doing something useful.	A historic instrument is used for doing something useful.	1
+589	Squash is edible.	Bumpy squash is edible.	1
+10837	A society is for socialising.	A meteorological society is for socialising.	1
+9714	A road divides into two roads.	A simulated road divides into two roads.	1
+6475	A body is for food.	A vital body is for food.	1
+1841	A family plays a board game together.	An ex- family plays a board game together.	0
+4182	A chapel is for meditating.	A holy chapel is for meditating.	2
+11347	You use a fountain to make a wish.	You use an iconic fountain to make a wish.	1
+14041	A bouncer prevents passage.	A legendary bouncer prevents passage.	1
+13053	A clip is used for holding.	A virtual clip is used for holding.	0
+7769	Gas means liquid petroleum.	Fictitious gas means liquid petroleum.	0
+5246	A chameleon reaches very far with its tongue.	A veiled chameleon reaches very far with its tongue.	1
+5655	A company markets a product.	A noteworthy company markets a product.	1
+5300	A beggar needs clothes.	A hungry beggar needs clothes.	1
+7215	You use a show to entertain your parents.	You use a dead show to entertain your parents.	0
+15195	A felony is one kind of serious crime.	A federal felony is one kind of serious crime.	2
+4045	Beer is for drinking.	Local beer is for drinking.	1
+3690	You use electricity to heat your house.	You use simple electricity to heat your house.	1
+239	You use a menu to choose an action.	You use an open menu to choose an action.	1
+15323	Tape is backing a photo.	Hydrophilic tape is backing a photo.	1
+11232	A driver turns a key.	A vindictive driver turns a key.	1
+9656	A bartender notices an empty glass.	An ostensible bartender notices an empty glass.	1
+2577	Sometimes working causes fatigue.	Sometimes hard working causes fatigue.	2
+2454	The goo is sticky.	The fly goo is sticky.	1
+12029	Currency is used to purchase food.	Total currency is used to purchase food.	1
+8863	Some matter has no electrical charge.	Some dead matter has no electrical charge.	1
+13816	A needle is used for injections.	A distal needle is used for injections.	0
+13410	A mechanic buys auto parts from the factory.	A certificated mechanic buys auto parts from the factory.	1
+3651	Sometimes climbing causes you to fall.	Sometimes extreme climbing causes you to fall.	2
+7085	An army includes an army of ants.	A former army includes an army of ants.	0
+8197	You use a menu to order food.	You use an established menu to order food.	1
+8054	A winery ages barrels of wine.	An organic winery ages barrels of wine.	1
+6179	A robber cases the joint.	An alleged robber cases the joint.	1
+12035	A jug amounts water.	A narrow jug amounts water.	0
+9508	Peppermint is opaque.	Broad peppermint is opaque.	1
+9070	A bell is smooth to the touch.	A detachable bell is smooth to the touch.	1
+6954	Milk is produced by a female cow.	False milk is produced by a female cow.	0
+10899	A handgun is for self defense.	A primary handgun is for self defense.	1
+10691	A number is for identifying an apartment.	A necessary number is for identifying an apartment.	0
+12355	A preacher reports that god loves everyone.	A national preacher reports that god loves everyone.	1
+12415	A shoe is for protecting feet from injury.	A direct shoe is for protecting feet from injury.	1
+3425	You use a bookcase to display a nice clock.	You use an open bookcase to display a nice clock.	1
+7608	A wound pains a victim.	An amorphous wound pains a victim.	1
+9111	A comforter is very flexible.	A solid comforter is very flexible.	0
+14548	A boot is used for walking.	A typical boot is used for walking.	1
+8047	Airports have runways.	Beautiful airports have runways.	1
+6467	An apple has seeds inside.	A yellow apple has seeds inside.	1
+9130	Salesman parts you from your money.	Retail salesman parts you from your money.	1
+2319	A mast is for holding a crows nest.	A different mast is for holding a crows nest.	1
+12264	Constipation is unhealthy.	Idiopathic constipation is unhealthy.	1
+10084	A president leads a nation.	An onetime president leads a nation.	1
+11907	Wine is used for drinkin.	Full-bodied wine is used for drinkin.	1
+2506	You use a token to get through the bridge.	You use an exclusive token to get through the bridge.	1
+115	One puts things on a bookshelf.	Dead one puts things on a bookshelf.	0
+5422	Art is appraised.	Impossible art is appraised.	1
+3787	An ear is for gathering sound waves.	A virtual ear is for gathering sound waves.	1
+6148	A graveyard is used for burying dead people.	A deserted graveyard is used for burying dead people.	1
+10512	Land is for roaming.	Unsuccessful land is for roaming.	0
+4323	You use a pike to poke something.	You use a free pike to poke something.	1
+16092	Pepper seasons a dish.	Freshly pepper seasons a dish.	1
+2714	Debate is useful in developing consensus.	Excruciating debate is useful in developing consensus.	1
+5311	You use a pistol to shoot a match.	You use a sized pistol to shoot a match.	1
+1543	A mall is for eating.	An outdoor mall is for eating.	2
+1961	Marble is carved.	Artificial marble is carved.	1
+15534	A hairbrush is for combing out loose hair.	A large hairbrush is for combing out loose hair.	1
+6195	Quartz is for clocks.	Coarse quartz is for clocks.	2
+7317	A hen mothers her chicks.	An unruly hen mothers her chicks.	0
+3439	You use a hairpin to keep hair out of the face.	You use a legendary hairpin to keep hair out of the face.	1
+8955	A detective catches a suspect.	A reverse detective catches a suspect.	0
+2333	Cardboard is for making boxes for storage.	Rigid cardboard is for making boxes for storage.	2
+13230	A hospital is used for human repairs.	A square hospital is used for human repairs.	0
+10440	You use plumbing to move water.	You use general plumbing to move water.	1
+10063	A doll is small.	A new doll is small.	1
+1032	China has successfully sent animals into space.	Chic china has successfully sent animals into space.	0
+14642	A leader chairs a panel.	A deputy leader chairs a panel.	1
+11072	A child questions a parent.	A past child questions a parent.	0
+8232	A factory contains machines and people.	A normal factory contains machines and people.	1
+5850	An entryway is used for entering.	A right entryway is used for entering.	1
+1408	A pit is for fighting.	A patterned pit is for fighting.	1
+12330	Capsicum is used as an expectorant.	Fried capsicum is used as an expectorant.	1
+9769	Sarcasm brings hostility.	Gentle sarcasm brings hostility.	0
+4620	An animal is for visiting in a zoo.	A grouped animal is for visiting in a zoo.	2
+12655	You use cord to tie bundles.	You use red cord to tie bundles.	1
+2923	Wing is used for raise.	Heavy wing is used for raise.	1
+5068	A judge fines an offender.	A civil judge fines an offender.	1
+9657	A handle is used for pulling.	An attachable handle is used for pulling.	2
+10966	A painter coats a house.	A talented painter coats a house.	2
+9955	You use a toy to play with a child.	You use a stuffed toy to play with a child.	1
+2899	A story is made up of many words.	A twin story is made up of many words.	1
+5267	Electricity powers a television.	Industrial electricity powers a television.	1
+7849	An airplane reaches its destination.	A certified airplane reaches its destination.	1
+9430	You use a show to entertain people.	You use a phony show to entertain people.	0
+5630	Winning is important to losers.	Good winning is important to losers.	1
+1739	Snow is for christmas.	Legitimate snow is for christmas.	2
+2335	A rule restricts behavior.	A binding rule restricts behavior.	2
+5830	The effect of sleeping is getting rest.	The effect of basic sleeping is getting rest.	1
+12185	Sometimes work causes bank accounts to increase.	Sometimes erroneous work causes bank accounts to increase.	1
+3491	War brings freedom.	Stealthy war brings freedom.	1
+13874	A miner mines for coal.	A young miner mines for coal.	1
+4935	You use a passage to illustrate a literary point.	You use a single passage to illustrate a literary point.	1
+6059	A pad is for writing on.	A reusable pad is for writing on.	1
+2797	A flame heats the room.	A triple flame heats the room.	1
+11186	Your date doctors your drink with a mickey.	Your confirmed date doctors your drink with a mickey.	1
+6679	A scientist experiments.	A fictitious scientist experiments.	0
+5845	Yacht is used for transport.	Residential yacht is used for transport.	1
+7505	Misery is undesirable.	Neurotic misery is undesirable.	1
+10019	You use a toothpaste to clean your teeth.	You use an original toothpaste to clean your teeth.	1
+4427	A number is for indicating quantity.	A possible number is for indicating quantity.	0
+245	You use a stapler to staple papers together.	You use an open stapler to staple papers together.	1
+13162	An executive pages a co-worker.	A legal executive pages a co-worker.	1
+1452	You use a leather to make saddle bags.	You use a classy leather to make saddle bags.	1
+13850	You use a number to list things in order.	You use an imaginary number to list things in order.	0
+12350	A house is built.	An abandoned house is built.	0
+2094	A psychopath attempts murder.	A dangerous psychopath attempts murder.	2
+12309	A jacket is worn to keep warm in winter.	A straight jacket is worn to keep warm in winter.	0
+15733	A voice is for communicating.	A mobile voice is for communicating.	1
+15260	A horse goes away.	A dead horse goes away.	0
+15141	A thermometer measures temperature.	A thermal thermometer measures temperature.	1
+7864	Sometimes punching someone causes pain.	Sometimes clean punching someone causes pain.	0
+5788	A pervert offers candy to children.	An immoral pervert offers candy to children.	2
+5550	The market feels selling pressure.	The warm market feels selling pressure.	1
+6674	You use a loom to weave cloth.	You use a major loom to weave cloth.	1
+15299	You use a grasper to dumpster dive.	You use a second grasper to dumpster dive.	1
+6480	A token is used for a representation.	A blue token is used for a representation.	1
+9836	An illness causes runny noses.	An alleged illness causes runny noses.	0
+4769	A batter crowds the plate.	A proteinaceous batter crowds the plate.	0
+61	A criminal owns a gun.	A wanted criminal owns a gun.	2
+1456	You use a channel to view something.	You use a simulated channel to view something.	0
+7421	Iron is magnetized.	Fabricated iron is magnetized.	1
+34	Fish is cooked.	Toxicant fish is cooked.	0
+5352	Skiing is for winter travel.	Downhill skiing is for winter travel.	1
+4020	Die is bad.	Dead die is bad.	0
+15188	A criminal picks a lock.	A habitual criminal picks a lock.	1
+4460	Gas is for balloons.	Exhilarating gas is for balloons.	1
+13041	A bell is for summoning people.	A silly bell is for summoning people.	1
+5242	Compost is useful for recycling.	Hot compost is useful for recycling.	1
+15649	A painter coats a wall.	A little painter coats a wall.	1
+2754	My grandmother has an alarm clock like this.	My sweet grandmother has an alarm clock like this.	1
+1815	A kitchen is used for cooking food.	A full kitchen is used for cooking food.	1
+8013	Hope brings fortune.	Sincere hope brings fortune.	1
+13669	A hall is for playing concerts.	A main hall is for playing concerts.	1
+5334	A landmark is for marking a boundary on land.	A medieval landmark is for marking a boundary on land.	1
+6874	You use a needle to make a hole in material.	You use a dead needle to make a hole in material.	0
+8406	You use a staircase to climb.	You use a sweeping staircase to climb.	1
+9914	You use a gold to pay a debt.	You use an antique gold to pay a debt.	1
+7726	A government is used for controlling society.	An individual government is used for controlling society.	1
+3830	A balloon  is made of rubber .	A spherical balloon  is made of rubber .	2
+9528	Your pet belongs to you.	Your pro pet belongs to you.	0
+7435	A gold is for first place in an olympic event.	A synthetic gold is for first place in an olympic event.	1
+992	Failure lowers your expectations.	Abysmal failure lowers your expectations.	2
+15086	A rod is for the back of a fool.	A former rod is for the back of a fool.	1
+12600	A hallway is flat.	A short hallway is flat.	1
+3278	A winner rises to the occasion.	A democratic winner rises to the occasion.	1
+12503	A tiger circles its prey.	A huge tiger circles its prey.	1
+7997	A platform is for trains to arrive at.	A circular platform is for trains to arrive at.	1
+1513	Shopping is for discovering new products.	Former shopping is for discovering new products.	0
+6910	You use a triangle to produce music.	You use a golden triangle to produce music.	1
+11325	A stick is used to play a game called hockey.	A double stick is used to play a game called hockey.	0
+12852	You use a calendar to remember important dates.	You use a virtual calendar to remember important dates.	1
+9784	Sometimes fencing causes problem running out.	Sometimes net fencing causes problem running out.	1
+7866	A capital is used for the beginnings of sentences.	A future capital is used for the beginnings of sentences.	0
+15322	A tiger hunts for food.	A saber-toothed tiger hunts for food.	1
+6718	A luggage is used for carrying clothes on a trip.	A virtual luggage is used for carrying clothes on a trip.	0
+3379	Denim is used for making jeans.	Dependable denim is used for making jeans.	1
+346	A ticket is for seeing a concert.	An individual ticket is for seeing a concert.	1
+12479	A rack is used to hold things.	A remote rack is used to hold things.	1
+15189	Affix causes adhere.	Cyclic affix causes adhere.	1
+6903	Superhero is generally good.	New superhero is generally good.	1
+14731	Tom nails becky.	Big tom nails becky.	1
+4352	An illness subjects one to much pain.	A febrile illness subjects one to much pain.	1
+13292	Fermentation turns organic wastes into other things.	Spontaneous fermentation turns organic wastes into other things.	1
+13106	A city charges sales tax.	A clustered city charges sales tax.	1
+866	Paper contains pulp.	Former paper contains pulp.	0
+13545	A hallway is used for walking from one room to another.	A previous hallway is used for walking from one room to another.	0
+13392	A forest contains species of many plants and animals.	A simulated forest contains species of many plants and animals.	0
+3545	A pencil is for doing math.	A sharp pencil is for doing math.	1
+2218	Music is played by an orchestra.	Canned music is played by an orchestra.	0
+14830	A sailor boards a ship.	A blue sailor boards a ship.	1
+1110	A pen is for taking notes.	A counterfeit pen is for taking notes.	2
+6747	A beauty suns her body.	A historic beauty suns her body.	1
+1928	A hat is used for keeping hair from showing.	A dark hat is used for keeping hair from showing.	1
+11851	A teenager acts crazy.	An independent teenager acts crazy.	1
+3275	You use a muscle to move something.	You use a lateral muscle to move something.	1
+14417	A card is for saying i love you.	A self-contained card is for saying i love you.	0
+1175	A porch is for sitting on.	A wonderful porch is for sitting on.	1
+8472	Mike is looking for work.	Open mike is looking for work.	0
+4412	A movie is made up of scenes.	A mature movie is made up of scenes.	1
+5150	Something that might happen as a consequence of cooking is tough food.	Something that might happen as a consequence of slow cooking is tough food.	0
+2398	A trumpet is blaring.	A second trumpet is blaring.	1
+6881	You use an acrylic to paint.	You use a low acrylic to paint.	1
+13980	A handicap lowers potential.	An accessible handicap lowers potential.	0
+7079	Plastic melts.	Glossy plastic melts.	1
+892	You use a drum to sit on.	You use a refrigerant drum to sit on.	0
+15419	Silk is formed into threads.	Artificial silk is formed into threads.	1
+5813	A surface is used for looking at.	A hypothetical surface is used for looking at.	0
+9132	A building falls down.	A circular building falls down.	1
+8691	A mosquito wants fresh blood.	A suspect mosquito wants fresh blood.	1
+6751	A situation turns bad.	A dishonorable situation turns bad.	1
+851	A sword is sharp.	A big sword is sharp.	1
+8307	A piano is played.	A virtual piano is played.	1
+2711	Matter is made of elements.	Bloody matter is made of elements.	1
+2893	An herb is for flavoring food.	A resistant herb is for flavoring food.	0
+12385	A stairway is used for getting into the basement.	A southern stairway is used for getting into the basement.	1
+5898	Sometimes smoking causes needed reparis.	Sometimes rapid smoking causes needed reparis.	2
+9754	Your secretary pages you.	Your deputy secretary pages you.	1
+277	You use a lantern to light a dark room.	You use a traditional lantern to light a dark room.	1
+7487	A teacher agrees with a student.	An alternative teacher agrees with a student.	1
+5167	You use a courtyard to sit and think.	You use an internal courtyard to sit and think.	1
+5955	You use a statue to symbolize something.	You use a multicolored statue to symbolize something.	1
+11114	A soundstage is used for recording.	A perfect soundstage is used for recording.	1
+3816	A story is told for enjoyment or to teach.	A supposed story is told for enjoyment or to teach.	1
+3880	The government places ideas into your mind.	The future government places ideas into your mind.	1
+8223	I hope you can advance me a few dollars.	I square hope you can advance me a few dollars.	1
+10419	You use a shed to store lawncare tools.	You use a working shed to store lawncare tools.	1
+1725	A menu is for making choices.	A former menu is for making choices.	0
+7193	A name is a proper noun.	A fabricated name is a proper noun.	1
+10679	China has a 97% software piracy rate.	Commemorative china has a 97% software piracy rate.	0
+13371	Furniture costs a lot of money.	Necessary furniture costs a lot of money.	1
+2282	You use a shower to clean yourself.	You use a practical shower to clean yourself.	2
+6914	An army is for keeping peace.	A fifth army is for keeping peace.	0
+1227	A mouth kisses another mouth.	A full mouth kisses another mouth.	1
+12959	Shampoo is for to wash your pets.	Fake shampoo is for to wash your pets.	0
+3841	You use a grasper to grab stuff.	You use a hollow grasper to grab stuff.	1
+11012	A can is for carrying icecreams.	An old can is for carrying icecreams.	0
+3465	Dad starts the car.	Poor dad starts the car.	1
+6601	An accountant wants to balance.	A former accountant wants to balance.	0
+6609	You use a baseball to play catch.	You use a commercial baseball to play catch.	1
+9510	An weapon hurts a victim.	A mock weapon hurts a victim.	1
+9276	Ears are sensitive for soundwaves.	Open ears are sensitive for soundwaves.	2
+1234	A deer is killed.	A red deer is killed.	1
+2233	A television is similar to a monitor.	A heavy television is similar to a monitor.	1
+1052	Sunlight has the effect of heating the earth.	Intense sunlight has the effect of heating the earth.	2
+1436	Defendant is criminal.	Putative defendant is criminal.	1
+6103	A newspaper motivate.	An enhanced newspaper motivate.	0
+253	A burglar breaks the law.	An occasional burglar breaks the law.	1
+2759	A cellphone is for communication.	A personal cellphone is for communication.	1
+6700	A band has a rehearsal to practice playing music.	An unlikely band has a rehearsal to practice playing music.	0
+12250	A family farms potatoes.	An affluent family farms potatoes.	1
+4368	A bean is for growing a plant frm.	A blue bean is for growing a plant frm.	1
+15959	A steamer streams vegetables.	A coastal steamer streams vegetables.	0
+10093	Success often begins in failure.	Gratifying success often begins in failure.	1
+6663	An anesthetic may eliminate pain sensations.	A long-acting anesthetic may eliminate pain sensations.	1
+4716	A door is locked.	A final door is locked.	1
+1737	Cash is easy to count.	Disputed cash is easy to count.	1
+15806	A suitcase is for carrying documents.	A wheeled suitcase is for carrying documents.	1
+13113	A duplex is for saving space.	A historic duplex is for saving space.	1
+5920	A carpenter hammers a nail.	A handsome carpenter hammers a nail.	1
+5985	A reception is for a chance to mingle.	An expected reception is for a chance to mingle.	1
+7995	Pain causes suffer.	Big pain causes suffer.	2
+11309	A hose is for watering plants.	A modular hose is for watering plants.	1
+937	Protein is found in yogurt.	Edible protein is found in yogurt.	1
+5212	A den is for reading.	A main den is for reading.	1
+4895	A couch is used for making sweat sweat love.	An apt couch is used for making sweat sweat love.	1
+1140	You use a success to acquire more challenging work.	You use an ostensible success to acquire more challenging work.	1
+1955	You use a feather to tickle your lover.	You use a blue feather to tickle your lover.	1
+5024	Gas is for use as a fuel.	Typical gas is for use as a fuel.	1
+12473	A refrigerator is for refrigerating.	A base refrigerator is for refrigerating.	1
+9935	A bucket is found in a house.	An inventive bucket is found in a house.	0
+9365	A ghost appears out of nowhere.	A literal ghost appears out of nowhere.	1
+12202	You use an ottoman to put your feet up and relax.	You use a small ottoman to put your feet up and relax.	1
+8581	Detector is used for monitor.	Counterfeit detector is used for monitor.	0
+13452	An artist shades a picture.	A doctoral artist shades a picture.	1
+11984	A balloon is blown up.	A high balloon is blown up.	1
+2738	An echo returns from a sound.	A so-called echo returns from a sound.	1
+601	A book is used for learning about medicine.	A good book is used for learning about medicine.	2
+3713	A river divides land.	A wide river divides land.	1
+3559	A player evens the score.	A future player evens the score.	0
+12568	A door close.	A crimson door close.	1
+15104	Bride plans a wedding.	Shocked bride plans a wedding.	1
+2902	A razor is for shaving the hair off your body.	A simulated razor is for shaving the hair off your body.	0
+13512	A pedestal is for supporting a bust of beethoven's head.	A central pedestal is for supporting a bust of beethoven's head.	1
+13066	History is written by the winners of wars.	Marked history is written by the winners of wars.	1
+7786	A dragon fly.	A safe dragon fly.	1
+8411	A condominium is for being snobby.	A residential condominium is for being snobby.	1
+790	An ear is for processing sounds.	A former ear is for processing sounds.	0
+5273	You use a chest to store things.	You use a second chest to store things.	1
+11739	You use a soap to emulsify water.	You use a cold soap to emulsify water.	1
+14388	Jeans is for looking cool.	Fashionable jeans is for looking cool.	1
+15521	You use a hammer to hurt people.	You use a hard hammer to hurt people.	1
+2804	Art is for education.	Shaded art is for education.	1
+4750	A spirit is for haunting.	A right spirit is for haunting.	0
+5537	You use a piece to fix.	You use a future piece to fix.	0
+13799	A speaker steps up to the podium.	A worldwide speaker steps up to the podium.	1
+13835	A rights right a wrong.	A mock rights right a wrong.	0
+12734	You use a ranch to breed cattle.	You use a private ranch to breed cattle.	1
+12937	You use a shed to store old books.	You use a historic shed to store old books.	1
+15702	The effect of falling is conformity to gravity.	The effect of alleged falling is conformity to gravity.	0
+5041	A tub may be used to hold butter.	A dry tub may be used to hold butter.	1
+13909	Air is invisible.	Dead air is invisible.	1
+3580	Clothing is kept in a wardrobe.	Virtual clothing is kept in a wardrobe.	0
+2210	A chapel is for christians.	A small chapel is for christians.	1
+9008	A bed rests a person.	A buoyant bed rests a person.	1
+6058	A tree dies from pollution.	A possible tree dies from pollution.	0
+14657	A professor answers a question.	A tenured professor answers a question.	1
+12744	A statue is used for honoring a person.	A golden statue is used for honoring a person.	1
+515	A platform is for speeches.	An international platform is for speeches.	1
+2787	A lens is for building into binoculars.	A select lens is for building into binoculars.	1
+5476	A baker stops the dough from raising.	An experienced baker stops the dough from raising.	1
+884	A backdrop is for covering the back of something.	A supportive backdrop is for covering the back of something.	1
+2569	Revolution is fun.	Passive revolution is fun.	1
+2572	A freezer is for freezing fresh food.	An adjustable freezer is for freezing fresh food.	1
+2674	You use a manipulator to manipulate.	You use a hydraulic manipulator to manipulate.	1
+12945	Lettuce is used to make a salad.	Loose lettuce is used to make a salad.	1
+1675	Those present numbers over 15.	Those potential present numbers over 15.	1
+1142	A sailor mans a submarine.	A senior sailor mans a submarine.	2
+7740	You use a pool to hold a meet.	You use a sensational pool to hold a meet.	1
+6015	A grenade is used for explosions.	A rocket-propelled grenade is used for explosions.	2
+602	You use a basket to shoot hoops.	You use a net basket to shoot hoops.	1
+15926	A painter paints a wall.	An old painter paints a wall.	1
+6127	Sleep is important to human health.	Subject sleep is important to human health.	1
+16032	A grocer is for buying bread.	A wholesale grocer is for buying bread.	1
+7293	Starch is used to make clothes crisp.	Agglomerated starch is used to make clothes crisp.	1
+13353	A mill is for pulverizing.	A rural mill is for pulverizing.	1
+13089	An operator pages a doctor.	An algebraic operator pages a doctor.	0
+15954	You use a horn to warn other motorists of danger.	You use a ventral horn to warn other motorists of danger.	0
+2610	A word means more than one thing.	A front word means more than one thing.	1
+14949	An operator pages a doctor.	A fictitious operator pages a doctor.	1
+13498	A christian believes in jesus christ.	A rational christian believes in jesus christ.	1
+14702	A stage is for bands.	A former stage is for bands.	0
+14201	A smoker lights a cigarette.	A heavy smoker lights a cigarette.	1
+11077	A monopoly corners a market.	A virtual monopoly corners a market.	0
+14469	You use hardwood to make a floor.	You use certified hardwood to make a floor.	1
+10199	A dealer deals a hand of cards.	A general dealer deals a hand of cards.	1
+3777	An elevator lifts people.	A dental elevator lifts people.	0
+9542	Fruit becomes ripe.	Active fruit becomes ripe.	1
+12443	A master teaches an apprentice to work.	A past master teaches an apprentice to work.	1
+1848	You use a doorway to enter into a room.	You use an open doorway to enter into a room.	1
+15960	An apartment is for housing people.	A virtual apartment is for housing people.	0
+12388	You use a table to play cards.	You use an entire table to play cards.	1
+4642	You use a hammer to knock something into place.	You use a heavy hammer to knock something into place.	1
+12003	A christian repent.	A good christian repent.	2
+2176	Filters separates solids.	Combined filters separates solids.	1
+3167	An anesthetic may eliminate pain sensations.	An evaporated anesthetic may eliminate pain sensations.	0
+467	A crank powers an engine.	An average crank powers an engine.	1
+3358	A human torture.	A little human torture.	1
+15414	A ruler governs peopple.	A dark ruler governs peopple.	1
+10640	An earring is used for decorating an ear lobe.	A pendant earring is used for decorating an ear lobe.	1
+12017	A cigarette is used for smoking tobacco.	A whole cigarette is used for smoking tobacco.	1
+2410	An animal senses fear in a human.	A mythical animal senses fear in a human.	0
+12159	A rapist is sentenced to death.	An alleged rapist is sentenced to death.	0
+9576	Sunshine is harmful.	Alive sunshine is harmful.	0
+13780	A key frees a prisoner.	A retail key frees a prisoner.	0
+14580	A sculptor produces a statue.	A renowned sculptor produces a statue.	1
+16018	A college is used for getting away from parents.	A new college is used for getting away from parents.	1
+13761	A child breathes.	A rewarding child breathes.	0
+7346	A fork has prongs.	A straight fork has prongs.	1
+15962	You use a wallet to hold credit cards.	You use a fat wallet to hold credit cards.	1
+941	The weather is muggy during the summer.	The potential weather is muggy during the summer.	1
+12484	A planet is used for orbiting around the sun.	A dead planet is used for orbiting around the sun.	0
+13804	The truth works to our advantage.	The likely truth works to our advantage.	1
+12541	An iron is used to hit a golf ball.	A hot iron is used to hit a golf ball.	0
+547	An artist letters a poster.	A great artist letters a poster.	2
+62	A contraceptive is used to reduce the chance of pregnancy.	An oral contraceptive is used to reduce the chance of pregnancy.	1
+3852	Banks have branches in neighborhoods.	Former banks have branches in neighborhoods.	1
+2091	A grenade is for destroying a bunker.	A phosphorous grenade is for destroying a bunker.	1
+15176	The casino deals cards to the players.	The virtual casino deals cards to the players.	1
+10964	A try is used for an attempt.	A probable try is used for an attempt.	1
+15498	Sunblock prevents sunburn.	Genetic sunblock prevents sunburn.	1
+3560	A leather is for tanning.	An artificial leather is for tanning.	1
+4822	Fishing is for providing yourself or someone with fish.	Yellow fishing is for providing yourself or someone with fish.	1
+14945	You use a storm to watch lightning.	You use a potential storm to watch lightning.	1
+4747	An appeal rights an injustice.	A historic appeal rights an injustice.	1
+12808	A sportsman drops a catch.	An old sportsman drops a catch.	1
+12962	A photographer may take a horse's picture.	A qualified photographer may take a horse's picture.	1
+100	A stamp  is used for postage.	A transparent stamp  is used for postage.	1
+13354	Turkey is bought at a store.	Whole turkey is bought at a store.	1
+1079	A school is for listening to teachers.	A parochial school is for listening to teachers.	1
+7334	The effect of an earthquake is a disaster.	The effect of a predicted earthquake is a disaster.	1
+14471	A citizen signs a petition.	A supposed citizen signs a petition.	1
+7376	Life is full of chance.	Reproductive life is full of chance.	1
+14107	A hiker wishes to reach the summit.	A sufficient hiker wishes to reach the summit.	0
+1220	A baby learns to walk.	A dead baby learns to walk.	2
+11337	A skillet browns potatoes.	A small skillet browns potatoes.	1
+9759	A law results oppression.	A lax law results oppression.	0
+7017	An apple is for dessert.	A transparent apple is for dessert.	0
+2480	You use wheat to do crafts.	You use normal wheat to do crafts.	1
+4005	A lady kisses a pig.	A former lady kisses a pig.	0
+3461	Telescopes sees distant objects.	Cosmic telescopes sees distant objects.	2
+6315	Carpeting is used in place of hardwood floors.	Industrial carpeting is used in place of hardwood floors.	1
+13962	Ice cools a person down.	Dead ice cools a person down.	0
+12638	A firefighter wants to put out fires.	A full-time firefighter wants to put out fires.	1
+4384	A piece is one part of something.	A possible piece is one part of something.	1
+12833	Music moves feelings.	Ethereal music moves feelings.	1
+6472	A sidewalk is for drawing with chalk on.	A common sidewalk is for drawing with chalk on.	0
+7453	Farmland is for planting crops.	Good farmland is for planting crops.	2
+10224	Stock is risky.	Plain stock is risky.	1
+4110	A pond is full of water.	A calm pond is full of water.	1
+12430	A farmer markets his crops.	A base farmer markets his crops.	1
+11634	Airports are full of people.	International airports are full of people.	2
+13012	A pike is sticking into soil.	A free pike is sticking into soil.	1
+2329	A bus transports many people at once.	A virtual bus transports many people at once.	2
+5718	A boundary is for keeping things in.	A disputed boundary is for keeping things in.	0
+15857	A criminal arms a bomb.	An evil criminal arms a bomb.	2
+7987	A timer is used to measure time, especially in cooking.	A busy timer is used to measure time, especially in cooking.	1
+1986	A revolver is for protection.	A double revolver is for protection.	1
+9998	A tack attaches paper to a bulletin board.	A different tack attaches paper to a bulletin board.	1
+6822	A monument is for honoring an event.	An equestrian monument is for honoring an event.	1
+8657	A technician fixes a cd player.	A virtual technician fixes a cd player.	1
+13182	Swimming is for aerobic exercise.	Excellent swimming is for aerobic exercise.	2
+8818	A veterinarian fixes a pet.	A talented veterinarian fixes a pet.	2
+15834	Cleaning is for removing dirt.	Manual cleaning is for removing dirt.	1
+4228	A detective wants to catch criminals.	A reverse detective wants to catch criminals.	0
+4194	A cloth is used for wiping.	A mobile cloth is used for wiping.	1
+2327	The reception has lots of food and drink.	The cellular reception has lots of food and drink.	2
+2649	Education opens doors in the mind.	False education opens doors in the mind.	0
+3892	A bed is for closing your eyes.	A historic bed is for closing your eyes.	0
+3990	A director is showing a screening.	An eponymous director is showing a screening.	1
+6880	Bob machines tools.	Wobbly bob machines tools.	0
+8395	A student studies classics.	A worthy student studies classics.	1
+15253	A rule is enforced by an authority.	An augmented rule is enforced by an authority.	1
+2468	The web is impressive.	The implicit web is impressive.	2
+1973	People have eyes.	New people have eyes.	1
+8267	A baker adds water to flour.	An original baker adds water to flour.	1
+15232	A lid covers a pot.	A proposed lid covers a pot.	1
+14750	A chef balls a piece of dough.	A fine chef balls a piece of dough.	1
+5684	You use a hoist to li.	You use a mobile hoist to li.	1
+12262	A fortune is for exchanging for something useful.	A non fortune is for exchanging for something useful.	0
+6825	A tack is for putting up posters.	A blue tack is for putting up posters.	1
+6972	A hand holds another hand.	A green hand holds another hand.	0
+14202	A cd is for recording music.	A potential cd is for recording music.	0
+586	A canvas is for using acrylics.	An ultra canvas is for using acrylics.	1
+13128	You use a prosthesis to replace lost limbs.	You use an orthopedic prosthesis to replace lost limbs.	1
+4280	Battery is used for charge.	Dumb battery is used for charge.	0
+12480	A soundstage is for making movies.	An ideal soundstage is for making movies.	1
+9411	An organ voices a reed stop.	A large organ voices a reed stop.	1
+8390	Fabric is for making curtains.	Virtual fabric is for making curtains.	1
+2599	A clip is for a kind of pace.	A stilted clip is for a kind of pace.	1
+4951	Gaze is used at boundaries of episodes.	Golden gaze is used at boundaries of episodes.	1
+3269	A spring bends easily.	A false spring bends easily.	0
+3010	Its player is proud.	Its so-called player is proud.	1
+927	Police cases a building.	Uncertain police cases a building.	1
+534	A reporter covers a story.	A seasoned reporter covers a story.	1
+3199	Dew is wet.	Foggy dew is wet.	1
+13218	A clip is for poodles.	An universal clip is for poodles.	1
+5529	A guest thanks a hostess.	A potential guest thanks a hostess.	1
+15412	You use a stall to take a break from work.	You use a due stall to take a break from work.	1
+11970	A groom walks a hot horse.	A base groom walks a hot horse.	1
+6530	A skylight brightens up a room.	An optional skylight brightens up a room.	0
+466	Mercury is poisonous.	Dental mercury is poisonous.	0
+10193	An arena is for performing a rock music concert.	A behavioral arena is for performing a rock music concert.	0
+1687	A sink is for washing the laundry.	An air-cooled sink is for washing the laundry.	1
+11595	Your head contains your brain.	Your mythical head contains your brain.	0
+8513	A writer is used for creating books.	A major writer is used for creating books.	1
+6855	An organism needs something.	An artificial organism needs something.	0
+6117	The deacon passes the plate.	The cardinal deacon passes the plate.	1
+10751	A leaf is for converting carbon dioxide to oxygen.	A dead leaf is for converting carbon dioxide to oxygen.	0
+13608	A kennel boards animals.	A rectangular kennel boards animals.	1
+11138	An account gains earnings from investment.	A hypothetical account gains earnings from investment.	0
+15929	Blood is made of haemogloin.	Initial blood is made of haemogloin.	1
+8353	Tobacco is smoked.	Dark tobacco is smoked.	1
+8786	A song is for expressing emotion in words and music.	A dead song is for expressing emotion in words and music.	0
+9092	A gate is for leaving the garden.	A false gate is for leaving the garden.	0
+11676	A nerve is for sending signals to the brain.	A good nerve is for sending signals to the brain.	1
+11196	Crack causes crack.	Simulated crack causes crack.	0
+14988	An actress furthers her career.	A big actress furthers her career.	2
+11725	You use a stone to break open a clam.	You use a dead stone to break open a clam.	1
+9706	A hostess welcomes guests.	A little hostess welcomes guests.	1
+738	The earth is comprised of 75% water.	The early earth is comprised of 75% water.	0
+8847	A highway is for riding a bus.	An express highway is for riding a bus.	1
+9489	Canvas is used by artist.	Virtual canvas is used by artist.	1
+9258	The sun dries almost everything.	The potential sun dries almost everything.	0
+12103	An island is for isolation.	A worth island is for isolation.	0
+3223	Cycling is healthy.	Everyday cycling is healthy.	2
+13902	A guitar is for playing chords.	A simulated guitar is for playing chords.	0
+10394	Weather looks beautiful.	Present weather looks beautiful.	1
+8546	Plumbing is for fitting taps to.	Open plumbing is for fitting taps to.	1
+3692	You use a bus to get around town.	You use a mythical bus to get around town.	0
+15027	Sleeping is for maintaining sanity.	Former sleeping is for maintaining sanity.	0
+1743	A fisherman bones a salmon.	A second fisherman bones a salmon.	1
+14554	A call is for a derivative financial instrument.	A disputed call is for a derivative financial instrument.	1
+5776	A rule is used for keeping order.	A proposed rule is used for keeping order.	1
+10797	A court is used for holding court.	A held court is used for holding court.	0
+6698	A bucket is used for carrying things.	A hydraulic bucket is used for carrying things.	1
+5605	A hand is for holding things.	A shaken hand is for holding things.	0
+1107	Water fills a reservoir.	Questionable water fills a reservoir.	0
+4539	A game is used for amusing oneself.	A potential game is used for amusing oneself.	0
+4860	Carbon likes nearly every other element.	Conductive carbon likes nearly every other element.	1
+16009	Science explains many things.	Theoretical science explains many things.	1
+2791	Wedding is for getting married.	Big wedding is for getting married.	1
+8943	A bike has 2 tires.	An odd bike has 2 tires.	1
+10543	You use a sprinkler to water a garden.	You use a percussive sprinkler to water a garden.	1
+13625	A wardrobe is used for dressing properly.	A virtual wardrobe is used for dressing properly.	0
+8244	A dam stills a river.	A new dam stills a river.	1
+5309	Grind means to rub against.	Like grind means to rub against.	0
+14142	An industry is for making a type of product.	A proprietary industry is for making a type of product.	1
+13788	A skater skateboards.	An average skater skateboards.	1
+14237	Dancing is for moving with music.	Casual dancing is for moving with music.	1
+4570	A tapestry is for reducing drafts in castles.	A majestic tapestry is for reducing drafts in castles.	1
+14297	A stock increases in value.	A counterfeit stock increases in value.	0
+2925	A mat is used for exercise.	A photographic mat is used for exercise.	1
+14230	Fungi like to grow in decaying matter.	Airborne fungi like to grow in decaying matter.	1
+3889	A master requires obedience.	A former master requires obedience.	0
+13776	You use a road to find your way.	You use a probable road to find your way.	1
+9855	A chimpanzee holds her baby.	A hypothetical chimpanzee holds her baby.	0
+11300	Clay is wet dirt.	Activated clay is wet dirt.	0
+13075	Animation draws attention.	Simple animation draws attention.	1
+4562	Bill meets bob.	Counterfeit bill meets bob.	0
+7010	A pencil is for note-taking.	An indelible pencil is for note-taking.	1
+14697	The effect of waiting is boredom.	The effect of aboriginal waiting is boredom.	1
+1689	A toilet is found in a hospice.	A separate toilet is found in a hospice.	1
+6147	A continent containbs several countries.	A seventh continent containbs several countries.	1
+4007	Anyone steal, lie, and cheat.	Sick anyone steal, lie, and cheat.	1
+4480	Hair has a protective function.	Wavy hair has a protective function.	1
+10206	You use wool to make yarn.	You use undyed wool to make yarn.	1
+7522	Hardware is good for making things.	Diagnostic hardware is good for making things.	1
+9637	Sometimes moisture causes damage.	Sometimes high moisture causes damage.	2
+14377	A painter views a portrait.	A sweet painter views a portrait.	1
+13279	A fool is more clever than a wise man.	A round fool is more clever than a wise man.	1
+1090	Water is boiled.	Sanitary water is boiled.	2
+9853	A painter does a painting.	A subject painter does a painting.	1
+6549	The pyromaniac burns the house for his pleasure.	The psychotic pyromaniac burns the house for his pleasure.	2
+15023	A candle is for creating mood.	A standard candle is for creating mood.	1
+3573	A backpack is useful for camping.	A transportable backpack is useful for camping.	2
+921	A fisherman rows a dory.	A wise fisherman rows a dory.	2
+14723	Food is spicy hot.	Novel food is spicy hot.	1
+7332	A letter is for expressing your feelings.	An autographed letter is for expressing your feelings.	1
+5230	Some counseling is false.	Some hypothetical counseling is false.	1
+10470	Romance is generally complicated.	Possible romance is generally complicated.	1
+6034	Sewing is for making clothes from cloth.	Particular sewing is for making clothes from cloth.	1
+191	One chooses to be happy or unhappy.	Appropriate one chooses to be happy or unhappy.	0
+15716	A ledger is for keeping track of expenditures.	A nominal ledger is for keeping track of expenditures.	1
+14586	A bishop is for religion.	A 14th bishop is for religion.	1
+15532	You use a string to tie things together.	You use a virtual string to tie things together.	0
+5107	A microwave heats food.	An artificial microwave heats food.	0
+14811	A carpenter trues planks.	A handsome carpenter trues planks.	1
+4096	A forest is used for cutting down and making paper.	A former forest is used for cutting down and making paper.	0
+1319	Typing is for writing a computer program.	Latent typing is for writing a computer program.	0
+14466	A monocle is used for correcting the vision in one eye.	A similar monocle is used for correcting the vision in one eye.	1
+6563	A flute is for making music.	A pretty flute is for making music.	1
+8002	A ship nears shore.	A swift ship nears shore.	1
+667	The government conditions that thought.	The expected government conditions that thought.	1
+4120	A family is compound of several members.	A pronged family is compound of several members.	1
+8583	An employee stocks store shelves.	A potential employee stocks store shelves.	0
+12370	A flower is symmetrical.	An artificial flower is symmetrical.	2
+13976	A password is used to access a host computer.	A right password is used to access a host computer.	2
+11033	A comforter is used for babies.	A second comforter is used for babies.	1
+12135	An immigrant longs for his homeland.	A legal immigrant longs for his homeland.	1
+2292	A pitcher holds iced tea.	A reliable pitcher holds iced tea.	1
+9003	Meat is for sale.	Artificial meat is for sale.	1
+2911	A lover touches tenderly.	A married lover touches tenderly.	1
+300	You use a banjo to perform music.	You use a mute banjo to perform music.	0
+559	You use a bomb to start a war.	You use a false bomb to start a war.	2
+4669	A gift is used for transferring ownership without a payment required.	An appropriate gift is used for transferring ownership without a payment required.	2
+337	A community schools their children.	A pacifistic community schools their children.	1
+2755	Cancer is very dangerous.	Transitional cancer is very dangerous.	1
+1636	You use a weapon to accidentally shoot the ones you love.	You use an additional weapon to accidentally shoot the ones you love.	2
+8957	A petitioner returns with petition granted.	A competent petitioner returns with petition granted.	2
+15127	Football is for exercising.	Fancy football is for exercising.	0
+9405	A company bottles water.	A fake company bottles water.	0
+10641	A computer starts computing.	A foreign computer starts computing.	1
+3693	A salon is for having your hair cut.	A rear salon is for having your hair cut.	1
+1222	Farmland is for putting horses to exercise.	Fertile farmland is for putting horses to exercise.	1
+14180	Tables are found in an eatery.	Virtual tables are found in an eatery.	0
+8668	Cotton is for threading.	Simple cotton is for threading.	1
+8984	A landmark is used for recognizing where you are.	A cultural landmark is used for recognizing where you are.	1
+15451	Chef butters bread.	Able chef butters bread.	1
+264	You use a landing to stop your fall downstairs.	You use a next landing to stop your fall downstairs.	1
+16006	A shelf is for storage.	A wooden shelf is for storage.	1
+11287	A person wins a race.	A fictitious person wins a race.	0
+9135	A hallway is used to move between rooms.	A narrow hallway is used to move between rooms.	1
+12218	An electrician fixes a dead connection.	A jobless electrician fixes a dead connection.	1
+4103	You use the internet to communicate.	You use the faulty internet to communicate.	0
+2858	A cup is for measuring.	A respectable cup is for measuring.	1
+3556	God loves.	Fictitious god loves.	1
+12435	Cream is used for the benefit of skin.	Powerful cream is used for the benefit of skin.	1
+5448	A file is used for orginazation of paperwork.	A red file is used for orginazation of paperwork.	1
+11356	Skiing is done in lesotho in winter.	Fantastic skiing is done in lesotho in winter.	1
+8149	A tap is for signalling.	An optical tap is for signalling.	1
+14193	You use a world to crush a man.	You use a future world to crush a man.	0
+10243	A bookcase is for keeping your favorite books.	A new bookcase is for keeping your favorite books.	1
+4773	An automobile is for travelling.	A hybrid automobile is for travelling.	1
+1956	Painting is for growth.	Future painting is for growth.	0
+10326	A pistol is dangerous.	A new pistol is dangerous.	1
+7385	You use a government to control people.	You use a communal government to control people.	1
+13756	Friendship is offered and must be honored.	False friendship is offered and must be honored.	0
+33	A hunter circles its prey.	A real hunter circles its prey.	2
+3210	An eatery is used for buying food.	An informal eatery is used for buying food.	1
+7339	An artist perfects her work of art.	An onetime artist perfects her work of art.	0
+15406	Wheat is baked into bread.	False wheat is baked into bread.	0
+5735	Information is used for acquiring knowledge.	Extra information is used for acquiring knowledge.	2
+6491	Nature is destructive.	Convincing nature is destructive.	1
+14918	A stick pokes your eye out.	A light stick pokes your eye out.	1
+5112	You use a sea to swim in.	You use a panoramic sea to swim in.	1
+2190	A siren sounds loud.	An electronic siren sounds loud.	1
+2897	Love destroys you.	Express love destroys you.	1
+15282	A crowbar forces a door open.	An enchanted crowbar forces a door open.	0
+14891	A ledger is used to keep a records of accounts.	A secondary ledger is used to keep a records of accounts.	1
+12691	Chain is used for chain.	Virtual chain is used for chain.	0
+7511	An apartment is for renting.	A low apartment is for renting.	1
+265	A kitty tears something with its claws.	A special kitty tears something with its claws.	1
+4131	A teacher explains the world.	A groomed teacher explains the world.	1
+984	A cup is for serving liquids.	A coral cup is for serving liquids.	1
+13358	Infidelity means shooting.	Financial infidelity means shooting.	1
+6844	A grill is used for barbecuing foods.	A hybrid grill is used for barbecuing foods.	1
+3091	A mind forms images.	A so-called mind forms images.	1
+3300	Corn is transported to the market.	Shelled corn is transported to the market.	1
+8168	You use a towel to dry your self.	You use a dispensable towel to dry your self.	1
+7389	A watch is for telling the date.	An awesome watch is for telling the date.	1
+11838	A dentist bridges the two teeth.	A great dentist bridges the two teeth.	1
+7106	A jar contains things like pickles or jam.	An oversized jar contains things like pickles or jam.	1
+1920	Buying something is for getting things you need.	Domestic buying something is for getting things you need.	1
+13566	An atom is made of nucleous and electrons.	An artificial atom is made of nucleous and electrons.	0
+13147	Skin is for allowing perspiration.	Extra skin is for allowing perspiration.	0
+8299	A tailor irons clothing.	A former tailor irons clothing.	0
+11199	A party is for celebrating your friends birthday.	A presumed party is for celebrating your friends birthday.	0
+6791	A horn is used for music.	A sonic horn is used for music.	1
+10342	A net is used for describing a price.	A small net is used for describing a price.	0
+11160	Hydrogen is made of subatomic particles.	Separate hydrogen is made of subatomic particles.	1
+2400	Sometimes grooming causes mistakes.	Sometimes low grooming causes mistakes.	2
+2603	A fox tails a rabbit in the woods.	An all-around fox tails a rabbit in the woods.	1
+12238	A warrior has honor.	A heroic warrior has honor.	2
+336	You use a finger to twist a bottle cap.	You use a hooked finger to twist a bottle cap.	1
+5044	Space separates two objects.	Virtual space separates two objects.	1
+10187	A mechanic oils a squeeky axle.	A second mechanic oils a squeeky axle.	1
+1371	A director chairs a meeting.	A false director chairs a meeting.	0
+1491	An umbrella may break in high wind.	A single umbrella may break in high wind.	1
+7879	Meat is for baiting traps.	Mock meat is for baiting traps.	1
+12491	Carpeting is for walking on.	Pink carpeting is for walking on.	1
+4810	A stage is for a drama.	An aerated stage is for a drama.	1
+11754	A party rings in the new year.	A high party rings in the new year.	1
+14703	A creek has runnign water in it.	A proverbial creek has runnign water in it.	0
+3782	You use a platform to dive from.	You use a virtual platform to dive from.	0
+6169	A book is used for learning about biology.	An energetic book is used for learning about biology.	1
+9802	A weapon terrorizes.	A mock weapon terrorizes.	0
+10716	A queen is for a country.	An extra queen is for a country.	1
+9702	A minibar is used for a limited stock of alcoholic beverages.	An electric minibar is used for a limited stock of alcoholic beverages.	1
+7957	Attention is drawn to something moving.	Potential attention is drawn to something moving.	1
+10944	A government forces citizens to comply.	An unified government forces citizens to comply.	1
+1484	A salon is for getting your hair colored.	An original salon is for getting your hair colored.	1
+3347	Paper flies in the wind.	Serial paper flies in the wind.	1
+15277	Clock is used for clock time.	Virtual clock is used for clock time.	1
+8711	A vat separates milk and cream.	A payable vat separates milk and cream.	1
+10068	The effect of cleaning is a change in surfaces.	The effect of happy cleaning is a change in surfaces.	1
+2241	A virus makes a computer malfunction.	An equine virus makes a computer malfunction.	0
+3248	A duvet is used for sleeping.	A comfy duvet is used for sleeping.	2
+12996	A factory is used for producing things.	A virtual factory is used for producing things.	0
+15846	A family branches out in many directions.	A fictional family branches out in many directions.	1
+10290	A photograph is used for preserving a memory.	A historic photograph is used for preserving a memory.	1
+25	An affair destroys a relationship.	An alleged affair destroys a relationship.	1
+8133	Singing is for cheering yourself up.	Evocative singing is for cheering yourself up.	2
+6975	An investigator is gathering facts.	A great investigator is gathering facts.	1
+10021	A house has a washing machine.	A historic house has a washing machine.	0
+865	A fence is used for enclosing a space.	A single fence is used for enclosing a space.	0
+12165	A diamond is rare and difficult to find.	A fashioned diamond is rare and difficult to find.	1
+4274	Humanity wants to live.	Modern humanity wants to live.	1
+11753	A clover is green.	A yellow clover is green.	0
+14716	You use a cake to celebrate.	You use an external cake to celebrate.	0
+5343	A sensor measures physical phenomenon.	A wearable sensor measures physical phenomenon.	1
+15090	Wool is used for making woollen clothing.	Possible wool is used for making woollen clothing.	1
+1947	You use a machine to dispense snacks.	You use a virtual machine to dispense snacks.	0
+8043	Glass withstands modest forces.	Former glass withstands modest forces.	0
+9739	A town is for containing townspeople.	A normal town is for containing townspeople.	1
+8017	Anxiety is common in a dentist's office.	Mild anxiety is common in a dentist's office.	1
+13150	Something that might happen as a consequence of climbing is sweating.	Something that might happen as a consequence of traditional climbing is sweating.	1
+2712	You use a stairwell to control fires.	You use a former stairwell to control fires.	0
+12097	A cooks cook food.	A great cooks cook food.	1
+4986	Paint coats a car.	Transparent paint coats a car.	1
+14309	A guide shows a tourist group a cathedral.	An alleged guide shows a tourist group a cathedral.	1
+10932	You use a barbecue to invite people over.	You use a political barbecue to invite people over.	1
+15750	An editor spots a misspelling.	A supposed editor spots a misspelling.	1
+8414	You use a metal to build a rocket.	You use a radioactive metal to build a rocket.	1
+9934	A harmonica is annoying.	A stunning harmonica is annoying.	0
+7410	Land is used for planting trees.	Sporty land is used for planting trees.	0
+7533	An archeologist dates an artifact.	A fictional archeologist dates an artifact.	0
+8934	A passenger is pushing the elevator buttons.	An unnamed passenger is pushing the elevator buttons.	1
+15765	A nose is used for breathing.	A round nose is used for breathing.	1
+12590	A handle helps you hold a telescope.	A dead handle helps you hold a telescope.	0
+7899	A mirror is found in a car.	A consistent mirror is found in a car.	1
+5248	You use a notebook to make lists.	You use a small notebook to make lists.	1
+13999	A stall is for holding cattle.	An idle stall is for holding cattle.	2
+15370	Fish analyses the social status of others.	Proportionate fish analyses the social status of others.	0
+8308	A robot is for making life easier.	An automated robot is for making life easier.	1
+5079	Hiking is for seeing the world.	Difficult hiking is for seeing the world.	1
+4512	A person wants to relax sometimes.	A meek person wants to relax sometimes.	1
+7810	Lubrication is made of water.	Active lubrication is made of water.	1
+13451	A contest involves a type of play.	A 70th contest involves a type of play.	0
+812	A pastor serves his congregation.	An executive pastor serves his congregation.	1
+14797	Weather is unpredictable.	Potential weather is unpredictable.	1
+4081	A column is cylindrical.	A metallic column is cylindrical.	1
+5377	A valley is low.	A through valley is low.	1
+4423	You use a statue to honor a veteran.	You use a tall statue to honor a veteran.	1
+7889	The lord guides you.	The 11th lord guides you.	1
+2508	You use a flute to play songs by ted nugent.	You use a historic flute to play songs by ted nugent.	1
+5297	Plutonium has a melting point of 639.5 deg.	Civil plutonium has a melting point of 639.5 deg.	0
+13539	Dovetail causes fit.	Axial dovetail causes fit.	0
+54	An audience laughs at a comedian's jokes.	A scientific audience laughs at a comedian's jokes.	1
+2085	An entryway is used for passage inward.	A tight entryway is used for passage inward.	1
+11992	A menu is for describing the wine selection.	A perfect menu is for describing the wine selection.	1
+1769	A virus mutates.	A mock virus mutates.	1
+2742	A fact destroys beliefs.	A virtual fact destroys beliefs.	1
+9658	The effect of dreaming is clearing the mind.	The effect of vivid dreaming is clearing the mind.	1
+8674	A salmon needs to spawn.	A dead salmon needs to spawn.	0
+5947	A joke breaks the silence.	A lame joke breaks the silence.	1
+9758	A diva wants to sing.	A like diva wants to sing.	0
+4767	A director makes a movie.	A federal director makes a movie.	0
+6227	Wool is used for pulling over the eyes.	Ultimate wool is used for pulling over the eyes.	1
+6593	Currency is used to purchase things.	Counterfeit currency is used to purchase things.	0
+11561	A bone breaks a tooth.	A sacral bone breaks a tooth.	1
+14754	Archaeology improves knowledge about past human societies.	Mythical archaeology improves knowledge about past human societies.	0
+4426	Diplomacy bridges differences.	Economic diplomacy bridges differences.	1
+1503	You use a ferry to travel between islands.	You use a slow ferry to travel between islands.	1
+459	You use a horse to ride.	You use a saddled horse to ride.	2
+10457	A child grows up.	An immunocompromised child grows up.	1
+14156	A hamster spins on a wheel.	A little hamster spins on a wheel.	1
+13934	File is used for organize.	Virtual file is used for organize.	1
+10903	You use a classroom to join a class.	You use a virtual classroom to join a class.	1
+5814	A baker rolls out dough.	An original baker rolls out dough.	1
+10829	A disease is used for filling hospitals.	A putative disease is used for filling hospitals.	1
+12870	A kitchen is for cooking lunch.	A fantastic kitchen is for cooking lunch.	1
+13352	A doll is used for studying anatomy.	A fine doll is used for studying anatomy.	1
+4230	A building is built with bricks.	A potential building is built with bricks.	1
+463	Crime often takes place in the street.	Alleged crime often takes place in the street.	1
+8227	Police hurries drivers.	Alleged police hurries drivers.	0
+13369	A sale is used for disposing of excess merchandise.	A referenced sale is used for disposing of excess merchandise.	0
+2713	You use a machine to combine.	You use an anesthetic machine to combine.	1
+12290	A bartender shakes a martini.	A gullible bartender shakes a martini.	1
+8286	A flask is used for hold wine.	A second flask is used for hold wine.	1
+13783	A call is for showing poker hands.	A fake call is for showing poker hands.	1
+16033	A trombone is for wagnerian brass sections.	A rusty trombone is for wagnerian brass sections.	1
+4102	A sprinkler waters the lawn.	A residential sprinkler waters the lawn.	1
+13614	A ranch is for vacation.	A small ranch is for vacation.	1
+9742	Garlic is used as a spice in food.	Crushed garlic is used as a spice in food.	1
+6331	A platform is used for supporting things above the ground.	A striking platform is used for supporting things above the ground.	1
+10997	A recipient thanks a gift giver.	A possible recipient thanks a gift giver.	0
+9257	An acre contains 43, 560 square feet.	A cultivated acre contains 43, 560 square feet.	1
+4627	A pirate sails a pirateship.	An old pirate sails a pirateship.	1
+10620	A piece is used for a puzzle.	A sylvan piece is used for a puzzle.	1
+7341	A list is for ordering things.	A future list is for ordering things.	0
+535	A gardener waters the roses.	An experienced gardener waters the roses.	1
+6642	A council is for performing some task.	An erstwhile council is for performing some task.	1
+3234	You use a necktie to strangle a man.	You use an abandoned necktie to strangle a man.	1
+3765	You use a rod to punish your children.	You use a noted rod to punish your children.	1
+6090	You use a fork to eat your vegetables.	You use an exclusive fork to eat your vegetables.	0
+385	An actor cakes on make-up.	A social actor cakes on make-up.	1
+11459	A balloon is for popping.	A coated balloon is for popping.	0
+4528	Action causes change.	Alternate action causes change.	1
+3811	John is going out.	Big John is going out.	1
+14842	A horse is for horse racing.	A pathetic horse is for horse racing.	0
+15186	The lawyer clears him of all charges.	The former lawyer clears him of all charges.	0
+13037	English are funny.	Good english are funny.	1
+15205	Intoxication clouds your thoughts.	Legal intoxication clouds your thoughts.	0
+252	A tree provides shelter.	A select tree provides shelter.	1
+13164	A climber nears the top.	A former climber nears the top.	1
+2715	A canoe is for fishing.	A wooden canoe is for fishing.	1
+3634	A metal is for building many things.	A false metal is for building many things.	0
+11839	A fan cools a hot room.	A sonic fan cools a hot room.	0
+2567	You use a boulevard to take a walk.	You use a former boulevard to take a walk.	1
+8491	A patio is used for sitting outside.	A friendly patio is used for sitting outside.	1
+8962	You use a cake to eat.	You use a fancy cake to eat.	1
+733	A protagonist wrongs a right.	A young protagonist wrongs a right.	1
+6151	A jury sometimes decides whether someone lives or dies.	A struck jury sometimes decides whether someone lives or dies.	0
+853	Tobacco is smoked.	Simulated tobacco is smoked.	0
+4036	Carpeting is for floors.	Dead carpeting is for floors.	0
+15178	A gun is used to shoot things.	A mock gun is used to shoot things.	0
+13070	A tooth is used for keeping dentists in business.	A formative tooth is used for keeping dentists in business.	1
+5653	A net is used for describing a weight.	A virtual net is used for describing a weight.	0
+14905	Dancing is for celebration.	Southern dancing is for celebration.	1
+10246	The effect of dancing is exhilerating.	The effect of wireless dancing is exhilerating.	0
+2681	Paper is recycled.	Virgin paper is recycled.	0
+14991	Drinking is for pleasure.	Normal drinking is for pleasure.	1
+14854	Military arms soldiers.	National military arms soldiers.	1
+3331	A drug is for taking.	An illicit drug is for taking.	1
+13609	You use a duvet to keep warm.	You use a top duvet to keep warm.	1
+10597	You use a bar to meet people.	You use a fibrous bar to meet people.	0
+9161	You use a finger to transfer moisture.	You use a former finger to transfer moisture.	0
+10032	A president ducks out of dull parties.	A past president ducks out of dull parties.	1
+2250	Plastic is derived from milk.	Porous plastic is derived from milk.	1
+15727	Marijuana eases chonic pain.	Medicinal marijuana eases chonic pain.	1
+11222	A surface is for a counter.	A washable surface is for a counter.	2
+6735	An egg is for rolling on the white house lawn.	A simulated egg is for rolling on the white house lawn.	0
+316	The team rows faster than their competition.	The virtual team rows faster than their competition.	1
+13940	A sailor wants wind.	A lone sailor wants wind.	1
+14590	You use a mineral to make jewelery.	You use a possible mineral to make jewelery.	1
+3026	A situation angers a human.	An uncertain situation angers a human.	2
+12138	A teenager listens to rock music.	A skinny teenager listens to rock music.	1
+7951	A sign is for giving information to the public.	A historic sign is for giving information to the public.	1
+12156	Cash is used to purchase things.	Future cash is used to purchase things.	1
+2716	Jealousy distances friends.	Mistaken jealousy distances friends.	1
+574	Paint is for painting.	Resistant paint is for painting.	1
+15882	A lock is used for security.	A worn lock is used for security.	0
+15192	You use a gift to please someone.	You use an extra gift to please someone.	1
+11764	A hamster burrows.	A related hamster burrows.	1
+5649	You use a role to act.	You use an unspecific role to act.	1
+1969	A ring is for uniting two items.	A single ring is for uniting two items.	2
+13262	A campfire starts a bushfire.	An outside campfire starts a bushfire.	1
+11928	Quartz is used in watches.	Shocked quartz is used in watches.	0
+13131	A desk is found in a school.	A secretarial desk is found in a school.	1
+9815	A blowtorch is used for lighting fires.	A similar blowtorch is used for lighting fires.	1
+3985	You use a pad to write on.	You use a virtual pad to write on.	1
+15938	A tiger jumps though hoops.	A sabre-toothed tiger jumps though hoops.	1
+5512	A saddle is for riding a mule.	A standard saddle is for riding a mule.	1
+3849	A suitcase is used for casing suits.	A wheeled suitcase is used for casing suits.	1
+13434	A challenge proves to be difficult.	A repeated challenge proves to be difficult.	0
+7621	Fencing is for erecting a division on some land.	Conventional fencing is for erecting a division on some land.	1
+14617	A monkey wants to eat a banana.	A dead monkey wants to eat a banana.	0
+5849	Someone will often read a paper.	Someone hypothetical will often read a paper.	0
+6390	A nail is hit by a hammer.	A next nail is hit by a hammer.	0
+14987	Silk is for making boxer shorts.	Artificial silk is for making boxer shorts.	1
+2886	A cook bones a cooked chicken.	An average cook bones a cooked chicken.	1
+2985	Petrol drops in price.	Unbranded petrol drops in price.	1
+10806	A stamp is put on an envelope.	A counterfeit stamp is put on an envelope.	0
+1565	You use carpeting to cover a floor.	You use new carpeting to cover a floor.	2
+15956	Pay is earned by people.	Likely pay is earned by people.	0
+8104	A leader schools us in the fine points.	A historic leader schools us in the fine points.	1
+8988	A politician wants to win elections.	A national politician wants to win elections.	1
+12182	Carpeting is for utility.	New carpeting is for utility.	1
+3746	Intimacy is incompatible with workaholism.	Former intimacy is incompatible with workaholism.	0
+3141	A community trades services for money.	A liturgical community trades services for money.	1
+14171	A gossip spreads a rumor.	An unauthorized gossip spreads a rumor.	1
+11711	A garden is for growing food.	A sustainable garden is for growing food.	1
+6851	A dish is used for eating off.	A prepared dish is used for eating off.	1
+9039	An idea drives a revolution.	An uncertain idea drives a revolution.	0
+1748	A butterfly has wings.	A little butterfly has wings.	2
+2765	Calculus is difficult.	Complex calculus is difficult.	1
+7278	A christian rebels.	A rational christian rebels.	0
+13394	A stall is for containing a horse.	A disabled stall is for containing a horse.	0
+10708	A dentist bridges a gap in teeth.	A general dentist bridges a gap in teeth.	1
+2702	Some typeface is bold.	Some right typeface is bold.	1
+11804	A revolutionary frees a country.	A dead revolutionary frees a country.	1
+9000	Knowledge seeds ideas.	Conscious knowledge seeds ideas.	1
+12110	The president is arriving in los angeles.	The assistant president is arriving in los angeles.	1
+1623	You use an arm to push people further away.	You use a virtual arm to push people further away.	0
+13670	Space has zero pressure.	Likely space has zero pressure.	0
+5884	You use a kingdom to do great things.	You use a future kingdom to do great things.	0
+5119	Judiciary is for interpreting law.	Military judiciary is for interpreting law.	1
+13642	Something that might happen as a consequence of shopping is you run out of money.	Something that might happen as a consequence of frugal shopping is you run out of money.	0
+11027	A glass is clean.	A tasty glass is clean.	0
+14737	Television is informative.	Virtual television is informative.	0
+9604	The universe has been constructed.	The future universe has been constructed.	0
+12456	A bean is for using as a marker.	A red bean is for using as a marker.	1
+8515	Sunlight ages newsprint.	Soft sunlight ages newsprint.	0
+4868	An album is for storing photos.	A virtual album is for storing photos.	1
+14274	A child states the obvious.	A dead child states the obvious.	0
+3923	A vessel has multiple meanings.	An obsolescent vessel has multiple meanings.	1
+9290	The effect of reading is knowing.	The effect of volitional reading is knowing.	1
+7764	You use a sky to feel the wind.	You use an exceptional sky to feel the wind.	1
+885	A backyard is for children to play in.	A gorgeous backyard is for children to play in.	1
+2372	A witness states the facts.	A true witness states the facts.	2
+1163	A pencil contains graphite not lead.	A colored pencil contains graphite not lead.	1
+10055	Reality is for losers.	Dubious reality is for losers.	0
+324	You use a loft to store hay.	You use a cozy loft to store hay.	1
+15480	An outfit is made of clothes.	A handsome outfit is made of clothes.	1
+13181	You use an entrance to go in.	You use a fake entrance to go in.	0
+12664	Calculator calculate.	Revolutionary calculator calculate.	0
+2053	A van carries camping gear.	An expensive van carries camping gear.	1
+496	You use an arena to compete.	You use a main arena to compete.	1
+14435	My honey lasts all night.	My processed honey lasts all night.	1
+1634	A lawyer states the case.	A constitutional lawyer states the case.	1
+11681	An arm is used for a fulcrum.	A multiply arm is used for a fulcrum.	0
+15134	You use a fur to make a furcoat.	You use a fake fur to make a furcoat.	1
+15849	An entryway is for providing an exit from a room.	A busy entryway is for providing an exit from a room.	1
+5081	Game is played.	Parliamentary game is played.	0
+10336	Telephones is annoying.	Short telephones is annoying.	0
+798	A museum is for educating the public.	A national museum is for educating the public.	1
+4588	Snowfall is measured in inches in america.	Major snowfall is measured in inches in america.	2
+10204	A psychiatrist helps a manic-depressive.	A questionable psychiatrist helps a manic-depressive.	0
+6382	A thoroughfare is used for transportation.	A major thoroughfare is used for transportation.	2
+6628	Truth frees the mind.	Invariable truth frees the mind.	2
+3236	A hose has a vacant core.	A likely hose has a vacant core.	1
+5061	A boulevard is used for travel.	A four-lane boulevard is used for travel.	1
+8809	Jealousy destroys a relationship.	Lifelong jealousy destroys a relationship.	2
+9446	A comb is used for neat hair.	A pale comb is used for neat hair.	1
+13381	A couple goes out.	A suburban couple goes out.	1
+14140	Humor is subjective.	Good humor is subjective.	1
+636	You use a comb to comb your hair.	You use a drawn comb to comb your hair.	0
+977	Gasoline is less dense than water.	Leaded gasoline is less dense than water.	1
+9655	A stitch is used to make a quilt.	An attractive stitch is used to make a quilt.	1
+12843	A scapegoat shoulders the blame.	An useful scapegoat shoulders the blame.	1
+10465	A mill is for crushing.	A mental mill is for crushing.	0
+14365	A highway is for facilitating the movement of goods.	A dual highway is for facilitating the movement of goods.	1
+10271	You use a club to beat things.	You use a secular club to beat things.	1
+13732	A server forwards mail.	A probable server forwards mail.	0
+6937	A plane gains altitude.	A presumed plane gains altitude.	1
+12166	Some typeface is bold.	Some desired typeface is bold.	1
+7035	A fee is charged on a toll road.	A possible fee is charged on a toll road.	1
+4567	Skating is for playing hockey.	Synchronized skating is for playing hockey.	0
+6814	A disease is used for power.	A recognized disease is used for power.	1
+1698	Water is used for cooking.	Past water is used for cooking.	0
+14289	A farmer weeds out weeds.	A small farmer weeds out weeds.	1
+7024	A student voices dissent.	An attractive student voices dissent.	1
+4403	Bodies are unique.	Constitutional bodies are unique.	1
+4472	A queen is for a king.	A former queen is for a king.	0
+5911	A tailor dresses a man.	A popular tailor dresses a man.	1
+10082	Ideology changes a society.	Twisted ideology changes a society.	1
+10099	Vegetables are grown to use for food.	Dark vegetables are grown to use for food.	1
+7328	A patient waits in the lobby.	A presumed patient waits in the lobby.	1
+6439	A manufacturer is making wonderful widgets.	A new manufacturer is making wonderful widgets.	1
+9219	A token is used for subway ride.	A revised token is used for subway ride.	1
+8492	A hall is used for meetings.	An online hall is used for meetings.	1
+2312	Cream makes your skin smooth.	Salted cream makes your skin smooth.	1
+3084	Corn is for cleansing of the colon.	Fine corn is for cleansing of the colon.	1
+15585	Sometimes surfing causes getting wet.	Sometimes unlimited surfing causes getting wet.	1
+3233	A memo is for pasing on information.	A verbal memo is for pasing on information.	1
+15005	A puzzle is for mental stimulation.	A third puzzle is for mental stimulation.	1
+7098	War destroys property.	Impossible war destroys property.	0
+8864	Bread is for baking.	Consecrated bread is for baking.	1
+1114	Work oftens by enjoyable.	Intervening work oftens by enjoyable.	1
+133	The air contains oxygen, nitrogen and carbon dioxide.	The false air contains oxygen, nitrogen and carbon dioxide.	0
+10562	A diamond is used for jewelry.	A blue diamond is used for jewelry.	1
+8806	Jewelry is for attracting muggers.	Fake jewelry is for attracting muggers.	0
+10680	A town is for social interaction.	A sleepy town is for social interaction.	0
+5569	An umbrella is for staying dry.	A popular umbrella is for staying dry.	1
+11290	Infidelity divides spouses.	Financial infidelity divides spouses.	1
+6293	You use a stairwell to place landings.	You use a fine stairwell to place landings.	1
+12155	You use an oven to burn.	You use a compact oven to burn.	1
+4754	You use a cemetery to collect data on your dead ancestors.	You use a virtual cemetery to collect data on your dead ancestors.	1
+2425	Your ribs are found in your chest.	Your previous ribs are found in your chest.	0
+15442	A file is for helping you to remember things.	A dependent file is for helping you to remember things.	1
+6440	Waste is put in the bin.	False waste is put in the bin.	0
+3059	Some illnesses is cured thanks to modern medicine.	Some related illnesses is cured thanks to modern medicine.	1
+15185	A menu is for ordering food.	A key menu is for ordering food.	0
+12212	A ledger is used for listing items.	An electronic ledger is used for listing items.	1
+3019	War is caused by greed.	Common war is caused by greed.	1
+5462	A cello is used to make music.	A solo cello is used to make music.	1
+953	A detective follows a suspect.	A bright detective follows a suspect.	2
+13080	You use a science to understand life.	You use a theoretical science to understand life.	1
+6121	Cooking is for relaxation.	Waterless cooking is for relaxation.	1
+2015	A plane crashes.	A main plane crashes.	1
+3344	A bean is for filling a bag.	A technical bean is for filling a bag.	1
+13572	A recipe lists ingredients.	A homely recipe lists ingredients.	1
+9857	One recycles some plastics.	Likely one recycles some plastics.	1
+6728	Some patterns are floral.	Some current patterns are floral.	1
+14623	A collectible completes a collection.	A future collectible completes a collection.	0
+3228	You use an adjective to describe a noun.	You use a redundant adjective to describe a noun.	1
+12093	An election may require a run-off.	A disputed election may require a run-off.	2
+2883	A word means more than one thing.	A discouraging word means more than one thing.	1
+12425	A handicap evens the odds.	A new handicap evens the odds.	1
+3070	The mayor presents an award.	The new mayor presents an award.	1
+10487	A gate allows selected people to pass by.	A mute gate allows selected people to pass by.	0
+6651	A hunter lands a wild animal.	A swift hunter lands a wild animal.	2
+16087	An actor plays a part.	A dead actor plays a part.	0
+5066	A visitor lets the cat out.	A dear visitor lets the cat out.	1
+8320	Sometimes hate causes violence.	Sometimes antisemitic hate causes violence.	1
+4758	Manganese has a silvery metallic colour.	High manganese has a silvery metallic colour.	1
+2441	The printer is for handicapped, lazy, and fat people.	The wireless printer is for handicapped, lazy, and fat people.	1
+7774	A flight goes to austin.	A suspicious flight goes to austin.	1
+3933	An audience is found at a concert.	A respectable audience is found at a concert.	1
+717	A hose is for transporting water.	A false hose is for transporting water.	0
+4303	A homeowner gardens a flower bed.	A nearby homeowner gardens a flower bed.	1
+12168	You use a study to learn things.	You use a physiologic study to learn things.	1
+9353	You use a barbecue to cook hot dogs.	You use a free barbecue to cook hot dogs.	1
+8993	A seat is for filling out the pants.	An inflatable seat is for filling out the pants.	0
+1964	Copper is one of the most important metals.	Bare copper is one of the most important metals.	1
+10036	A river is used for dumping toxic waste.	A long river is used for dumping toxic waste.	1
+11182	You use a manipulator to make things easy.	You use an articulated manipulator to make things easy.	1
+12821	A handgun is for police use.	A primary handgun is for police use.	1
+15586	An exporter ships merchandise.	A foreign exporter ships merchandise.	1
+15408	You use a classroom to teach children.	You use an inclusive classroom to teach children.	1
+709	A chef quarters an apple.	A top chef quarters an apple.	1
+2536	Tape fixes sloppy edges.	Virtual tape fixes sloppy edges.	0
+2387	The stomach digests itself.	The gassy stomach digests itself.	1
+7675	A suitcase is for throwing at people.	An original suitcase is for throwing at people.	1
+4385	A sword has a sharp edge.	A two-handed sword has a sharp edge.	1
+7530	A judge presents a contestant with a prize.	A little judge presents a contestant with a prize.	1
+2339	A friend is someone you can trust.	A fair friend is someone you can trust.	2
+14747	A toothpick is for getting shrimp off of a tray.	A reusable toothpick is for getting shrimp off of a tray.	1
+10886	You use a lady to win over a jack.	You use a dead lady to win over a jack.	0
+12387	You use vinyl to replace the siding on a house.	You use expandable vinyl to replace the siding on a house.	1
+108	A dollar is used for shopping.	A half dollar is used for shopping.	1
+13260	You use a stairwell to safety during fires.	You use a public stairwell to safety during fires.	1
+7658	You use a drug to cure some diseases.	You use a possible drug to cure some diseases.	0
+4118	A trumpet is solid.	A former trumpet is solid.	1
+9839	A key is inserted into a lock.	A binary key is inserted into a lock.	1
+5445	John fancies sally.	Nude John fancies sally.	1
+13293	You use a monkey to get children offguard.	You use a dead monkey to get children offguard.	0
+15894	An executive pages a co-worker.	An accountable executive pages a co-worker.	1
+11137	Talk is essential in reaching tentative agreements.	Unsuccessful talk is essential in reaching tentative agreements.	0
+11103	A hose is for watering the garden.	An intended hose is for watering the garden.	1
+920	A tack is used for hanging up a childs artwork.	A different tack is used for hanging up a childs artwork.	1
+14211	The internet contains lots of information.	The simulated internet contains lots of information.	1
+15364	Ivy is found in a forest.	Delicate ivy is found in a forest.	1
+5961	A baker wants good quality ingredients.	A good baker wants good quality ingredients.	2
+11417	Yogurt has bacteria in it.	Regular yogurt has bacteria in it.	1
+11736	A snake slithers down the street.	A western snake slithers down the street.	1
+9245	My mom presses my shirt.	My free mom presses my shirt.	1
+11500	The clerk closes the account.	The regular clerk closes the account.	1
+3953	A refill is for iced tea.	A favorite refill is for iced tea.	1
+11194	A stool is used for climbing.	A former stool is used for climbing.	0
+9197	A landmark is for noticing.	A trackable landmark is for noticing.	1
+2576	A council is used for decision making.	A quarrelsome council is used for decision making.	0
+14133	Skin feels heat.	Sore skin feels heat.	1
+6635	A voice is for being heard.	A simulated voice is for being heard.	1
+11698	The robber cases the target.	The alleged robber cases the target.	1
+11437	Banks are run by people.	Former banks are run by people.	0
+15264	A floor is covered with carpet.	A 5th floor is covered with carpet.	1
+7497	Alcohol burns.	Soluble alcohol burns.	1
+15124	A tourist asks directions.	A happy tourist asks directions.	2
+3387	You use a puck to score a goal in hockey.	You use a flexible puck to score a goal in hockey.	1
+9028	A soldier is for operating military equipment.	An uniform soldier is for operating military equipment.	1
+4161	A crew mans the ship.	A third crew mans the ship.	1
+773	A day is ending when the sun goes down.	A leisurely day is ending when the sun goes down.	1
+12862	A comb is for styling hair.	A fine-tooth comb is for styling hair.	1
+517	Bits are promiscuous.	Fallen bits are promiscuous.	1
+4814	Paint is used on canvas,.	Liquid paint is used on canvas,.	1
+1860	A jellyfish is found in the ocean.	An immortal jellyfish is found in the ocean.	0
+9044	Meat is for animals to eat.	Smoked meat is for animals to eat.	0
+6337	Interest is compounded or.	Mistaken interest is compounded or.	0
+13340	News is printed on papers.	Additional news is printed on papers.	1
+530	An adult hands a toy to a child.	An interested adult hands a toy to a child.	1
+7442	You use a bed to sit on.	You use a noble bed to sit on.	1
+6313	A barn is for keeping animals.	A 18th barn is for keeping animals.	1
+5232	A map is for handy reference.	A weighted map is for handy reference.	1
+10985	A prince is considered royal.	A 3rd prince is considered royal.	1
+2041	Learning is very very nice.	Selective learning is very very nice.	0
+4523	A juror is expected to not dress too informally.	An original juror is expected to not dress too informally.	1
+10961	Good is for destroying evil.	Chief good is for destroying evil.	1
+5376	An attorney represents you in a lawsuit.	A former attorney represents you in a lawsuit.	0
+13088	You use an attic to store things you are not using.	You use an unconditioned attic to store things you are not using.	0
+4648	You use cash to pay somebody.	You use spare cash to pay somebody.	1
+1123	Morphine is addictive.	Free morphine is addictive.	1
+4012	A consumer saves money.	A protected consumer saves money.	1
+4495	Cloth is shipped in lots.	Grayish cloth is shipped in lots.	1
+11039	A wristwatch is used for awareness of time.	A cardiac wristwatch is used for awareness of time.	0
+5927	You use a bean to make furniture.	You use a false bean to make furniture.	1
+11517	A ticket is for proof of purchase.	A virtual ticket is for proof of purchase.	1
+13971	A pacifier quiets a baby.	A medical pacifier quiets a baby.	1
+8189	An organ is one kind of keyboard instrument.	A whole organ is one kind of keyboard instrument.	1
+4973	Carpeting is used to cover bare floors.	Auxiliary carpeting is used to cover bare floors.	1
+5215	The effect of intimacy is affection.	The effect of mental intimacy is affection.	1
+11632	Quality is reliable.	Disappointing quality is reliable.	0
+15411	You use a saucepan to cook with.	You use a heavy saucepan to cook with.	1
+15662	You use a machine to kill.	You use a hybrid machine to kill.	1
+5645	Energy is necessary for life.	Potential energy is necessary for life.	1
+15228	A handgun is for shooting people.	An unsafe handgun is for shooting people.	0
+13304	A sheet is for sale on the internet.	A virtual sheet is for sale on the internet.	1
+8838	You use a cloud to oscure.	You use a high cloud to oscure.	1
+15837	You use a skylight to let in light.	You use an additional skylight to let in light.	1
+9357	An army mines a battlefield.	A former army mines a battlefield.	0
+10189	A tooth is used for putting under a pillow.	A possible tooth is used for putting under a pillow.	0
+752	You use a tool to drill a hole.	You use a total tool to drill a hole.	1
+7773	You use a sail to power a sailboat.	You use a set sail to power a sailboat.	1
+5276	A dollar is used for buying a lottery ticket.	A current dollar is used for buying a lottery ticket.	0
+9176	You use a letter to make an invitation.	You use a professional letter to make an invitation.	2
+13673	You use a spoon to eat ice cream.	You use a femoral spoon to eat ice cream.	0
+15611	A prisoner attempts an escape.	An ill prisoner attempts an escape.	0
+3532	A stethoscope is used to see if the person is dead.	An electronic stethoscope is used to see if the person is dead.	1
+13935	A pouch is for holding a baby kangaroo.	A soft pouch is for holding a baby kangaroo.	1
+14112	A celebrity is associated with photographers.	A washed-up celebrity is associated with photographers.	0
+11221	You use a bookend to stop books falling off.	You use an antique bookend to stop books falling off.	1
+14222	A coffin is found in a cemetary.	A wrong coffin is found in a cemetary.	1
+118	The temperature is droping rapidly.	The operational temperature is droping rapidly.	1
+15057	A motel is for sleeping overnight when away from home.	A former motel is for sleeping overnight when away from home.	1
+15060	A counter is for counting disintegrations.	A backward counter is for counting disintegrations.	1
+8859	A christian fail.	A rational christian fail.	1
+8946	A mandolin is for kentucky hills music.	A new mandolin is for kentucky hills music.	1
+6276	A lens is for building into microscopes.	A virtual lens is for building into microscopes.	0
+11198	A customer demands a check.	A potential customer demands a check.	0
+9985	Soil is one kind of earth.	Retentive soil is one kind of earth.	1
+199	The sidewalk is sticky.	The artificial sidewalk is sticky.	0
+8144	Sometimes shopping causes calluses.	Sometimes major shopping causes calluses.	1
+6950	You use a plastic to make a spork.	You use a gold plastic to make a spork.	0
+8293	A channel is used for moving water and floating things.	A metallic channel is used for moving water and floating things.	1
+11765	Cotton is used for making fabrics.	Colorful cotton is used for making fabrics.	1
+11729	A system is for doing something.	An obstetric system is for doing something.	0
+7888	A lathe is used to alter the shape of oak wood.	A very lathe is used to alter the shape of oak wood.	0
+5186	A judge fines the accused.	A single judge fines the accused.	1
+2654	An ear is for insering an ear plug.	An unilateral ear is for insering an ear plug.	0
+11822	A farmer gathers cropsa.	An organic farmer gathers cropsa.	1
+11686	A shore is next to the sea.	A celestial shore is next to the sea.	1
+5015	An army rises up.	A virtual army rises up.	0
+11134	A fortune is for giving away.	A multiple fortune is for giving away.	1
+7039	A story begins when someone starts telling it.	A remarkable story begins when someone starts telling it.	1
+13922	A company markets a product.	A bright company markets a product.	1
+624	Fitness is for a better life.	Potential fitness is for a better life.	1
+13016	Garlic seasons food.	Purple garlic seasons food.	1
+8063	A chef butters the pastries.	A former chef butters the pastries.	1
+3828	You use cotton to make cloth.	You use likely cotton to make cloth.	1
+7829	A christian is forgiven.	A good christian is forgiven.	2
+5644	A friend needles you.	A potential friend needles you.	1
+8662	A knife is used for decorating a cake.	A hidden knife is used for decorating a cake.	0
+15091	A graveyard is for burying dead creatures.	An old graveyard is for burying dead creatures.	1
+8346	You use a telephone to communicate.	You use a standard telephone to communicate.	1
+12511	A boss pages an employee.	A pyramidal boss pages an employee.	1
+4236	A comb has many teeth.	A thick comb has many teeth.	1
+4098	A trumpet  is made of brass.	An uplifted trumpet  is made of brass.	1
+15614	Cotton is for sewing.	Heavy-duty cotton is for sewing.	2
+5026	Politicians legislates.	Involved politicians legislates.	1
+10106	A plant is suffering dehydration.	A simulated plant is suffering dehydration.	0
+9903	A saloon is for playing cards.	A famous saloon is for playing cards.	1
+14124	A mechanic conditions an engine.	A retired mechanic conditions an engine.	1
+5638	A species has a common set of ancestors.	A likely species has a common set of ancestors.	1
+10328	A sheet is for ku klux klan uniforms.	A holographic sheet is for ku klux klan uniforms.	0
+8591	President offers pardon.	Disputed president offers pardon.	1
+2296	A sidewalk is for riding skateboards.	An artificial sidewalk is for riding skateboards.	0
+9505	The army arms a man.	The so-called army arms a man.	1
+12333	A table has legs.	A foldable table has legs.	1
+12090	A mouse rings a bell.	A dead mouse rings a bell.	0
+7357	A guard mans a station.	A former guard mans a station.	0
+8709	Fur is used for making clothes.	Natural fur is used for making clothes.	1
+5899	The effect of terrorism is death.	The effect of pursuing terrorism is death.	1
+3951	A plant flowers in spring time.	A simulated plant flowers in spring time.	0
+12605	You use god to justify hate.	You use fake god to justify hate.	1
+3356	Something that might happen as a consequence of drinking is the body becomes rehydrated.	Something that might happen as a consequence of professional drinking is the body becomes rehydrated.	0
+12338	The effect of playing is feeling happy.	The effect of likely playing is feeling happy.	0
+11245	Gold is melted.	Looted gold is melted.	1
+9317	You use a passageway to travel from one place to another.	You use an alleged passageway to travel from one place to another.	1
+8453	A bean is for bean and garlic sauce.	A fake bean is for bean and garlic sauce.	0
+4436	A bass is used for a rock and roll band.	A much bass is used for a rock and roll band.	0
+3894	The tip is glowing.	The artificial tip is glowing.	1
+14101	You use a weapon to hurt someone.	You use a slow weapon to hurt someone.	1
+2244	A professional cleans your goose.	A young professional cleans your goose.	1
+3705	A stylus is used to write on a clay tablet.	A virtual stylus is used to write on a clay tablet.	0
+9471	The effect of sleeping is refreshment.	The effect of rough sleeping is refreshment.	0
+10107	Organizations have members.	Front organizations have members.	1
+12581	A passenger books a flight reservation.	A drunk passenger books a flight reservation.	1
+11664	A john is for defecating.	A big john is for defecating.	1
+2385	One advertises one's business services.	Counterfeit one advertises one's business services.	0
+1963	An eye is used for looking.	A false eye is used for looking.	2
+2833	A ball is used to play golf.	A base ball is used to play golf.	0
+12722	Some property is owned by the federal government.	Some historic property is owned by the federal government.	1
+14078	An army is for protection.	A democratic army is for protection.	1
+15737	A story begins in the morning.	A choral story begins in the morning.	1
+16070	A disk is round and flat.	A high-speed disk is round and flat.	1
+8982	A leader is for being the first to do something.	A flexible leader is for being the first to do something.	1
+1912	Jasmine buys her dress at the store.	Romantic jasmine buys her dress at the store.	0
+3153	A doorway is used for entry.	A large doorway is used for entry.	1
+13649	To feed means to take food.	To electrical feed means to take food.	0
+9938	You use a heater to heat the room.	You use a flat heater to heat the room.	0
+9433	A vineyard bottles wine.	A first-class vineyard bottles wine.	2
+14262	A saw cuts wood and other materials.	A hot saw cuts wood and other materials.	0
+12317	A grocer is for selling food.	An organic grocer is for selling food.	1
+8900	You use a bowl to hold fruit.	You use a conical bowl to hold fruit.	1
+9160	A clown acts foolish.	A potential clown acts foolish.	1
+9569	Pork is forbidden by judaism and islam.	Red pork is forbidden by judaism and islam.	1
+6465	Loneliness is made of emotion.	Miserly loneliness is made of emotion.	1
+12000	The effect of stigma is work problems or discrimination.	The effect of primary stigma is work problems or discrimination.	1
+13187	Love lasts a life time.	Unfeasible love lasts a life time.	0
+7724	You use a foyer to take off shoes.	You use a mirrored foyer to take off shoes.	1
+4743	You use a ring to rule them all.	You use a rigid ring to rule them all.	1
+14064	A season is one fourth of a year.	A presidential season is one fourth of a year.	0
+10087	Racism is bad.	Southern racism is bad.	1
+5122	Calculus is more difficult than algebra.	Divine calculus is more difficult than algebra.	1
+12193	The cursor is moved around the screen or document.	The global cursor is moved around the screen or document.	0
+6459	Teenager wants to leave home.	Innocent teenager wants to leave home.	1
+8850	The world has many different cultures.	The artificial world has many different cultures.	0
+368	The lawyer comes early.	The good lawyer comes early.	2
+560	A creamer separates the cream from the milk.	A powdered creamer separates the cream from the milk.	1
+12778	A backdrop is used for photography.	An uncertain backdrop is used for photography.	1
+12646	Rubbish is put in a dustbin.	Alternate rubbish is put in a dustbin.	1
+5190	You use a vibrator to entertain yourself.	You use an electromechanical vibrator to entertain yourself.	1
+1892	A truck boxes in a car.	A following truck boxes in a car.	1
+4463	You use velvet to walk on.	You use red velvet to walk on.	1
+13256	Dough forms bread.	Close dough forms bread.	0
+8816	A patient appears better.	An ambulatory patient appears better.	1
+918	Communicating is for convicing others.	Second communicating is for convicing others.	2
+13311	A cam is for climbing.	A dead cam is for climbing.	0
+11899	A hotel is used for lodging.	A historic hotel is used for lodging.	1
+10262	My brother deals a deck of cards.	My dead brother deals a deck of cards.	0
+7725	An alley is for sneaking past clogged traffic.	A historic alley is for sneaking past clogged traffic.	1
+11447	A soldier digs a trench.	A subservient soldier digs a trench.	1
+2396	A cornerback returns that pass.	A junior cornerback returns that pass.	1
+2048	A can is for opening with a can opener.	A cylindrical can is for opening with a can opener.	1
+4318	Lemon is citrus.	Orange lemon is citrus.	1
+771	An entrance is used to enter a building.	A public entrance is used to enter a building.	1
+4338	Serotonin is distributed throughout the body.	Selective serotonin is distributed throughout the body.	1
+474	A bank is for keeping money secure.	A sudden bank is for keeping money secure.	1
+2905	Land is for building a house.	Likely land is for building a house.	1
+11412	A salesman is traveling the country with wares.	A very salesman is traveling the country with wares.	0
+14450	Snoring is for people with sleeping problems.	Habitual snoring is for people with sleeping problems.	1
+12615	My friends sees that i like them.	My imaginary friends sees that i like them.	1
+4579	An officer captains a ship.	A historic officer captains a ship.	1
+1355	You use experience to avoid mistakes.	You use fictitious experience to avoid mistakes.	1
+9252	An alarm triggers a siren.	A tonal alarm triggers a siren.	1
+14767	A nose has 2 nostrils.	A soft nose has 2 nostrils.	1
+3357	A neighborhood may consist of several blocks.	A delightful neighborhood may consist of several blocks.	1
+16106	A forest is used for many things, producing lumber.	A centenary forest is used for many things, producing lumber.	1
+5168	You use a laser to play tag.	You use a bad laser to play tag.	1
+1926	A decanter is for pouring from one container to another.	A ceramic decanter is for pouring from one container to another.	1
+7526	A system is used for getting things done efficiently and quickly.	A cervical system is used for getting things done efficiently and quickly.	0
+9703	Sometimes drinking causes less thirst.	Sometimes past drinking causes less thirst.	0
+13786	A day is made up of 24 hours.	A possible day is made up of 24 hours.	1
+1012	A hairbrush is used to.	An available hairbrush is used to.	1
+14994	A disease is ending in death.	A phony disease is ending in death.	1
+14656	Everything is natural.	Coated everything is natural.	0
+298	A beaver builds a dam.	A busy beaver builds a dam.	2
+13302	The ground is sandy in the country.	The final ground is sandy in the country.	1
+10518	A manager lowers prices.	A possible manager lowers prices.	0
+2352	A closet is for storing clothing.	A fabulous closet is for storing clothing.	1
+2434	A surface is for delineating the edge of a body.	A rust-free surface is for delineating the edge of a body.	1
+4313	A club is for dance.	A so-called club is for dance.	1
+8280	Garbage is for being picked up by garbage men.	Complete garbage is for being picked up by garbage men.	1
+12673	A friend is for doing activities with.	A relative friend is for doing activities with.	1
+12860	You use a system to increase efficiency.	You use a theoretical system to increase efficiency.	1
+13849	Few hits .300 in professional baseball.	Lovely few hits .300 in professional baseball.	1
+6312	An author completes a book.	A would-be author completes a book.	1
+7960	Something that might happen as a consequence of buying something is we have less money.	Something that might happen as a consequence of shrewd buying something is we have less money.	0
+14597	A pan is for frying food.	A shallow pan is for frying food.	1
+1173	A tourniquet is dangerous if left on too long.	A surgical tourniquet is dangerous if left on too long.	1
+14364	Police arms their weapons.	Questionable police arms their weapons.	1
+3544	Coke is contained in bottles.	Asphaltic coke is contained in bottles.	0
+13824	Garbage is for polluting the landscape.	Informed garbage is for polluting the landscape.	0
+945	A  is is the fist letter of the alphabet.	Strong a  is is the fist letter of the alphabet.	0
+10375	Fun is enjoyable.	Virtual fun is enjoyable.	1
+8193	You use cotton to make cotton cloth.	You use top cotton to make cotton cloth.	1
+11192	A penny is for tossing a coin.	A bad penny is for tossing a coin.	1
+4885	You use a snowflake to make water.	You use an orange snowflake to make water.	0
+2687	A resin is for prepareing bows for stringed instuments.	A false resin is for prepareing bows for stringed instuments.	0
+2180	We think we can make a nice contribution.	We minute think we can make a nice contribution.	0
+1936	A soldier storms a beach.	A former soldier storms a beach.	2
+15123	A bank is used for charging interest.	A proposed bank is used for charging interest.	1
+14356	Airports is well designed.	Next airports is well designed.	0
+9379	A decanter is used for holding a beverage.	A large decanter is used for holding a beverage.	1
+6228	A backyard is used for growing a garden.	A next backyard is used for growing a garden.	1
+9472	You use a bicycle to travel short distances.	You use a whole bicycle to travel short distances.	1
+7756	You use a bookshelf to hide defects on a wall.	You use a virtual bookshelf to hide defects on a wall.	0
+15673	Garbage is for being picked up by garbage men.	Regular garbage is for being picked up by garbage men.	1
+6662	A wheelchair is used for mobility.	A standard wheelchair is used for mobility.	1
+10201	You use the net to order books.	You use the preliminary net to order books.	1
+1201	A tub is for clean people.	A cylindrical tub is for clean people.	1
+15337	You use a projectile to hit an object.	You use a select projectile to hit an object.	1
+2497	You use a friend to go shopping with.	You use a former friend to go shopping with.	0
+15000	A democrat fears republicans.	A liberal democrat fears republicans.	1
+10177	The attendant sorts the ticket stubs.	The personal attendant sorts the ticket stubs.	1
+3937	A coin is used for small change.	A former coin is used for small change.	0
+10758	An alley is for rear exits from buildings or property.	A historic alley is for rear exits from buildings or property.	1
+6476	A banjo is for playing.	A good banjo is for playing.	1
+5213	The cop directs traffic.	The much cop directs traffic.	0
+11882	A band records an album.	A virtual band records an album.	1
+10498	A bottle contains liquid.	A left-hand bottle contains liquid.	1
+13838	A rifle is for murder.	An unregistered rifle is for murder.	2
+3408	A shareholder is for losing money.	A fictional shareholder is for losing money.	0
+13439	A trumpet sounds like a horn.	A potent trumpet sounds like a horn.	1
+10404	Steel is polished.	Material steel is polished.	1
+9462	A system is for organizing data.	A simulated system is for organizing data.	0
+650	Carpeting is for covering the floor.	Artificial carpeting is for covering the floor.	1
+1489	A handbag is for carrying your drivers license.	A double handbag is for carrying your drivers license.	1
+3835	The author words things very carefully.	The surgical author words things very carefully.	2
+12983	A trader trades with people.	A former trader trades with people.	0
+9826	Jump causes jump.	Unsuccessful jump causes jump.	0
+1583	Something that might happen as a consequence of shouting is a sore throat.	Something that might happen as a consequence of loud shouting is a sore throat.	2
+4618	An operator directs a call.	A certain operator directs a call.	1
+4076	A battle is for gaining territory.	A current battle is for gaining territory.	1
+7566	Button is used for fasten.	Dead button is used for fasten.	1
+12049	A house is for keeping accumulated junk.	A historic house is for keeping accumulated junk.	1
+6603	Seawater contains minute traces of gold.	Warm seawater contains minute traces of gold.	1
+6990	A bidet is for washing your backside.	A simple bidet is for washing your backside.	1
+7780	You use a kettle to prepare tea.	You use an inexhaustible kettle to prepare tea.	1
+7409	An altar is for sacrifices.	An original altar is for sacrifices.	0
+9964	You use a hotel to sleep.	You use a fine hotel to sleep.	1
+1098	Sometimes fishing causes you to tell a fish tale.	Sometimes salmon fishing causes you to tell a fish tale.	1
+10476	The universe is very old.	The political universe is very old.	1
+11396	A secretary agrees with his boss.	A deputy secretary agrees with his boss.	1
+1380	A classroom is for teaching.	A popular classroom is for teaching.	1
+72	Recycle sorts junk.	Secondary recycle sorts junk.	1
+10431	Fiberglass is used for insulation.	Comparable fiberglass is used for insulation.	1
+11879	A neighbor is for borrowing things from.	A virtual neighbor is for borrowing things from.	1
+12501	A rabbi seats the synagogue.	An associate rabbi seats the synagogue.	1
+7321	A nurse voices concern.	A behavioral nurse voices concern.	1
+13301	History is written by the winners of wars.	False history is written by the winners of wars.	0
+9645	A roof is found on top of a building.	An enormous roof is found on top of a building.	1
+13211	A clip is for dogs.	A flashy clip is for dogs.	0
+12825	A chapel is for people who are seeking sanctuary.	A mandatory chapel is for people who are seeking sanctuary.	0
+14342	You use a menu to order food.	You use an open menu to order food.	1
+9311	Silk is for bed sheets.	Artificial silk is for bed sheets.	1
+2325	A rabbit has long front teeth.	A frightened rabbit has long front teeth.	1
+4992	A college is used for learning new things.	A veterinary college is used for learning new things.	1
+9187	A drawer is for storing personal items.	A stainless drawer is for storing personal items.	1
+11279	Cricket is played in many british colonies.	Hard cricket is played in many british colonies.	1
+500	A tractor is used for pulling waggons.	An excellent tractor is used for pulling waggons.	1
+1788	A wig is bought at a wig shoppe.	A big wig is bought at a wig shoppe.	1
+9717	Soap is for washing.	Insecticidal soap is for washing.	0
+11730	A company has assets.	A historic company has assets.	1
+14266	A leader arms a population.	A tribal leader arms a population.	1
+14925	A lady fancies a slice of cake.	A former lady fancies a slice of cake.	1
+1302	A clarinet is used for playing music in a band.	A rare clarinet is used for playing music in a band.	1
+9409	You use a restaurant to drink lemonade.	You use an ethnic restaurant to drink lemonade.	1
+12444	A backdrop is found on a stage.	A global backdrop is found on a stage.	1
+13251	Seaweed is found in the ocean.	Green seaweed is found in the ocean.	1
+13948	Something that might happen as a consequence of working is becoming bored.	Something that might happen as a consequence of central working is becoming bored.	0
+278	You use cash to pay for goods.	You use tax-free cash to pay for goods.	1
+10364	A hallway is for stairs to lead to.	An old hallway is for stairs to lead to.	1
+7835	A fence is used for containing animals.	A virtual fence is used for containing animals.	0
+8294	A satchel is used for packaging.	A cool satchel is used for packaging.	1
+11761	A carpenter completes a bookshelf.	A retired carpenter completes a bookshelf.	1
+6810	Skin is for removing unwanted things from body.	Disposable skin is for removing unwanted things from body.	0
+3599	An auditorium is for performances.	A high auditorium is for performances.	1
+910	A bath is for relaxation.	A light bath is for relaxation.	1
+15575	A batter misses the ball.	A classic batter misses the ball.	0
+1396	The magician saws the lady in half.	The star magician saws the lady in half.	1
+6892	A building is for providing shelter.	A former building is for providing shelter.	0
+6397	A boat settles lower.	A former boat settles lower.	0
+736	The effect of democracy is equality for everyone.	The effect of unanimous democracy is equality for everyone.	1
+7509	A party is for politics.	A medieval party is for politics.	1
+13897	You use a saw to cut wood or metal.	You use a cordless saw to cut wood or metal.	1
+3168	Turkey is sold in a shop.	Deep-fried turkey is sold in a shop.	1
+11251	A homeowner paints their house.	A new homeowner paints their house.	1
+15951	Wallet may be made from man-made leather.	Empty wallet may be made from man-made leather.	1
+12923	A guest brings wine to a party.	A potential guest brings wine to a party.	1
+10121	Emo is kind of like wussy punk.	Real emo is kind of like wussy punk.	1
+5957	A can is for holding fruits.	An old can is for holding fruits.	1
+16062	A cigarette contains poison.	A bent cigarette contains poison.	0
+5147	A cave is used for refuge.	A new cave is used for refuge.	1
+10413	You use a farmhouse to live in.	You use an idyllic farmhouse to live in.	1
+5006	A citizen votes.	A roman citizen votes.	1
+10251	A contestant guesses an answer to a question.	A top contestant guesses an answer to a question.	1
+9168	Three is more than two.	Serial three is more than two.	1
+8032	Carpeting is for comfort.	Custom carpeting is for comfort.	1
+7746	A thing is a conception, idea, or utterance.	A dead thing is a conception, idea, or utterance.	0
+8425	A kettle is used for making tea.	A big kettle is used for making tea.	1
+786	A family moves house.	A hypothetical family moves house.	0
+9683	Confidence is contagious.	Pubescent confidence is contagious.	1
+1210	Pizza is meant to be cheap food.	Cheap pizza is meant to be cheap food.	2
+11612	Some tables are rectangular.	Some mathematical tables are rectangular.	1
+5161	A miser saves money.	A lonely miser saves money.	1
+14474	A trainer shoes a horse.	A total trainer shoes a horse.	1
+778	A motel is for resting.	A former motel is for resting.	0
+5228	A table is for drawing on.	A fake table is for drawing on.	0
+5611	Fish have no legs.	Fake fish have no legs.	1
+8198	A boat is for floating.	A classic boat is for floating.	1
+15286	A building is for providing shelter.	An universal building is for providing shelter.	1
+11779	A cable is constructed of steel.	A secure cable is constructed of steel.	1
+5277	You use a machine to amplify.	You use an ample machine to amplify.	0
+4709	A menu is for describing food.	A great menu is for describing food.	1
+9091	A survey numbers citizens.	A fictitious survey numbers citizens.	0
+13662	Disease kills human bodies.	Mistaken disease kills human bodies.	0
+1764	A brother bugs his sister.	An unemployed brother bugs his sister.	1
+5616	The nurse pages the doctor.	The former nurse pages the doctor.	1
+9841	Fabric is made up of fibres.	Possible fabric is made up of fibres.	1
+688	An army is used for wars.	A fictitious army is used for wars.	0
+8114	A painter spends time on preliminary sketches.	A past painter spends time on preliminary sketches.	1
+1103	A teacher helps a student to learn.	A genuine teacher helps a student to learn.	1
+2835	Chocolate coats cherries.	Hot chocolate coats cherries.	0
+10665	A store charges money for goods.	A partial store charges money for goods.	1
+2629	You use a radio to listen to the daily news.	You use an old radio to listen to the daily news.	1
+6146	Cardboard is recycled.	High cardboard is recycled.	1
+8296	A menu is for listing entrees.	A virtual menu is for listing entrees.	1
+10006	A fortune is used for doing good works.	An astounding fortune is used for doing good works.	1
+12627	A gambler doubles her winnings.	An impressive gambler doubles her winnings.	2
+8858	A tool is used to fix or build things.	An artificial tool is used to fix or build things.	1
+669	A mechanic perfects a carburetor adjustment procedure.	A private mechanic perfects a carburetor adjustment procedure.	1
+2530	A terrace is for erosion prevention.	An outdoor terrace is for erosion prevention.	1
+1894	Bodies have tissue.	Governing bodies have tissue.	1
+7989	An alarm is sounded when the sentry is frightened.	A second alarm is sounded when the sentry is frightened.	1
+15008	Fence is used for marking property lines.	Extra fence is used for marking property lines.	1
+14002	Hay is used to feed cattle.	Old hay is used to feed cattle.	1
+11911	A rug is for walking on.	A floral rug is for walking on.	1
+8506	A hand holds a hand.	A virtual hand holds a hand.	0
+2601	You use a column to organize information.	You use a dead column to organize information.	0
+14259	Reading is for research.	Possible reading is for research.	0
+503	A tin is used for storing stuff.	A loose tin is used for storing stuff.	1
+2650	Some inflation is good.	Some natural inflation is good.	1
+15632	Bow is used for shoot.	Particular bow is used for shoot.	0
+12352	Cold has the effect of freezing.	Congested cold has the effect of freezing.	0
+1940	Success is perceived by each individual's standards.	Surging success is perceived by each individual's standards.	1
+5608	A boxer deals a punch to the opponent.	A former boxer deals a punch to the opponent.	0
+14845	Housework is boring.	General housework is boring.	1
+9514	A knife is used to kill a person.	An ordinary knife is used to kill a person.	1
+14757	A bureau is for sachets.	A criminal bureau is for sachets.	0
+13515	A bicycle is used for riding.	A nice bicycle is used for riding.	1
+2323	Cardboard is made from trees.	Rigid cardboard is made from trees.	1
+14682	A male kisses a female.	A modern male kisses a female.	1
+8090	Rotate causes revolve.	Relative rotate causes revolve.	1
+7893	A loft is for storing objects.	A superior loft is for storing objects.	1
+7968	Breathing is for taking oxygen into our bodies.	Controlled breathing is for taking oxygen into our bodies.	1
+10363	A painter coats a wall with paint.	A characteristic painter coats a wall with paint.	0
+9260	Tofu is made from soybeans.	Fried tofu is made from soybeans.	2
+4625	A freezer is for keeping things very cold.	A mechanical freezer is for keeping things very cold.	1
+5734	Fish keeps track of complex social relationships.	Dead fish keeps track of complex social relationships.	0
+11756	Steam is used to steam rice.	Impure steam is used to steam rice.	1
+7890	A drummer follows the tume.	A great drummer follows the tume.	2
+13404	Something that might happen as a consequence of shopping is you might buy new clothes.	Something that might happen as a consequence of future shopping is you might buy new clothes.	1
+6425	You use a club to beat somebody up.	You use a likely club to beat somebody up.	1
+14347	A stock doubles in worth.	A virtual stock doubles in worth.	1
+657	An athlete attempts to set a record.	An awesome athlete attempts to set a record.	2
+1030	An arena is used for watching sports.	A covered arena is used for watching sports.	1
+1367	A keyboard is used for play music.	An inexpensive keyboard is used for play music.	1
+3009	Sometimes dancing causes you to sweat.	Sometimes interactive dancing causes you to sweat.	1
+6812	A river is used for carrying off rain water.	A green river is used for carrying off rain water.	0
+13364	An alley is for access to the backsides of buildings.	A new alley is for access to the backsides of buildings.	2
+6498	Health is good.	Future health is good.	1
+9077	A jack is strong enough to lift a truck.	A common jack is strong enough to lift a truck.	1
+12684	A climber nears the top.	A skilled climber nears the top.	1
+14296	A leather is for protective clothing.	An available leather is for protective clothing.	0
+3314	The effect of swimming is movement through water.	The effect of high swimming is movement through water.	1
+4688	An artist colors a picture.	An expected artist colors a picture.	1
+1614	You use a grenade to commit suicide.	You use a real grenade to commit suicide.	1
+8467	A stream is for wading accross.	A principal stream is for wading accross.	1
+7089	A babysitter minds that young child.	A young babysitter minds that young child.	1
+7510	A star supernovas.	A supposed star supernovas.	0
+15950	A psychiatrist listens to people's problems.	A questionable psychiatrist listens to people's problems.	0
+12644	A promise is broken.	A false promise is broken.	2
+857	The effect of punching someone is feeling avenged.	The effect of private punching someone is feeling avenged.	2
+1213	A tapestry is for looking at.	An arcane tapestry is for looking at.	1
+15129	A state may levy taxes.	A nonviolent state may levy taxes.	1
+3015	A horn is for jazz.	A superficial horn is for jazz.	0
+10782	Snow is beautiful.	Likely snow is beautiful.	1
+5759	Milk is homogenized for human consumption.	False milk is homogenized for human consumption.	0
+2990	A street is used for automobiles.	A main street is used for automobiles.	1
+12382	Blood streams from a serious wound.	Simulated blood streams from a serious wound.	1
+6225	You use a toothpaste to ensure good dental health.	You use an ideal toothpaste to ensure good dental health.	2
+4527	A bowler gets a strike.	A fourth bowler gets a strike.	1
+8256	Compassion touches hearts.	False compassion touches hearts.	0
+15656	You use a faucet to get water.	You use a sleek faucet to get water.	1
+4372	A doorway is for opening a door.	A former doorway is for opening a door.	1
+15641	Something that might happen as a consequence of skating is falling down.	Something that might happen as a consequence of daily skating is falling down.	2
+7958	You use a clock to chime in when you need it.	You use a potential clock to chime in when you need it.	0
+11831	A bucket holds liquid.	A deep bucket holds liquid.	1
+3668	A writer prints written words on a printer.	An award-winning writer prints written words on a printer.	1
+14023	A referee parts two boxers.	A worse referee parts two boxers.	0
+5836	A rainbow is pretty.	A wild rainbow is pretty.	1
+10216	A chapel is useless.	A small chapel is useless.	1
+4378	A story is used for putting kids to sleep.	A mock story is used for putting kids to sleep.	1
+15501	A criminal is likely to have a weapon.	A nefarious criminal is likely to have a weapon.	1
+13471	A robot is controlled by a computer.	An artificial robot is controlled by a computer.	1
+12910	A captain is used for directing lieutenants.	An influential captain is used for directing lieutenants.	1
+14350	Confidence is shared.	Young confidence is shared.	1
+6010	A brother is used for friendship.	A deceased brother is used for friendship.	1
+8203	A clock is used for keeping time.	A virtual clock is used for keeping time.	1
+10603	You use a cloth to add texture.	You use a textile cloth to add texture.	1
+14272	A doormat is found outside a door.	A personal doormat is found outside a door.	1
+13216	An auditorium is used for lectures.	A main auditorium is used for lectures.	1
+15722	A priest puts his congregation to sleep.	A dark priest puts his congregation to sleep.	1
+5152	A canary detects gas in a mine.	A sensitive canary detects gas in a mine.	2
+14691	You use a billboard to hide from motorists.	You use a virtual billboard to hide from motorists.	0
+14159	Survival is fun.	Monthly survival is fun.	0
+11368	Comb is needed when you comb your hair.	Second comb is needed when you comb your hair.	0
+5080	A policy is cancelled.	An embedded policy is cancelled.	1
+14995	A scientist times an experiment.	A supreme scientist times an experiment.	1
+2301	A window is for looking outside.	An average window is for looking outside.	1
+7129	An arch is curved.	A cc arch is curved.	0
+11087	Spanking is negative feedback.	Hard spanking is negative feedback.	2
+4706	The mind is tended.	The entrepreneurial mind is tended.	1
+7169	Yacht is used for race.	Wooden yacht is used for race.	1
+4488	Buttons are used to fasten some pants.	Easy buttons are used to fasten some pants.	1
+15845	You use a shareholder to support your company.	You use an ineligible shareholder to support your company.	1
+11122	Paint is dark.	Non paint is dark.	0
+2381	The eagle has landed.	The golden eagle has landed.	1
+2343	An actress stars in a shakespeare play.	A nude actress stars in a shakespeare play.	1
+7238	You use a letter to communicate to a friend.	You use an extended letter to communicate to a friend.	1
+12294	The truth is elusive.	The likely truth is elusive.	1
+1336	A cannon is used to shoot cannonballs.	A huge cannon is used to shoot cannonballs.	1
+5859	A price is measured in dollars.	An affordable price is measured in dollars.	1
+2646	A banjo is found in new orleans.	A great banjo is found in new orleans.	1
+13628	A bungalow is for partying inside.	A detached bungalow is for partying inside.	1
+3336	A mortar is used for masonry.	A historic mortar is used for masonry.	0
+2415	An execution is for bringing a victim to death.	A past execution is for bringing a victim to death.	0
+12907	A family shares a meal.	A stable family shares a meal.	2
+8373	An artist shades a picture.	A former artist shades a picture.	0
+15513	Slavery is bad.	Racial slavery is bad.	1
+8627	You use a couch to rest or relax.	You use a modern couch to rest or relax.	1
+6483	A lobby is for a large building.	A main lobby is for a large building.	1
+2773	The effect of sleeping is wasted time.	The effect of dead sleeping is wasted time.	0
+10919	A celebrity is associated with mansions.	An ultimate celebrity is associated with mansions.	1
+2877	A shock causes a person to die.	A future shock causes a person to die.	1
+161	Corn is ground into meal.	Braided corn is ground into meal.	0
+11939	A volume is for adjusting amplitude.	A virtual volume is for adjusting amplitude.	1
+6470	A rider bicycles uphill.	An adult rider bicycles uphill.	1
+10146	Garbage smells horrible.	Proposed garbage smells horrible.	1
+249	You use a barbecue to feed your family.	You use a contemporary barbecue to feed your family.	1
+1031	An adult explains the rules to a child.	A prototypical adult explains the rules to a child.	1
+7242	A bear hunts a rabbit.	A small bear hunts a rabbit.	1
+1288	Quality is more important than quantity.	Constant quality is more important than quantity.	2
+12002	Petrol is put into cars.	Unbranded petrol is put into cars.	1
+15760	A graveyard is used for buring the dead.	An old graveyard is used for buring the dead.	1
+12595	A cashier prices an item.	An exact cashier prices an item.	1
+7146	Bananas is eaten.	Cooked bananas is eaten.	1
+6712	Success is measured in many different ways.	Future success is measured in many different ways.	2
+4740	A counter is used for working whilst standing.	A virtual counter is used for working whilst standing.	0
+7394	Crack causes crack.	Cleft crack causes crack.	2
+2383	A lover distances themselves.	A speedy lover distances themselves.	1
+12947	A meal nears perfection.	A light meal nears perfection.	1
+84	Meat is taken from freshly killed animals.	Valuable meat is taken from freshly killed animals.	1
+13970	A rule is for understanding.	An offshore rule is for understanding.	1
+4503	A nurse voices concern.	A possible nurse voices concern.	1
+16096	A ghost haunt.	A hungry ghost haunt.	1
+9581	A receptionist pages a representative.	A medical receptionist pages a representative.	1
+9865	A track is used for running.	A dead track is used for running.	0
+1596	A bus is for saving money.	A potential bus is for saving money.	1
+2707	A crane lifts large masses.	A large crane lifts large masses.	1
+510	A bullet causes a person to die.	A single bullet causes a person to die.	2
+5411	A suitcase is for bellboys to carry.	An original suitcase is for bellboys to carry.	1
+8271	A movie ends sadly.	An expected movie ends sadly.	1
+9434	You use refuse to go to war.	You use orthodox refuse to go to war.	1
+12039	My camper sleeps eight people.	My fifth camper sleeps eight people.	1
+14596	A toothbrush rests upon a desk top.	A vibratory toothbrush rests upon a desk top.	1
+12986	A container is made of metal.	An adjunct container is made of metal.	1
+8625	Thunder rolls across the valley.	Great thunder rolls across the valley.	1
+7824	Science spreads ideas.	Biomedical science spreads ideas.	1
+15918	A director pays actors.	A past director pays actors.	1
+2682	You use a stairwell to walk up.	You use a public stairwell to walk up.	1
+14421	A squirrel stores nuts.	A blind squirrel stores nuts.	1
+12703	You use a wardrobe to hang clothes.	You use a questionable wardrobe to hang clothes.	1
+12675	A match touches the skin.	A detailed match touches the skin.	0
+1902	Mom uses a opener.	Seeming mom uses a opener.	1
+3743	A town is for a place to live.	A north town is for a place to live.	1
+4350	A drill is for drilling.	An ordinary drill is for drilling.	1
+7757	Carpeting is used for softening the sounds of footsteps.	Original carpeting is used for softening the sounds of footsteps.	1
+13078	A balloon is for decoration.	A single balloon is for decoration.	1
+11101	A visitor rings the doorknob.	A frequent visitor rings the doorknob.	1
+13405	You use a name to represent.	You use a funny name to represent.	1
+8881	You use a grasper to grab things.	You use a surgical grasper to grab things.	1
+5224	A hill is higher ground.	A great hill is higher ground.	1
+12856	You use a doorway to enter a room.	You use a common doorway to enter a room.	1
+7501	You use an audience to get money.	You use a potential audience to get money.	1
+6862	A scale is for protecting the body of an animal.	A harmonic scale is for protecting the body of an animal.	0
+2684	Something that might happen as a consequence of baking is burning the cake.	Something that might happen as a consequence of subsequent baking is burning the cake.	1
+8289	A sentence is composed of many words.	A conditional sentence is composed of many words.	1
+11244	An umbrella has spokes.	A fantastic umbrella has spokes.	1
+9234	Snoring is for noticing that someone is sleeping.	Predetermined snoring is for noticing that someone is sleeping.	1
+200	Aging has the effect of wrinkling the skin.	Natural aging has the effect of wrinkling the skin.	2
+11032	A bazaar is for looking at things to buy.	An annual bazaar is for looking at things to buy.	1
+8355	You use a lobby to make deals.	You use a right lobby to make deals.	1
+11881	A tree is used for bird nests.	A historic tree is used for bird nests.	1
+9909	Sometimes skating causes tired ankles.	Sometimes free skating causes tired ankles.	1
+7811	A cubicle is for granting personal space.	A mobile cubicle is for granting personal space.	1
+14234	A sponge wets a surface.	An armored sponge wets a surface.	0
+15751	Rock is difficult to carve by hand.	Artificial rock is difficult to carve by hand.	1
+7351	A reporter doubts his source.	An unprincipled reporter doubts his source.	0
+10238	An executive talks with confidence.	A principal executive talks with confidence.	2
+12642	A program mines a database.	A faulty program mines a database.	0
+5099	A cook decides when to serve dinner.	A select cook decides when to serve dinner.	1
+4217	A faucet is used for running water.	A stunning faucet is used for running water.	1
+5777	You use a lawn to walk on.	You use a fake lawn to walk on.	1
+8215	A suitcase is used for packing clothes for a trip.	A small suitcase is used for packing clothes for a trip.	1
+1028	A sugar is for sweetening tea.	A soft sugar is for sweetening tea.	1
+15125	A cad wrongs his lover.	A suspected cad wrongs his lover.	1
+14551	A spoon has a cupped end and a handle.	A full spoon has a cupped end and a handle.	1
+13489	Electricity powers many machines.	Free electricity powers many machines.	1
+1509	A floor is for preventing things from falling.	A composite floor is for preventing things from falling.	1
+7082	An actor stars in a television show.	A multiple actor stars in a television show.	0
+12762	Water is used to make coffee.	Washed water is used to make coffee.	0
+3740	A disease is used for killing organisms.	A potential disease is used for killing organisms.	1
+4201	Land causes land.	Second land causes land.	1
+5533	A burglar surprises a homeowner.	A suspect burglar surprises a homeowner.	1
+3906	A tin cans will eventually rust.	A full tin cans will eventually rust.	1
+3287	You use a fork to eat a meal.	You use a proprietary fork to eat a meal.	1
+7763	Garbage is stored in a can.	Natural garbage is stored in a can.	1
+2498	A patient wills to survive.	A potential patient wills to survive.	1
+6161	You use a stool to increase your height.	You use a short stool to increase your height.	1
+2750	Scrapbook is for remembering.	Annual scrapbook is for remembering.	1
+3492	Sometimes love causes pain.	Sometimes suspicious love causes pain.	2
+7008	A pebble is for filling small holes.	A porous pebble is for filling small holes.	1
+9747	Wheat is used for making flour.	Fat wheat is used for making flour.	1
+14385	A stream branches off.	A virtual stream branches off.	0
+12858	A heater is used in the winter.	A hot heater is used in the winter.	1
+14438	You use a tin to make ornaments.	You use a convenient tin to make ornaments.	1
+4931	A table is for writing at it.	A quarterly table is for writing at it.	0
+9189	A dollar equals four quarters.	A millionth dollar equals four quarters.	0
+6191	A cake is for a birthday.	A fake cake is for a birthday.	0
