@@ -444,7 +444,7 @@ id,combo,source NP,premise,hypothesis,label
 443,sub-int,his old brown coat,This is his old brown coat.,This is his old coat.,entailment
 444,pri-sub,partial late payments,These are partial late payments.,These are late payments.,entailment
 445,sub-sub,the third big aluminum company,This is the third big aluminum company.,This is an aluminum company.,entailment
-446,pri-int,a denied access permission,This is a denied access permission.,This is a denied permission.,entailment
+446,pri-int,a denied access permission,This is denied access permission.,This is denied permission.,entailment
 447,sub-int,his old brown coat,This is his old brown coat.,This is his coat.,entailment
 448,pri-sub,past moral crises,These are past moral crises.,These are past crises.,entailment
 449,int-sub,a Western top official,He is a Western top official.,He is an official.,entailment
@@ -560,7 +560,7 @@ id,combo,source NP,premise,hypothesis,label
 559,sub-int,a big blue grass fan,This is a big bluegrass fan.,This is a fan.,entailment
 560,sub-sub,the first big wave,This is the first big wave.,This is a big wave.,entailment
 561,sub-sub,a good beginner boxer,He is a good beginner boxer.,He is a boxer.,entailment
-562,pri-pri,a likely next speaker,She is a likely next speaker.,She is a likely speaker.,entailment
+562,pri-pri,a likely next speaker,She is the likely next speaker.,She is the likely speaker.,entailment
 563,sub-int,a famous American painter,She is a famous American painter.,She is a famous painter.,entailment
 564,sub-int,the first free republic,This is the first free republic.,This is a free republic.,entailment
 565,pri-sub,initial technical standards,These are initial technical standards.,These are standards.,entailment
@@ -722,7 +722,7 @@ id,combo,source NP,premise,hypothesis,label
 721,sub-sub,the only big losers,They are the only big losers.,They are the only losers.,non-entailment
 722,sub-sub,my old best friend,She is my old best friend.,She is my best friend.,non-entailment
 723,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer.,She is an amazing drummer.,non-entailment
-724,pri-pri,a likely next speaker,She is a likely next speaker.,She is the next speaker.,non-entailment
+724,pri-pri,a likely next speaker,She is the likely next speaker.,She is the next speaker.,non-entailment
 725,pri-pri,the likely future premier,He is the likely future premier.,He is the future premier.,non-entailment
 726,pri-pri,the likely future premier,He is the likely future premier.,He is the premier.,non-entailment
 727,pri-pri,a likely temporary destination,This is a likely temporary destination.,This is a temporary destination.,non-entailment
@@ -898,7 +898,7 @@ id,combo,source NP,premise,hypothesis,label
 897,pri-pri,the presumed future leader,This is the presumed future leader.,This is the presumed leader.,non-entailment
 898,pri-pri,the presumed future leader,This is the presumed future leader.,This is the future leader.,non-entailment
 899,pri-pri,the presumed future leader,This is the presumed future leader.,This is the leader.,non-entailment
-900,pri-pri,a retired black deputy sherriff,He is a retired black deputy sherriff.,He is a black deputy sherriff.,non-entailment
+900,pri-pri,a retired black deputy sheriff,He is a retired black deputy sheriff.,He is a black deputy sheriff.,non-entailment
 901,pri-pri,a possible imminent eruption,That is a possible imminent eruption.,That is an eruption.,non-entailment
 902,pri-pri,the initial false declarations,These are the initial false declarations.,These are the initial declarations.,non-entailment
 903,pri-pri,those presumed future contenders,They are those presumed future contenders.,They are those future contenders.,non-entailment
@@ -977,8 +977,8 @@ id,combo,source NP,premise,hypothesis,label
 976,pri-sub,a forged Iranian diplomatic passport,This is a forged Iranian diplomatic passport.,This is an Iranian passport.,non-entailment
 977,pri-sub,a presumed early rebel target,He is a presumed early rebel target.,He is an early rebel target.,non-entailment
 978,pri-sub,a predicted average expenditure,This is a predicted average expenditure.,This is an average expenditure.,non-entailment
-979,pri-sub,a Spanish first vice prime minister,She is a Spanish first vice prime minister.,She is a Spanish first prime minister.,non-entailment
-980,pri-sub,a Spanish first vice prime minister,She is a Spanish first vice prime minister.,She is a Spanish first minister.,non-entailment
+979,pri-sub,a Spanish first vice prime minister,She is the Spanish first vice prime minister.,She is the Spanish first prime minister.,non-entailment
+980,pri-sub,a Spanish first vice prime minister,She is the Spanish first vice prime minister.,She is the Spanish first minister.,non-entailment
 981,pri-sub,The probable maximum loss,This is The probable maximum loss.,This is The maximum loss.,non-entailment
 982,pri-sub,the first vice prime minister,He is the first vice prime minister.,He is the first prime minister.,non-entailment
 983,pri-sub,the first vice prime minister,He is the first vice prime minister.,He is the first minister.,non-entailment
@@ -1153,8 +1153,8 @@ id,combo,source NP,premise,hypothesis,label
 1152,sub-int,regular married folks,They are regular married folks.,They are regular folks.,non-entailment
 1153,sub-int,its fourth democratic election,This is its fourth democratic election.,This is its fourth election.,non-entailment
 1154,sub-int,its fourth consecutive gold medal,This is its fourth consecutive gold medal.,This is its fourth consecutive medal.,non-entailment
-1155,sub-int,the third largest gold producer,It is the third largest gold producer.,It is the third largest producer.,non-entailment
-1156,sub-int,the third largest gold producer,It is the third largest gold producer.,It is the largest gold producer.,non-entailment
+1155,sub-int,the third-largest gold producer,It is the third-largest gold producer.,It is the third-largest producer.,non-entailment
+1156,sub-int,the third-largest gold producer,It is the third-largest gold producer.,It is the largest gold producer.,non-entailment
 1157,sub-int,its fifth democratic poll,This is its fifth democratic poll.,This is its fifth poll.,non-entailment
 1158,sub-int,the fourth democratic parliament,This is the fourth democratic parliament.,This is the fourth parliament.,non-entailment
 1159,sub-int,the fourth Swedish winner,This is the fourth Swedish winner.,This is the fourth winner.,non-entailment
