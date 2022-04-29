@@ -45,8 +45,8 @@ id,combo,source NP,premise,hypothesis,label
 44,sub-sub,a good short story,This is a good short story. This is an essay.,This is a short essay.,entailment
 45,sub-sub,a big dumb idiot,He is a big dumb idiot. He is a person.,He is a dumb person.,entailment
 46,sub-sub,a feverish young boy,He is a feverish young boy. He is a student.,He is a young student.,entailment
-47,pri-pri,an expected imminent attack,This is an expected imminent attack. This is an disaster.,This is an expected disaster.,entailment
-48,pri-pri,an expected imminent attack,This is an expected imminent attack. This is an disaster.,This is an imminent disaster.,entailment
+47,pri-pri,an expected imminent attack,This is an expected imminent attack. This is a disaster.,This is an expected disaster.,entailment
+48,pri-pri,an expected imminent attack,This is an expected imminent attack. This is a disaster.,This is an imminent disaster.,entailment
 49,pri-pri,its past wrong practices,Those are its past wrong practices. Those are its crimes.,Those are its past crimes.,entailment
 50,pri-pri,several past failed efforts,Those are several past failed efforts. Those are several attempts.,Those are several past attempts.,entailment
 51,pri-pri,several past failed efforts,Those are several past failed efforts. Those are several attempts.,Those are several failed attempts.,entailment
@@ -55,7 +55,7 @@ id,combo,source NP,premise,hypothesis,label
 54,pri-pri,their past fraudulent activities,Those are their past fraudulent activities. Those are their wrongdoings.,Those are their past wrongdoings.,entailment
 55,pri-pri,their past fraudulent activities,Those are their past fraudulent activities. Those are their crimes.,Those are their past crimes.,entailment
 56,pri-pri,her past broken promises,Those are her past broken promises. Those are lies.,Those are past lies.,entailment
-57,pri-pri,a previous proposed deal,This is a previous proposed deal. This is a offer.,This is a previous offer.,entailment
+57,pri-pri,a previous proposed deal,This is a previous proposed deal. This is an offer.,This is a previous offer.,entailment
 58,pri-pri,the previous theoretical limit,This is the previous theoretical limit. This is an underestimation.,This is a theoretical underestimation.,entailment
 59,pri-int,his future American wife,She is his future American wife. She is his neighbor.,She is his American neighbor.,entailment
 60,pri-sub,previous similar findings,Those are previous similar findings. Those are theories.,Those are previous theories.,entailment
@@ -121,7 +121,7 @@ id,combo,source NP,premise,hypothesis,label
 120,pri-pri,an initial virtual colonoscopy,This is an initial virtual colonoscopy. This is an initial inspection.,This is an initial inspection.,entailment
 121,pri-pri,an initial virtual colonoscopy,This is an initial virtual colonoscopy. This is an inspection.,This is a virtual inspection.,entailment
 122,pri-pri,a deputy senior vice president,He is a deputy senior vice president. He is a senior leader.,He is a senior leader.,non-entailment
-123,pri-pri,an experimental temporary dwellings,This is an experimental temporary dwelling. This is housing.,This is a temporary housing.,entailment
+123,pri-pri,an experimental temporary dwellings,This is an experimental temporary dwelling. This is housing.,This is temporary housing.,entailment
 124,pri-pri,the probable next CEO,She is the probable next CEO. She is a hire.,She is a probable hire.,entailment
 125,pri-pri,a fake virtual friend,They are a fake virtual friend. They are a companion.,They are a virtual companion.,entailment
 126,pri-pri,a fake wooden rifle,This is a fake wooden rifle. This is a firearm.,This is a fake firearm.,entailment
@@ -157,7 +157,7 @@ id,combo,source NP,premise,hypothesis,label
 156,pri-pri,continuous forged allegations,These are continuous forged allegations. These are assertions.,These are forged assertions.,entailment
 157,pri-pri,a onetime alleged dirty-bomb plotter,He is a onetime alleged dirty-bomb plotter. He is a terrorist.,He is an alleged terrorist.,entailment
 158,pri-pri,an apparent false alarm,This is an apparent false alarm. This is an emergency.,This is a false emergency.,entailment
-159,pri-pri,a retired black deputy sherriff,He is a retired black deputy sherriff. He is a father.,He is a black father.,entailment
+159,pri-pri,a retired black deputy sheriff,He is a retired black deputy sheriff. He is a father.,He is a black father.,entailment
 160,pri-pri,a possible imminent eruption,That is a possible imminent eruption. That is a catastrophe.,That is a possible catastrophe.,entailment
 161,pri-pri,a hypothetical future disaster,This is a hypothetical future disaster. This is an earthquake.,This is a hypothetical earthquake.,entailment
 162,pri-pri,a hypothetical future disaster,This is a hypothetical future disaster. This is a flood.,This is a hypothetical flood.,entailment
@@ -248,8 +248,8 @@ id,combo,source NP,premise,hypothesis,label
 247,pri-sub,an apparent domestic dispute,This is an apparent domestic dispute. This is an argument.,This is an apparent argument.,entailment
 248,pri-sub,an apparent domestic dispute,This is an apparent domestic dispute. This is a conflict.,This is an apparent conflict.,entailment
 249,pri-sub,the probable maximum loss,It is the probable maximum loss. It is the deficit.,It is the probable deficit.,entailment
-250,pri-sub,Ukrainian first vice prime minister,He is the Ukrainian first vice prime minister. He is a politician.,He is a Ukranian politician.,entailment
-251,pri-sub,Ukrainian first vice prime minister,He is the Ukrainian first vice prime minister. He is a comedian.,He is a Ukranian comedian.,entailment
+250,pri-sub,Ukrainian first vice prime minister,He is the Ukrainian first vice prime minister. He is a politician.,He is a Ukrainian politician.,entailment
+251,pri-sub,Ukrainian first vice prime minister,He is the Ukrainian first vice prime minister. He is a comedian.,He is a Ukrainian comedian.,entailment
 252,pri-sub,past official targets,They are past official targets. They are goals.,They are past goals.,entailment
 253,pri-sub,a counterfeit new U.S. dollar,This is a counterfeit new U.S. dollar. This is money.,This is counterfeit money.,entailment
 254,pri-sub,the predicted global economic turbulence,This is the predicted global economic turbulence. This is a disorder.,This is a predicted disorder.,entailment
@@ -494,7 +494,7 @@ id,combo,source NP,premise,hypothesis,label
 493,sub-pri,high temporary hopes,Those are high temporary hopes. Those are expectations.,Those are temporary expectations.,entailment
 494,sub-pri,the national gold reserve,This is the national gold reserve. This is an asset.,This is a national asset.,entailment
 495,sub-pri,many cloned animals,These are many cloned animals. These are pets.,These are cloned pets.,entailment
-496,sub-pri,national historic standards,This is national historic standards. This is norms.,This is historic norms.,entailment
+496,sub-pri,national historic standards,These are national historic standards. These are norms.,These are historic norms.,entailment
 497,sub-pri,many unlikely contributors,These are many unlikely contributors. These are parents.,These are many parents.,entailment
 498,sub-pri,a high initial expense,This is a high initial expense. This is a cost.,This is a high cost.,entailment
 499,sub-pri,a high initial expense,This is a high initial expense. This is a charge.,This is an initial charge.,entailment
@@ -542,229 +542,229 @@ id,combo,source NP,premise,hypothesis,label
 541,pri-sub,a fictitious technical issue,This is a fictitious technical issue. This is an excuse.,This is a technical excuse.,entailment
 542,pri-sub,a fictitious technical issue,This is a fictitious technical issue. This is an excuse.,This is a fictitious excuse.,entailment
 543,pri-sub,an assumed average weight,This is an assumed average weight. This is a quantity.,This is an assumed quantity.,entailment
-544,pri-sub,an assumed average weight,This is an assumed average weight. This is a statistic.,This is an assumed statistic.,entailment
-545,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the former CEO.,non-entailment
-546,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the vice CEO.,non-entailment
-547,pri-pri,the future deputy administrator,She is the future deputy administrator. She is the secretary.,She is the future secretary.,non-entailment
-548,pri-pri,the future deputy administrator,She is the future deputy administrator. She is the secretary.,She is the deputy secretary.,non-entailment
-549,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director. She is the mayor.,She is the former mayor.,non-entailment
-550,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director. She is the mayor.,She is the deputy mayor.,non-entailment
-551,pri-pri,a former alleged thief,This is a former alleged thief. This is a victim.,This is a former victim.,non-entailment
-552,pri-pri,a former alleged thief,This is a former alleged thief. This is a victim.,This is an alleged victim.,non-entailment
-553,pri-pri,an alleged former thief,This is an alleged former thief. This is a victim.,This is a former victim.,non-entailment
-554,pri-pri,an alleged former thief,This is an alleged former thief. This is a victim.,This is an alleged victim.,non-entailment
-555,pri-int,an alleged male criminal,He is an alleged male criminal. He is a student.,He is an alleged student.,non-entailment
-556,pri-int,a so-called American expert,She is a so-called American expert. She is a Christian.,She is a so-called Christian.,non-entailment
-557,pri-int,a former European commissioner,He is a former European commissioner. He is a professor.,He is a former professor.,non-entailment
-558,pri-int,a former Australian owner,She is a former Australian owner. She is a teacher.,She is a former teacher.,non-entailment
-559,pri-int,our next popular star,She is our next popular star. She is our friend.,She is our next friend.,non-entailment
-560,pri-int,a so-called poisonous pill,This is a so-called poisonous pill. This is a placebo.,This is a so-called placebo.,non-entailment
-561,pri-int,a so-called poisonous pill,This is a so-called poisonous pill. This is a placebo.,This is a poisonous placebo.,non-entailment
-562,pri-int,a fictional private detective,He is a fictional private detective. He is a citizen.,He is a private citizen.,non-entailment
-563,pri-int,his future American wife,She is his future American wife. She is his girlfriend.,She is his future girlfriend.,non-entailment
-564,pri-sub,a so-called senior expert,She is a so-called senior expert. She is a manager.,She is a so-called manager.,non-entailment
-565,pri-sub,a so-called senior expert,She is a so-called senior expert. She is a manager.,She is a senior manager.,non-entailment
-566,pri-sub,a so-called professional drummer,He is a so-called professional drummer. He is a songwriter.,He is a so-called songwriter.,non-entailment
-567,pri-sub,a so-called professional drummer,He is a so-called professional drummer. He is a songwriter.,He is a professional songwriter.,non-entailment
-568,pri-sub,the former senior president,He is the former senior president. He is a writer.,He is a former writer.,non-entailment
-569,pri-sub,the former senior president,He is the former senior president. He is a writer.,He is a senior writer.,non-entailment
-570,pri-sub,his potential second wife,She is his potential second wife. She is his date.,She is his potential date.,non-entailment
-571,pri-sub,his potential second wife,She is his potential second wife. She is his date.,She is his second date.,non-entailment
-572,pri-sub,so-called good junk-bond offerings,This is so-called good junk-bond offerings. This is fraud.,This is so-called fraud.,non-entailment
-573,pri-sub,a former beautiful actress,She is a former beautiful actress. She is a housewife.,She is a former housewife.,non-entailment
-574,pri-sub,a former skillful surgeon,He is a former skillful surgeon. He is a tennis player.,He is a former tennis player.,non-entailment
-575,pri-sub,a former skillful surgeon,He is a former skillful surgeon. He is a tennis player.,He is a skillful tennis player.,non-entailment
-576,pri-sub,a former famous actor,He is a former famous actor. He is a chauffeur.,He is a former chauffeur.,non-entailment
-577,pri-sub,a former famous actor,He is a former famous actor. He is a chauffeur.,He is a famous chauffeur.,non-entailment
-578,sub-pri,Phoenix's senior vice president,He is Phoenix's senior vice president. He is Phoenix's citizen.,He is Phoenix's senior citizen.,non-entailment
-579,sub-pri,new potential customers,They are new potential customers. They are immigrants.,They are new immigrants.,non-entailment
-580,sub-pri,new potential customers,They are new potential customers. They are immigrants.,They are potential immigrants.,non-entailment
-581,sub-int,an attractive beginner golfer,He is an attractive beginner golfer. He is a skier.,He is a beginner skier.,non-entailment
-582,sub-int,New York's first black mayor,He is New York's first black mayor. He is New York's citizen.,He is New York's first citizen.,non-entailment
-583,sub-int,a famous American painter,She is a famous American painter. She is a mother.,She is a famous mother.,non-entailment
-584,sub-int,a famous American dancer,She is a famous American dancer. She is a writer.,She is a famous writer.,non-entailment
-585,sub-int,my favorite local restaurant,This is my favorite local restaurant. This is my place.,This is my favorite place.,non-entailment
-586,sub-sub,good senior bankers,They are good senior bankers. They are mentors.,They are good mentors.,non-entailment
-587,sub-sub,an ordinary unskilled laborer,He is an ordinary unskilled laborer. He is an father.,He is an unskilled father.,non-entailment
-588,sub-sub,the only big losers,They are the only big losers. They are idiots.,They are big idiots.,non-entailment
-589,sub-sub,the only big losers,They are the only big losers. They are idiots.,They are the only idiots.,non-entailment
-590,sub-sub,a big dumb idiot,He is a big dumb idiot. He is a person.,He is a big person.,non-entailment
-591,sub-sub,my old best friend,She is my old best friend. She is my cousin.,She is my old cousin.,non-entailment
-592,sub-sub,my old best friend,She is my old best friend. She is my cousin.,She is my best cousin.,non-entailment
-593,sub-sub,my new best friend,She is my new best friend. She is my cousin.,She is my new cousin.,non-entailment
-594,sub-sub,my new best friend,She is my new best friend. She is my cousin.,She is my best cousin.,non-entailment
-595,sub-sub,a known habitual liar,She is a known habitual liar. She is a criminal.,She is a habitual criminal.,non-entailment
-596,sub-sub,a known habitual liar,She is a known habitual liar. She is a criminal.,She is a known criminal.,non-entailment
-597,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer. She is an driver.,She is an amazing driver.,non-entailment
-598,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer. She is a driver.,She is a beginner driver.,non-entailment
-599,pri-pri,a likely next speaker,She is a likely next speaker. She is the president.,She is the next president.,non-entailment
-600,pri-pri,the likely future premier,He is the likely future premier. He is the minister of finance.,He is the likely minister of finance.,non-entailment
-601,pri-pri,the likely future premier,He is the likely future premier. He is the minister of finance.,He is the future minister of finance.,non-entailment
-602,pri-pri,past would-be reformers,They are past would-be reformers. They are prisoners.,They are past prisoners.,non-entailment
-603,pri-pri,past would-be reformers,They are past would-be reformers. They are prisoners.,They are would-be prisoners.,non-entailment
-604,pri-pri,a past unsuccessful candidate,He is a past unsuccessful candidate. He is the governor.,He is the past governor.,non-entailment
-605,pri-pri,a past unsuccessful candidate,He is a past unsuccessful candidate. He is the governor.,He is the unsuccessful governor.,non-entailment
-606,pri-pri,potential future victims,They are potential future victims. They are newborns.,They are potential newborns.,non-entailment
-607,pri-pri,potential future victims,They are potential future victims. They are newborns.,They are future newborns.,non-entailment
-608,pri-int,a fictional private detective,He is a fictional private detective. He is her lover.,He is her private lover.,non-entailment
-609,pri-int,his future American wife,She is his future American wife. She is his girlfriend.,She is his future girlfriend.,non-entailment
-610,pri-int,his future American wife,She is his future American wife. She is his neighbor.,She is his future neighbor.,non-entailment
-611,pri-sub,our previous top picks,Those are our previous top picks. Those are goods on sale.,Those are previous goods on sale.,non-entailment
-612,pri-sub,our previous top picks,Those are our previous top picks. Those are goods on sale.,Those are top goods on sale.,non-entailment
-613,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a man.,He is a former man.,non-entailment
-614,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a waiter.,He is a young waiter.,non-entailment
-615,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a waiter.,He is a former waiter.,non-entailment
-616,sub-int,a short American basketball player,He is a short American basketball player. He is a man.,He is a short man.,non-entailment
-617,sub-int,a short glacial period,This is a short glacial period. This is a duration.,This is a short duration.,non-entailment
-618,sub-int,a new Renaissance exhibit,This is a new Renaissance exhibit. This is a handicraft.,This is a new handicraft.,non-entailment
-619,sub-int,a big black ant,It is a big black ant. It is an animal.,It is a big animal.,non-entailment
-620,sub-int,a small gray elephant,It is a small gray elephant. It is an animal.,It is a small animal.,non-entailment
-621,sub-int,a heavy newborn baby,She is a heavy newborn baby. She is a human being.,She is a heavy human being.,non-entailment
-622,sub-int,a skillful American violinist,He is a skillful American violinist. He is a father.,He is a skillful father.,non-entailment
-623,sub-sub,a good beginner boxer,He is a good beginner boxer. He is a runner.,He is a beginner runner.,non-entailment
-624,sub-sub,a good beginner boxer,He is a good beginner boxer. He is a runner.,He is a good runner.,non-entailment
-625,sub-sub,America's top amateur wrestler,He is America's top amateur wrestler. He is America's athlete.,He is America's top athlete.,non-entailment
-626,sub-sub,America's top amateur wrestler,He is a top amateur wrestler. He is a doctor.,He is a top doctor.,non-entailment
-627,sub-sub,America's top amateur wrestler,He is a top amateur wrestler. He is a doctor.,He is an amateur doctor.,non-entailment
-628,sub-sub,a top junior gymnast,She is a top junior gymnast. She is a student.,She is a top student.,non-entailment
-629,sub-sub,a top junior gymnast,She is a top junior gymnast. She is an athlete.,She is a top athlete.,non-entailment
-630,pri-pri,a proposed partial free-trade agreement,This is a proposed partial free-trade agreement. This is a contract.,This is a partial contract.,non-entailment
-631,pri-pri,a possible partial buyout,This is a possible partial buyout. This is a sale.,This is a partial sale.,non-entailment
-632,pri-pri,a next would-be mogul,He is a next would-be mogul. He is an uncle.,He is a next uncle.,non-entailment
-633,pri-pri,a historic former residence,This is a historic former residence. This is a museum.,This is a former museum.,non-entailment
-634,pri-pri,a fictional past relationship,This is a fictional past relationship. This is a story.,This is a past story.,non-entailment
-635,pri-pri,an initial unofficial trading,This is an initial unofficial trading. This is a record.,This is an initial record.,non-entailment
-636,pri-pri,a deputy foreign vice minister,He is a deputy foreign vice minister. He is a musician.,He is A deputy musician.,non-entailment
-637,pri-pri,the probable next CEO,She is the probable next CEO. She is a celebrity.,She is a probable celebrity.,non-entailment
-638,pri-pri,the probable next CEO,She is the probable next CEO. She is a celebrity.,She is the next celebrity.,non-entailment
-639,pri-pri,alleged questionable expenditures,These are alleged questionable expenditures. These are purchases.,These are questionable purchases.,non-entailment
-640,pri-pri,so-called erroneous trades,These are so-called erroneous trades. These are exchanges.,These are so-called exchanges.,non-entailment
-641,pri-pri,a plausible future prime minister,He is a plausible future prime minister. He is a runner.,He is a plausible runner.,non-entailment
-642,pri-pri,a plausible future prime minister,He is a plausible future prime minister. He is a runner.,He is a future runner.,non-entailment
-643,pri-pri,future would-be immigrants,They are future would-be immigrants. They are engineers.,They are would-be engineers.,non-entailment
-644,pri-pri,future would-be immigrants,They are future would-be immigrants. They are Dominicans.,They are would-be Dominicans.,non-entailment
-645,pri-pri,mock wooden barriers,These are mock wooden barriers. These are enclosures.,These are wooden enclosures.,non-entailment
-646,pri-pri,a retired plastic surgeon,He is a retired plastic surgeon. He is an astronaut.,He is a retired astronaut.,non-entailment
-647,pri-pri,a supposed potential terrorist,She is a supposed potential terrorist. She is a grandma.,She is a supposed grandma.,non-entailment
-648,pri-pri,a supposed potential terrorist,She is a supposed potential terrorist. She is a grandma.,She is a potential grandma.,non-entailment
-649,pri-pri,his initial false pledge,This is his initial false pledge. This is an attempt.,This is an initial attempt.,non-entailment
-650,pri-pri,a proposed six-month partial ban,This is a proposed six-month partial ban. This is a regulation.,This is a partial regulation.,non-entailment
-651,pri-pri,would-be future professionals,They are would-be future professionals. They are accountants.,They are future accountants.,non-entailment
-652,pri-pri,a would-be next prime minister,She is the would-be next prime minister. She is a politician.,She is the next politician.,non-entailment
-653,pri-pri,a would-be next prime minister,She is the would-be next prime minister. She is a politician.,She is a would-be politician.,non-entailment
-654,pri-pri,our next honorary mayor,He is our next honorary mayor. He is a citizen.,He is an honorary citizen.,non-entailment
-655,pri-pri,our next honorary mayor,He is our next honorary mayor. He is a Ph.D.,He is an honorary Ph.D.,non-entailment
-656,pri-pri,our next honorary mayor,He is our next honorary mayor. He is our alumnus.,He is our next alumnus.,non-entailment
-657,pri-pri,the presumed next speaker,He is the presumed next speaker. He is the minister.,He is the next minister.,non-entailment
-658,pri-pri,the presumed next speaker,He is the presumed next speaker. He is the winner.,He is the presumed winner.,non-entailment
-659,pri-pri,a plausible potential mayor,He is a plausible potential mayor. He is a secretary.,He is a potential secretary.,non-entailment
-660,pri-pri,a plausible potential mayor,He is a plausible potential mayor. He is a secretary.,He is a plausible secretary.,non-entailment
-661,pri-pri,the next unlikely winner,He is the next unlikely winner. He is a dark horse.,He is an unlikely dark horse.,non-entailment
-662,pri-pri,a future would-be president,She is a future would-be president. She is a businesswoman.,She is a would-be businesswoman.,non-entailment
-663,pri-pri,a future would-be president,She is a future would-be president. She is a businesswoman.,She is a future businesswoman.,non-entailment
-664,pri-pri,a would-be future French Open champion,She is a would-be future French Open champion. She is a tennis player.,She is a would-be tennis player.,non-entailment
-665,pri-pri,a would-be future French Open champion,She is a would-be future French Open champion. She is a tennis player.,She is a future tennis player.,non-entailment
-666,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are companies.,They are unsuccessful companies.,non-entailment
-667,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are companies.,They are would-be companies.,non-entailment
-668,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are suppliers.,They are would-be suppliers.,non-entailment
-669,pri-pri,an unsuccessful previous launch,This is an unsuccessful previous launch. This is an explosion.,This is an unsuccessful explosion.,non-entailment
-670,pri-pri,a fictional former street urchin,This is a fictional former street urchin. This is a student delegate.,This is a former student delegate.,non-entailment
-671,pri-pri,his alleged fictitious salary,This is his alleged fictitious salary. This is information.,This is fictitious information.,non-entailment
-672,pri-pri,the so-called imminent threat,This is the so-called imminent threat. This is a rumor.,This is a so-called rumor.,non-entailment
-673,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are proposed citizens.,non-entailment
-674,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are future citizens.,non-entailment
-675,pri-pri,an apparent would-be suicide bomber,This is an apparent would-be suicide bomber. This is a father.,This is an apparent would-be father.,non-entailment
-676,pri-pri,a onetime presumed front-runner,He is a onetime presumed front-runner. He is a musician.,He is a onetime musician.,non-entailment
-677,pri-pri,A next probable foe,She is the next probable foe. She is a colleague.,She is the next colleague.,non-entailment
-678,pri-pri,a fake honorary degree,This is a fake honorary degree. This is a certificate.,This is an honorary certificate.,non-entailment
-679,pri-pri,prior false alarms,Those are prior false alarms. Those are noises.,Those are false noises.,non-entailment
-680,pri-pri,his initial false pledge,This is his initial false pledge. This is his commitment.,This is his initial commitment.,non-entailment
-681,pri-pri,the probable next CEO,He is the probable next CEO. He is a banker.,He is a probable banker.,non-entailment
-682,pri-pri,an experimental temporary solution,This is an experimental temporary solution. This is a proposal.,This is a temporary proposal.,non-entailment
-683,pri-pri,the future experimental vaccine,This is the future experimental vaccine. This is a research effort.,This is a future research effort.,non-entailment
-684,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster. This is the screenplay.,This is the next screenplay.,non-entailment
-685,pri-pri,the so-called erroneous transaction,This is the so-called erroneous transaction. This is the invoice.,This is the erroneous invoice.,non-entailment
-686,pri-pri,the would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a violinist.,He is a would-be violinist.,non-entailment
-687,pri-pri,the erroneous previous information,This is the erroneous previous information. This is the solution.,This is the previous solution.,non-entailment
-688,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a father.,He is a would-be father.,non-entailment
-689,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a politician.,He is a would-be politician.,non-entailment
-690,pri-pri,the probable next CEO,He is the probable next CEO. He is the cook.,He is the next cook.,non-entailment
-691,pri-pri,the probable next CEO,He is the probable next CEO. He is the singer.,He is the next singer.,non-entailment
-692,pri-pri,the probable next CEO,He is the probable next CEO. He is the dancer.,He is the probable dancer.,non-entailment
-693,pri-pri,simulated drowning executions,This is simulated drowning executions. This is actions.,This is drowning actions.,non-entailment
-694,pri-pri,a possible later pregnancy,This is a possible later pregnancy. This is a medication condition.,This is a later medication condition.,non-entailment
-695,pri-pri,a possible faulty restoration,This is a possible faulty restoration. This is a filling.,This is a faulty filling.,non-entailment
-696,pri-pri,a nominal historic peak,This is a nominal historic peak. This is a mountain.,This is a nominal mountain.,non-entailment
-697,pri-pri,improbable future catastrophes,These are improbable future catastrophes. These are predictions.,These are future predictions.,non-entailment
-698,pri-pri,a deputy honorary chairman,He is a deputy honorary chairman. He is a customer.,He is an honorary customer.,non-entailment
-699,pri-pri,a deputy honorary chairman,He is a deputy honorary chairman. He is a student.,He is an honorary student.,non-entailment
-700,pri-pri,a retired naval admiral,He is a retired naval admiral. He is a schoolteacher.,He is a retired schoolteacher.,non-entailment
-701,pri-pri,a retired naval admiral,He is a retired naval admiral. He is a schoolteacher.,He is a naval schoolteacher.,non-entailment
-702,pri-pri,the improbable future catastrophe,This is an improbable future catastrophe. This is a sci-fi story.,This is a future sci-fi story.,non-entailment
-703,pri-pri,an unlikely initial success,This is an unlikely initial success. This is an attempt.,This is an initial attempt.,non-entailment
-704,pri-pri,alleged suspicious transactions,These are alleged suspicious transactions. These are purchases.,These are suspicious purchases.,non-entailment
-705,pri-pri,the initial unofficial trading,This is the initial unofficial trading. This is the transaction.,This is the initial transaction.,non-entailment
-706,pri-pri,a deputy foreign vice minister,She is a deputy foreign vice minister. She is a mother.,She is a deputy mother.,non-entailment
-707,pri-pri,an apparent mistaken sell order,This is an apparent mistaken sell order. This is an arrangement.,This is an apparent arrangement.,non-entailment
-708,pri-pri,an alleged faulty weather forecast,This is an alleged faulty weather forecast. This is a prediction.,This is a faulty prediction.,non-entailment
-709,pri-pri,an alleged faulty weather forecast,This is an alleged faulty weather forecast. This is an observation result.,This is a faulty observation result.,non-entailment
-710,pri-pri,the supposed potential terrorists,These are the supposed potential terrorists. These are the soldiers.,These are the supposed soldiers.,non-entailment
-711,pri-pri,the supposed potential terrorists,These are the supposed potential terrorists. These are the soldiers.,These are the potential soldiers.,non-entailment
-712,pri-pri,a probable center-right candidate,This is a probable center-right candidate. This is a gourmet.,This is a probable gourmet.,non-entailment
-713,pri-pri,a theoretical future budget surplus,This is a theoretical future budget surplus. This is a banknote.,This is a theoretical banknote.,non-entailment
-714,pri-pri,an unlikely would-be successor,This is an unlikely would-be successor. This is an American.,This is an unlikely American.,non-entailment
-715,pri-pri,the initial half hour,This is the initial half hour. This is the period of time.,This is the half period of time.,non-entailment
-716,pri-pri,an unsuccessful artificial insemination,This is an unsuccessful artificial insemination. This is a procedure.,This is an artificial procedure.,non-entailment
-717,pri-pri,a future false alarm,This is a future false alarm. This is a warning.,This is a future warning.,non-entailment
-718,pri-pri,a dubious potential leader,This is a dubious potential leader. This is a mother.,This is a potential mother.,non-entailment
-719,pri-pri,a dubious potential leader,This is a dubious potential leader. This is a chef.,This is a potential chef.,non-entailment
-720,pri-pri,an initial virtual flight,This is an initial virtual flight. This is an arrangement.,This is an initial arrangement.,non-entailment
-721,pri-pri,a probable former convict,This is a probable former convict. This is a father.,This is a probable father.,non-entailment
-722,pri-pri,a probable former convict,This is a probable former convict. This is a pianist.,This is a former pianist.,non-entailment
-723,pri-pri,other apparent failed presidencies,These are other apparent failed presidencies. These are leadership.,These are apparent leadership.,non-entailment
-724,pri-pri,a retired former French diplomat,He is a retired former French diplomat. He is a humanitarian.,He is a former humanitarian.,non-entailment
-725,pri-pri,a retired former French diplomat,He is a retired former French diplomat. He is a humanitarian.,He is a retired humanitarian.,non-entailment
-726,pri-pri,a onetime alleged dirty-bomb plotter,He is a onetime alleged dirty-bomb plotter. He is a terrorist.,He is a onetime terrorist.,non-entailment
-727,pri-pri,the presumed future leader,This is the presumed future leader. This is the dictator.,This is the future dictator.,non-entailment
-728,pri-pri,the theoretical expected rate,This is a theoretical expected rate. This is an algorithm.,This is an expected algorithm.,non-entailment
-729,pri-pri,an apparent false alarm,This is an apparent false alarm. This is an emergency.,This is an apparent emergency.,non-entailment
-730,pri-pri,a retired black deputy sherriff,He is a retired black deputy sherriff. He is a father.,He is a retired father.,non-entailment
-731,pri-pri,a failed former pick,He is a failed former pick. He is a prospect.,He is a former prospect.,non-entailment
-732,pri-pri,an apparent fraudulent statement,This is an apparent fraudulent statement. This is a theory.,This is an apparent theory.,non-entailment
-733,pri-pri,those presumed future contenders,They are the presumed future contenders. They are candidates.,They are the presumed candidates.,non-entailment
-734,pri-pri,imminent potential reactions,These are imminent potential reactions. These are retaliations.,These are imminent retaliations.,non-entailment
-735,pri-pri,future hypothetical threats,These are future hypothetical threats. These are aggressions.,These are future aggressions.,non-entailment
-736,pri-pri,a potential negative impact,He has a potential negative impact. He has an impression.,He has a negative impression.,non-entailment
-737,pri-pri,an almost empty house,This is an almost empty house. This is a basement.,This is an empty basement.,non-entailment
-738,pri-pri,a fictional former character,He is a fictional former character. He is a firefighter.,He is a former firefighter.,non-entailment
-739,pri-pri,the previous erroneous information,This is the previous erroneous information. This is the assistance.,This is the previous assistance.,non-entailment
-740,pri-pri,the so-called imminent danger,This is the so-called imminent danger. This is the bloodshed.,This is the imminent bloodshed.,non-entailment
-741,pri-pri,the so-called imminent danger,This is the so-called imminent danger. This is the bloodshed.,This is the so-called bloodshed.,non-entailment
-742,pri-int,a retired electrical designer,He is a retired electrical designer. He is a high-school teacher.,He is a retired high-school teacher.,non-entailment
-743,pri-int,a retired Soviet spy,He is a retired Soviet spy. He is a doctor.,He is a retired doctor.,non-entailment
-744,pri-int,a previous military ruler,He is a previous military ruler. He is a beggar.,He is a previous beggar.,non-entailment
-745,pri-int,a previous Brazilian leader,He is a previous Brazilian leader. He is a prisoner.,He is a previous prisoner.,non-entailment
-746,pri-int,would-be foreign students,They are would-be foreign students. They are immigrants.,They are would-be immigrants.,non-entailment
-747,pri-int,two would-be female suicide bombers,They are two would-be female suicide bombers. They are terrorists.,They are would-be terrorists.,non-entailment
-748,pri-int,would-be female entrepreneurs,They are would-be female entrepreneurs. They are women.,They are would-be women.,non-entailment
-749,pri-int,would-be female entrepreneurs,They are would-be female entrepreneurs. They are students.,They are would-be students.,non-entailment
-750,pri-int,would-be civil servants,They are would-be civil servants. They are candidates.,They are would-be candidates.,non-entailment
-751,pri-int,would-be civil servants,They are would-be civil servants. They are graduates.,They are would-be graduates.,non-entailment
-752,pri-int,a would-be financial supporter,She is a would-be financial supporter. She is a philanthropist.,She is a would-be philanthropist.,non-entailment
-753,pri-int,a counterfeit Italian banknote,This is a counterfeit Italian banknote. This is paper.,This is counterfeit paper.,non-entailment
-754,pri-int,a counterfeit Italian banknote,This is a counterfeit Italian banknote. This is paper.,This is Italian paper.,non-entailment
-755,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are herbs.,Those are Chinese herbs.,non-entailment
-756,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are plants.,Those are counterfeit plants.,non-entailment
-757,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are plants.,Those are Chinese plants.,non-entailment
-758,pri-int,a mock criminal trial,This is a mock criminal trial. This is a lesson.,This is a mock lesson.,non-entailment
-759,pri-int,her presumed electoral victory,This is her presumed electoral victory. This is a defeat.,This is a presumed defeat.,non-entailment
-760,pri-int,a presumed scientific advancement,This is a presumed scientific advancement. This is a failure.,This is a presumed failure.,non-entailment
-761,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a presumed surprise.,non-entailment
-762,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a horrible surprise.,non-entailment
-763,pri-int,a gold American eagle,This is a gold American eagle. This is a statue.,This is an American statue.,non-entailment
-764,pri-sub,a plausible big idea,This is a plausible big idea. This is a misconception.,This is a big misconception.,non-entailment
-765,pri-sub,a plausible big idea,This is a plausible big idea. This is a prejudice.,This is a plausible prejudice.,non-entailment
-766,pri-sub,a plausible big idea,This is a plausible big idea. This is a prejudice.,This is a big prejudice.,non-entailment
+544,pri-sub,a plausible big idea,This is a plausible big idea. This is a dream.,This is a plausible dream.,entailment
+545,pri-sub,a plausible big idea,This is a plausible big idea. This is a dream.,This is a big dream.,entailment
+546,pri-sub,an assumed average weight,This is an assumed average weight. This is a statistic.,This is an assumed statistic.,entailment
+547,pri-pri,the initial half hour,This is the initial half hour. This is a round.,This is the initial round.,entailment
+548,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the former CEO.,non-entailment
+549,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the vice CEO.,non-entailment
+550,pri-pri,the future deputy administrator,She is the future deputy administrator. She is the secretary.,She is the future secretary.,non-entailment
+551,pri-pri,the future deputy administrator,She is the future deputy administrator. She is the secretary.,She is the deputy secretary.,non-entailment
+552,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director. She is the mayor.,She is the former mayor.,non-entailment
+553,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director. She is the mayor.,She is the deputy mayor.,non-entailment
+554,pri-pri,a former alleged thief,This is a former alleged thief. This is a victim.,This is a former victim.,non-entailment
+555,pri-pri,a former alleged thief,This is a former alleged thief. This is a victim.,This is an alleged victim.,non-entailment
+556,pri-pri,an alleged former thief,This is an alleged former thief. This is a victim.,This is a former victim.,non-entailment
+557,pri-pri,an alleged former thief,This is an alleged former thief. This is a victim.,This is an alleged victim.,non-entailment
+558,pri-int,an alleged male criminal,He is an alleged male criminal. He is a student.,He is an alleged student.,non-entailment
+559,pri-int,a so-called American expert,She is a so-called American expert. She is a Christian.,She is a so-called Christian.,non-entailment
+560,pri-int,a former European commissioner,He is a former European commissioner. He is a professor.,He is a former professor.,non-entailment
+561,pri-int,a former Australian owner,She is a former Australian owner. She is a teacher.,She is a former teacher.,non-entailment
+562,pri-int,our next popular star,She is our next popular star. She is our friend.,She is our next friend.,non-entailment
+563,pri-int,a so-called poisonous pill,This is a so-called poisonous pill. This is a placebo.,This is a so-called placebo.,non-entailment
+564,pri-int,a so-called poisonous pill,This is a so-called poisonous pill. This is a placebo.,This is a poisonous placebo.,non-entailment
+565,pri-int,a fictional private detective,He is a fictional private detective. He is a citizen.,He is a private citizen.,non-entailment
+566,pri-int,his future American wife,She is his future American wife. She is his girlfriend.,She is his future girlfriend.,non-entailment
+567,pri-sub,a so-called senior expert,She is a so-called senior expert. She is a manager.,She is a so-called manager.,non-entailment
+568,pri-sub,a so-called senior expert,She is a so-called senior expert. She is a manager.,She is a senior manager.,non-entailment
+569,pri-sub,a so-called professional drummer,He is a so-called professional drummer. He is a songwriter.,He is a so-called songwriter.,non-entailment
+570,pri-sub,a so-called professional drummer,He is a so-called professional drummer. He is a songwriter.,He is a professional songwriter.,non-entailment
+571,pri-sub,the former senior president,He is the former senior president. He is a writer.,He is a former writer.,non-entailment
+572,pri-sub,the former senior president,He is the former senior president. He is a writer.,He is a senior writer.,non-entailment
+573,pri-sub,his potential second wife,She is his potential second wife. She is his date.,She is his potential date.,non-entailment
+574,pri-sub,his potential second wife,She is his potential second wife. She is his date.,She is his second date.,non-entailment
+575,pri-sub,so-called good junk-bond offerings,These are so-called good junk-bond offerings. This is fraud.,This is so-called fraud.,non-entailment
+576,pri-sub,a former beautiful actress,She is a former beautiful actress. She is a housewife.,She is a former housewife.,non-entailment
+577,pri-sub,a former skillful surgeon,He is a former skillful surgeon. He is a tennis player.,He is a former tennis player.,non-entailment
+578,pri-sub,a former skillful surgeon,He is a former skillful surgeon. He is a tennis player.,He is a skillful tennis player.,non-entailment
+579,pri-sub,a former famous actor,He is a former famous actor. He is a chauffeur.,He is a former chauffeur.,non-entailment
+580,pri-sub,a former famous actor,He is a former famous actor. He is a chauffeur.,He is a famous chauffeur.,non-entailment
+581,sub-pri,Phoenix's senior vice president,He is Phoenix's senior vice president. He is Phoenix's citizen.,He is Phoenix's senior citizen.,non-entailment
+582,sub-pri,new potential customers,They are new potential customers. They are immigrants.,They are new immigrants.,non-entailment
+583,sub-pri,new potential customers,They are new potential customers. They are immigrants.,They are potential immigrants.,non-entailment
+584,sub-int,an attractive beginner golfer,He is an attractive beginner golfer. He is a skier.,He is a beginner skier.,non-entailment
+585,sub-int,New York's first black mayor,He is New York's first black mayor. He is New York's citizen.,He is New York's first citizen.,non-entailment
+586,sub-int,a famous American painter,She is a famous American painter. She is a mother.,She is a famous mother.,non-entailment
+587,sub-int,a famous American dancer,She is a famous American dancer. She is a writer.,She is a famous writer.,non-entailment
+588,sub-int,my favorite local restaurant,This is my favorite local restaurant. This is my place.,This is my favorite place.,non-entailment
+589,sub-sub,good senior bankers,They are good senior bankers. They are mentors.,They are good mentors.,non-entailment
+590,sub-sub,an ordinary unskilled laborer,He is an ordinary unskilled laborer. He is a father.,He is an unskilled father.,non-entailment
+591,sub-sub,the only big losers,They are the only big losers. They are idiots.,They are big idiots.,non-entailment
+592,sub-sub,the only big losers,They are the only big losers. They are idiots.,They are the only idiots.,non-entailment
+593,sub-sub,a big dumb idiot,He is a big dumb idiot. He is a person.,He is a big person.,non-entailment
+594,sub-sub,my old best friend,She is my old best friend. She is my cousin.,She is my old cousin.,non-entailment
+595,sub-sub,my old best friend,She is my old best friend. She is my cousin.,She is my best cousin.,non-entailment
+596,sub-sub,my new best friend,She is my new best friend. She is my cousin.,She is my new cousin.,non-entailment
+597,sub-sub,my new best friend,She is my new best friend. She is my cousin.,She is my best cousin.,non-entailment
+598,sub-sub,a known habitual liar,She is a known habitual liar. She is a criminal.,She is a habitual criminal.,non-entailment
+599,sub-sub,a known habitual liar,She is a known habitual liar. She is a criminal.,She is a known criminal.,non-entailment
+600,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer. She is a driver.,She is an amazing driver.,non-entailment
+601,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer. She is a driver.,She is a beginner driver.,non-entailment
+602,pri-pri,a likely next speaker,She is the likely next speaker. She is the president.,She is the next president.,non-entailment
+603,pri-pri,the likely future premier,He is the likely future premier. He is the minister of finance.,He is the likely minister of finance.,non-entailment
+604,pri-pri,the likely future premier,He is the likely future premier. He is the minister of finance.,He is the future minister of finance.,non-entailment
+605,pri-pri,past would-be reformers,They are past would-be reformers. They are prisoners.,They are past prisoners.,non-entailment
+606,pri-pri,past would-be reformers,They are past would-be reformers. They are prisoners.,They are would-be prisoners.,non-entailment
+607,pri-pri,a past unsuccessful candidate,He is a past unsuccessful candidate. He is the governor.,He is the past governor.,non-entailment
+608,pri-pri,a past unsuccessful candidate,He is a past unsuccessful candidate. He is the governor.,He is the unsuccessful governor.,non-entailment
+609,pri-pri,potential future victims,They are potential future victims. They are newborns.,They are potential newborns.,non-entailment
+610,pri-pri,potential future victims,They are potential future victims. They are newborns.,They are future newborns.,non-entailment
+611,pri-int,a fictional private detective,He is a fictional private detective. He is her lover.,He is her private lover.,non-entailment
+612,pri-int,his future American wife,She is his future American wife. She is his girlfriend.,She is his future girlfriend.,non-entailment
+613,pri-int,his future American wife,She is his future American wife. She is his neighbor.,She is his future neighbor.,non-entailment
+614,pri-sub,our previous top picks,Those are our previous top picks. Those are goods on sale.,Those are previous goods on sale.,non-entailment
+615,pri-sub,our previous top picks,Those are our previous top picks. Those are goods on sale.,Those are top goods on sale.,non-entailment
+616,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a man.,He is a former man.,non-entailment
+617,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a waiter.,He is a young waiter.,non-entailment
+618,pri-sub,an arrogant former young genius,He is an arrogant former young genius. He is a waiter.,He is a former waiter.,non-entailment
+619,sub-int,a short American basketball player,He is a short American basketball player. He is a man.,He is a short man.,non-entailment
+620,sub-int,a short glacial period,This is a short glacial period. This is a duration.,This is a short duration.,non-entailment
+621,sub-int,a new Renaissance exhibit,This is a new Renaissance exhibit. This is a handicraft.,This is a new handicraft.,non-entailment
+622,sub-int,a big black ant,It is a big black ant. It is an animal.,It is a big animal.,non-entailment
+623,sub-int,a small gray elephant,It is a small gray elephant. It is an animal.,It is a small animal.,non-entailment
+624,sub-int,a heavy newborn baby,She is a heavy newborn baby. She is a human being.,She is a heavy human being.,non-entailment
+625,sub-int,a skillful American violinist,He is a skillful American violinist. He is a father.,He is a skillful father.,non-entailment
+626,sub-sub,a good beginner boxer,He is a good beginner boxer. He is a runner.,He is a beginner runner.,non-entailment
+627,sub-sub,a good beginner boxer,He is a good beginner boxer. He is a runner.,He is a good runner.,non-entailment
+628,sub-sub,America's top amateur wrestler,He is America's top amateur wrestler. He is America's athlete.,He is America's top athlete.,non-entailment
+629,sub-sub,America's top amateur wrestler,He is a top amateur wrestler. He is a doctor.,He is a top doctor.,non-entailment
+630,sub-sub,America's top amateur wrestler,He is a top amateur wrestler. He is a doctor.,He is an amateur doctor.,non-entailment
+631,sub-sub,a top junior gymnast,She is a top junior gymnast. She is a student.,She is a top student.,non-entailment
+632,sub-sub,a top junior gymnast,She is a top junior gymnast. She is an athlete.,She is a top athlete.,non-entailment
+633,pri-pri,a proposed partial free-trade agreement,This is a proposed partial free-trade agreement. This is a contract.,This is a partial contract.,non-entailment
+634,pri-pri,a possible partial buyout,This is a possible partial buyout. This is a sale.,This is a partial sale.,non-entailment
+635,pri-pri,the next would-be mogul,He is the next would-be mogul. He is an uncle.,He is the next uncle.,non-entailment
+636,pri-pri,a historic former residence,This is a historic former residence. This is a museum.,This is a former museum.,non-entailment
+637,pri-pri,a fictional past relationship,This is a fictional past relationship. This is a story.,This is a past story.,non-entailment
+638,pri-pri,an initial unofficial trading,This is an initial unofficial trading. This is a record.,This is an initial record.,non-entailment
+639,pri-pri,a deputy foreign vice minister,He is a deputy foreign vice minister. He is a musician.,He is A deputy musician.,non-entailment
+640,pri-pri,the probable next CEO,She is the probable next CEO. She is a celebrity.,She is a probable celebrity.,non-entailment
+641,pri-pri,the probable next CEO,She is the probable next CEO. She is a celebrity.,She is the next celebrity.,non-entailment
+642,pri-pri,alleged questionable expenditures,These are alleged questionable expenditures. These are purchases.,These are questionable purchases.,non-entailment
+643,pri-pri,so-called erroneous trades,These are so-called erroneous trades. These are exchanges.,These are so-called exchanges.,non-entailment
+644,pri-pri,a plausible future prime minister,He is a plausible future prime minister. He is a runner.,He is a plausible runner.,non-entailment
+645,pri-pri,a plausible future prime minister,He is a plausible future prime minister. He is a runner.,He is a future runner.,non-entailment
+646,pri-pri,future would-be immigrants,They are future would-be immigrants. They are engineers.,They are would-be engineers.,non-entailment
+647,pri-pri,future would-be immigrants,They are future would-be immigrants. They are Dominicans.,They are would-be Dominicans.,non-entailment
+648,pri-pri,mock wooden barriers,These are mock wooden barriers. These are enclosures.,These are wooden enclosures.,non-entailment
+649,pri-pri,a retired plastic surgeon,He is a retired plastic surgeon. He is an astronaut.,He is a retired astronaut.,non-entailment
+650,pri-pri,a supposed potential terrorist,She is a supposed potential terrorist. She is a grandma.,She is a supposed grandma.,non-entailment
+651,pri-pri,a supposed potential terrorist,She is a supposed potential terrorist. She is a grandma.,She is a potential grandma.,non-entailment
+652,pri-pri,his initial false pledge,This is his initial false pledge. This is an attempt.,This is an initial attempt.,non-entailment
+653,pri-pri,a proposed six-month partial ban,This is a proposed six-month partial ban. This is a regulation.,This is a partial regulation.,non-entailment
+654,pri-pri,would-be future professionals,They are would-be future professionals. They are accountants.,They are future accountants.,non-entailment
+655,pri-pri,a would-be next prime minister,She is the would-be next prime minister. She is a politician.,She is the next politician.,non-entailment
+656,pri-pri,a would-be next prime minister,She is the would-be next prime minister. She is a politician.,She is a would-be politician.,non-entailment
+657,pri-pri,our next honorary mayor,He is our next honorary mayor. He is a citizen.,He is an honorary citizen.,non-entailment
+658,pri-pri,our next honorary mayor,He is our next honorary mayor. He is a Ph.D.,He is an honorary Ph.D.,non-entailment
+659,pri-pri,our next honorary mayor,He is our next honorary mayor. He is our alumnus.,He is our next alumnus.,non-entailment
+660,pri-pri,the presumed next speaker,He is the presumed next speaker. He is the minister.,He is the next minister.,non-entailment
+661,pri-pri,the presumed next speaker,He is the presumed next speaker. He is the winner.,He is the presumed winner.,non-entailment
+662,pri-pri,a plausible potential mayor,He is a plausible potential mayor. He is a secretary.,He is a potential secretary.,non-entailment
+663,pri-pri,a plausible potential mayor,He is a plausible potential mayor. He is a secretary.,He is a plausible secretary.,non-entailment
+664,pri-pri,the next unlikely winner,He is the next unlikely winner. He is a dark horse.,He is an unlikely dark horse.,non-entailment
+665,pri-pri,a future would-be president,She is a future would-be president. She is a businesswoman.,She is a would-be businesswoman.,non-entailment
+666,pri-pri,a future would-be president,She is a future would-be president. She is a businesswoman.,She is a future businesswoman.,non-entailment
+667,pri-pri,a would-be future French Open champion,She is a would-be future French Open champion. She is a tennis player.,She is a would-be tennis player.,non-entailment
+668,pri-pri,a would-be future French Open champion,She is a would-be future French Open champion. She is a tennis player.,She is a future tennis player.,non-entailment
+669,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are companies.,They are unsuccessful companies.,non-entailment
+670,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are companies.,They are would-be companies.,non-entailment
+671,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers. They are suppliers.,They are would-be suppliers.,non-entailment
+672,pri-pri,an unsuccessful previous launch,This is an unsuccessful previous launch. This is an explosion.,This is an unsuccessful explosion.,non-entailment
+673,pri-pri,a fictional former street urchin,This is a fictional former street urchin. This is a student delegate.,This is a former student delegate.,non-entailment
+674,pri-pri,his alleged fictitious salary,This is his alleged fictitious salary. This is information.,This is fictitious information.,non-entailment
+675,pri-pri,the so-called imminent threat,This is the so-called imminent threat. This is a rumor.,This is a so-called rumor.,non-entailment
+676,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are proposed citizens.,non-entailment
+677,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are future citizens.,non-entailment
+678,pri-pri,an apparent would-be suicide bomber,This is an apparent would-be suicide bomber. This is a father.,This is an apparent would-be father.,non-entailment
+679,pri-pri,a onetime presumed front-runner,He is a onetime presumed front-runner. He is a musician.,He is a onetime musician.,non-entailment
+680,pri-pri,The next probable foe,She is the next probable foe. She is a colleague.,She is the next colleague.,non-entailment
+681,pri-pri,a fake honorary degree,This is a fake honorary degree. This is a certificate.,This is an honorary certificate.,non-entailment
+682,pri-pri,prior false alarms,Those are prior false alarms. Those are noises.,Those are false noises.,non-entailment
+683,pri-pri,his initial false pledge,This is his initial false pledge. This is his commitment.,This is his initial commitment.,non-entailment
+684,pri-pri,the probable next CEO,He is the probable next CEO. He is a banker.,He is a probable banker.,non-entailment
+685,pri-pri,an experimental temporary solution,This is an experimental temporary solution. This is a proposal.,This is a temporary proposal.,non-entailment
+686,pri-pri,the future experimental vaccine,This is the future experimental vaccine. This is a research effort.,This is a future research effort.,non-entailment
+687,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster. This is the screenplay.,This is the next screenplay.,non-entailment
+688,pri-pri,the so-called erroneous transaction,This is the so-called erroneous transaction. This is the invoice.,This is the erroneous invoice.,non-entailment
+689,pri-pri,the would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a violinist.,He is a would-be violinist.,non-entailment
+690,pri-pri,the erroneous previous information,This is the erroneous previous information. This is the solution.,This is the previous solution.,non-entailment
+691,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a father.,He is a would-be father.,non-entailment
+692,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader. He is a politician.,He is a would-be politician.,non-entailment
+693,pri-pri,the probable next CEO,He is the probable next CEO. He is the cook.,He is the next cook.,non-entailment
+694,pri-pri,the probable next CEO,He is the probable next CEO. He is the singer.,He is the next singer.,non-entailment
+695,pri-pri,the probable next CEO,He is the probable next CEO. He is the dancer.,He is the probable dancer.,non-entailment
+696,pri-pri,simulated drowning executions,These are simulated drowning executions. These are actions.,These are drowning actions.,non-entailment
+697,pri-pri,a possible later pregnancy,This is a possible later pregnancy. This is a medication condition.,This is a later medication condition.,non-entailment
+698,pri-pri,a possible faulty restoration,This is a possible faulty restoration. This is a filling.,This is a faulty filling.,non-entailment
+699,pri-pri,a nominal historic peak,This is a nominal historic peak. This is a mountain.,This is a nominal mountain.,non-entailment
+700,pri-pri,improbable future catastrophes,These are improbable future catastrophes. These are predictions.,These are future predictions.,non-entailment
+701,pri-pri,a deputy honorary chairman,He is a deputy honorary chairman. He is a customer.,He is an honorary customer.,non-entailment
+702,pri-pri,a deputy honorary chairman,He is a deputy honorary chairman. He is a student.,He is an honorary student.,non-entailment
+703,pri-pri,a retired naval admiral,He is a retired naval admiral. He is a schoolteacher.,He is a retired schoolteacher.,non-entailment
+704,pri-pri,a retired naval admiral,He is a retired naval admiral. He is a schoolteacher.,He is a naval schoolteacher.,non-entailment
+705,pri-pri,the improbable future catastrophe,This is an improbable future catastrophe. This is a sci-fi story.,This is a future sci-fi story.,non-entailment
+706,pri-pri,an unlikely initial success,This is an unlikely initial success. This is an attempt.,This is an initial attempt.,non-entailment
+707,pri-pri,alleged suspicious transactions,These are alleged suspicious transactions. These are purchases.,These are suspicious purchases.,non-entailment
+708,pri-pri,the initial unofficial trading,This is the initial unofficial trading. This is the transaction.,This is the initial transaction.,non-entailment
+709,pri-pri,a deputy foreign vice minister,She is a deputy foreign vice minister. She is a mother.,She is a deputy mother.,non-entailment
+710,pri-pri,an apparent mistaken sell order,This is an apparent mistaken sell order. This is an arrangement.,This is an apparent arrangement.,non-entailment
+711,pri-pri,an alleged faulty weather forecast,This is an alleged faulty weather forecast. This is a prediction.,This is a faulty prediction.,non-entailment
+712,pri-pri,an alleged faulty weather forecast,This is an alleged faulty weather forecast. This is an observation result.,This is a faulty observation result.,non-entailment
+713,pri-pri,the supposed potential terrorists,These are the supposed potential terrorists. These are the soldiers.,These are the supposed soldiers.,non-entailment
+714,pri-pri,the supposed potential terrorists,These are the supposed potential terrorists. These are the soldiers.,These are the potential soldiers.,non-entailment
+715,pri-pri,a probable center-right candidate,This is a probable center-right candidate. This is a gourmet.,This is a probable gourmet.,non-entailment
+716,pri-pri,a theoretical future budget surplus,This is a theoretical future budget surplus. This is a banknote.,This is a theoretical banknote.,non-entailment
+717,pri-pri,an unlikely would-be successor,This is an unlikely would-be successor. This is an American.,This is an unlikely American.,non-entailment
+718,pri-pri,the initial half hour,This is the initial half hour. This is a round.,This is half a round.,non-entailment
+719,pri-pri,an unsuccessful artificial insemination,This is an unsuccessful artificial insemination. This is a procedure.,This is an artificial procedure.,non-entailment
+720,pri-pri,a future false alarm,This is a future false alarm. This is a warning.,This is a future warning.,non-entailment
+721,pri-pri,a dubious potential leader,This is a dubious potential leader. This is a mother.,This is a potential mother.,non-entailment
+722,pri-pri,a dubious potential leader,This is a dubious potential leader. This is a chef.,This is a potential chef.,non-entailment
+723,pri-pri,an initial virtual flight,This is an initial virtual flight. This is an arrangement.,This is an initial arrangement.,non-entailment
+724,pri-pri,a probable former convict,This is a probable former convict. This is a father.,This is a probable father.,non-entailment
+725,pri-pri,a probable former convict,This is a probable former convict. This is a pianist.,This is a former pianist.,non-entailment
+726,pri-pri,other apparent failed presidencies,These are other apparent failed presidencies. These are leadership.,These are apparent leadership.,non-entailment
+727,pri-pri,a retired former French diplomat,He is a retired former French diplomat. He is a humanitarian.,He is a former humanitarian.,non-entailment
+728,pri-pri,a retired former French diplomat,He is a retired former French diplomat. He is a humanitarian.,He is a retired humanitarian.,non-entailment
+729,pri-pri,a onetime alleged dirty-bomb plotter,He is a onetime alleged dirty-bomb plotter. He is a terrorist.,He is a onetime terrorist.,non-entailment
+730,pri-pri,the presumed future leader,This is the presumed future leader. This is the dictator.,This is the future dictator.,non-entailment
+731,pri-pri,the theoretical expected rate,This is a theoretical expected rate. This is an algorithm.,This is an expected algorithm.,non-entailment
+732,pri-pri,an apparent false alarm,This is an apparent false alarm. This is an emergency.,This is an apparent emergency.,non-entailment
+733,pri-pri,a retired black deputy sheriff,He is a retired black deputy sheriff. He is a father.,He is a retired father.,non-entailment
+734,pri-pri,a failed former pick,He is a failed former pick. He is a prospect.,He is a former prospect.,non-entailment
+735,pri-pri,an apparent fraudulent statement,This is an apparent fraudulent statement. This is a theory.,This is an apparent theory.,non-entailment
+736,pri-pri,those presumed future contenders,They are the presumed future contenders. They are candidates.,They are the presumed candidates.,non-entailment
+737,pri-pri,imminent potential reactions,These are imminent potential reactions. These are retaliations.,These are imminent retaliations.,non-entailment
+738,pri-pri,future hypothetical threats,These are future hypothetical threats. These are aggressions.,These are future aggressions.,non-entailment
+739,pri-pri,a potential negative impact,He has a potential negative impact. He has an impression.,He has a negative impression.,non-entailment
+740,pri-pri,an almost empty house,This is an almost empty house. This is a basement.,This is an empty basement.,non-entailment
+741,pri-pri,a fictional former character,He is a fictional former character. He is a firefighter.,He is a former firefighter.,non-entailment
+742,pri-pri,the previous erroneous information,This is the previous erroneous information. This is the assistance.,This is the previous assistance.,non-entailment
+743,pri-pri,the so-called imminent danger,This is the so-called imminent danger. This is the bloodshed.,This is the imminent bloodshed.,non-entailment
+744,pri-pri,the so-called imminent danger,This is the so-called imminent danger. This is the bloodshed.,This is the so-called bloodshed.,non-entailment
+745,pri-int,a retired electrical designer,He is a retired electrical designer. He is a high-school teacher.,He is a retired high-school teacher.,non-entailment
+746,pri-int,a retired Soviet spy,He is a retired Soviet spy. He is a doctor.,He is a retired doctor.,non-entailment
+747,pri-int,a previous military ruler,He is a previous military ruler. He is a beggar.,He is a previous beggar.,non-entailment
+748,pri-int,a previous Brazilian leader,He is a previous Brazilian leader. He is a prisoner.,He is a previous prisoner.,non-entailment
+749,pri-int,would-be foreign students,They are would-be foreign students. They are immigrants.,They are would-be immigrants.,non-entailment
+750,pri-int,two would-be female suicide bombers,They are two would-be female suicide bombers. They are terrorists.,They are would-be terrorists.,non-entailment
+751,pri-int,would-be female entrepreneurs,They are would-be female entrepreneurs. They are women.,They are would-be women.,non-entailment
+752,pri-int,would-be female entrepreneurs,They are would-be female entrepreneurs. They are students.,They are would-be students.,non-entailment
+753,pri-int,would-be civil servants,They are would-be civil servants. They are candidates.,They are would-be candidates.,non-entailment
+754,pri-int,would-be civil servants,They are would-be civil servants. They are graduates.,They are would-be graduates.,non-entailment
+755,pri-int,a would-be financial supporter,She is a would-be financial supporter. She is a philanthropist.,She is a would-be philanthropist.,non-entailment
+756,pri-int,a counterfeit Italian banknote,This is a counterfeit Italian banknote. This is paper.,This is counterfeit paper.,non-entailment
+757,pri-int,a counterfeit Italian banknote,This is a counterfeit Italian banknote. This is paper.,This is Italian paper.,non-entailment
+758,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are herbs.,Those are Chinese herbs.,non-entailment
+759,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are plants.,Those are counterfeit plants.,non-entailment
+760,pri-int,counterfeit Chinese medicines,Those are counterfeit Chinese medicines. Those are plants.,Those are Chinese plants.,non-entailment
+761,pri-int,a mock criminal trial,This is a mock criminal trial. This is a lesson.,This is a mock lesson.,non-entailment
+762,pri-int,her presumed electoral victory,This is her presumed electoral victory. This is a defeat.,This is a presumed defeat.,non-entailment
+763,pri-int,a presumed scientific advancement,This is a presumed scientific advancement. This is a failure.,This is a presumed failure.,non-entailment
+764,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a presumed surprise.,non-entailment
+765,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a horrible surprise.,non-entailment
+766,pri-int,a gold American eagle,This is a gold American eagle. This is a statue.,This is an American statue.,non-entailment
 767,pri-sub,a partial new cabinet,This is a partial new cabinet. This is an institution.,This is a new institution.,non-entailment
 768,pri-sub,the disputed tiny colony,This is the disputed tiny colony. This is his hometown.,This is his disputed hometown.,non-entailment
 769,pri-sub,a seeming minor decision,This is a seeming minor decision. This is a choice.,This is a minor choice.,non-entailment
@@ -832,7 +832,7 @@ id,combo,source NP,premise,hypothesis,label
 831,pri-sub,a presumed front runner,This is a presumed front runner. This is a loser.,This is a presumed loser.,non-entailment
 832,pri-sub,a onetime musical director,He is a onetime musical director. He is a performer.,He is a onetime performer.,non-entailment
 833,pri-sub,a onetime musical director,He is a onetime musical director. He is a musician.,He is a onetime musician.,non-entailment
-834,pri-sub,a would-be front runner,She is a would-be front runner. She is a all-star.,She is a would-be all-star.,non-entailment
+834,pri-sub,a would-be front runner,She is a would-be front runner. She is an all-star.,She is a would-be all-star.,non-entailment
 835,pri-sub,a would-be front runner,She is a would-be front runner. She is a stand-in.,She is a would-be stand-in.,non-entailment
 836,pri-sub,dubious strategic motives,Those are dubious strategic motives. Those are plans.,Those are strategic plans.,non-entailment
 837,pri-sub,surrogate big leaguers,They are surrogate big leaguers. They are mothers.,They are surrogate mothers.,non-entailment
@@ -882,13 +882,13 @@ id,combo,source NP,premise,hypothesis,label
 881,pri-sub,a retired federal lawyer,He is a retired federal lawyer. He is a father.,He is a federal father.,non-entailment
 882,pri-sub,a retired federal lawyer,He is a retired federal lawyer. He is a husband.,He is a federal husband.,non-entailment
 883,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier. He is Al-Qaeda's leader.,He is Al-Qaeda's top leader.,non-entailment
-884,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is the supporter.,He is the previous supporter.,non-entailment
-885,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is the fundraiser.,He is the previous fundraiser.,non-entailment
-886,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is the financier.,He is the previous financier.,non-entailment
+884,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is a supporter.,He is the previous supporter.,non-entailment
+885,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is a fundraiser.,He is the previous fundraiser.,non-entailment
+886,pri-sub,the previous presidential nominee,He is the previous presidential nominee. He is a financier.,He is the previous financier.,non-entailment
 887,pri-sub,the supposed corrupt federal official,He is the supposed corrupt federal official. He is a father.,He is a supposed father.,non-entailment
 888,pri-sub,the supposed corrupt federal official,He is the supposed corrupt federal official. He is a pianist.,He is a supposed pianist.,non-entailment
 889,pri-sub,a somewhat disputed eighth championship,This is a somewhat disputed eighth championship. This is a title.,This is the eighth title.,non-entailment
-890,pri-sub,a next top star,She is a next top star. She is an actress.,She is a top actress.,non-entailment
+890,pri-sub,the next top star,She is the next top star. She is an actress.,She is a top actress.,non-entailment
 891,pri-sub,A would-be classic baseball game,This is A would-be classic baseball game. This is a contest.,This is a classic contest.,non-entailment
 892,pri-sub,a presumed strong competitor,He is a presumed strong competitor. He is a human.,He is a strong human.,non-entailment
 893,pri-sub,a presumed short circuit,This is a presumed short circuit. This is a path.,This is a short path.,non-entailment
@@ -898,12 +898,12 @@ id,combo,source NP,premise,hypothesis,label
 897,pri-sub,a partial strategic success,This is a partial strategic success. This is recognition.,This is partial recognition.,non-entailment
 898,pri-sub,a fictitious professional golfer,He is a fictitious professional golfer. He is a student.,He is a professional student.,non-entailment
 899,pri-sub,a fictitious professional golfer,He is a fictitious professional golfer. He is a son.,He is a professional son.,non-entailment
-900,pri-sub,a theoretical short list,This is a theoretical short list. This is a catalogue.,This is a short catalogue.,non-entailment
+900,pri-sub,a theoretical short list,This is a theoretical short list. This is a catalog.,This is a short catalog.,non-entailment
 901,pri-sub,a theoretical short list,This is a theoretical short list. This is a collection.,This is a short collection.,non-entailment
 902,pri-sub,a mock serious tone,This is a mock serious tone. This is a voice.,This is a serious voice.,non-entailment
 903,pri-sub,a mock serious tone,This is a mock serious tone. This is an expression.,This is a serious expression.,non-entailment
 904,pri-sub,dubious strategic value,It has dubious strategic value. It has importance.,It has strategic importance.,non-entailment
-905,pri-sub,dubious strategic value,It has dubious strategic value. It has benefit.,It has strategic benefit.,non-entailment
+905,pri-sub,dubious strategic value,It has dubious strategic value. It has benefits.,It has strategic benefits.,non-entailment
 906,pri-sub,a would-be scary business,This is a would-be scary business. This is an asset.,This is a scary asset.,non-entailment
 907,pri-sub,a probable severe punishment,This is a probable severe punishment. This is a fine.,This is a severe fine.,non-entailment
 908,pri-sub,counterfeit central processing units,These are counterfeit central processing units. These are chips.,These are central chips.,non-entailment
@@ -936,7 +936,7 @@ id,combo,source NP,premise,hypothesis,label
 935,pri-sub,the unlikely high scorer,He is the unlikely high scorer. He is a parent.,He is an unlikely parent.,non-entailment
 936,pri-sub,the unlikely high scorer,He is the unlikely high scorer. He is a father.,He is an unlikely father.,non-entailment
 937,pri-sub,the honorary national chairman,He is the honorary national chairman. He is a father.,He is an honorary father.,non-entailment
-938,pri-sub,the honorary national chairman,He is the honorary national chairman. He is parent.,He is honorary parent.,non-entailment
+938,pri-sub,the honorary national chairman,He is the honorary national chairman. He is a parent.,He is an honorary parent.,non-entailment
 939,pri-sub,his somewhat disputed eighth championship,This is his somewhat disputed eighth championship. This is his game.,This is his eighth game.,non-entailment
 940,pri-sub,Germany's next top star,She is Germany's next top star. She is a citizen.,She is the next citizen.,non-entailment
 941,pri-sub,a retired federal lawyer,He is a retired federal lawyer. He is a driver.,He is a retired driver.,non-entailment
@@ -956,7 +956,7 @@ id,combo,source NP,premise,hypothesis,label
 955,pri-sub,Germany's next top star,She is Germany's next top star. She is a singer.,She is a top singer.,non-entailment
 956,pri-sub,Germany's next top star,She is Germany's next top star. She is an actress.,She is a top actress.,non-entailment
 957,pri-sub,a would-be musical rebel,She is a would-be musical rebel. She is a student.,She is a would-be student.,non-entailment
-958,pri-sub,a would-be musical rebel,She is a would-be musical rebel. She is a student.,She is a musical student.,non-entailment
+958,pri-sub,a would-be musical rebel,She is a would-be musical rebel. She is a girl.,She is a musical girl.,non-entailment
 959,pri-sub,a phony royal seal,This is a phony royal seal. This is a badge.,This is a royal badge.,non-entailment
 960,pri-sub,predicted poor next rains,These are predicted poor next rains. These are results.,These are poor results.,non-entailment
 961,pri-sub,phony official statistics,They are phony official statistics. They are results.,They are official results.,non-entailment
@@ -988,7 +988,7 @@ id,combo,source NP,premise,hypothesis,label
 987,int-pri,the original unofficial nickname,This is the original unofficial nickname. This is the identifier.,This is the original identifier.,non-entailment
 988,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer. He is a soldier.,He is an alleged soldier.,non-entailment
 989,int-pri,a French figurative painter,She is a French figurative painter. She is a sculptor.,She is a figurative sculptor.,non-entailment
-990,int-pri,African would-be emigrants,They are African would-be emigrants. They are children.,This is would-be children.,non-entailment
+990,int-pri,African would-be emigrants,They are African would-be emigrants. They are children.,They are would-be children.,non-entailment
 991,int-pri,late Chinese model workers,These are late Chinese model workers. These are friends.,These are model friends.,non-entailment
 992,int-pri,a Chinese surrogate father,He is a Chinese surrogate father. He is a businessman.,He is a surrogate businessman.,non-entailment
 993,int-pri,a Chinese surrogate father,He is a Chinese surrogate father. He is a doctor.,He is a surrogate doctor.,non-entailment
@@ -999,13 +999,13 @@ id,combo,source NP,premise,hypothesis,label
 998,int-pri,a Russian retired spy,This is a Russian retired spy. This is a doctor.,This is a retired doctor.,non-entailment
 999,int-pri,Chinese would-be astronauts,They are Chinese would-be astronauts. They are technicians.,They are would-be technicians.,non-entailment
 1000,int-pri,Chinese would-be astronauts,They are Chinese would-be astronauts. They are parents.,They are would-be parents.,non-entailment
-1001,int-pri,a natural next question,This is a natural next question. This is a mystery.,This is a next mystery.,non-entailment
+1001,int-pri,a natural next question,This is a natural next question. This is a mystery.,This is the next mystery.,non-entailment
 1002,int-pri,a single false positive,This is a single false positive. This is an outcome.,This is a false outcome.,non-entailment
 1003,int-pri,African would-be emigrants,They are African would-be emigrants. They are refugees.,They are would-be refugees.,non-entailment
 1004,int-pri,a single incorrect note,This is a single incorrect note. This is a disturbance.,This is an incorrect disturbance.,non-entailment
 1005,int-pri,an original mistaken diagnosis,This is an original mistaken diagnosis. This is a notification.,This is an original notification.,non-entailment
 1006,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer. He is a smoker.,He is an alleged smoker.,non-entailment
-1007,int-pri,French figurative painter,He is French figurative painter. He is a man.,He is a figurative man.,non-entailment
+1007,int-pri,French figurative painter,He is a French figurative painter. He is a man.,He is a figurative man.,non-entailment
 1008,int-sub,a single significant rival,She is a single significant rival. She is a mother.,She is a single mother.,non-entailment
 1009,int-sub,a single low bidder,He is a single low bidder. He is a father.,He is a single father.,non-entailment
 1010,int-sub,a Swedish national coach,He is a Swedish national coach. He is a political leader.,He is a national political leader.,non-entailment
@@ -1056,7 +1056,7 @@ id,combo,source NP,premise,hypothesis,label
 1055,sub-int,the fourth foreign winner,She is the fourth foreign winner. She is the contestant.,She is the fourth contestant.,non-entailment
 1056,sub-int,regular married folks,They are regular married folks. They are customers.,They are regular customers.,non-entailment
 1057,sub-int,its fourth consecutive gold medal,This is its fourth consecutive gold medal. This is its award.,This is its fourth award.,non-entailment
-1058,sub-int,the third largest gold producer,It is the third largest gold producer. It is the bidder.,It is the third bidder.,non-entailment
+1058,sub-int,the third-largest gold producer,It is the third-largest gold producer. It is a bidder.,It is the third-largest bidder.,non-entailment
 1059,sub-int,a chief online rival,He is a chief online rival. He is a gamer.,He is a chief gamer.,non-entailment
 1060,sub-int,a popular female singer,She is a popular female singer. She is a leader.,She is a popular leader.,non-entailment
 1061,sub-int,a popular female singer,She is a popular female singer. She is a blogger.,She is a popular blogger.,non-entailment
@@ -1074,8 +1074,8 @@ id,combo,source NP,premise,hypothesis,label
 1073,sub-sub,a top secondary school,This is a top secondary school. This is an institute.,This is a top institute.,non-entailment
 1074,sub-sub,the average current user,He is the average current user. He is the worker.,He is the average worker.,non-entailment
 1075,sub-sub,the average current user,He is the average current user. He is the driver.,He is the average driver.,non-entailment
-1076,sub-sub,the top junior golfers,He is the top junior golfers. He is the student.,He is the top student.,non-entailment
-1077,sub-sub,the top junior golfers,He is the top junior golfers. He is the driver.,He is the top driver.,non-entailment
+1076,sub-sub,the top junior golfers,He is the top junior golfer. He is a student.,He is a top student.,non-entailment
+1077,sub-sub,the top junior golfers,He is the top junior golfer. He is a driver.,He is a top driver.,non-entailment
 1078,sub-sub,a top amateur U.S. athlete,She is a top amateur U.S. athlete. She is a musician.,She is an amateur musician.,non-entailment
 1079,sub-sub,a top amateur U.S. athlete,She is a top amateur U.S. athlete. She is a musician.,She is a top musician.,non-entailment
 1080,sub-sub,top junior colleges,They are top junior colleges. They are accredited.,They are junior accredited.,non-entailment
