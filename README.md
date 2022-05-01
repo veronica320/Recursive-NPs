@@ -21,6 +21,12 @@ Create a conda virtual environment using the provided `env.yml` according to [th
     - `harm_detection`: The harm detection dataset for extrinsic evaluation.  See the README in the folder for more details.
 - `source/`: The source code.
     - `Qa`: Code for research question (a): Is the knowledge of how to interpret recursive NPs present in LMs?
+        - `finetune_on_benchmark`: Finetuning Transformer models on existing benchmarks of the same format. 
+            - `gpt3`: Finetuning GPT3 on existing benchmarks (since it has its own API). 
+            - `other_models`: Finetuning other models (BERT, RoBERTa) on existing benchmarks. 
+        - `eval_on_RNPC`: Evaluating the finetuned models on RNPC.
+            - `gpt3`: Evaluating GPT3 on RNPC (since it has its own API). 
+            - `other_models`: Evaluating other models (BERT, RoBERTa) on RNPC.
     - `Qb`: Code for research question (b): Is such knowledge learnable with appropriate
 data?
     - `Qc`: Code for research question (c): What can LMs learn from RNPC?
@@ -35,6 +41,26 @@ data?
 ## Usage
 
 ### (a) Is the knowledge of how to interpret recursive NPs present in LMs?
+
+In Section 5 of the paper, we take SOTA models finetuned on existing benchmark(s) of the same format as each RNPC task, and evaluate them on RNPC. 
+
+The following steps allow you to reproduce our experiments.
+If you want to finetune the models yourself, start from Step 1. Otherwise, start from Step 2.
+
+#### 1. Finetune a model on an existing benchmark
+
+```
+cd source/Qa/finetune_on_benchmark
+
+```
+
+#### 2. Evaluate the finetuned model on an RNPC task
+
+```
+cd source/Qa/eval_on_RNPC
+
+```
+
 ### (b) Is such knowledge learnable with appropriate
 data?
 ### (c) What can LMs learn from RNPC?
