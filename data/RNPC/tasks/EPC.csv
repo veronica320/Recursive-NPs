@@ -104,17 +104,17 @@ id,combo,source NP,first_event,second_event,label
 103,pri-pri,an experimental temporary solution,The researchers try to improve a solution.,The researchers try to improve an experimental temporary solution.,more_likely
 104,pri-pri,the so-called erroneous transactions,The trader was fired because of the transactions.,The trader was fired because of the so-called erroneous transactions.,more_likely
 105,pri-pri,his initial false pledge,His pledge is caused by not fully understanding the scenario.,His initial false pledge is caused by not fully understanding the scenario.,more_likely
-106,pri-pri,would-be future professionals,Professionals are in college.,Would-be future professionals are in college.,more_likely
+106,pri-pri,would-be future professionals,Professionals are in college.,Would-be future professionals are in college.,more_likely [check]
 107,pri-pri,a would-be next prime minister,A prime minister is campaigning full-time.,A would-be next prime minister is campaigning full-time.,more_likely
 108,pri-pri,an apparent false statement,A statement receives backlash on the internet.,An apparent false statement receives backlash on the internet.,more_likely
 109,pri-pri,failed initial public offerings,Initial public offerings anger investors.,Failed initial public offerings anger investors.,more_likely
 110,pri-pri,a plausible potential mayor,A mayor gives attractive promises.,A plausible potential mayor gives attractive promises.,more_likely
 111,pri-pri,a plausible fake ID,An ID fails to let the ID holder into the office.,A plausible fake ID fails to let the ID holder into the office.,more_likely
-112,pri-pri,countless failed past cease-fires,Countless cease-fires are followed by another war.,Countless failed past cease-fires are followed with another war.,more_likely
+112,pri-pri,countless failed past cease-fires,Countless cease-fires are followed by another war.,Countless failed past cease-fires are followed by another war.,more_likely
 113,pri-pri,the next unlikely winner,The winner has never won before.,The next unlikely winner has never won before.,more_likely
 114,pri-pri,a possible imminent collapse,A collapse will happen at any second.,A possible imminent collapse will happen at any second.,more_likely
 115,pri-pri,an unsuccessful previous launch,A launch was premature.,An unsuccessful previous launch was premature.,more_likely
-116,pri-pri,his alleged fictitious salary,His fictitious salary needs further confirmation.,His alleged fictitious salary needs further confirmation.,more_likely
+116,pri-pri,his alleged fictitious salary,His salary needs further confirmation.,His alleged fictitious salary needs further confirmation.,more_likely
 117,pri-pri,a disputed historic area,An area causes anger amongst various groups.,A disputed historic area causes anger amongst various groups.,more_likely
 118,pri-pri,incorrect initial decisions,Decisions lead to negative outcomes.,Incorrect initial decisions lead to negative outcomes.,more_likely
 119,pri-pri,a probable imminent loss,A loss happens very soon.,A probable imminent loss happens very soon.,more_likely
@@ -141,9 +141,9 @@ id,combo,source NP,first_event,second_event,label
 140,pri-pri,fake wooden rifles,Rifles are very light.,Fake wooden rifles are very light.,more_likely
 141,pri-pri,the erroneous previous information,The information is malicious.,The erroneous previous information is malicious.,more_likely
 142,pri-pri,a wooden toy train,A train is bought as a gift to the child.,A wooden toy train is bought as a gift to the child.,more_likely
-143,pri-pri,the probable next CEO,The CEO showed up for the interview.,The probable next CEO showed up for the interview.,more_likely
+143,pri-pri,the probable next CEO,The CEO showed up for the interview.,The probable next CEO showed up for the interview.,more_likely [check]
 144,pri-pri,simulated drowning executions,Nobody will die in executions.,Nobody will die in simulated drowning executions.,more_likely
-145,pri-pri,a possible later pregnancy,"At 42, she was concerned about a pregnancy.","At 42, she was concerned about a possible later pregnancy.",more_likely
+145,pri-pri,a possible late pregnancy,"At 42, she was concerned about a pregnancy.","At 42, she was concerned about a possible late pregnancy.",more_likely
 146,pri-pri,a possible faulty restoration,A restoration may result in a refund being requested.,A possible faulty restoration may result in a refund being requested.,more_likely
 147,pri-pri,improbable future catastrophes,Catastrophes are very hard to make preparations for.,Improbable future catastrophes are very hard to make preparations for.,more_likely
 148,pri-pri,an unlikely initial success,The success happened due to luck.,The unlikely initial success happened due to luck.,more_likely
@@ -156,11 +156,11 @@ id,combo,source NP,first_event,second_event,label
 155,pri-pri,an apparent mistaken sell order,A sell order was not properly checked over.,An apparent mistaken sell order was not properly checked over.,more_likely
 156,pri-pri,an alleged faulty weather forecast,A weather forecast is being investigated by the broadcasting authority.,An alleged faulty weather forecast is being investigated by the broadcasting authority.,more_likely
 157,pri-pri,his would-be next work,His work will send him the official offer tomorrow.,His would-be next work will send him the official offer tomorrow.,more_likely
-158,pri-pri,an unlikely would-be assassin,An assassin managed to slip under the radar during the investigations.,An unlikely would-be assassin managed to slip under the radar during the investigations.,more_likely
+158,pri-pri,an unlikely would-be assassin,An assassin managed to slip under the radar during the investigations.,An unlikely would-be assassin managed to slip under the radar during the investigations.,less_likely
 159,pri-pri,a future experimental nuclear reactor,A nuclear reactor has been proposed for research funding.,A future experimental nuclear reactor has been proposed for research funding.,more_likely
-160,pri-pri,a false temporary Ukrainian passport,A Ukrainian passport has been seized at the border.,A false temporary Ukrainian passport has been seized at the border.,more_likely
+160,pri-pri,a false temporary Ukrainian passport,A Ukrainian passport has been seized at the border.,A false temporary Ukrainian passport has been seized at the border.,more_likely [check morality]
 161,pri-pri,a fake wooden sword,A sword was allowed on the airplane.,A fake wooden sword was allowed on the airplane.,more_likely
-162,pri-pri,a 69-year-old retired plastic surgeon,A 69-year-old surgeon finally had his retirement party since multiple people can now meet again in person.,A 69-year-old retired plastic surgeon finally had his retirement party since multiple people can now meet again in person.,more_likely
+162,pri-pri,a 69-year-old retired plastic surgeon,A 69-year-old surgeon finally had his retirement party since multiple people can now meet again in person.,A 69-year-old retired plastic surgeon finally had his retirement party since multiple people can now meet again in person.,equally_likely
 163,pri-pri,an experimental artificial heart,A heart is powered by electricity.,An experimental artificial heart is powered by electricity.,more_likely
 164,pri-pri,an unsuccessful proposed labor agreement,A labor agreement will result in financial distress for the involved parties.,An unsuccessful proposed labor agreement will result in financial distress for the involved parties.,more_likely
 165,pri-pri,the supposed potential terrorists,The terrorists are innocent.,The supposed potential terrorists are innocent.,more_likely
