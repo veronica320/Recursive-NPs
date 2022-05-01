@@ -12,7 +12,7 @@ id,combo,source NP,first_event,second_event,label
 11,pri-int,false direct evidence,Evidence is rejected.,False direct evidence is rejected.,more_likely
 12,pri-int,a figurative quoted expression,An expression is from a book.,A figurative quoted expression is from a book.,more_likely
 13,pri-int,a former European commissioner,A commissioner can speak English.,A former European commissioner can speak English.,more_likely
-14,pri-int,an imminent global crisis,A crisis can be prevented.,An imminent global crisis can be prevented.,more_likely
+14,pri-int,an imminent small crisis,A crisis can be prevented.,An imminent small crisis can be prevented.,more_likely
 15,pri-int,a demolished damaged house,People are evacuated from a house.,People are evacuated from a demolished damaged house.,more_likely
 16,pri-int,a broken glass window,A window can hurt fingers.,A broken glass window can hurt fingers.,more_likely
 17,pri-int,phony infant apple juice,Apple juice is bad for health.,Phony infant apple juice is bad for health.,more_likely
@@ -40,13 +40,13 @@ id,combo,source NP,first_event,second_event,label
 39,int-pri,a white paper book,A book can be easily stained.,A white paper book can be easily stained.,more_likely
 40,int-int,the clear blue sky,The sky can be sunny.,The clear blue sky can be sunny.,more_likely
 41,int-int,fragrant red roses,Roses can smell nice.,Fragrant red roses can smell nice.,more_likely
-42,int-int,a scarred Iranian soldier,A soldier retreats.,A scarred Iranian soldier retreats.,more_likely
+42,int-int,a scarred Iranian soldier,A soldier retreats.,A scarred Iranian soldier retreats.,more_likely [check morality]
 43,int-int,a depressed doctoral student,A student wants to quit.,A depressed doctoral student wants to quit.,more_likely
 44,int-sub,a dead dangerous animal,An animal cannot move.,A dead dangerous animal cannot move.,more_likely
 45,sub-pri,a big toy gun,A child can buy a gun.,A child can buy a big toy gun.,more_likely
 46,sub-pri,a big fake painting,A painting has little value.,A big fake painting has little value.,more_likely
 47,sub-pri,a cheap fake ring,A ring is refused.,A cheap fake ring is refused.,more_likely
-48,sub-pri,an expensive toy car,A car The 12-year-old girl has.,An expensive toy car The 12-year-old girl has.,more_likely
+48,sub-pri,an expensive toy car,The 12-year-old girl has a car.,The 12-year-old girl has an expensive toy car.,more_likely
 49,sub-pri,the only possible candidate,A candidate can win an election.,The only possible candidate can win an election.,more_likely
 50,sub-pri,soft fake fur,The fur is cheap.,The soft fake fur is cheap.,more_likely
 51,sub-pri,a big stone lion,You can touch a lion.,You can touch a big stone lion.,more_likely
@@ -74,7 +74,7 @@ id,combo,source NP,first_event,second_event,label
 73,pri-sub,the previous federal government,The president of the government has retired.,The president of the previous federal government has retired.,more_likely
 74,pri-sub,previous similar findings,These findings have something in common with ours.,These previous similar findings have something in common with ours.,more_likely
 75,pri-sub,an arrogant former young genius,An arrogant genius is forgotten.,An arrogant former young genius is forgotten.,more_likely
-76,int-sub,mental ill health,Health can cause depression.,Mental ill health can cause depression.,more_likely
+76,int-sub,mental ill- health,Health can cause depression.,Mental ill- health can cause depression.,more_likely
 77,int-sub,an extinct ancient animal,An animal is never seen.,An extinct ancient animal is never seen.,more_likely
 78,int-sub,an original hard copy,A copy has legal effects.,An original hard copy has legal effects.,more_likely
 79,sub-int,negative net income,The company is bankrupt because of income.,The company is bankrupt because of negative net income.,more_likely
@@ -83,7 +83,7 @@ id,combo,source NP,first_event,second_event,label
 82,sub-sub,a small quiet crowd,A crowd can be controlled easily.,A small quiet crowd can be controlled easily.,more_likely
 83,pri-pri,a faulty initial strategy,A strategy will be rejected.,A faulty initial strategy will be rejected.,more_likely
 84,pri-pri,a dubious historic milestone,A milestone should be ignored.,A dubious historic milestone should be ignored.,more_likely
-85,pri-pri,a 28-foot fake gold tree,A 28-foot tree has been built.,A 28-foot fake gold tree has been built.,more_likely
+85,pri-pri,a 28-foot fake plastic tree,A 28-foot tree has been built.,A 28-foot fake plastic tree has been built.,more_likely
 86,pri-pri,The next would-be mogul,The mogul is currently a member of the middle class.,The next would-be mogul is currently a member of the middle class.,more_likely
 87,pri-pri,an almost impossible military assignment,A military assignment is very difficult to complete.,An almost impossible military assignment is very difficult to complete.,more_likely
 88,pri-pri,a fictional past relationship,She made up a relationship.,She made up a fictional past relationship.,more_likely
@@ -99,7 +99,7 @@ id,combo,source NP,first_event,second_event,label
 98,pri-pri,a fake wooden sword,A sword is used on stage.,A fake wooden sword is used on stage.,more_likely
 99,pri-pri,an unsuccessful proposed labor agreement,A labor agreement failed in Congress.,An unsuccessful proposed labor agreement failed in Congress.,more_likely
 100,pri-pri,a faulty artificial joint,A joint needs to be replaced.,A faulty artificial joint needs to be replaced.,more_likely
-101,pri-pri,Iraq's nominal future leadership,Iraq's leadership has weak control.,Iraq's nominal future leadership has weak control.,more_likely
+101,pri-pri,Iraq's nominal future leadership,Iraq's leadership has weak control.,Iraq's nominal future leadership has weak control.,more_likely [check morality]
 102,pri-pri,fraudulent medical claims,Claims were lies.,Fraudulent medical claims were lies.,more_likely
 103,pri-pri,an experimental temporary solution,The researchers try to improve a solution.,The researchers try to improve an experimental temporary solution.,more_likely
 104,pri-pri,the so-called erroneous transactions,The trader was fired because of the transactions.,The trader was fired because of the so-called erroneous transactions.,more_likely
