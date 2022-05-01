@@ -218,7 +218,6 @@ id,combo,source NP,premise,hypothesis,label
 219,pri-int,a brass decorative dragon,This is a brass decorative dragon. This is a sculpture.,This is a decorative sculpture.,entailment
 220,pri-int,a stone African rhino,This is a stone African rhino. This is a mammal.,This is a stone mammal.,entailment
 221,pri-sub,a plausible big idea,This is a plausible big idea. This is a thought.,This is a plausible thought.,entailment
-222,pri-sub,a partial new cabinet,This is a partial new cabinet. This is a repository.,This is a new repository.,entailment
 223,pri-sub,the disputed tiny colony,This is the disputed tiny colony. This is the territory.,This is the disputed territory.,entailment
 224,pri-sub,a previous fast diagnosis,This is a previous fast diagnosis. This is a mistake.,This is a previous mistake.,entailment
 225,pri-sub,a previous fast diagnosis,This is a previous fast diagnosis. This is a conclusion.,This is a previous conclusion.,entailment
@@ -537,7 +536,9 @@ id,combo,source NP,premise,hypothesis,label
 545,pri-sub,a plausible big idea,This is a plausible big idea. This is a dream.,This is a big dream.,entailment
 546,pri-sub,an assumed average weight,This is an assumed average weight. This is a statistic.,This is an assumed statistic.,entailment
 719,pri-pri,an unsuccessful artificial insemination,This is an unsuccessful artificial insemination. This is a procedure.,This is an artificial procedure.,entailment
+859,pri-sub,a substitute long snapper,He is a substitute long snapper. He is a player.,He is a substitute player.,entailment
 547,pri-pri,the initial half hour,This is the initial half hour. This is a round.,This is the initial round.,entailment
+918,pri-sub,counterfeit new U.S. dollars,Those are counterfeit new U.S. dollars. Those are banknotes.,Those are counterfeit banknotes.,entailment
 893,pri-sub,a presumed short circuit,This is a presumed short circuit. This is a glitch.,This is a presumed glitch.,entailment
 548,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the former CEO.,non-entailment
 549,pri-pri,the former vice chairman,He is the former vice chairman. He is the CEO.,He is the vice CEO.,non-entailment
@@ -668,7 +669,7 @@ id,combo,source NP,premise,hypothesis,label
 672,pri-pri,an unsuccessful previous launch,This is an unsuccessful previous launch. This is an explosion.,This is an unsuccessful explosion.,non-entailment
 673,pri-pri,a fictional former street urchin,This is a fictional former street urchin. This is a student delegate.,This is a former student delegate.,non-entailment
 674,pri-pri,his alleged fictitious salary,This is his alleged fictitious salary. This is information.,This is fictitious information.,non-entailment
-675,pri-pri,the so-called imminent threat,This is the so-called imminent threat. This is a rumor.,This is an imminent rumor.,non-entailment
+675,pri-pri,the so-called imminent threat,This is the so-called imminent threat. This is a rumor.,This is an so-called rumor.,non-entailment
 676,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are proposed citizens.,non-entailment
 677,pri-pri,proposed future ministers,They are proposed future ministers. They are citizens.,They are future citizens.,non-entailment
 678,pri-pri,an apparent would-be suicide bomber,This is an apparent would-be suicide bomber. This is a father.,This is an apparent would-be father.,non-entailment
@@ -732,7 +733,7 @@ id,combo,source NP,premise,hypothesis,label
 737,pri-pri,imminent potential reactions,These are imminent potential reactions. These are retaliations.,These are imminent retaliations.,non-entailment
 738,pri-pri,future hypothetical threats,These are future hypothetical threats. These are aggressions.,These are future aggressions.,non-entailment
 739,pri-pri,a potential negative impact,He has a potential negative impact. He has an impression.,He has a negative impression.,non-entailment
-740,pri-pri,an almost empty house,This is an almost empty house. This is an architecture.,This is an empty architecture.,non-entailment
+740,pri-pri,an almost empty house,This is an almost empty house. This is a place.,This is an empty place.,non-entailment
 741,pri-pri,a fictional former character,He is a fictional former character. He is a firefighter.,He is a former firefighter.,non-entailment
 742,pri-pri,the previous erroneous information,This is the previous erroneous information. This is the assistance.,This is the previous assistance.,non-entailment
 743,pri-pri,the so-called imminent danger,This is the so-called imminent danger. This is the bloodshed.,This is the imminent bloodshed.,non-entailment
@@ -759,7 +760,7 @@ id,combo,source NP,premise,hypothesis,label
 764,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a presumed surprise.,non-entailment
 765,pri-int,a presumed horrible defeat,This is a presumed horrible defeat. This is a surprise.,This is a horrible surprise.,non-entailment
 766,pri-int,a gold American eagle,This is a gold American eagle. This is a statue.,This is an American statue.,non-entailment
-767,pri-sub,a partial new cabinet,This is a partial new cabinet. This is a repository.,This is a new repository.,non-entailment
+222,pri-sub,a partial new cabinet,This is a partial new cabinet. This is an administration.,This is a new administration.,non-entailment
 768,pri-sub,the disputed tiny colony,This is the disputed tiny colony. This is his hometown.,This is his disputed hometown.,non-entailment
 769,pri-sub,a seeming minor decision,This is a seeming minor decision. This is a choice.,This is a minor choice.,non-entailment
 770,pri-sub,a seeming minor decision,This is a seeming minor decision. This is a sacrifice.,This is a minor sacrifice.,non-entailment
@@ -906,8 +907,7 @@ id,combo,source NP,premise,hypothesis,label
 915,pri-sub,the apparent chief suspect,He is the apparent chief suspect. He is a policeman.,He is an apparent policeman.,non-entailment
 916,pri-sub,the apparent chief suspect,He is the apparent chief suspect. He is an officer.,He is an apparent officer.,non-entailment
 917,pri-sub,the apparent chief suspect,He is the apparent chief suspect. He is a staff member.,He is an apparent staff member.,non-entailment
-918,pri-sub,counterfeit new U.S. dollars,Those are counterfeit new U.S. dollars. Those are notes.,Those are new notes.,non-entailment
-919,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier. He is Al-Qaeda's killer.,He is Al-Qaeda's presumed top killer.,non-entailment
+919,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier. He is Al-Qaeda's killer.,He is Al-Qaeda's top killer.,non-entailment
 920,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier. He is Al-Qaeda's member.,He is Al-Qaeda's presumed member.,non-entailment
 921,pri-sub,a mock massive attack,This is a mock massive attack. This is a war.,This is a massive war.,non-entailment
 922,pri-sub,a mock official inquiry,This is a mock official inquiry. This is a review.,This is an official review.,non-entailment
@@ -917,7 +917,6 @@ id,combo,source NP,premise,hypothesis,label
 926,pri-sub,the initial minimum bid,This is the initial minimum bid. This is the offer.,This is the minimum offer.,non-entailment
 927,pri-sub,a previous presidential nominee,She is a previous presidential nominee. She is a spouse.,She is a previous spouse.,non-entailment
 928,pri-sub,a seeming common sense,This is a seeming common sense. This is a judgment.,This is a common judgment.,non-entailment
-929,pri-sub,a fictional common ancestor,This is a fictional common ancestor. This is a hunter.,This is a common hunter.,non-entailment
 930,pri-sub,a past southern area,This is a past southern area. This is a district.,This is a southern district.,non-entailment
 931,pri-sub,a past southern area,This is a past southern area. This is a region.,This is a southern region.,non-entailment
 932,pri-sub,a mock parliamentary debate,This is a mock parliamentary debate. This is a discussion.,This is a parliamentary discussion.,non-entailment
@@ -1048,7 +1047,7 @@ id,combo,source NP,premise,hypothesis,label
 1061,sub-int,a popular female singer,She is a popular female singer. She is a blogger.,She is a popular blogger.,non-entailment
 1062,sub-int,their fourth straight Olympics,This is their fourth straight Olympics. This is their game.,This is their fourth game.,non-entailment
 1063,sub-int,their fourth straight Olympics,This is their fourth straight Olympics. This is their competition.,This is their fourth competition.,non-entailment
-1064,sub-int,the fourth Swedish winner,This is the fourth Swedish winner. This is a teenager.,This is the fourth teenager.,non-entailment
+1064,sub-int,the fourth Swedish winner,This is the fourth Swedish winner. This is a champion.,This is the fourth champion.,non-entailment
 1065,sub-int,bad Israeli singers,They are bad Israeli singers. They are people.,They are bad people.,non-entailment
 1066,sub-int,bad Israeli singers,They are bad Israeli singers. They are teachers.,They are bad teachers.,non-entailment
 1067,sub-sub,a central north district,This is a central north district. This is a location.,This is a central location.,non-entailment
