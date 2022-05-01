@@ -3,13 +3,7 @@
   <component name="RemoteMappingsManager">
     <list>
       <list>
-        <remote-mappings server-id="python@ssh://lyuqing@higdon.seas.upenn.edu:22/shared/lyuqing/probing_for_event/env/bin/python">
-          <settings>
-            <list>
-              <mapping local-root="$PROJECT_DIR$" remote-root="/shared/lyuqing/Recursive-NPs" />
-            </list>
-          </settings>
-        </remote-mappings>
+        <remote-mappings server-id="python@ssh://lyuqing@higdon.seas.upenn.edu:22/shared/lyuqing/probing_for_event/env/bin/python" />
       </list>
     </list>
   </component>
