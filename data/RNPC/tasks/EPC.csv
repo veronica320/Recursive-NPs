@@ -175,7 +175,7 @@ id,combo,source NP,first_event,second_event,label
 174,pri-pri,a dubious potential leader,A leader does not trust others easily.,A dubious potential leader does not trust others easily.,more_likely
 175,pri-pri,an initial virtual flight,A flight is simulated.,An initial virtual flight is simulated.,more_likely
 176,pri-pri,other apparent failed presidencies,Other presidencies made people dissatisfied.,Other apparent failed presidencies made people dissatisfied.,more_likely
-177,pri-pri,an apparent false alarm,An alarm The student confessed there was no fire.,An apparent false alarm The student confessed there was no fire.,more_likely
+177,pri-pri,an apparent false alarm,The student confessed that there was no alarm.,The student confessed that there was no apparent false alarm.,more_likely
 178,pri-pri,a retired black deputy sheriff,"After working for 40 years, a black sheriff moved to Florida with his wife.","After working for 40 years, a retired black deputy sheriff moved to Florida with his wife.",more_likely
 179,pri-pri,a failed former pick,A pick is cut from the team.,A failed former pick is cut from the team.,more_likely
 180,pri-pri,a hypothetical future disaster,A disaster is discussed by conspiracy theorists.,A hypothetical future disaster is discussed by conspiracy theorists.,more_likely
@@ -184,7 +184,7 @@ id,combo,source NP,first_event,second_event,label
 183,pri-pri,the initial false declarations,The declarations are the source of American distrust.,The initial false declarations are the source of American distrust.,more_likely
 184,pri-pri,those presumed future contenders,Those contenders may not be elected in the final.,Those presumed future contenders may not be elected in the final.,more_likely
 185,pri-pri,The next false alarm,An alarm lowers public confidence in the nuclear warning system.,The next false alarm lowers public confidence in the nuclear warning system.,more_likely
-186,pri-pri,mock wooden machine guns,Machineguns are the source of a big prank.,Mock wooden machine guns are the source of a big prank.,more_likely
+186,pri-pri,mock wooden machine guns,Machine guns are the source of a big prank.,Mock wooden machine guns are the source of a big prank.,more_likely
 187,pri-pri,imminent potential reactions,Citizens in Kabul are being warned of reactions.,Citizens in Kabul are being warned of imminent potential reactions.,more_likely
 188,pri-pri,several failed past attempts,Several attempts are causing us to rethink our plans.,Several failed past attempts are causing us to rethink our plans.,more_likely
 189,pri-pri,red plastic flowers,Flowers are hard and brittle.,Red plastic flowers are hard and brittle.,more_likely
@@ -224,10 +224,10 @@ id,combo,source NP,first_event,second_event,label
 223,pri-int,debatable public health benefits,The public is doubtful about these health benefits.,The public is doubtful about these debatable public health benefits.,more_likely
 224,pri-int,debatable economic issues,The economists are discussing a lot of issues.,The economists are discussing a lot of debatable economic issues.,more_likely
 225,pri-int,a toy white polar bear,A polar bear is small.,A toy white polar bear is small.,more_likely
-226,pri-int,a toy electric car,A car A child can operate.,A toy electric car A child can operate.,more_likely
+226,pri-int,a toy electric car,A child can operate a car.,A child can operate a toy electric car .,more_likely
 227,pri-int,a pretended Jewish identity,An identity is uncovered.,A pretended Jewish identity is uncovered.,more_likely
 228,pri-int,a brass decorative dragon,A dragon is seen.,A brass decorative dragon is seen.,more_likely
-229,pri-int,a stone African rhino,A rhino has a hard touch.,A stone African rhino has a hard touch.,more_likely
+229,pri-int,a stone African rhino,A rhino has a hard touch.,A stone African rhino has a hard touch.,more_likely [check]
 230,pri-sub,a previous fast diagnosis,A diagnosis is updated after more detailed probing.,A previous fast diagnosis is updated after more detailed probing.,more_likely
 231,pri-sub,a fictitious young blogger,A blogger cannot eat rice.,A fictitious young blogger cannot eat rice.,more_likely
 232,pri-sub,an initial domestic agenda,An agenda will be edited before application.,An initial domestic agenda will be edited before application.,more_likely
@@ -256,12 +256,12 @@ id,combo,source NP,first_event,second_event,label
 255,pri-sub,an improbable presidential candidacy,A candidacy is withdrawn.,An improbable presidential candidacy is withdrawn.,more_likely
 256,pri-sub,an experimental new therapy,A therapy is invented recently.,An experimental new therapy is invented recently.,more_likely
 257,pri-sub,a forged medical professional license,A medical license causes him to go to prison.,A forged medical professional license causes him to go to prison.,more_likely
-258,pri-sub,a theoretical perfect world,A world exists in fiction.,A theoretical perfect world exists in fiction.,more_likely
+258,pri-sub,a theoretical perfect world,A world exists in fiction.,A theoretical perfect world exists in fiction.,equally_likely
 259,pri-sub,a onetime independent kingdom,A kingdom is reduced to a colony.,A onetime independent kingdom is reduced to a colony.,more_likely
 260,pri-sub,a probable easy fix,A fix can be done in a minute.,A probable easy fix can be done in a minute.,more_likely
 261,pri-sub,a prior basic principle,A basic principle is updated by future observations.,A prior basic principle is updated by future observations.,more_likely
 262,pri-sub,an assumed annual inflation rate,An inflation rate forms part of the economic projection for next year.,An assumed annual inflation rate forms part of the economic projection for next year.,more_likely
-263,pri-sub,a previous central government,A government has failed in the latest election.,A previous central government has failed in the latest election.,more_likely
+263,pri-sub,a previous infamous government,A government has failed in the latest election.,A previous infamous government has failed in the latest election.,more_likely
 264,pri-sub,an artificial left leg,A leg contains circuits.,An artificial left leg contains circuits.,more_likely
 265,pri-sub,a virtual official competition,We can watch a competition online.,We can watch a virtual official competition online.,more_likely
 266,pri-sub,an initial high price,Few people own the object if it has a price.,Few people own the object if it has an initial high price.,more_likely
@@ -271,7 +271,7 @@ id,combo,source NP,first_event,second_event,label
 270,pri-sub,a theoretical average salary,A salary is estimated.,A theoretical average salary is estimated.,more_likely
 271,pri-sub,an imminent parliamentary election,An election starts tomorrow.,An imminent parliamentary election starts tomorrow.,more_likely
 272,pri-sub,past southern areas,Areas were submerged by seawater.,Past southern areas were submerged by seawater.,more_likely
-273,pri-sub,mock parliamentary debates,Debates are for fun.,Mock parliamentary debates are for fun.,more_likely
+273,pri-sub,mock online debates,Debates are for fun.,Mock online debates are for fun.,more_likely
 274,pri-sub,a burned technical vehicle,A vehicle is going to be demolished.,A burned technical vehicle is going to be demolished.,more_likely
 275,pri-sub,an impossible moral choice,A choice takes a long time to make.,An impossible moral choice takes a long time to make.,more_likely
 276,pri-sub,a supposed key piece,A key piece turns out to be not that important.,A supposed key piece turns out to be not that important.,more_likely
@@ -286,7 +286,7 @@ id,combo,source NP,first_event,second_event,label
 285,pri-sub,an honorary national chairman,A chairman has distinction over the whole country.,An honorary national chairman has distinction over the whole country.,more_likely
 286,pri-sub,a forged Iranian diplomatic passport,An Iranian passport was made by a criminal for entering Iran.,A forged Iranian diplomatic passport was made by a criminal for entering Iran.,more_likely
 287,pri-sub,an unlikely heavy loss,A loss of water led to government officials scrambling to adjust the water policy.,An unlikely heavy loss of water led to government officials scrambling to adjust the water policy.,more_likely
-288,pri-sub,an unofficial fifth major,A major is not fully attended.,An unofficial fifth major is not fully attended.,more_likely
+288,pri-sub,an unofficial fifth major,A major is not fully attended.,An unofficial fifth major is not fully attended.,more_likely [check grammar]
 289,pri-sub,a vice national chief prosecutor,A chief prosecutor receives a high salary.,A vice national chief prosecutor receives a high salary.,more_likely
 290,pri-sub,a plausible new product,A product must be redesigned.,A plausible new product must be redesigned.,more_likely
 291,pri-sub,The probable maximum loss,The loss does not necessarily occur.,The probable maximum loss does not necessarily occur.,more_likely
@@ -305,9 +305,9 @@ id,combo,source NP,first_event,second_event,label
 304,pri-sub,partial late payments,Payments led to a fine.,Partial late payments led to a fine.,more_likely
 305,pri-sub,a somewhat disputed eighth championship,A somewhat championship sparks controversy among fans.,A somewhat disputed eighth championship sparks controversy among fans.,more_likely
 306,pri-sub,broken presidential promises,These promises hurt those who placed their faith in them.,These broken presidential promises hurt those who placed their faith in them.,more_likely
-307,pri-sub,A would-be classic baseball game,A baseball game is widely anticipated.,A would-be classic baseball game is widely anticipated.,more_likely
+307,pri-sub,a would-be classic baseball game,A baseball game is widely anticipated.,A would-be classic baseball game is widely anticipated.,more_likely
 308,pri-sub,a presumed short circuit,A circuit is causing issues.,A presumed short circuit is causing issues.,more_likely
-309,pri-sub,a retired short seller,A seller is knowledgeable about stocks.,A retired short seller is knowledgeable about stocks.,more_likely
+309,sub-sub,an experienced short seller,A seller is knowledgeable about stocks.,An experienced short seller is knowledgeable about stocks.,more_likely
 310,pri-sub,every previous significant work,Every work was widely recognized.,Every previous significant work was widely recognized.,more_likely
 311,pri-sub,a phony moral authority,An authority gave wrong information.,A phony moral authority gave wrong information.,more_likely
 312,pri-sub,a fictitious professional golfer,A golfer has not played golf.,A fictitious professional golfer has not played golf.,more_likely
@@ -360,7 +360,7 @@ id,combo,source NP,first_event,second_event,label
 359,pri-sub,several broken presidential promises,Several promises made him lose his popularity.,Several broken presidential promises made him lose his popularity.,more_likely
 360,pri-sub,an allegedly fraudulent national election,An allegedly election was annulled.,An allegedly fraudulent national election was annulled.,more_likely
 361,pri-sub,an unofficial early result,A result can change.,An unofficial early result can change.,more_likely
-362,pri-sub,the predicted annual economic growth,The economic growth is forecasted not measured.,The predicted annual economic growth is forecasted not measured.,more_likely
+362,pri-sub,the predicted annual economic growth,The economic growth is forecasted but not measured.,The predicted annual economic growth is forecasted but not measured.,more_likely
 363,pri-sub,the impossible new standard,The standard will result in everyone failing boot camp.,The impossible new standard will result in everyone failing boot camp.,more_likely
 364,pri-sub,a fictitious soft drink,A drink cannot be bought at a store.,A fictitious soft drink cannot be bought at a store.,more_likely
 365,pri-sub,a plausible regional balance,A balance is convincing.,A plausible regional balance is convincing.,more_likely
@@ -377,7 +377,7 @@ id,combo,source NP,first_event,second_event,label
 376,pri-sub,a partial regional result,A result does not affect the whole country.,A partial regional result does not affect the whole country.,more_likely
 377,pri-sub,disputed southern islands,Islands are the center of many battles.,Disputed southern islands are the center of many battles.,more_likely
 378,pri-sub,an impossible presidential schedule,A schedule has not been approved by the president.,An impossible presidential schedule has not been approved by the president.,more_likely
-379,pri-sub,some past top performers,Some performers have retired due to their age.,Some past top performers have retired due to their age.,more_likely
+379,pri-sub,some past musical performers,Some performers have retired due to their age.,Some past musical performers have retired due to their age.,more_likely
 380,pri-sub,an unlikely late bid,A bid will not be proposed by the company.,An unlikely late bid will not be proposed by the company.,more_likely
 381,pri-sub,a broken light bulb,A bulb needs to be fixed.,A broken light bulb needs to be fixed.,more_likely
 382,pri-sub,counterfeit popular brands,Brands are not worth a large amount of money.,Counterfeit popular brands are not worth a large amount of money.,more_likely
@@ -414,14 +414,14 @@ id,combo,source NP,first_event,second_event,label
 413,int-pri,a single false positive,A positive is inaccurate.,A single false positive is inaccurate.,more_likely
 414,int-pri,African would-be emigrants,Emigrants have not left the country yet.,African would-be emigrants have not left the country yet.,more_likely
 415,int-pri,A single wooden chair,A chair has the smell of wood.,A single wooden chair has the smell of wood.,more_likely
-416,int-pri,a Russian unofficial trade,The US authorities are concerned about the trade.,The US authorities are concerned about the Russian unofficial trade.,more_likely
+416,int-pri,a US unofficial trade,The US authorities are concerned about the trade.,The US authorities are concerned about the US unofficial trade.,more_likely
 417,int-pri,a single incorrect note,A note is out of key.,A single incorrect note is out of key.,more_likely
 418,int-pri,an original mistaken diagnosis,A diagnosis causes unnecessary trauma.,An original mistaken diagnosis causes unnecessary trauma.,more_likely
 419,int-pri,French figurative painter,The painter lives near the Eiffel Tower.,The French figurative painter lives near the Eiffel Tower.,more_likely
 420,int-pri,an original false charge,A charge lacks supporting evidence.,An original false charge lacks supporting evidence.,more_likely
 421,int-pri,a single artificial white rose,A white rose does not wither.,A single artificial white rose does not wither.,more_likely
 422,int-sub,a single significant rival,A rival is sufficient to swing the party votes.,A single significant rival is sufficient to swing the party votes.,more_likely
-423,int-sub,a single low bidder,A bidder saves money.,A single low bidder saves money.,more_likely
+423,int-sub,a single poor bidder,A bidder saves money.,A single poor bidder saves money.,more_likely
 424,int-sub,a single strong candidate,A candidate can expect a job offer.,A single strong candidate can expect a job offer.,more_likely
 425,int-sub,a Swedish top diplomat,A diplomat is born in Sweden.,A Swedish top diplomat is born in Sweden.,more_likely
 426,sub-pri,many surrogate births,Births are not legal in some countries.,Many surrogate births are not legal in some countries.,more_likely
@@ -435,7 +435,7 @@ id,combo,source NP,first_event,second_event,label
 434,sub-pri,the maximum initial fee,The fee is too expensive.,The maximum initial fee is too expensive.,more_likely
 435,sub-pri,low initial ratings,Ratings can improve quickly.,Low initial ratings can improve quickly.,more_likely
 436,sub-pri,the maximum possible prison sentence,The prison sentence causes a large amount of grief.,The maximum possible prison sentence causes a large amount of grief.,more_likely
-437,sub-pri,a national deputy secretary,A secretary help formulate and conduct policies.,A national deputy secretary help formulate and conduct policies.,more_likely
+437,sub-pri,a national deputy secretary,A secretary helps formulate and conduct policies.,A national deputy secretary helps formulate and conduct policies.,more_likely
 438,sub-pri,numerous broken bones,Bones can be fatal.,Numerous broken bones can be fatal.,more_likely
 439,sub-pri,numerous mistaken witnesses,Witnesses are the leading causes of wrongful convictions.,Numerous mistaken witnesses are the leading causes of wrongful convictions.,more_likely
 440,sub-pri,many failed ideas,Ideas waste a lot of time.,Many failed ideas waste a lot of time.,more_likely
@@ -448,14 +448,14 @@ id,combo,source NP,first_event,second_event,label
 447,sub-pri,numerous mistaken interpretations,Interpretations need to be corrected.,Numerous mistaken interpretations need to be corrected.,more_likely
 448,sub-pri,a low initial price,A price attracts crowds on Black Friday.,A low initial price attracts crowds on Black Friday.,more_likely
 449,sub-pri,many improbable assumptions,People disagree with his proposal because of assumptions.,People disagree with his proposal because of many improbable assumptions.,more_likely
-450,sub-pri,a tall artificial tree,A tree can be put in the living room.,A tall artificial tree can be put in the living room.,more_likely
+450,sub-pri,a short artificial tree,A tree can be put in the living room.,A short artificial tree can be put in the living room.,more_likely
 451,sub-pri,a national counterfeit industry,The police arrested members of the industry.,The police arrested members of the national counterfeit industry.,more_likely
 452,sub-pri,the total national gold reserves,The total reserves support a country's currency.,The total national gold reserves support a country's currency.,more_likely
 453,sub-pri,a national candidate list,A list contains democratic and republican representatives.,A national candidate list contains democratic and republican representatives.,more_likely
 454,sub-pri,many cloned animals,Animals would be hard to distinguish from one another.,Many cloned animals would be hard to distinguish from one another.,more_likely
 455,sub-pri,many onetime supporters,Supporters do not plan on supporting a campaign again.,Many onetime supporters do not plan on supporting a campaign again.,more_likely
 456,sub-pri,numerous failed cease-fires,Cease-fires caused distrust between the countries.,Numerous failed cease-fires caused distrust between the countries.,more_likely
-457,sub-pri,numerous prior obligations,Obligations kept her busy last month.,Numerous prior obligations kept her busy last month.,more_likely
+457,sub-pri,numerous prior obligations,Obligations kept her busy before.,Numerous prior obligations kept her busy before.,more_likely
 458,sub-pri,numerous phony celebrities,Celebrities pretend that they acted in famous movies.,Numerous phony celebrities pretend that they acted in famous movies.,more_likely
 459,sub-pri,a national historic monument,A monument is well protected by the government.,A national historic monument is well protected by the government.,more_likely
 460,sub-pri,a maximum potential loss,A loss would result in the company going bankrupt if it occurs.,A maximum potential loss would result in the company going bankrupt if it occurs.,more_likely
@@ -585,7 +585,7 @@ id,combo,source NP,first_event,second_event,label
 584,pri-pri,their past fraudulent activities,Their activities involve each one of them.,Their past fraudulent activities involve each one of them.,equally_likely
 585,pri-pri,her past broken promises,Her promises were to her husband.,Her past broken promises were to her husband.,equally_likely
 586,pri-pri,a past unsuccessful candidate,A candidate is 40 years old.,A past unsuccessful candidate is 40 years old.,equally_likely
-587,pri-pri,potential future victims,Victims are mostly children.,Potential future victims are mostly children.,equally_likely
+587,pri-pri,potential future victims,Victims are mostly children.,Potential future victims are mostly children.,equally_likely [check]
 588,pri-pri,previous false alarms,Alarms rang in the morning.,Previous false alarms rang in the morning.,equally_likely
 589,pri-pri,a previous proposed deal,A deal involves two parties.,A previous proposed deal involves two parties.,equally_likely
 590,pri-sub,our previous top picks,Our picks are manufactured in Italy.,Our previous top picks are manufactured in Italy.,equally_likely
@@ -635,7 +635,7 @@ id,combo,source NP,first_event,second_event,label
 634,pri-pri,an imaginary future world currency,A world currency is designed by Americans.,An imaginary future world currency is designed by Americans.,equally_likely
 635,pri-pri,probable partial privatization,The topic of privatization has been brought up by the manager in the meeting.,The topic of probable partial privatization has been brought up by the manager in the meeting.,equally_likely
 636,pri-pri,an almost empty blue field,A blue field is a storage place.,An almost empty blue field is a storage place.,equally_likely
-637,pri-pri,a model previous litigation,A litigation involves many lawyers.,A model previous litigation involves many lawyers.,equally_likely
+637,pri-pri,a model previous litigation,A litigation involved many lawyers.,A model previous litigation involved many lawyers.,equally_likely
 638,pri-pri,a fake honorary degree,A degree has a name written on it.,A fake honorary degree has a name written on it.,equally_likely
 639,pri-pri,a 19th-century wooden toy train,A 19th-century train had 10 carriages.,A 19th-century wooden toy train had 10 carriages.,equally_likely
 640,pri-pri,the would-be Catholic deputy leader,The Catholic leader loves drinking apple juice.,The would-be Catholic deputy leader loves drinking apple juice.,equally_likely
@@ -656,7 +656,7 @@ id,combo,source NP,first_event,second_event,label
 655,pri-pri,the initial half hour,The hour has been booked.,The initial half hour has been booked.,equally_likely
 656,pri-pri,the half past century,The century is a period of time.,The half past century is a period of time.,equally_likely
 657,pri-pri,a fake honorary doctorate,A doctorate is printed on paper.,A fake honorary doctorate is printed on paper.,equally_likely
-658,pri-pri,the theoretical expected rate,Economists predict that the rate of return will decline soon.,Economists predict that the theoretical expected rate of return will decline soon.,equally_likely
+658,pri-pri,the theoretical expected rate,Economists predict that the rate of return will decline soon.,Economists predict that the theoretical expected rate of return will decline soon.,more_likely
 659,pri-pri,a possible imminent eruption,"She had bottled up her feelings for so long, but now there is an eruption of her anger.","She had bottled up her feelings for so long, but now there is a possible imminent eruption of her anger.",equally_likely
 660,pri-pri,a hypothetical future disaster,A disaster involves a comet.,A hypothetical future disaster involves a comet.,equally_likely
 661,pri-pri,wooden toy rifles,Rifles have a handle.,Wooden toy rifles have a handle.,equally_likely
@@ -673,7 +673,7 @@ id,combo,source NP,first_event,second_event,label
 672,pri-pri,the so-called imminent danger,The danger involves a shooting.,The so-called imminent danger involves a shooting.,equally_likely
 673,pri-int,a retired political reporter,A reporter loves watching the news.,A retired political reporter loves watching the news.,equally_likely
 674,pri-int,sham financial transactions,Transactions involve two parties.,Sham financial transactions involve two parties.,equally_likely
-675,pri-int,a previous military ruler,A ruler loves the people.,A previous military ruler loves the people.,equally_likely
+675,pri-int,a previous political ruler,A ruler loves the people.,A previous political ruler loves the people.,equally_likely
 676,pri-int,a theoretical economic disaster,People can talk about a disaster.,People can talk about a theoretical economic disaster.,equally_likely
 677,pri-int,a fraudulent medical mask,A mask is blue.,A fraudulent medical mask is blue.,equally_likely
 678,pri-int,an artificial white rose,A rose is beautiful.,An artificial white rose is beautiful.,equally_likely
@@ -699,7 +699,7 @@ id,combo,source NP,first_event,second_event,label
 698,pri-sub,a partial new cabinet,A cabinet consists of prominent politicians.,A partial new cabinet consists of prominent politicians.,equally_likely
 699,pri-sub,a seeming minor decision,A decision arises in her mind.,A seeming minor decision arises in her mind.,equally_likely
 700,pri-sub,artificial cool air,The cool air makes people feel cold.,The artificial cool air makes people feel cold.,equally_likely
-701,pri-sub,an initial domestic agenda,An agenda will be shared with other politicians.,An initial domestic agenda will be shared with other politicians.,equally_likely
+701,pri-sub,an initial domestic agenda,An agenda will be shared with other politicians.,An initial domestic agenda will be shared with other politicians.,equally_likely [check less_likely]
 702,pri-sub,an honorary assistant coach,A coach works with athletes.,An honorary assistant coach works with athletes.,equally_likely
 703,pri-sub,a retired independent contractor,A contractor likes to go to that restaurant.,A retired independent contractor likes to go to that restaurant.,equally_likely
 704,pri-sub,a onetime favorite daughter,A daughter has siblings.,A onetime favorite daughter has siblings.,equally_likely
@@ -708,7 +708,7 @@ id,combo,source NP,first_event,second_event,label
 707,pri-sub,a plausible recent report,A report suggested that Americans’ love for sugar was leading to obesity.,A plausible recent report suggested that Americans’ love for sugar was leading to obesity.,equally_likely
 708,pri-sub,a fictional modern monarchy,A monarchy has a King and Queen.,A fictional modern monarchy has a King and Queen.,equally_likely
 709,pri-sub,a virtual independent bookstore,A bookstore sells books.,A virtual independent bookstore sells books.,equally_likely
-710,pri-sub,a surrogate good son,A son has a parent.,A surrogate good son has a parent.,equally_likely
+710,pri-sub,a surrogate good son,A son has a parent.,A surrogate good son has a parent.,equally_likely [check]
 711,pri-sub,a virtual unknown singer,A singer plays an instrument.,A virtual unknown singer plays an instrument.,equally_likely
 712,pri-sub,a retired northern general,A general likes driving.,A retired northern general likes driving.,equally_likely
 713,pri-sub,an apparent domestic dispute,A dispute is caused by disagreement.,An apparent domestic dispute is caused by disagreement.,equally_likely
@@ -718,7 +718,7 @@ id,combo,source NP,first_event,second_event,label
 717,pri-sub,the predicted annual economic growth,The economic growth is denominated in US dollars.,The predicted annual economic growth is denominated in US dollars.,equally_likely
 718,pri-sub,a fictitious technical issue,An issue is about computer science.,A fictitious technical issue is about computer science.,equally_likely
 719,pri-sub,a onetime domestic policy adviser,A policy adviser has a charming personality.,A onetime domestic policy adviser has a charming personality.,equally_likely
-720,pri-sub,the predicted global economic turbulence,The economic turbulence is dangerous.,The predicted global economic turbulence is dangerous.,equally_likely
+720,pri-sub,the predicted global economic turbulence,The economic turbulence is dangerous.,The predicted global economic turbulence is dangerous.,equally_likely [check more_likely]
 721,pri-sub,A would-be classic baseball game,A baseball game is held outdoor.,A would-be classic baseball game is held outdoor.,equally_likely
 722,pri-sub,his presumed strong competitors,His competitors participate in the same competition as him.,His presumed strong competitors participate in the same competition as him.,equally_likely
 723,pri-sub,An unlikely top seller,A seller commutes to work.,An unlikely top seller commutes to work.,equally_likely
@@ -789,9 +789,9 @@ id,combo,source NP,first_event,second_event,label
 788,pri-sub,a probable top contender,A contender plays baseball.,A probable top contender plays baseball.,equally_likely
 789,pri-sub,the supposed extra costs,The costs are high.,The supposed extra costs are high.,equally_likely
 790,pri-sub,the predicted annual economic growth,The economic growth is discussed by economists on Bloomberg TV.,The predicted annual economic growth is discussed by economists on Bloomberg TV.,equally_likely
-791,pri-sub,The would-be federal law,The law focus on energy saving.,The would-be federal law focus on energy saving.,equally_likely
+791,pri-sub,The would-be federal law,The law focuses on energy saving.,The would-be federal law focuses on energy saving.,equally_likely
 792,pri-sub,a disputed parliamentary election result,"After the election, the newspaper published an article about the election result.","After the election, the newspaper published an article about the disputed parliamentary election result.",equally_likely
-793,pri-sub,the predicted current average expenditure,The average expenditure increases.,The predicted current average expenditure increases.,equally_likely
+793,pri-sub,the predicted average expenditure,The expenditure increases.,The predicted average expenditure increases.,equally_likely
 794,pri-sub,an unlikely new weapon,A weapon can hurt people.,An unlikely new weapon can hurt people.,equally_likely
 795,pri-sub,a prior grand jury,A jury is impartial about the matter.,A prior grand jury is impartial about the matter.,equally_likely
 796,pri-sub,a retired northern general,A general is patriotic.,A retired northern general is patriotic.,equally_likely
@@ -829,7 +829,7 @@ id,combo,source NP,first_event,second_event,label
 828,int-pri,an original unofficial vote count,A vote count requires tallying up a lot of paper.,An original unofficial vote count requires tallying up a lot of paper.,equally_likely
 829,int-pri,a single previous meeting,A meeting is an encounter between two people.,A single previous meeting is an encounter between two people.,equally_likely
 830,int-pri,Chinese would-be astronauts,Astronauts love adventures.,Chinese would-be astronauts love adventures.,equally_likely
-831,int-pri,A single wooden chair,A chair is sturdy.,A single wooden chair is sturdy.,equally_likely
+831,int-pri,A single wooden chair,A chair is sturdy.,A single wooden chair is sturdy.,equally_likely [check]
 832,int-pri,a Russian alleged arms dealer,An arms dealer has many colleagues.,A Russian alleged arms dealer has many colleagues.,equally_likely
 833,int-pri,French figurative painter,Painter owns sporting supplies.,French figurative painter owns sporting supplies.,equally_likely
 834,int-pri,a single past incident,An incident became the topic for discussion.,A single past incident became the topic for discussion.,equally_likely
@@ -838,8 +838,8 @@ id,combo,source NP,first_event,second_event,label
 837,int-sub,Western soft coals,Coals are mostly carbon.,Western soft coals are mostly carbon.,equally_likely
 838,int-sub,Western popular music,Music is a type of art.,Western popular music is a type of art.,equally_likely
 839,int-sub,a Swedish central statistics agency,A statistics agency is operated by people.,A Swedish central statistics agency is operated by people.,equally_likely
-840,int-sub,a Western Australian junior player,An Australian player wins.,A Western Australian junior player wins.,equally_likely
-841,int-sub,a Swedish top diplomat,A diplomat speaks with leaders from other countries.,A Swedish top diplomat speaks with leaders from other countries.,equally_likely
+840,int-sub,a Western Australian junior player,An junior player wins.,A Western Australian junior player wins.,equally_likely
+841,int-sub,a Swedish top diplomat,A diplomat speaks with leaders from other countries.,A Swedish top diplomat speaks with leaders from other countries.,equally_likely [check more_likely]
 842,int-sub,a Western top official,An official has official duties.,A Western top official has official duties.,equally_likely
 843,int-sub,Australian junior players,Players need to run fast.,Australian junior players need to run fast.,equally_likely
 844,int-sub,a Swedish top diplomat,A diplomat has a passport.,A Swedish top diplomat has a passport.,equally_likely
@@ -887,7 +887,7 @@ id,combo,source NP,first_event,second_event,label
 886,sub-pri,a national anti-terror military drill,An anti-terror drill was conducted in the daytime.,A national anti-terror military drill was conducted in the daytime.,equally_likely
 887,sub-pri,many supposed solutions,Solutions can be found on the internet.,Many supposed solutions can be found on the internet.,equally_likely
 888,sub-pri,national artificial tree sales,Tree sales are denominated in US dollars.,National artificial tree sales are denominated in US dollars.,equally_likely
-889,sub-pri,her many supposed friends,Her friends act nicely around her.,Her many supposed friends act nicely around her.,equally_likely
+889,sub-pri,her many supposed friends,Her friends act nicely around her.,Her many supposed friends act nicely around her.,equally_likely [check less_likely]
 890,sub-int,a key local industry,An industry supplies a service to buyers.,A key local industry supplies a service to buyers.,equally_likely
 891,sub-int,the fourth democratic parliament,The parliament sought to establish a just government.,The fourth democratic parliament sought to establish a just government.,equally_likely
 892,sub-int,a chief online rival,A rival gives competition to sales of our local store.,A chief online rival gives competition to sales of our local store.,equally_likely
@@ -934,7 +934,7 @@ id,combo,source NP,first_event,second_event,label
 933,pri-int,a fictitious impersonal market,A market exists.,A fictitious impersonal market exists.,less_likely
 934,pri-int,phony infant apple juice,Apple juice is made from apples.,Phony infant apple juice is made from apples.,less_likely
 935,pri-int,a so-called poisonous pill,A poisonous pill can kill a person.,A so-called poisonous pill can kill a person.,less_likely
-936,pri-int,a fictional private detective,A detective works in the police department.,A fictional private detective works in the police department.,less_likely
+936,pri-int,a fictional private detective,A detective works in the real police department.,A fictional private detective works in the real police department.,less_likely
 937,pri-int,a false health gadget,A gadget can help to prolong life.,A false health gadget can help to prolong life.,less_likely
 938,pri-int,an expected Canadian move,A move has caused military reactions.,An expected Canadian move has caused military reactions.,less_likely
 939,pri-int,an expected beneficial effect,A beneficial effect has helped relieve pain.,An expected beneficial effect has helped relieve pain.,less_likely
@@ -964,7 +964,7 @@ id,combo,source NP,first_event,second_event,label
 963,int-pri,a white paper plane,A plane can bus people.,A white paper plane can bus people.,less_likely
 964,int-pri,a white paper book,You can read a book on your phone.,You can read a white paper book on your phone.,less_likely
 965,int-int,the clear blue sky,The sky is raining.,The clear blue sky is raining.,less_likely
-966,int-int,fragrant red roses,Roses are disliked.,Fragrant red roses are disliked.,less_likely
+966,int-int,fragrant red roses,Roses are disliked.,Fragrant red roses are disliked.,equally_likely
 967,int-int,a depressed doctoral student,A student graduates successfully.,A depressed doctoral student graduates successfully.,less_likely
 968,int-int,a vegetarian black snake,A snake can eat a person.,A vegetarian black snake can eat a person.,less_likely
 969,int-sub,a flat second quarter,The company makes plenty of money in a quarter.,The company makes plenty of money in a flat second quarter.,less_likely
@@ -974,7 +974,7 @@ id,combo,source NP,first_event,second_event,label
 973,sub-pri,a big toy gun,A gun can be used by murders.,A big toy gun can be used by murders.,less_likely
 974,sub-pri,a big fake painting,A painting is created by a famous artist.,A big fake painting is created by a famous artist.,less_likely
 975,sub-pri,a cheap fake ring,A ring is loved.,A cheap fake ring is loved.,less_likely
-976,sub-pri,an expensive toy car,A car A driver's license is needed for.,An expensive toy car A driver's license is needed for.,less_likely
+976,sub-pri,an expensive toy car,A driver's license is needed for a car.,A driver's license is needed for an expensive toy car .,less_likely
 977,sub-pri,a recent unsuccessful coup,A coup overturned the government.,A recent unsuccessful coup overturned the government.,less_likely
 978,sub-pri,new potential customers,Customers have bought many items.,New potential customers have bought many items.,less_likely
 979,sub-pri,the only possible candidate,A candidate has many opponents.,The only possible candidate has many opponents.,less_likely
@@ -983,10 +983,10 @@ id,combo,source NP,first_event,second_event,label
 982,sub-pri,a scary mock execution,An execution can bring a victim to death.,A scary mock execution can bring a victim to death.,less_likely
 983,sub-pri,a beautiful plastic flower,A flower may grow from a bulb.,A beautiful plastic flower may grow from a bulb.,less_likely
 984,sub-pri,a beautiful plastic flower,A flower is alive.,A beautiful plastic flower is alive.,less_likely
-985,pri-pri,a likely next speaker,A speaker is guaranteed to show up.,A likely next speaker is guaranteed to show up.,less_likely
+985,pri-pri,a likely next speaker,A speaker is guaranteed to show up.,A likely next speaker is guaranteed to show up.,less_likely [check equally_likely]
 986,pri-pri,a likely temporary destination,A destination has everything we are looking for.,A likely temporary destination has everything we are looking for.,less_likely
 987,pri-pri,an expected imminent attack,An attack has caused heavy casualties.,An expected imminent attack has caused heavy casualties.,less_likely
-988,pri-pri,past would-be reformers,Reformers have successfully changed society.,Past would-be reformers have successfully changed society.,less_likely
+988,pri-pri,future would-be reformers,Reformers have successfully changed society.,Future would-be reformers have successfully changed society.,less_likely
 989,pri-pri,several past failed efforts,Several efforts are in progress.,Several past failed efforts are in progress.,less_likely
 990,pri-pri,their past fraudulent activities,There is nothing wrong with their activities.,There is nothing wrong with their past fraudulent activities.,less_likely
 991,pri-pri,her past broken promises,Her promises are fulfilled.,Her past broken promises are fulfilled.,less_likely
@@ -996,7 +996,7 @@ id,combo,source NP,first_event,second_event,label
 995,pri-int,an impossible long-term solution,A solution solves the problem.,An impossible long-term solution solves the problem.,less_likely
 996,pri-sub,a previous federal law,Everyone should abide by the law.,Everyone should abide by the previous federal law.,less_likely
 997,pri-sub,the previous federal government,The government can levy taxes on citizens.,The previous federal government can levy taxes on citizens.,less_likely
-998,int-sub,mental ill health,Health can improve working efficiency.,Mental ill health can improve working efficiency.,less_likely
+998,int-sub,mental ill- health,Health can improve working efficiency.,Mental ill- health can improve working efficiency.,less_likely
 999,int-sub,an extinct ancient animal,An animal is living in the zoo.,An extinct ancient animal is living in the zoo.,less_likely
 1000,int-sub,an original hard copy,A copy is electronic.,An original hard copy is electronic.,less_likely
 1001,sub-int,negative net income,People are happy about their income.,People are happy about their negative net income.,less_likely
@@ -1009,7 +1009,7 @@ id,combo,source NP,first_event,second_event,label
 1008,pri-pri,a faulty initial strategy,A strategy was agreed upon.,A faulty initial strategy was agreed upon.,less_likely
 1009,pri-pri,a dubious historic milestone,A milestone will be celebrated.,A dubious historic milestone will be celebrated.,less_likely
 1010,pri-pri,a 28-foot fake gold tree,A 28-foot tree is being watered.,A 28-foot fake gold tree is being watered.,less_likely
-1011,pri-pri,The next would-be mogul,A mogul has many wealthy friends.,The next would-be mogul has many wealthy friends.,less_likely
+1011,pri-pri,The next would-be mogul,A mogul has many companies.,The next would-be mogul has many companies.,less_likely
 1012,pri-pri,a historic former residence,A residence requires little maintenance.,A historic former residence requires little maintenance.,less_likely
 1013,pri-pri,an almost impossible military assignment,A military assignment will be completed in one day.,An almost impossible military assignment will be completed in one day.,less_likely
 1014,pri-pri,a most plausible potential president,A president has access to nuke codes.,A most plausible potential president has access to nuke codes.,less_likely
@@ -1084,7 +1084,7 @@ id,combo,source NP,first_event,second_event,label
 1083,pri-pri,the erroneous previous information,The information is highly credible.,The erroneous previous information is highly credible.,less_likely
 1084,pri-pri,a wooden toy train,A train can carry passengers.,A wooden toy train can carry passengers.,less_likely
 1085,pri-pri,imaginary future revenues,Revenues were spent on rent.,Imaginary future revenues were spent on rent.,less_likely
-1086,pri-pri,the probable next CEO,The CEO has been in their role for years.,The probable next CEO has been in their role for years.,less_likely
+1086,pri-pri,the probable next CEO,The CEO has been in his role for years.,The probable next CEO has been in his role for years.,less_likely
 1087,pri-pri,simulated drowning executions,Executions will send people to death.,Simulated drowning executions will send people to death.,less_likely
 1088,pri-pri,a nominal historic peak,A peak is the most challenging place for climbers.,A nominal historic peak is the most challenging place for climbers.,less_likely
 1089,pri-pri,improbable future catastrophes,Catastrophes are events students can read about in history class.,Improbable future catastrophes are events students can read about in history class.,less_likely
@@ -1137,14 +1137,14 @@ id,combo,source NP,first_event,second_event,label
 1136,pri-pri,mock wooden machine guns,Machineguns are stolen from the armory.,Mock wooden machine guns are stolen from the armory.,less_likely
 1137,pri-pri,red plastic flowers,Flowers are growing in the garden.,Red plastic flowers are growing in the garden.,less_likely
 1138,pri-pri,an almost empty house,A house is full of furniture and boxes.,An almost empty house is full of furniture and boxes.,less_likely
-1139,pri-pri,fabricated false news,News is intended to bring peace to the nation.,Fabricated false news is intended to bring peace to the nation.,less_likely
+1139,pri-pri,fabricated false news,News is intended to bring peace to the nation.,Fabricated false news is intended to bring peace to the nation.,less_likely [check equally_likely]
 1140,pri-pri,the previous erroneous information,The information should not be taken lightly.,The previous erroneous information should not be taken lightly.,less_likely
 1141,pri-int,a retired Indian pilot,A pilot flies every day.,A retired Indian pilot flies every day.,less_likely
 1142,pri-int,a retired electrical designer,A designer needs to communicate with clients.,A retired electrical designer needs to communicate with clients.,less_likely
 1143,pri-int,a retired political reporter,A reporter writes news articles.,A retired political reporter writes news articles.,less_likely
 1144,pri-int,a retired Soviet spy,A spy is lurking in another country.,A retired Soviet spy is lurking in another country.,less_likely
 1145,pri-int,a sham electoral process,A process has public legitimacy.,A sham electoral process has public legitimacy.,less_likely
-1146,pri-int,a sham Russian firm,A firm has its own production line.,A sham Russian firm has its own production line.,less_likely
+1146,pri-int,a sham Russian firm,A firm has its own production line.,A sham Russian firm has its own production line.,less_likely [check equally_likely]
 1147,pri-int,sham financial transactions,Transactions are legal.,Sham financial transactions are legal.,less_likely
 1148,pri-int,a previous military ruler,A ruler commands an army.,A previous military ruler commands an army.,less_likely
 1149,pri-int,a previous Brazilian leader,A leader carries heavy responsibilities.,A previous Brazilian leader carries heavy responsibilities.,less_likely
@@ -1154,7 +1154,7 @@ id,combo,source NP,first_event,second_event,label
 1153,pri-int,a fraudulent medical excuse,An excuse is justified.,A fraudulent medical excuse is justified.,less_likely
 1154,pri-int,a fraudulent medical mask,Doctors can safely perform surgery with a mask.,Doctors can safely perform surgery with a fraudulent medical mask.,less_likely
 1155,pri-int,an artificial white rose,A rose is fragrant.,An artificial white rose is fragrant.,less_likely
-1156,pri-int,artificial white snow,Snow can melt.,Artificial white snow can melt.,less_likely
+1156,pri-int,artificial white snow,Snow can melt.,Artificial white snow can melt.,less_likely [check equally_likely]
 1157,pri-int,artificial white fur,The fur comes from an animal.,The artificial white fur comes from an animal.,less_likely
 1158,pri-int,artificial tropical flowers,Flowers grow in a warm climate.,Artificial tropical flowers grow in a warm climate.,less_likely
 1159,pri-int,an artificial electric heart,Everyone is born with a heart.,Everyone is born with an artificial electric heart.,less_likely
@@ -1171,7 +1171,7 @@ id,combo,source NP,first_event,second_event,label
 1170,pri-int,a counterfeit Japanese passport,A passport has valid visa stamps on it.,A counterfeit Japanese passport has valid visa stamps on it.,less_likely
 1171,pri-int,a counterfeit green card,A card proves someone’s identity as a permanent resident.,A counterfeit green card proves someone’s identity as a permanent resident.,less_likely
 1172,pri-int,a mock nuclear explosion,An explosion kills millions of people.,A mock nuclear explosion kills millions of people.,less_likely
-1173,pri-int,a mock naval battle,Soldiers can get hurt in a battle.,Soldiers can get hurt in a mock naval battle.,less_likely
+1173,pri-int,a mock naval battle,Lots of soldiers are killed in a battle.,Lots of soldiers are killed in a mock naval battle.,less_likely
 1174,pri-int,a mock Japanese accent,A Japanese man has an accent.,A Japanese man has a mock Japanese accent.,less_likely
 1175,pri-int,a presumed scientific advancement,An advancement improves everyone’s life.,A presumed scientific advancement improves everyone’s life.,less_likely
 1176,pri-int,a presumed horrible defeat,A defeat is unexpected.,A presumed horrible defeat is unexpected.,less_likely
@@ -1426,7 +1426,7 @@ id,combo,source NP,first_event,second_event,label
 1425,sub-pri,numerous mistaken interpretations,Interpretations are confirmed by peer review.,Numerous mistaken interpretations are confirmed by peer review.,less_likely
 1426,sub-pri,a national historic treasure,A treasure has just been created.,A national historic treasure has just been created.,less_likely
 1427,sub-pri,many improbable assumptions,A good plan depends on assumptions.,A good plan depends on many improbable assumptions.,less_likely
-1428,sub-pri,a tall artificial tree,Leaves on a tree are changing color.,Leaves on a tall artificial tree are changing color.,less_likely
+1428,sub-pri,a tall artificial tree,Leaves on a tree are changing color with the seasons.,Leaves on a tall artificial tree are changing color with the seasons.,less_likely
 1429,sub-pri,a national counterfeit industry,Newspaper praises an industry for providing excellent services.,Newspaper praises a national counterfeit industry for providing excellent services.,less_likely
 1430,sub-pri,national proposed standards,Standards are not carefully designed.,National proposed standards are not carefully designed.,less_likely
 1431,sub-pri,her many supposed friends,She felt supported by her friends.,She felt supported by her many supposed friends.,less_likely
@@ -1477,7 +1477,7 @@ id,combo,source NP,first_event,second_event,label
 1476,sub-int,a chief internal investigator,An investigator works as a contractor at multiple companies.,A chief internal investigator works as a contractor at multiple companies.,less_likely
 1477,sub-int,a bad American showman,A showman was born in Europe.,A bad American showman was born in Europe.,less_likely
 1478,sub-int,China’s top contemporary artists,China’s artists have a classic style.,China’s top contemporary artists have a classic style.,less_likely
-1479,sub-int,a chief external spokesman,A spokesman is being trained on the job.,A chief external spokesman is being trained on the job.,less_likely
+1479,sub-int,a chief external spokesman,A spokesman is being trained on the job.,A chief external spokesman is being trained on the job.,less_likely [check equally_likely]
 1480,sub-int,an independent local press,A press is funded by a political organization.,An independent local press is funded by a political organization.,less_likely
 1481,sub-int,the global mean temperature,You can decide what you should wear tomorrow based on the temperature.,You can decide what you should wear tomorrow based on the global mean temperature.,less_likely
 1482,sub-int,a key local industry,An industry has no buyers for its products.,A key local industry has no buyers for its products.,less_likely
@@ -1486,5 +1486,5 @@ id,combo,source NP,first_event,second_event,label
 1485,sub-int,a popular vocal quartet,A quartet has poor cooperation.,A popular vocal quartet has poor cooperation.,less_likely
 1486,sub-sub,a top secondary school,A school has school bullying.,A top secondary school has school bullying.,less_likely
 1487,sub-sub,the top junior golfers,The golfers are married.,The top junior golfers are married.,less_likely
-1488,sub-sub,a top amateur U.S. athlete,A U.S. athlete has a bad work ethic.,A top amateur U.S. athlete has a bad work ethic.,less_likely
+1488,sub-sub,a top professional U.S. athlete,A U.S. athlete has a bad work ethic.,A top professional U.S. athlete has a bad work ethic.,less_likely
 1489,sub-sub,top junior colleges,Colleges are not worth the price of admission.,Top junior colleges are not worth the price of admission.,less_likely
