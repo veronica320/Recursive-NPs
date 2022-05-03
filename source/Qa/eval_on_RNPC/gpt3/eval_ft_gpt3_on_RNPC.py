@@ -9,7 +9,7 @@ sys.path.append(f"{root_dir}/source")
 
 # config
 from configuration import Config
-config_path = (f'source/Qa/eval_on_RNPC/other_models/config.json')
+config_path = (f'source/Qa/eval_on_RNPC/gpt3/config.json')
 config = Config.from_json_file(config_path)
 
 os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_devices
@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 	# not supporting SPTE, since the finetuned GPT3 models on SNLI/MNLI are not publicly available
 	if task not in ["MPTE", "EPC"]:
-		raise ValueError("Unspported task. Please choose from 'MPTE', and 'EPC'.")
+		raise ValueError(f"Unspported task: {task}. Please choose from 'MPTE', and 'EPC'.")
 
 	model = eval(config.gpt3_model)
 	trial = config.trial
