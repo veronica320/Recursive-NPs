@@ -32,9 +32,12 @@ data?
     - `Qc`: Code for research question (c): What can LMs learn from RNPC?
     - `Qd`: Code for research question (d): Is RNPC useful for downstream tasks?
 
-- `output_dir`: Model prediction outputs.
-
-- `output_model_dir`: Finetuned models.
+- `output_dir/`: Model prediction outputs.
+    - `RNPC/`:
+        - `eval_models_ft_on_benchmark/`: Predictions of models finetuned on existing benchmarks and evaluated on RNPC.
+        - `inoculation/`: Predictions of models finetuned on RNPC and evaluated on RNPC.
+        
+- `output_model_dir/`: Finetuned models.
 
 - `env.yml`: The conda environment config file.
 
@@ -72,7 +75,7 @@ cd source/Qa/eval_on_RNPC/other_models
 ```
 ./eval_ft_models_on_RNPC.sh
 ```
-The performance of all available models on the specified task will be printed, e.g.
+The performance of all available models on the specified task (see `eval_ft_models_on_RNPC.py` line 82 for a list of available models) will be printed, e.g.
 ```
 Evaluating models on MPTE: ...
 MPE_bert

@@ -83,14 +83,14 @@ if __name__ == "__main__":
                             "textattack/bert-base-uncased-MNLI",
                             "roberta-large-mnli",
 							"facebook/bart-large-mnli",],
-	              "MPTE": ["output_model_dir/MPE_bert",
-                           "output_model_dir/MPE_bert-l",
-                           "output_model_dir/MPE_roberta",
-                           "output_model_dir/MPE_roberta-l"],
-	              "EPC": ["output_model_dir/ADEPT_bert",
-	                      "output_model_dir/ADEPT_bert-l",
-	                      "output_model_dir/ADEPT_roberta",
-	                      "output_model_dir/ADEPT_roberta-l"]
+	              "MPTE": ["veronica320/MPE_bert",
+                           "veronica320/MPE_bert-l",
+                           "veronica320/MPE_roberta",
+                           "veronica320/MPE_roberta-l"],
+	              "EPC": ["veronica320/ADEPT_bert",
+	                      "veronica320/ADEPT_bert-l",
+	                      "veronica320/ADEPT_roberta",
+	                      "veronica320/ADEPT_roberta-l"]
 	              }
 	
 	model_names = model_dict[task]
