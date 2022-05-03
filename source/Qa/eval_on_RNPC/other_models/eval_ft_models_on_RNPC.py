@@ -1,19 +1,20 @@
 '''Evaluates finetuned models on RNPC tasks.'''
 
 import os
-from configuration import Config
+import sys
+os.chdir("../../../..")
+
+root_dir = os.getcwd()
+sys.path.append(f"{root_dir}/source")
 
 # config
-os.chdir("../../../..")
+from configuration import Config
 config_path = (f'source/Qa/eval_on_RNPC/other_models/config.json')
 config = Config.from_json_file(config_path)
 
 os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_devices
 import torch
-root_dir = config.root_dir
 
-import sys
-sys.path.append(f"{root_dir}/source")
 from Qa.utils import compute_scores, n_classes_dict_NP, label_text2id, label_id2text, task_fieldnames, unchanged_fields
 
 import numpy as np

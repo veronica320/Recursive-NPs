@@ -51,18 +51,63 @@ If you want to finetune the models yourself, start from Step 1. Otherwise, start
 
 ```
 cd source/Qa/finetune_on_benchmark
-
 ```
 
 #### 2. Evaluate the finetuned model on an RNPC task
 
-```
-cd source/Qa/eval_on_RNPC
 
+If you want to evaluate **Huggingface models** (BERT, RoBERTa, BART):
+
+(1) Go to the folder
+```
+cd source/Qa/eval_on_RNPC/other_models
 ```
 
-### (b) Is such knowledge learnable with appropriate
-data?
+(2) Set the relevant configuration in `config.json`
+- `cache_dir`: the directory to store model cache
+- `gpu_devices`: the index of cuda device to use
+- `task`: which task to evaluate on
+
+(3) Run the evaluation script
+```
+./eval_ft_models_on_RNPC.sh
+```
+The performance of all available models on the specified task will be printed, e.g.
+```
+Evaluating models on MPTE: ...
+MPE_bert
+{'accuracy': 0.472, 'prediction': 0.48, 'recall': 0.44, 'f1': 0.459, 'weighted-F1': 0.472}
+MPE_bert-l
+{'accuracy': 0.415, 'prediction': 0.342, 'recall': 0.163, 'f1': 0.221, 'weighted-F1': 0.373}
+MPE_roberta
+{'accuracy': 0.511, 'prediction': 0.51, 'recall': 1.0, 'f1': 0.675, 'weighted-F1': 0.347}
+MPE_roberta-l
+{'accuracy': 0.509, 'prediction': 0.509, 'recall': 1.0, 'f1': 0.675, 'weighted-F1': 0.343}
+```
+The model predictions will be saved to `output_dir/RNPC/eval_models_ft_on_benchmark`, under the specified task folder.
+
+
+Similarly, if you want to evaluate **GPT-3 models**:
+
+(1) Go to the folder
+```
+cd source/Qa/eval_on_RNPC/gpt3
+```
+(2) Set the relevant configuration in `config.json`. Most fields are the same as the previous case, but there are a few more:
+- `gpt3_model`：which version of gpt-3 to evaluate (ada or curie). We don't include davinci since it wasn't been open for finetuning at the time of the paper.
+- `trial`: whether this is a trial run. If true, then the evaluation will run on only 5 examples. This is for debugging purposes since running GPT-3 is costly.  
+
+(3) Set the environment variable `OPENAI_API_KEY`
+```
+export OPENAI_API_KEY = [YOUR KEY FROM https://beta.openai.com/account/api-keys]
+```
+(4) Run the evaluation script
+```
+./eval_ft_gpt3_on_RNPC.sh
+```
+The output will look similar to the previous case.
+
+### (b) Is such knowledge learnable with appropriate data?
 ### (c) What can LMs learn from RNPC?
 ### (d) Is RNPC useful for downstream tasks?
 

@@ -14,22 +14,16 @@ import openai
 from Qa.utils import compute_scores
 
 finetuned_model_dict = {
-	"multi_premise_TE":{
-		"ada":"your_finetuned_model_id",
-		"curie":"your_finetuned_model_id"
+	"MPTE":{
+		"ada":"ada:ft-ccb-lab-members-2021-08-12-01-09-11",
+		"curie":"curie:ft-ccb-lab-members-2021-08-12-02-24-03"
 	},
-	"event_plausibility":{
-		"ada":"your_finetuned_model_id",
-		"curie":"your_finetuned_model_id",
+	"EPC":{
+		"ada":"ada:ft-ccb-lab-members-2021-08-13-00-40-39",
+		"curie":"curie:ft-ccb-lab-members-2021-08-13-02-39-17",
 	}
 }
 
-## number of classes in existing benchmarks
-n_classes_dict_benchmark = {
-	"single_premise_TE":3,
-	"multi_premise_TE":3,
-	"event_plausibility":3,
-}
 
 subtask_fieldnames = {
 	"single_premise_TE": ["premise", "hypothesis", "gold label", "pred label", "confidence"],
