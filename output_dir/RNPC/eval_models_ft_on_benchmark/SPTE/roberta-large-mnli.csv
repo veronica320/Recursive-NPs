@@ -1,0 +1,1164 @@
+id,combo,source NP,premise,hypothesis,gold label,pred label,confidence
+1,pri-pri,a possible future outcome,This is a possible future outcome.,This is a possible outcome.,entailment,entailment,0.99122417
+2,pri-pri,a plastic toy car,This is a plastic toy car.,This is a toy car.,entailment,entailment,0.98643976
+3,pri-pri,a burned fake banknote,This is a burned fake banknote.,This is a fake banknote.,entailment,entailment,0.96967906
+4,pri-pri,an almost impossible job,This is an almost impossible job.,This is a job.,entailment,entailment,0.79405504
+5,pri-int,a figurative quoted expression,This is a figurative quoted expression.,This is a quoted expression.,entailment,entailment,0.9518776
+6,pri-int,a broken glass window,This is a broken glass window.,This is a glass window.,entailment,entailment,0.8742746
+7,pri-int,a virtual private network service,This is a virtual private network service.,This is a private network service.,entailment,entailment,0.9627572
+8,int-pri,a bright counterfeit light,This is a bright counterfeit light.,This is a bright light.,entailment,entailment,0.94433415
+9,int-pri,a handmade empty glass,This is a handmade empty glass.,This is a handmade glass.,entailment,entailment,0.979007
+10,int-pri,a white paper book,This is a white paper book.,This is a white book.,entailment,entailment,0.9915257
+11,sub-pri,a big fake painting,This is a big fake painting.,This is a big painting.,entailment,entailment,0.9313558
+12,sub-pri,a big toy box,This is a big toy box.,This is a big box.,entailment,entailment,0.9859861
+13,sub-pri,a good initial impression,This is a good initial impression.,This is a good impression.,entailment,entailment,0.9940441
+14,sub-pri,a big stone wall,This is a big stone wall.,This is a big wall.,entailment,entailment,0.99255353
+15,sub-pri,a sweet empty dream,This is a sweet empty dream.,This is a sweet dream.,entailment,entailment,0.9747618
+16,sub-pri,a long stone bridge,This is a long stone bridge.,This is a long bridge.,entailment,entailment,0.9914419
+17,sub-int,the second green ball,This is the second green ball.,This is a green ball.,entailment,entailment,0.9795766
+18,sub-int,the second green ball,This is the second green ball.,This is a green ball.,entailment,entailment,0.9795766
+19,pri-sub,an alleged antique vase,This is an alleged antique vase.,This is a vase.,entailment,entailment,0.96452266
+20,pri-sub,an alleged antique vase,This is an alleged antique vase.,This is a vase.,entailment,entailment,0.96452266
+21,pri-sub,a previous long chapter,This is a previous long chapter.,This is a previous chapter.,entailment,entailment,0.98340285
+22,pri-sub,a previous long chapter,This is a previous long chapter.,This is a long chapter.,entailment,entailment,0.96892905
+23,pri-sub,a previous long chapter,This is a previous long chapter.,This is a chapter.,entailment,entailment,0.93633026
+24,sub-int,a popular female singer,She is a popular female singer.,She is a female singer.,entailment,entailment,0.9866236
+25,sub-int,bright red hair,She has bright red hair.,She has hair.,entailment,entailment,0.98675287
+26,pri-sub,possible deep structural damage,This is possible deep structural damage.,This is possible structural damage.,entailment,entailment,0.9915884
+27,sub-sub,boring old news,This is boring old news.,This is boring news.,entailment,entailment,0.99178594
+28,pri-sub,its previous official deadline,This is its previous official deadline.,This is its previous deadline.,entailment,entailment,0.9878685
+29,sub-sub,one new preferred share,This is one new preferred share.,This is one new share.,entailment,entailment,0.98004466
+30,sub-int,recent natural disasters,These are recent natural disasters.,These are recent disasters.,entailment,entailment,0.99293315
+31,sub-int,big European banks,Those are big European banks.,Those are European banks.,entailment,entailment,0.99290085
+32,int-sub,a Swedish central statistics agency,This is a Swedish central statistics agency.,This is a statistics agency.,entailment,entailment,0.97560525
+33,sub-int,his old square box,This is his old square box.,This is his old box.,entailment,entailment,0.98228747
+34,sub-pri,a national military drill,This is a national military drill.,This is a military drill.,entailment,entailment,0.9495554
+35,pri-sub,the phony cheap gimmicks,These are the phony cheap gimmicks.,These are the phony gimmicks.,entailment,entailment,0.99362576
+36,pri-sub,some so-called high-quality junk issues,Those are some so-called high-quality junk issues.,Those are some junk issues.,entailment,entailment,0.91393566
+37,pri-sub,an overrated hit song,This is an overrated hit song.,This is an overrated song.,entailment,entailment,0.9804318
+38,sub-int,new yellow curtains,Those are new yellow curtains.,Those are curtains.,entailment,entailment,0.9812672
+39,sub-sub,Quebecor's second big printing acquisition,This is Quebecor's second big printing acquisition.,This is a big printing acquisition.,entailment,entailment,0.98455226
+40,sub-sub,small attractive hotels,Those are small attractive hotels.,Those are hotels.,entailment,entailment,0.9781567
+41,int-pri,an original unofficial vote count,This is an original unofficial vote count.,This is an unofficial vote count.,entailment,entailment,0.97959834
+42,sub-pri,a national experimental project,This is a national experimental project.,This is an experimental project.,entailment,entailment,0.979222
+43,pri-sub,an imaginary powerful enemy,He is an imaginary powerful enemy.,He is an imaginary enemy.,entailment,entailment,0.99231863
+44,sub-pri,low initial ratings,Those are low initial ratings.,Those are initial ratings.,entailment,entailment,0.8745256
+45,sub-sub,good new products,Those are good new products.,Those are new products.,entailment,entailment,0.9917881
+46,sub-int,the fourth Swedish winner,This is the fourth Swedish winner.,This is the Swedish winner.,entailment,entailment,0.712529
+47,pri-sub,the mock common admission test,This is the mock common admission test.,This is the mock admission test.,entailment,entailment,0.90101093
+48,sub-sub,grand old firms,Those are grand old firms.,Those are firms.,entailment,entailment,0.9709501
+49,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a retired lawyer.,entailment,entailment,0.9887412
+50,sub-pri,many failed mergers,Those are many failed mergers.,Those are failed mergers.,entailment,entailment,0.9901484
+51,sub-sub,a small quiet crowd,This is a small quiet crowd.,This is a quiet crowd.,entailment,entailment,0.99309593
+52,pri-int,a so-called American expert,She is a so-called American expert.,She is a so-called expert.,entailment,entailment,0.98551744
+53,sub-int,the big red button,This is the big red button.,This is the red button.,entailment,entailment,0.99029326
+54,pri-sub,its presumed specific principles,These are its presumed specific principles.,These are its presumed principles.,entailment,entailment,0.98018503
+55,pri-sub,a fictional modern monarchy,This is a fictional modern monarchy.,This is a fictional monarchy.,entailment,entailment,0.99165314
+56,sub-int,its fourth consecutive gold medal,This is its fourth consecutive gold medal.,This is its consecutive gold medal.,entailment,entailment,0.9719634
+57,sub-int,an attractive blond girl,She is an attractive blond girl.,She is a girl.,entailment,entailment,0.9831403
+58,sub-sub,new preferred stock,This is new preferred stock.,This is preferred stock.,entailment,entailment,0.962663
+59,pri-sub,a presumed negative effect,This is a presumed negative effect.,This is a presumed effect.,entailment,entailment,0.98318005
+60,sub-int,the fourth Swedish winner,This is the fourth Swedish winner.,This is the winner.,entailment,entailment,0.8984186
+61,sub-int,new yellow curtains,Those are new yellow curtains.,Those are new curtains.,entailment,entailment,0.98962337
+62,pri-sub,a presumed regional leader,He is a presumed regional leader.,He is a presumed leader.,entailment,entailment,0.9832776
+63,sub-int,a big black plume,This is a big black plume.,This is a black plume.,entailment,entailment,0.99126256
+64,pri-sub,a hypothetical independent candidate,She is a hypothetical independent candidate.,She is a hypothetical candidate.,entailment,entailment,0.98265356
+65,pri-sub,a predicted hot condition,This is a predicted hot condition.,This is a condition.,entailment,entailment,0.9574455
+66,sub-pri,a low expected return,This is a low expected return.,This is an expected return.,entailment,entailment,0.92326605
+67,sub-int,a small gray elephant,It is a small gray elephant.,It is a gray elephant.,entailment,entailment,0.98398054
+68,int-int,a depressed doctoral student,This is a depressed doctoral student.,This is a doctoral student.,entailment,entailment,0.964581
+69,pri-sub,a dubious moral justification,This is a dubious moral justification.,This is a dubious justification.,entailment,entailment,0.9903529
+70,int-sub,Australian junior players,They are Australian junior players.,They are players.,entailment,entailment,0.9697324
+71,sub-int,a small black pig,It is a small black pig.,It is a black pig.,entailment,entailment,0.99103504
+72,pri-sub,a broken presidential promise,This is a broken presidential promise.,This is a broken promise.,entailment,entailment,0.992569
+73,sub-int,an attractive blond woman,She is an attractive blond woman.,She is a woman.,entailment,entailment,0.9823418
+74,sub-pri,numerous broken bones,He has numerous broken bones.,He has numerous bones.,entailment,entailment,0.9931498
+75,pri-pri,a possible incorrect pilot reaction,This is a possible incorrect pilot reaction.,This is a possible pilot reaction.,entailment,entailment,0.8309643
+76,sub-pri,a national anti-terror military drill,This is a national anti-terror military drill.,This is an anti-terror military drill.,entailment,entailment,0.9806943
+77,pri-sub,a partial federal shutdown,This is a partial federal shutdown.,This is a partial shutdown.,entailment,entailment,0.99102825
+78,sub-pri,many unlikely coincidences,These are many unlikely coincidences.,These are unlikely coincidences.,entailment,entailment,0.9826817
+79,sub-sub,a new regional contract,This is a new regional contract.,This is a contract.,entailment,entailment,0.97641957
+80,sub-pri,a big stone lion,This is a big stone lion.,This is a stone lion.,entailment,entailment,0.98617387
+81,int-int,original American stage plays,Those are original American stage plays.,Those are original stage plays.,entailment,entailment,0.9918012
+82,sub-sub,an expensive new stadium,This is an expensive new stadium.,This is a new stadium.,entailment,entailment,0.9697044
+83,pri-pri,a faulty artificial joint,This is a faulty artificial joint.,This is an artificial joint.,entailment,entailment,0.9549174
+84,sub-int,a deep blue ocean,This is a deep blue ocean.,This is an ocean.,entailment,entailment,0.98296344
+85,sub-int,a top environmental concern,This is a top environmental concern.,This is a concern.,entailment,entailment,0.9723734
+86,sub-int,the current American government,This is the current American government.,This is the American government.,entailment,entailment,0.97027594
+87,sub-int,a bad American showman,This is a bad American showman.,This is a showman.,entailment,entailment,0.933646
+88,sub-int,regular married folks,They are regular married folks.,They are folks.,entailment,entailment,0.97107893
+89,pri-sub,a fictional small island,This is a fictional small island.,This is a fictional island.,entailment,entailment,0.9929367
+90,pri-sub,a retired prominent basketball player,This is a retired prominent basketball player.,This is a retired basketball player.,entailment,entailment,0.99031466
+91,sub-int,a dangerous dead animal,This is a dangerous dead animal.,This is an animal.,entailment,entailment,0.93641263
+92,pri-sub,probable technical difficulties,These are probable technical difficulties.,These are probable difficulties.,entailment,entailment,0.99004865
+93,pri-sub,an apparent third straight defeat,This is an apparent third straight defeat.,This is an apparent straight defeat.,entailment,entailment,0.9552564
+94,sub-sub,the only professional instruction,This is the only professional instruction.,This is professional instruction.,entailment,entailment,0.9801616
+95,sub-int,a late morning flight,This is a late morning flight.,This is a flight.,entailment,entailment,0.96782327
+96,sub-pri,a fierce mock debate,This is a fierce mock debate.,This is a mock debate.,entailment,entailment,0.9733332
+97,sub-pri,numerous false rumors,These are numerous false rumors.,These are false rumors.,entailment,entailment,0.9926785
+98,sub-sub,a beautiful young woman,She is a beautiful young woman.,She is a young woman.,entailment,entailment,0.98380154
+99,int-sub,a Swedish technical skier,He is a Swedish technical skier.,He is a skier.,entailment,entailment,0.9792454
+100,sub-sub,a top secondary school,This is a top secondary school.,This is a top school.,entailment,entailment,0.9890758
+101,sub-int,a tall 12-year-old child,He is a tall 12-year-old child.,He is a tall child.,entailment,entailment,0.99341065
+102,pri-sub,an unofficial early result,This is an unofficial early result.,This is an unofficial result.,entailment,entailment,0.9891451
+103,pri-sub,Germany's next top star,He is Germany's next top star.,He is Germany's next star.,entailment,entailment,0.9895942
+104,sub-int,a plain American student,She is a plain American student.,She is a student.,entailment,entailment,0.99018013
+105,sub-pri,maximum six-week temporary layoffs,These are maximum six-week temporary layoffs.,These are maximum six-week layoffs.,entailment,entailment,0.99112695
+106,sub-sub,grand old firms,Those are grand old firms.,Those are grand firms.,entailment,entailment,0.9910306
+107,pri-pri,imminent potential reactions,These are imminent potential reactions.,These are potential reactions.,entailment,entailment,0.9889093
+108,int-sub,a flat second quarter,This is a flat second quarter.,This is a flat quarter.,entailment,entailment,0.9894762
+109,sub-sub,the only big losers,They are the only big losers.,They are losers.,entailment,entailment,0.9885416
+110,sub-int,top Mexican teams,These are top Mexican teams.,These are teams.,entailment,entailment,0.9449889
+111,pri-pri,alleged suspicious transactions,These are alleged suspicious transactions.,These are alleged transactions.,entailment,entailment,0.97151226
+112,pri-sub,impossible good luck,This is impossible good luck.,This is good luck.,entailment,entailment,0.7097681
+113,sub-int,a heavy newborn baby,She is a heavy newborn baby.,She is a newborn baby.,entailment,entailment,0.9783709
+114,sub-pri,the first proposed bid,This is the first proposed bid.,This is a proposed bid.,entailment,entailment,0.980493
+115,sub-sub,its second recent arbitration case,This is its second recent arbitration case.,This is an arbitration case.,entailment,entailment,0.9724572
+116,sub-pri,a national historic treasure,This is a national historic treasure.,This is a historic treasure.,entailment,entailment,0.9776364
+117,pri-pri,a new artificial rubber turf,This is a new artificial rubber turf.,This is a new rubber turf.,entailment,entailment,0.9928477
+118,sub-sub,a powerful new microprocessor chip,This is a powerful new microprocessor chip.,This is a powerful microprocessor chip.,entailment,entailment,0.99356705
+119,int-pri,a South African paper company,This is a South African paper company.,This is a South African company.,entailment,entailment,0.9412617
+120,pri-sub,a presumed early rebel target,He is a presumed early rebel target.,He is a presumed rebel target.,entailment,entailment,0.9869753
+121,pri-sub,vice presidential short lists,These are vice presidential short lists.,These are short lists.,entailment,entailment,0.9547874
+122,sub-int,the company's only real problem,This is the company's only real problem.,This is the company's problem.,entailment,entailment,0.9691144
+123,sub-int,a small gray elephant,It is a small gray elephant.,It is an elephant.,entailment,entailment,0.9804832
+124,sub-int,bad Israeli singers,They are bad Israeli singers.,They are Israeli singers.,entailment,entailment,0.9826031
+125,pri-sub,previous similar findings,Those are previous similar findings.,Those are similar findings.,entailment,entailment,0.98321265
+126,sub-int,a chief online rival,He is a chief online rival.,He is a rival.,entailment,entailment,0.9905812
+127,int-sub,a Swedish technical skier,He is a Swedish technical skier.,He is a skier.,entailment,entailment,0.9792454
+128,sub-int,a big black ant,It is a big black ant.,It is a black ant.,entailment,entailment,0.990449
+129,sub-pri,a high expected return,This is a high expected return.,This is an expected return.,entailment,entailment,0.96212983
+130,pri-sub,a broken soft drink bottle,This is a broken soft drink bottle.,This is a soft drink bottle.,entailment,entailment,0.9452547
+131,sub-pri,a maximum theoretical speed,This is a maximum theoretical speed.,This is a speed.,entailment,entailment,0.93371576
+132,pri-sub,past official targets,These are past official targets.,These are past targets.,entailment,entailment,0.9896913
+133,pri-sub,predicted fast economic growth,This is predicted fast economic growth.,This is predicted economic growth.,entailment,entailment,0.9857767
+134,sub-pri,a national anti- pandemic plan,This is a national anti- pandemic plan.,This is an anti-pandemic plan.,entailment,entailment,0.97301
+135,sub-int,some big European institutional investors,They are some big European institutional investors.,They are some European institutional investors.,entailment,entailment,0.99260426
+136,int-pri,a Russian unofficial trade,This is a Russian unofficial trade.,This is a Russian trade.,entailment,entailment,0.97480243
+137,int-pri,a single 18-karat gold earring,This is a single 18-karat gold earring.,This is an 18-karat gold earring.,entailment,entailment,0.9795617
+138,sub-int,big pink peonies,Those are big pink peonies.,Those are big peonies.,entailment,entailment,0.9931144
+139,int-int,the real genuine truth,This is the real genuine truth.,This is the real truth.,entailment,entailment,0.9926762
+140,sub-int,a good full breakfast,This is a good full breakfast.,This is a full breakfast.,entailment,entailment,0.98691314
+141,sub-int,a famous American painter,She is a famous American painter.,She is a painter.,entailment,entailment,0.98759055
+142,sub-int,the big red button,This is the big red button.,This is the button.,entailment,entailment,0.974035
+143,sub-int,regional religious conflicts,These are regional religious conflicts.,These are regional conflicts.,entailment,entailment,0.947274
+144,sub-pri,the city's first so-called greenfield plant,This is the city's first so-called greenfield plant.,This is a so-called greenfield plant.,entailment,entailment,0.9741304
+145,pri-sub,the seeming easy access,This is the seeming easy access.,This is the seeming access.,entailment,entailment,0.9797497
+146,pri-sub,its plastic little human,This is its plastic little human.,This is its plastic human.,entailment,entailment,0.99254346
+147,int-sub,a Western top official,He is a Western top official.,He is a Western official.,entailment,entailment,0.9898108
+148,sub-int,a famous American painter,She is a famous American painter.,She is a famous painter.,entailment,entailment,0.99326974
+149,sub-pri,many mistaken witnesses,They are many mistaken witnesses.,They are mistaken witnesses.,entailment,entailment,0.98626524
+150,pri-int,an expected financial surge,This is an expected financial surge.,This is an expected surge.,entailment,entailment,0.9801906
+151,sub-int,plain American common sense,This is plain American common sense.,This is American common sense.,entailment,entailment,0.9919017
+152,int-sub,a Swedish top diplomat,She is a Swedish top diplomat.,She is a Swedish diplomat.,entailment,entailment,0.9890792
+153,sub-pri,national experimental projects,These are national experimental projects.,These are experimental projects.,entailment,entailment,0.9794301
+154,sub-int,its fourth democratic election,This is its fourth democratic election.,This is its election.,entailment,entailment,0.92029756
+155,sub-sub,a top amateur U.S. athlete,She is a top amateur U.S. athlete.,She is an amateur U.S. athlete.,entailment,entailment,0.98733854
+156,pri-pri,a possible incorrect pilot reaction,This is a possible incorrect pilot reaction.,This is a pilot reaction.,entailment,entailment,0.63031
+157,pri-sub,an apparent heavy demand,This is an apparent heavy demand.,This is an apparent demand.,entailment,entailment,0.9811112
+158,sub-int,heavy black smoke,There is heavy black smoke.,There is black smoke.,entailment,entailment,0.9936092
+159,pri-sub,a surrogate national voice,She is a surrogate national voice.,She is a voice.,entailment,entailment,0.97907776
+160,pri-pri,several past failed efforts,Those are several past failed efforts.,Those are several efforts.,entailment,entailment,0.98356587
+161,sub-int,a big black ant,It is a big black ant.,It is an ant.,entailment,entailment,0.9827053
+162,int-pri,an original virtual pet,This is an original virtual pet.,This is a virtual pet.,entailment,entailment,0.95688033
+163,sub-sub,their first annual review,This is their first annual review.,This is their review.,entailment,entailment,0.9286816
+164,int-pri,a single false positive,This is a single false positive.,This is a false positive.,entailment,entailment,0.9738212
+165,sub-int,a big full backyard,This is a big full backyard.,This is a big backyard.,entailment,entailment,0.992523
+166,pri-pri,a plausible fake ID,This is a plausible fake ID.,This is a fake ID.,entailment,entailment,0.9742167
+167,sub-pri,numerous spurious confessions,These are numerous spurious confessions.,These are confessions.,entailment,non-entailment,0.6260264255106449
+168,sub-int,a chief online rival,He is a chief online rival.,He is an online rival.,entailment,entailment,0.9922166
+169,sub-pri,many supposed solutions,Those are many supposed solutions.,Those are supposed solutions.,entailment,entailment,0.98729473
+170,pri-sub,a mock early surrender,This is a mock early surrender.,This is a mock surrender.,entailment,entailment,0.9756982
+171,sub-int,an old German friend,She has an old German friend.,She has a German friend.,entailment,entailment,0.9926126
+172,int-sub,a Swedish permanent representative,He is a Swedish permanent representative.,He is a Swedish representative.,entailment,entailment,0.9870004
+173,int-sub,a Western Australian junior player,She is a Western Australian junior player.,She is an Australian junior player.,entailment,entailment,0.94728774
+174,pri-pri,an expected imminent attack,This is an expected imminent attack.,This is an expected attack.,entailment,entailment,0.98923755
+175,pri-pri,mock wooden machineguns,Those are mock wooden machine guns.,Those are mock machine guns.,entailment,entailment,0.987171
+176,int-pri,Chinese counterfeit goods,These are Chinese counterfeit goods.,These are counterfeit goods.,entailment,entailment,0.9874328
+177,pri-int,a virtual private network service,This is a virtual private network service.,This is a network service.,entailment,entailment,0.9306897
+178,sub-int,a young American girl,She is a young American girl.,She is a young girl.,entailment,entailment,0.9870869
+179,pri-sub,an artificial left leg,This is an artificial left leg.,This is an artificial leg.,entailment,entailment,0.98986125
+180,pri-pri,an experimental temporary dwellings,This is an experimental temporary dwelling.,This is an experimental dwelling.,entailment,entailment,0.9874451
+181,sub-sub,a known habitual liar,She is a known habitual liar.,She is a habitual liar.,entailment,entailment,0.9932833
+182,sub-pri,a big fake gun,This is a big fake gun.,This is a fake gun.,entailment,entailment,0.99241287
+183,sub-sub,a feverish young boy,He is a feverish young boy.,He is a young boy.,entailment,entailment,0.9739301
+184,sub-int,a chief internal investigator,This is a chief internal investigator.,This is an internal investigator.,entailment,entailment,0.9617342
+185,sub-int,a chief online rival,This is a chief online rival.,This is an online rival.,entailment,entailment,0.9894582
+186,sub-int,bright blue eyes,She has bright blue eyes.,She has bright eyes.,entailment,entailment,0.9907369
+187,int-pri,a French figurative painter,She is a French figurative painter.,She is a figurative painter.,entailment,entailment,0.9891939
+188,sub-pri,soft fake fur,This is soft fake fur.,This is fake fur.,entailment,entailment,0.98040205
+189,int-sub,a Swedish top diplomat,She is a Swedish top diplomat.,She is a diplomat.,entailment,entailment,0.9871487
+190,sub-int,a bottle of old red wine,This is a bottle of old red wine.,This is a bottle of old wine.,entailment,entailment,0.98928154
+191,sub-int,their first real test,This is their first real test.,This is a test.,entailment,entailment,0.98308575
+192,pri-sub,an unlikely late bid,This is an unlikely late bid.,This is a bid.,entailment,entailment,0.9119292
+193,sub-pri,high initial expectations,These are high initial expectations.,These are expectations.,entailment,entailment,0.9779733
+194,sub-int,an alternative scientific theory,This is an alternative scientific theory.,This is a scientific theory.,entailment,entailment,0.6683839
+195,sub-pri,a maximum nominal amount,This is a maximum nominal amount.,This is a nominal amount.,entailment,entailment,0.9745207
+196,int-sub,a Swedish central statistics agency,This is a Swedish central statistics agency.,This is a Swedish statistics agency.,entailment,entailment,0.9822704
+197,pri-sub,a substitute long snapper,This is a substitute long snapper.,This is a substitute snapper.,entailment,entailment,0.9771692
+198,sub-sub,his first big gamble,This is his first big gamble.,This is a big gamble.,entailment,entailment,0.985743
+199,sub-pri,a national historic monument,This is a national historic monument.,This is a historic monument.,entailment,entailment,0.98092896
+200,sub-sub,a tall young man,He is a tall young man.,He is a young man.,entailment,entailment,0.987099
+201,pri-pri,a wooden toy train,This is a wooden toy train.,This is a toy train.,entailment,entailment,0.9706274
+202,sub-pri,numerous false assumptions,These are numerous false assumptions.,These are false assumptions.,entailment,entailment,0.99183077
+203,pri-sub,a fictional common ancestor,She is a fictional common ancestor.,She is a fictional ancestor.,entailment,entailment,0.98453426
+204,pri-sub,a sham national convention,This is a sham national convention.,This is a sham convention.,entailment,entailment,0.9903999
+205,int-pri,a single artificial white rose,This is a single artificial white rose.,This is an artificial white rose.,entailment,entailment,0.98619485
+206,pri-sub,a phony western gunfight,This is a phony western gunfight.,This is a phony gunfight.,entailment,entailment,0.99065644
+207,sub-int,a short black beard,He has a short black beard.,He has a black beard.,entailment,entailment,0.9927321
+208,pri-sub,an arrogant former young genius,He is an arrogant former young genius.,He is an arrogant former genius.,entailment,entailment,0.9937989
+209,sub-sub,new preferred stock,This is new preferred stock.,This is new stock.,entailment,entailment,0.98567873
+210,sub-pri,a good initial impression,This is a good initial impression.,This is an initial impression.,entailment,entailment,0.98470044
+211,pri-sub,virtual domestic Olympics,These are virtual domestic Olympics.,These are virtual Olympics.,entailment,entailment,0.96410674
+212,pri-int,a released male prisoner,He is a released male prisoner.,He is a released prisoner.,entailment,entailment,0.9894853
+213,sub-pri,many failed ideas,Those are many failed ideas.,Those are many ideas.,entailment,entailment,0.748282
+214,sub-sub,wide professional use,This is wide professional use.,This is professional use.,entailment,entailment,0.98995274
+215,sub-int,a key local industry,This is a key local industry.,This is a local industry.,entailment,entailment,0.98865265
+216,pri-int,false direct evidence,This is false direct evidence.,This is false evidence.,entailment,entailment,0.98841804
+217,sub-pri,a famous former actor,He is a famous former actor.,He is a former actor.,entailment,entailment,0.9909745
+218,sub-pri,a big fake painting,This is a big fake painting.,This is a fake painting.,entailment,entailment,0.9924091
+219,sub-sub,the only big losers,They are the only big losers.,They are big losers.,entailment,entailment,0.9861573
+220,sub-pri,new potential customers,They are new potential customers.,They are potential customers.,entailment,entailment,0.9897473
+221,pri-sub,the group's alleged earlier violation,This is the group's alleged earlier violation.,This is the group's alleged violation.,entailment,entailment,0.9708791
+222,pri-sub,a plausible big idea,This is a plausible big idea.,This is an idea.,entailment,entailment,0.9868774
+223,sub-pri,a national rubber producer,This is a national rubber producer.,This is a producer.,entailment,entailment,0.9466795
+224,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer.,He is an alleged arms dealer.,entailment,entailment,0.9884947
+225,sub-sub,my new best friend,She is my new best friend.,She is my best friend.,entailment,entailment,0.9830352
+226,sub-sub,a small quiet crowd,This is a small quiet crowd.,This is a crowd.,entailment,entailment,0.9752053
+227,int-pri,a French figurative painter,She is a French figurative painter.,She is a French painter.,entailment,entailment,0.9904943
+228,sub-sub,big national laboratories,These are big national laboratories.,These are big laboratories.,entailment,entailment,0.9922564
+229,sub-pri,numerous mistaken interpretations,Those are numerous mistaken interpretations.,Those are mistaken interpretations.,entailment,entailment,0.98995376
+230,sub-int,two recent natural disasters,Those are two recent natural disasters.,Those are two disasters.,entailment,entailment,0.98860323
+231,pri-sub,a retired northern general,He is a retired northern general.,He is a retired general.,entailment,entailment,0.9890056
+232,pri-int,a fake rhinestone diamond,This is a fake rhinestone diamond.,This is a fake diamond.,entailment,entailment,0.9902532
+233,sub-pri,a national honorary society,This is a national honorary society.,This is a society.,entailment,entailment,0.9552362
+234,pri-sub,the previous presidential nominee,He is the previous presidential nominee.,He is the previous nominee.,entailment,entailment,0.98876196
+235,sub-sub,a powerful first shot,This is a powerful first shot.,This is the first shot.,entailment,entailment,0.96834654
+236,sub-int,clear blue eyes,He has clear blue eyes.,He has blue eyes.,entailment,entailment,0.9923482
+237,sub-int,a bad American showman,This is a bad American showman.,This is an American showman.,entailment,entailment,0.92273635
+238,pri-sub,a partial global population collapse,This is a partial global population collapse.,This is a partial population collapse.,entailment,entailment,0.9920819
+239,pri-sub,a retired federal lawyer,She is a retired federal lawyer.,She is a retired lawyer.,entailment,entailment,0.9891305
+240,pri-sub,a substitute long snapper,This is a substitute long snapper.,This is a long snapper.,entailment,entailment,0.5079578
+241,pri-sub,broken presidential promises,These are broken presidential promises.,These are promises.,entailment,entailment,0.8495388
+242,pri-sub,a disputed parliamentary election result,This is a disputed parliamentary election result.,This is a parliamentary election result.,entailment,entailment,0.90839565
+243,int-sub,a real good workout,This is a real good workout.,This is a workout.,entailment,entailment,0.97797626
+244,sub-int,a small black book,This is a small black book.,This is a black book.,entailment,entailment,0.98977333
+245,sub-pri,a recent unsuccessful coup,This is a recent unsuccessful coup.,This is a coup.,entailment,entailment,0.8744888
+246,pri-sub,a fictitious high school,This is a fictitious high school.,This is a fictitious school.,entailment,entailment,0.98806167
+247,pri-sub,the supposed good guys,They are the supposed good guys.,They are the guys.,entailment,entailment,0.899885
+248,sub-int,a good full breakfast,This is a good full breakfast.,This is a good breakfast.,entailment,entailment,0.9920201
+249,int-sub,an extinct ancient animal,This is an extinct ancient animal.,This is an ancient animal.,entailment,entailment,0.9334956
+250,sub-sub,a new regional contract,This is a new regional contract.,This is a regional contract.,entailment,entailment,0.9471996
+251,sub-int,the fourth democratic parliament,This is the fourth democratic parliament.,This is the democratic parliament.,entailment,entailment,0.8505645
+252,sub-int,a top environmental concern,This is a top environmental concern.,This is a concern.,entailment,entailment,0.9723734
+253,pri-sub,an allegedly fraudulent national election,This is an allegedly fraudulent national election.,This is an allegedly fraudulent election.,entailment,entailment,0.99294335
+254,sub-int,recent natural disasters,Those are recent natural disasters.,Those are disasters.,entailment,entailment,0.9832071
+255,sub-int,regional religious conflicts,These are regional religious conflicts.,These are religious conflicts.,entailment,entailment,0.97251546
+256,sub-sub,their first professional position,This is their first professional position.,This is their professional position.,entailment,entailment,0.9788342
+257,sub-pri,a national surrogate speaker,She is a national surrogate speaker.,She is a speaker.,entailment,entailment,0.9873411
+258,pri-sub,an unofficial early result,This is an unofficial early result.,This is an early result.,entailment,entailment,0.9610078
+259,int-sub,an original hard copy,This is an original hard copy.,This is an original copy.,entailment,entailment,0.99000424
+260,sub-pri,a long stone bridge,This is a long stone bridge.,This is a bridge.,entailment,entailment,0.9797849
+261,pri-sub,a past southern area,This is a past southern area.,This is an area.,entailment,entailment,0.9422688
+262,sub-int,a small black book,This is a small black book.,This is a small book.,entailment,entailment,0.99027854
+263,int-int,an American black woman,This is an American black woman.,This is a black woman.,entailment,entailment,0.9915679
+264,pri-int,an alleged racial discrimination,This is an alleged racial discrimination.,This is an alleged discrimination.,entailment,entailment,0.9890131
+265,sub-int,a popular vocal quartet,They are a popular vocal quartet.,They are a quartet.,entailment,entailment,0.9400375
+266,sub-sub,an old familiar friend,She is an old familiar friend.,She is a familiar friend.,entailment,entailment,0.99331504
+267,sub-sub,a handsome young president,He is a handsome young president.,He is a handsome president.,entailment,entailment,0.9936819
+268,pri-sub,a broken front door lock,This is a broken front door lock.,This is a front door lock.,entailment,entailment,0.8101275
+269,sub-pri,high initial expectations,These are high initial expectations.,These are initial expectations.,entailment,entailment,0.9805111
+270,int-pri,French historic monuments,Those are French historic monuments.,Those are French monuments.,entailment,entailment,0.9911596
+271,sub-sub,a powerful new microprocessor chip,This is a powerful new microprocessor chip.,This is a microprocessor chip.,entailment,entailment,0.96976435
+272,sub-pri,his numerous unsuccessful marriages,Those are his numerous unsuccessful marriages.,Those are his unsuccessful marriages.,entailment,entailment,0.993274
+273,sub-pri,numerous wrong turns,There are numerous wrong turns.,There are wrong turns.,entailment,entailment,0.99275994
+274,sub-int,an alternative scientific theory,This is an alternative scientific theory.,This is an alternative theory.,entailment,entailment,0.9895894
+275,pri-sub,an allegedly fraudulent national election,This is an allegedly fraudulent national election.,This is an allegedly fraudulent election.,entailment,entailment,0.99294335
+276,pri-pri,several past failed efforts,Those are several past failed efforts.,Those are several past efforts.,entailment,entailment,0.99232316
+277,pri-sub,a forged diplomatic passport,He has a forged diplomatic passport.,He has a forged passport.,entailment,entailment,0.993346
+278,sub-int,an early evening flight,This is an early evening flight.,This is an evening flight.,entailment,entailment,0.8003148
+279,pri-sub,an unofficial amateur event,This is an unofficial amateur event.,This is an amateur event.,entailment,entailment,0.9816488
+280,pri-pri,a gold plastic raspberry,This is a gold plastic raspberry.,This is a plastic raspberry.,entailment,entailment,0.969841
+281,sub-pri,numerous previous research efforts,Those are numerous previous research efforts.,Those are numerous research efforts.,entailment,entailment,0.9858166
+282,int-pri,a French figurative painter,She is a French figurative painter.,She is a painter.,entailment,entailment,0.98498976
+283,sub-int,an attractive blond girl,She is an attractive blond girl.,She is a blond girl.,entailment,entailment,0.9921949
+284,sub-sub,a powerful first shot,This is a powerful first shot.,This is a powerful shot.,entailment,entailment,0.9880195
+285,pri-pri,an imminent historic enlargement,This is an imminent historic enlargement.,This is an imminent enlargement.,entailment,entailment,0.97718936
+286,sub-sub,good young players,They are good young players.,They are young players.,entailment,entailment,0.9874741
+287,sub-pri,a big toy gun,This is a big toy gun.,This is a toy gun.,entailment,entailment,0.98993546
+288,int-sub,a Swedish permanent representative,He is a Swedish permanent representative.,He is a representative.,entailment,entailment,0.9761854
+289,pri-pri,a new artificial rubber turf,This is a new artificial rubber turf.,This is a new artificial turf.,entailment,entailment,0.98836863
+290,int-sub,a dead dangerous animal,This is a dead dangerous animal.,This is an animal.,entailment,entailment,0.95104635
+291,int-int,an American black woman,This is an American black woman.,This is an American woman.,entailment,entailment,0.9824448
+292,pri-sub,the supposed traditional wisdom,It is the supposed traditional wisdom.,It is the supposed wisdom.,entailment,entailment,0.9838769
+293,int-pri,a single previous agreement,This is a single previous agreement.,This is a previous agreement.,entailment,entailment,0.98274535
+294,sub-int,heavy black smoke,There is heavy black smoke.,There is heavy smoke.,entailment,entailment,0.9928195
+295,int-sub,a dead dangerous animal,This is a dead dangerous animal.,This is a dead animal.,entailment,entailment,0.9714314
+296,int-pri,A single wooden chair,This is A single wooden chair.,This is A single chair.,entailment,entailment,0.9846126
+297,sub-int,an attractive beginner golfer,He is an attractive beginner golfer.,He is an attractive golfer.,entailment,entailment,0.99183404
+298,sub-sub,his first big chance,This is his first big chance.,This is his big chance.,entailment,entailment,0.98207664
+299,sub-pri,the only possible candidate,He is the only possible candidate.,He is a candidate.,entailment,entailment,0.97559345
+300,sub-pri,the only possible candidate,He is the only possible candidate.,He is a possible candidate.,entailment,entailment,0.9798288
+301,sub-sub,a big dumb idiot,He is a big dumb idiot.,He is a dumb idiot.,entailment,entailment,0.9936247
+302,pri-sub,a counterfeit modern bill,This is a counterfeit modern bill.,This is a counterfeit bill.,entailment,entailment,0.99161524
+303,sub-int,a small black skullcap,This is a small black skullcap.,This is a skullcap.,entailment,entailment,0.97393906
+304,pri-sub,previous similar findings,Those are previous similar findings.,Those are previous findings.,entailment,entailment,0.9839791
+305,int-int,fragrant red roses,Those are fragrant red roses.,Those are fragrant roses.,entailment,entailment,0.98929894
+306,sub-int,big green containers,These are big green containers.,These are big containers.,entailment,entailment,0.99232036
+307,pri-sub,probable severe punishment,This is probable severe punishment.,This is probable punishment.,entailment,entailment,0.99054444
+308,pri-pri,the initial unofficial trading,This is the initial unofficial trading.,This is unofficial trading.,entailment,entailment,0.9782525
+309,sub-int,a recent financial crisis,This is a recent financial crisis.,This is a recent crisis.,entailment,entailment,0.98897517
+310,sub-sub,its first national ad campaign,This is its first national ad campaign.,This is an ad campaign.,entailment,entailment,0.9822327
+311,pri-pri,a retired naval admiral,He is a retired naval admiral.,He is a retired admiral.,entailment,entailment,0.9916892
+312,sub-sub,my new best friend,She is my new best friend.,She is my friend.,entailment,entailment,0.98262364
+313,int-sub,Western soft coals,This is Western soft coals.,This is Western coals.,entailment,entailment,0.96148384
+314,sub-int,a popular female singer,She is a popular female singer.,She is a singer.,entailment,entailment,0.9869653
+315,sub-int,a narrow American strategy,This is a narrow American strategy.,This is a strategy.,entailment,entailment,0.970982
+316,pri-pri,her onetime would-be mentor,He is her onetime would-be mentor.,He is her would-be mentor.,entailment,entailment,0.98594695
+317,pri-sub,a virtual extra member,He is a virtual extra member.,He is a virtual member.,entailment,entailment,0.95137
+318,sub-pri,a national anti-government protest,This is a national anti-government protest.,This is an anti-government protest.,entailment,entailment,0.9896431
+319,sub-pri,a sweet empty dream,This is a sweet empty dream.,This is a dream.,entailment,entailment,0.985114
+320,pri-int,a former Australian owner,She is a former Australian owner.,She is a former owner.,entailment,entailment,0.9901293
+321,pri-sub,an improbable eighth win,This is an improbable eighth win.,This is an improbable win.,entailment,entailment,0.97511894
+322,sub-int,the deep blue sky,This is the deep blue sky.,This is the sky.,entailment,entailment,0.97249347
+323,sub-pri,a pitiful broken promise,This is a pitiful broken promise.,This is a broken promise.,entailment,entailment,0.992636
+324,sub-sub,a powerful new microprocessor chip,This is a powerful new microprocessor chip.,This is a new microprocessor chip.,entailment,entailment,0.9893644
+325,int-pri,a natural next question,This is a natural next question.,This is a question.,entailment,entailment,0.96440315
+326,sub-int,their spiffy new blue uniforms,Those are their spiffy new blue uniforms.,Those are their spiffy new uniforms.,entailment,entailment,0.9888269
+327,pri-sub,a onetime domestic policy adviser,He is a onetime domestic policy adviser.,He is a onetime policy adviser.,entailment,entailment,0.96395653
+328,sub-pri,low initial ratings,These are low initial ratings.,These are initial ratings.,entailment,entailment,0.8916084
+329,pri-sub,a supposed corrupt federal official,He is a supposed corrupt federal official.,He is a supposed corrupt official.,entailment,entailment,0.9920846
+330,sub-int,his second full day,This is his second full day.,This is a day.,entailment,entailment,0.9124353
+331,sub-sub,a new national ideology,This is a new national ideology.,This is a national ideology.,entailment,entailment,0.9693952
+332,sub-int,the company's only real problem,This is the company's only real problem.,This is the company's real problem.,entailment,entailment,0.99098957
+333,sub-pri,a national counterfeit industry,This is a national counterfeit industry.,This is a national industry.,entailment,entailment,0.88319117
+334,sub-sub,Quebecor's second big printing acquisition,This is Quebecor's second big printing acquisition.,This is a printing acquisition.,entailment,entailment,0.9727002
+335,pri-sub,two burned technical vehicles,These are two burned technical vehicles.,These are two technical vehicles.,entailment,entailment,0.9060009
+336,sub-int,a big open secret,This is a big open secret.,This is an open secret.,entailment,entailment,0.99286133
+337,pri-sub,the predicted global economic turbulence,This is the predicted global economic turbulence.,This is the predicted economic turbulence.,entailment,entailment,0.9882604
+338,sub-int,a big blue grass fan,This is a big bluegrass fan.,This is a bluegrass fan.,entailment,entailment,0.989801
+339,pri-pri,a retired super spy,He is a retired super spy.,He is a retired spy.,entailment,entailment,0.9752831
+340,int-pri,a single false attribution,This is a single false attribution.,This is an attribution.,entailment,entailment,0.5145119
+341,sub-pri,a national anti-government protest,This is a national anti-government protest.,This is a national protest.,entailment,entailment,0.98304594
+342,int-pri,an original mistaken diagnosis,This is an original mistaken diagnosis.,This is an original diagnosis.,entailment,non-entailment,0.9107241705060005
+343,pri-pri,red plastic flowers,Those are red plastic flowers.,Those are plastic flowers.,entailment,entailment,0.98366433
+344,sub-int,a bad European neighbor,This is a bad European neighbor.,This is a neighbor.,entailment,entailment,0.94359916
+345,pri-pri,her past broken promises,Those are her past broken promises.,Those are her past promises.,entailment,entailment,0.9488516
+346,pri-sub,an initial domestic agenda,This is an initial domestic agenda.,This is an agenda.,entailment,entailment,0.9519316
+347,pri-sub,partial late payments,These are partial late payments.,These are payments.,entailment,entailment,0.90490896
+348,sub-sub,a pretty ugly divorce,This is a pretty ugly divorce.,This is a divorce.,entailment,entailment,0.9519995
+349,sub-int,small black eyes,He has small black eyes.,He has black eyes.,entailment,entailment,0.9927275
+350,pri-sub,a partial permanent barrier,This is a partial permanent barrier.,This is a partial barrier.,entailment,entailment,0.98787075
+351,pri-sub,a seeming minor decision,This is a seeming minor decision.,This is a decision.,entailment,entailment,0.9739842
+352,int-sub,an angry old man,He is an angry old man.,He is an old man.,entailment,entailment,0.9886022
+353,pri-sub,phony official statistics,They are phony official statistics.,They are phony statistics.,entailment,entailment,0.99277264
+354,pri-sub,a previous presidential nominee,She is a previous presidential nominee.,She is a previous nominee.,entailment,entailment,0.990657
+355,sub-pri,Charles ' only apparent interest,This is Charles ' only apparent interest.,This is Charles ' interest.,entailment,entailment,0.9741862
+356,sub-pri,its maximum potential value,This is its maximum potential value.,This is its potential value.,entailment,entailment,0.9754571
+357,sub-pri,her many supposed friends,These are her many supposed friends.,These are her supposed friends.,entailment,entailment,0.9914506
+358,pri-sub,a prior federal judge,She is a prior federal judge.,She is a prior judge.,entailment,entailment,0.99043256
+359,int-sub,a real good workout,This is a real good workout.,This is a good workout.,entailment,entailment,0.9927759
+360,pri-sub,a theoretical average salary,This is a theoretical average salary.,This is a salary.,entailment,entailment,0.982052
+361,sub-sub,a pretty ugly divorce,This is a pretty ugly divorce.,This is an ugly divorce.,entailment,entailment,0.993863
+362,sub-int,an attractive blond woman,She is an attractive blond woman.,She is an attractive woman.,entailment,entailment,0.9891366
+363,sub-int,big green trash cans,These are big green trash cans.,These are trash cans.,entailment,entailment,0.989754
+364,sub-int,short blond hair,He has short blond hair.,He has short hair.,entailment,entailment,0.99199754
+365,pri-pri,a disputed historic area,This is a disputed historic area.,This is a historic area.,entailment,entailment,0.9401669
+366,sub-int,old orange groves,Those are old orange groves.,Those are orange groves.,entailment,entailment,0.98483723
+367,pri-sub,a surrogate presidential campaign,This is a surrogate presidential campaign.,This is a campaign.,entailment,entailment,0.97794914
+368,sub-sub,a beautiful young woman,She is a beautiful young woman.,She is a woman.,entailment,entailment,0.9811906
+369,sub-int,big European banks,Those are big European banks.,Those are big banks.,entailment,entailment,0.9921008
+370,pri-sub,a predicted hot condition,This is a predicted hot condition.,This is a predicted condition.,entailment,entailment,0.9773426
+371,pri-pri,a historic temporary constitution,This is a historic temporary constitution.,This is a historic constitution.,entailment,non-entailment,0.5020010694861412
+372,pri-sub,an unofficial current status,This is an unofficial current status.,This is a status.,entailment,entailment,0.94332963
+373,sub-pri,many improbable assumptions,These are many improbable assumptions.,These are assumptions.,entailment,entailment,0.9655313
+374,sub-int,a tall 12-year-old child,He is a tall 12-year-old child.,He is a tall child.,entailment,entailment,0.99341065
+375,pri-sub,our previous top picks,Those are our previous top picks.,Those are our previous picks.,entailment,entailment,0.9870465
+376,sub-pri,a national counterfeit industry,This is a national counterfeit industry.,This is a counterfeit industry.,entailment,entailment,0.98415333
+377,pri-sub,a fraudulent parliamentary election,This is a fraudulent parliamentary election.,This is a fraudulent election.,entailment,entailment,0.9923339
+378,sub-pri,a maximum previous award,This is a maximum previous award.,This is an award.,entailment,entailment,0.95490515
+379,int-sub,a single strong candidate,She is a single strong candidate.,She is a candidate.,entailment,entailment,0.9855881
+380,pri-sub,so-called good junk-bond offerings,Those are so-called good junk-bond offerings.,Those are junk-bond offerings.,entailment,entailment,0.80288917
+381,int-int,original American stage plays,Those are original American stage plays.,Those are American stage plays.,entailment,entailment,0.9909373
+382,pri-sub,unofficial early results,These are unofficial early results.,These are unofficial results.,entailment,entailment,0.9914103
+383,sub-pri,numerous mistaken interpretations,Those are numerous mistaken interpretations.,Those are interpretations.,entailment,entailment,0.7918645
+384,sub-pri,a national anti-government protest,This is a national anti-government protest.,This is a protest.,entailment,entailment,0.985329
+385,pri-sub,an alleged ruthless criminal,He is an alleged ruthless criminal.,He is an alleged criminal.,entailment,entailment,0.98826456
+386,pri-pri,its past wrong practices,Those are its past wrong practices.,Those are its practices.,entailment,entailment,0.9385264
+387,sub-sub,a handsome young president,He is a handsome young president.,He is a young president.,entailment,entailment,0.9852336
+388,pri-sub,an honorary technical advisor,She is an honorary technical advisor.,She is an honorary advisor.,entailment,entailment,0.98133266
+389,sub-pri,the only possible answer,This is the only possible answer.,This is a possible answer.,entailment,entailment,0.9631405
+390,pri-pri,a 69-year-old retired plastic surgeon,He is a 69-year-old retired plastic surgeon.,He is a 69-year-old retired surgeon.,entailment,entailment,0.9890097
+391,int-pri,a natural next question,This is a natural next question.,This is a natural question.,entailment,entailment,0.9684011
+392,sub-int,an attractive beginner golfer,He is an attractive beginner golfer.,He is a beginner golfer.,entailment,entailment,0.9756182
+393,pri-sub,an initial minimum bid,This is an initial minimum bid.,This is a bid.,entailment,entailment,0.95371443
+394,sub-sub,a big powerful nation,This is a big powerful nation.,This is a big nation.,entailment,entailment,0.99244046
+395,sub-sub,boring old news,This is boring old news.,This is old news.,entailment,entailment,0.9909909
+396,pri-sub,a mock common admission test,This is a mock common admission test.,This is a mock admission test.,entailment,entailment,0.95044696
+397,sub-pri,numerous previous research efforts,Those are numerous previous research efforts.,Those are previous research efforts.,entailment,entailment,0.98979807
+398,sub-sub,a top junior gymnast,She is a top junior gymnast.,She is a gymnast.,entailment,entailment,0.9769777
+399,pri-pri,her past broken promises,Those are her past broken promises.,Those are her broken promises.,entailment,entailment,0.99066985
+400,sub-pri,numerous fake invoices,These are numerous fake invoices.,These are fake invoices.,entailment,entailment,0.9924091
+401,int-pri,a white paper book,This is a white paper book.,This is a book.,entailment,entailment,0.9858758
+402,pri-sub,an imminent parliamentary election,This is an imminent parliamentary election.,This is an imminent election.,entailment,entailment,0.98879296
+403,pri-sub,an apparent domestic dispute,This is an apparent domestic dispute.,This is a dispute.,entailment,entailment,0.9749962
+404,pri-sub,initial technical standards,These are initial technical standards.,These are technical standards.,entailment,entailment,0.8921537
+405,sub-pri,the admired super man,He is the admired super man.,He is the super man.,entailment,entailment,0.9611193
+406,sub-int,a skillful American violinist,He is a skillful American violinist.,He is an American violinist.,entailment,entailment,0.99112964
+407,pri-int,a so-called poisonous pill,This is a so-called poisonous pill.,This is a pill.,entailment,entailment,0.9763559
+408,pri-sub,the assumed presidential nominee,He is the assumed presidential nominee.,He is the assumed nominee.,entailment,entailment,0.9877088
+409,int-pri,a single prior conviction,This is a single prior conviction.,This is a conviction.,entailment,entailment,0.9771334
+410,pri-pri,an experimental temporary solution,This is an experimental temporary solution.,This is a solution.,entailment,entailment,0.9364968
+411,sub-int,a dangerous dead animal,This is a dangerous dead animal.,This is a dangerous animal.,entailment,entailment,0.9926399
+412,sub-pri,a pitiful broken engagement,This is a pitiful broken engagement.,This is a broken engagement.,entailment,entailment,0.9923814
+413,sub-int,a chief external spokesman,This is a chief external spokesman.,This is a spokesman.,entailment,entailment,0.96126974
+414,sub-pri,a national military drill,This is a national military drill.,This is a national drill.,entailment,entailment,0.9634544
+415,pri-int,an expected beneficial effect,This is an expected beneficial effect.,This is an expected effect.,entailment,entailment,0.9874865
+416,sub-int,the company's third full year,This is the company's third full year.,This is a year.,entailment,entailment,0.93802077
+417,sub-sub,a tall young buffalo hunter,He is a tall young buffalo hunter.,He is a young buffalo hunter.,entailment,entailment,0.98918915
+418,pri-sub,counterfeit modern bills,Those are counterfeit modern bills.,Those are counterfeit bills.,entailment,entailment,0.992781
+419,pri-sub,an experimental alternative energy source,This is an experimental alternative energy source.,This is an experimental energy source.,entailment,entailment,0.98876905
+420,pri-sub,an initial federal budget,This is an initial federal budget.,This is a budget.,entailment,entailment,0.97720814
+421,pri-int,a false health gadget,This is a false health gadget.,This is a gadget.,entailment,entailment,0.9363497
+422,pri-sub,an unofficial amateur event,This is an unofficial amateur event.,This is an event.,entailment,entailment,0.9258533
+423,sub-sub,bright young Jews,They are bright young Jews.,They are bright Jews.,entailment,entailment,0.99294704
+424,int-sub,a Swedish central statistics agency,This is a Swedish central statistics agency.,This is a central statistics agency.,entailment,entailment,0.9611732
+425,pri-sub,a surrogate good son,He is a surrogate good son.,He is a surrogate son.,entailment,entailment,0.93504035
+426,sub-int,a top environmental concern,This is a top environmental concern.,This is an environmental concern.,entailment,entailment,0.98712826
+427,pri-sub,a fictional chief prosecutor,She is a fictional chief prosecutor.,She is a fictional prosecutor.,entailment,entailment,0.9877637
+428,int-sub,an angry old man,He is an angry old man.,He is an angry man.,entailment,entailment,0.991553
+429,sub-sub,an old national campaign,This is an old national campaign.,This is a national campaign.,entailment,entailment,0.9537627
+430,pri-sub,an unofficial northern boundary,This is an unofficial northern boundary.,This is an unofficial boundary.,entailment,entailment,0.9783943
+431,sub-sub,a top junior gymnast,She is a top junior gymnast.,She is a junior gymnast.,entailment,entailment,0.9825743
+432,pri-sub,a fictional common ancestor,This is a fictional common ancestor.,This is a fictional ancestor.,entailment,entailment,0.9812323
+433,pri-sub,an impossible long shot,This is an impossible long shot.,This is a shot.,entailment,entailment,0.94741493
+434,sub-sub,the first big wave,This is the first big wave.,This is a wave.,entailment,entailment,0.97171074
+435,pri-pri,erroneous previous information,This is erroneous previous information.,This is information.,entailment,non-entailment,0.5345526337623596
+436,pri-sub,a burned technical vehicle,This is a burned technical vehicle.,This is a burned vehicle.,entailment,entailment,0.9815978
+437,sub-int,a famous French painting,This is a famous French painting.,This is a painting.,entailment,entailment,0.9802673
+438,sub-int,small American companies,Those are small American companies.,Those are companies.,entailment,entailment,0.9690011
+439,pri-sub,prior outstanding deputy bills,These are prior outstanding deputy bills.,These are prior deputy bills.,entailment,entailment,0.97498554
+440,sub-int,an attractive beginner golfer,He is an attractive beginner golfer.,He is a golfer.,entailment,entailment,0.9627566
+441,pri-sub,a fictitious technical issue,This is a fictitious technical issue.,This is a fictitious issue.,entailment,entailment,0.9850627
+442,pri-sub,a prior outstanding deputy bills,These are prior outstanding deputy bills.,These are prior deputy bills.,entailment,entailment,0.97498554
+443,sub-int,his old brown coat,This is his old brown coat.,This is his old coat.,entailment,entailment,0.98932636
+444,pri-sub,partial late payments,These are partial late payments.,These are late payments.,entailment,entailment,0.89152575
+445,sub-sub,the third big aluminum company,This is the third big aluminum company.,This is an aluminum company.,entailment,entailment,0.9862179
+446,pri-int,a denied access permission,This is denied access permission.,This is denied permission.,entailment,entailment,0.9883674
+447,sub-int,his old brown coat,This is his old brown coat.,This is his coat.,entailment,entailment,0.958291
+448,pri-sub,past moral crises,These are past moral crises.,These are past crises.,entailment,entailment,0.9870499
+449,int-sub,a Western top official,He is a Western top official.,He is an official.,entailment,entailment,0.9877759
+450,pri-sub,a presumed specific principle,This is a presumed specific principle.,This is a presumed principle.,entailment,entailment,0.9727824
+451,sub-sub,the third big aluminum company,This is the third big aluminum company.,This is a big aluminum company.,entailment,entailment,0.98290104
+452,int-sub,an Australian amateur competition,This is an Australian amateur competition.,This is a competition.,entailment,entailment,0.97025037
+453,pri-sub,An erroneous first name,This is An erroneous first name.,This is a name.,entailment,entailment,0.87006307
+454,pri-sub,a would-be lead blocker,This is a would-be lead blocker.,This is a would-be blocker.,entailment,entailment,0.95954245
+455,pri-sub,a previous official record,This is a previous official record.,This is a previous record.,entailment,entailment,0.9902176
+456,pri-sub,a mock parliamentary debate,This is a mock parliamentary debate.,This is a mock debate.,entailment,entailment,0.9695087
+457,sub-int,a small black pig,It is a small black pig.,It is a small pig.,entailment,entailment,0.9907933
+458,sub-int,their spiffy new blue uniforms,Those are their spiffy new blue uniforms.,Those are their spiffy uniforms.,entailment,entailment,0.9908992
+459,sub-pri,many supposed solutions,These are many supposed solutions.,These are supposed solutions.,entailment,entailment,0.98701465
+460,pri-sub,an erroneous national intelligence estimate,This is an erroneous national intelligence estimate.,This is an intelligence estimate.,entailment,entailment,0.8546026
+461,pri-sub,an unlikely sweet dream,This is an unlikely sweet dream.,This is a dream.,entailment,entailment,0.97416097
+462,int-sub,Western soft coal,This is Western soft coal.,This is soft coal.,entailment,entailment,0.9827727
+463,sub-sub,a new regional contract,This is a new regional contract.,This is a new contract.,entailment,entailment,0.9845701
+464,sub-pri,many onetime supporters,They are many onetime supporters.,They are onetime supporters.,entailment,entailment,0.9915439
+465,pri-sub,a dubious strategic gambit,This is a dubious strategic gambit.,This is a gambit.,entailment,entailment,0.9675098
+466,int-pri,an original mistaken diagnosis,This is an original mistaken diagnosis.,This is a mistaken diagnosis.,entailment,entailment,0.9857196
+467,sub-int,bright red hair,She has bright red hair.,She has red hair.,entailment,entailment,0.9932863
+468,int-pri,an original false charge,This is an original false charge.,This is a false charge.,entailment,entailment,0.9867988
+469,int-pri,a natural next step,This is a natural next step.,This is a natural step.,entailment,entailment,0.99136645
+470,sub-pri,a national rubber producer,This is a national rubber producer.,This is a rubber producer.,entailment,entailment,0.9815749
+471,sub-sub,a big old house,This is a big old house.,This is an old house.,entailment,entailment,0.9904529
+472,sub-int,a famous American painter,She is a famous American painter.,She is an American painter.,entailment,entailment,0.9901726
+473,pri-sub,broken presidential promises,These are broken presidential promises.,These are presidential promises.,entailment,entailment,0.63633144
+474,pri-sub,a plausible new product,This is a plausible new product.,This is a plausible product.,entailment,entailment,0.99201137
+475,sub-int,the only original works,Those are the only original works.,Those are works.,entailment,entailment,0.95631546
+476,sub-pri,her numerous fake names,These are her numerous fake names.,These are her fake names.,entailment,entailment,0.99048597
+477,pri-int,a demolished damaged house,This is a demolished damaged house.,This is a demolished house.,entailment,entailment,0.9927429
+478,pri-sub,a plausible big idea,This is a plausible big idea.,This is a plausible idea.,entailment,entailment,0.99310714
+479,sub-int,a big black plume,This is a big black plume.,This is a big plume.,entailment,entailment,0.9916392
+480,sub-sub,good new products,Those are good new products.,Those are products.,entailment,entailment,0.9783836
+481,sub-int,a tall 12-year-old child,He is a tall 12-year-old child.,He is a child.,entailment,entailment,0.983739
+482,sub-pri,our numerous onetime supporters,They are our numerous onetime supporters.,They are our onetime supporters.,entailment,entailment,0.991273
+483,int-pri,a handmade empty glass,This is a handmade empty glass.,This is a glass.,entailment,entailment,0.96173084
+484,pri-sub,an honorary technical advisor,She is an honorary technical advisor.,She is an advisor.,entailment,entailment,0.940493
+485,pri-sub,a substitute long snapper,This is a substitute long snapper.,This is a snapper.,entailment,non-entailment,0.5178319737315178
+486,sub-sub,a big old house,This is a big old house.,This is a house.,entailment,entailment,0.9741853
+487,pri-pri,an initial virtual flight,This is an initial virtual flight.,This is a virtual flight.,entailment,entailment,0.9434958
+488,sub-int,a short American basketball player,He is a short American basketball player.,He is an American basketball player.,entailment,entailment,0.97134495
+489,sub-sub,his first good look,This is his first good look.,This is a good look.,entailment,entailment,0.9653369
+490,pri-sub,a plausible recent report,This is a plausible recent report.,This is a plausible report.,entailment,entailment,0.9897244
+491,sub-int,a heavy newborn baby,She is a heavy newborn baby.,She is a baby.,entailment,entailment,0.9763885
+492,sub-int,an alternative scientific theory,This is an alternative scientific theory.,This is a theory.,entailment,entailment,0.9787143
+493,pri-int,a broken glass window,This is a broken glass window.,This is a window.,entailment,entailment,0.87892485
+494,int-sub,a Swedish central statistics agency,This is a Swedish central statistics agency.,This is a statistics agency.,entailment,entailment,0.97560525
+495,sub-int,a narrow American strategy,This is a narrow American strategy.,This is an American strategy.,entailment,entailment,0.9745272
+496,sub-int,his old brown coat,This is his old brown coat.,This is his brown coat.,entailment,entailment,0.9805963
+497,pri-pri,fraudulent medical claims,These are fraudulent medical claims.,These are claims.,entailment,entailment,0.96023434
+498,sub-pri,many wrong decisions,These are many wrong decisions.,These are wrong decisions.,entailment,entailment,0.9890661
+499,pri-sub,a presumed serious mental health problem,This is a presumed serious mental health problem.,This is a presumed mental health problem.,entailment,entailment,0.96976936
+500,int-sub,an American small business,This is an American small business.,This is an American business.,entailment,entailment,0.9910499
+501,pri-pri,the next probable champion,He is the next probable champion.,He is the probable champion.,entailment,entailment,0.9648787
+502,sub-sub,good young players,They are good young players.,They are good players.,entailment,entailment,0.9910144
+503,sub-sub,an ugly young actress,She is an ugly young actress.,She is a young actress.,entailment,entailment,0.9731271
+504,pri-sub,an initial high price,This is an initial high price.,This is a price.,entailment,entailment,0.9736831
+505,pri-sub,an erroneous national intelligence estimate,This is an erroneous national intelligence estimate.,This is a national intelligence estimate.,entailment,entailment,0.5889025
+506,sub-int,a famous American dancer,She is a famous American dancer.,She is a dancer.,entailment,entailment,0.9853651
+507,sub-sub,good young players,They are good young players.,They are players.,entailment,entailment,0.975745
+508,pri-pri,a disputed historic area,This is a disputed historic area.,This is an area.,entailment,entailment,0.92577034
+509,sub-int,a short American ping-pong player,He is a short American ping-pong player.,He is a short ping-pong player.,entailment,entailment,0.992257
+510,pri-sub,an impossible moral choice,This is an impossible moral choice.,This is a choice.,entailment,entailment,0.88008505
+511,sub-sub,his second young partner,She is his second young partner.,She is his partner.,entailment,entailment,0.96630895
+512,pri-pri,a retired plastic surgeon,He is a retired plastic surgeon.,He is a retired surgeon.,entailment,entailment,0.9898615
+513,sub-int,clear blue eyes,He has clear blue eyes.,He has eyes.,entailment,entailment,0.96829903
+514,sub-int,my first real involvement,This is my first real involvement.,This is a real involvement.,entailment,entailment,0.98657435
+515,pri-sub,a forged Iranian diplomatic passport,This is a forged Iranian diplomatic passport.,This is a forged Iranian passport.,entailment,entailment,0.99238974
+516,int-sub,an Australian amateur competition,This is an Australian amateur competition.,This is an Australian competition.,entailment,entailment,0.97921675
+517,pri-sub,a retired short seller,He is a retired short seller.,He is a retired seller.,entailment,entailment,0.9862968
+518,sub-pri,numerous phony celebrities,They are numerous phony celebrities.,They are phony celebrities.,entailment,entailment,0.9909078
+519,sub-int,a new Renaissance exhibit,This is a new Renaissance exhibit.,This is a Renaissance exhibit.,entailment,entailment,0.95573026
+520,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a retired lawyer.,entailment,entailment,0.9887412
+521,sub-int,a plain American student,She is a plain American student.,She is an American student.,entailment,entailment,0.99208415
+522,int-pri,a Brazilian fictional film,This is a Brazilian fictional film.,This is a Brazilian film.,entailment,entailment,0.9897488
+523,pri-sub,a probable easy fix,This is a probable easy fix.,This is a probable fix.,entailment,entailment,0.98794156
+524,pri-sub,a disputed parliamentary election result,This is a disputed parliamentary election result.,This is an election result.,entailment,entailment,0.96995026
+525,pri-sub,a mock early surrender,This is a mock early surrender.,This is a mock surrender.,entailment,entailment,0.9756982
+526,pri-sub,an honorary assistant coach,He is an honorary assistant coach.,He is an assistant coach.,entailment,entailment,0.8756309
+527,int-sub,Western soft coal,This is Western soft coal.,This is Western coal.,entailment,entailment,0.9787675
+528,sub-sub,a tall young buffalo hunter,He is a tall young buffalo hunter.,He is a tall buffalo hunter.,entailment,entailment,0.9933937
+529,sub-sub,new preferred stock,This is new preferred stock.,This is stock.,entailment,entailment,0.9168574
+530,int-sub,Western popular music,This is Western popular music.,This is music.,entailment,entailment,0.9694569
+531,pri-sub,artificial cool air,This is artificial cool air.,This is artificial air.,entailment,entailment,0.9899332
+532,sub-pri,a national surrogate speaker,She is a national surrogate speaker.,She is a surrogate speaker.,entailment,entailment,0.9870885
+533,sub-pri,low initial ratings,Those are low initial ratings.,Those are ratings.,entailment,entailment,0.9231272
+534,pri-sub,a presumed common origin,This is a presumed common origin.,This is a presumed origin.,entailment,entailment,0.9703142
+535,sub-pri,numerous failed cease-fires,These are numerous failed cease-fires.,These are failed cease-fires.,entailment,entailment,0.9919525
+536,pri-pri,simulated mock executions,These are simulated mock executions.,These are simulated executions.,entailment,entailment,0.98941046
+537,sub-pri,a promised perfect future state,This is a promised perfect future state.,This is a promised future state.,entailment,entailment,0.978066
+538,pri-sub,a hypothetical ninth season,This is a hypothetical ninth season.,This is a hypothetical season.,entailment,entailment,0.96324426
+539,sub-int,small black eyes,He has small black eyes.,He has eyes.,entailment,entailment,0.96670705
+540,sub-int,a tall 12-year-old child,He is a tall 12-year-old child.,He is a child.,entailment,entailment,0.983739
+541,sub-int,an attractive blond girl,She is an attractive blond girl.,She is an attractive girl.,entailment,entailment,0.9887656
+542,pri-sub,a wooden left leg,This is a wooden left leg.,This is a wooden leg.,entailment,entailment,0.98956245
+543,int-pri,A single wooden chair,This is A single wooden chair.,This is a wooden chair.,entailment,entailment,0.9899002
+544,sub-pri,a maximum nominal amount,This is a maximum nominal amount.,This is a nominal amount.,entailment,entailment,0.9745207
+545,sub-sub,a tall young man,He is a tall young man.,He is a man.,entailment,entailment,0.9352423
+546,pri-sub,a fictitious technical issue,This is a fictitious technical issue.,This is a fictitious issue.,entailment,entailment,0.9850627
+547,sub-int,a small red radish,This is a small red radish.,This is a small radish.,entailment,entailment,0.9865718
+548,int-pri,a single wooden chair,This is a single wooden chair.,This is a chair.,entailment,entailment,0.9776584
+549,sub-int,a top environmental concern,This is a top environmental concern.,This is an environmental concern.,entailment,entailment,0.98712826
+550,sub-int,the first black principal owners,They are the first black principal owners.,They are principal owners.,entailment,entailment,0.98108864
+551,sub-sub,the only professional instruction,This is the only professional instruction.,This is an instruction.,entailment,entailment,0.96389407
+552,pri-sub,an impossible high standard,This is an impossible high standard.,This is a high standard.,entailment,entailment,0.96999973
+553,int-sub,a Swedish national coach,He is a Swedish national coach.,He is a coach.,entailment,entailment,0.9870812
+554,pri-sub,an artificial high return,This is an artificial high return.,This is an artificial return.,entailment,entailment,0.9885421
+555,pri-sub,mock parliamentary debates,These are mock parliamentary debates.,These are mock debates.,entailment,entailment,0.98495746
+556,sub-int,regional religious conflicts,These are regional religious conflicts.,These are conflicts.,entailment,entailment,0.9742329
+557,pri-pri,a possible incorrect wind measurement,This is a possible incorrect wind measurement.,This is a wind measurement.,entailment,entailment,0.7593466
+558,pri-pri,nominal historic peaks,Those are nominal historic peaks.,Those are historic peaks.,entailment,entailment,0.969813
+559,sub-int,a big blue grass fan,This is a big bluegrass fan.,This is a fan.,entailment,entailment,0.9787644
+560,sub-sub,the first big wave,This is the first big wave.,This is a big wave.,entailment,entailment,0.985343
+561,sub-sub,a good beginner boxer,He is a good beginner boxer.,He is a boxer.,entailment,entailment,0.97314733
+562,pri-pri,a likely next speaker,She is the likely next speaker.,She is the likely speaker.,entailment,entailment,0.9877253
+563,sub-int,a famous American painter,She is a famous American painter.,She is a famous painter.,entailment,entailment,0.99326974
+564,sub-int,the first free republic,This is the first free republic.,This is a free republic.,entailment,entailment,0.9840067
+565,pri-sub,initial technical standards,These are initial technical standards.,These are standards.,entailment,entailment,0.96799254
+566,pri-sub,a virtual musical instrument,This is a virtual musical instrument.,This is a virtual instrument.,entailment,entailment,0.9897432
+567,pri-pri,fraudulent medical claims,These are fraudulent medical claims.,These are fraudulent claims.,entailment,entailment,0.99060273
+568,pri-pri,incorrect initial decisions,Those are incorrect initial decisions.,Those are incorrect decisions.,entailment,entailment,0.9915486
+569,pri-pri,an almost empty house,This is an almost empty house.,This is a house.,entailment,entailment,0.96915734
+570,sub-int,their first major American purchase,This is their first major American purchase.,This is a major purchase.,entailment,entailment,0.9759715
+571,sub-pri,a national anti-terror military drill,This is a national anti-terror military drill.,This is an anti-terror drill.,entailment,entailment,0.97798663
+572,int-sub,Western soft coal,This is Western soft coal.,This is coal.,entailment,entailment,0.9716845
+573,pri-sub,a plausible first strike,This is a plausible first strike.,This is a plausible strike.,entailment,entailment,0.98200744
+574,pri-sub,an improbable high return,This is an improbable high return.,This is a return.,entailment,entailment,0.9068793
+575,sub-int,a big full backyard,This is a big full backyard.,This is a full backyard.,entailment,entailment,0.9824918
+576,int-sub,Western popular music,This is Western popular music.,This is Western music.,entailment,entailment,0.988427
+577,int-sub,a Western Australian junior player,She is a Western Australian junior player.,She is a Western Australian player.,entailment,entailment,0.9514078
+578,pri-sub,a previous official record,This is a previous official record.,This is a record.,entailment,entailment,0.9714082
+579,sub-int,our first real reunion,This is our first real reunion.,This is our real reunion.,entailment,entailment,0.9895918
+580,pri-pri,the so-called imminent danger,This is the so-called imminent danger.,This is the so-called danger.,entailment,entailment,0.9754174
+581,int-int,a scarred Iranian soldier,He is a scarred Iranian soldier.,He is a soldier.,entailment,entailment,0.979214
+582,sub-int,short blond hair,He has short blond hair.,He has hair.,entailment,entailment,0.98918426
+583,pri-pri,the former vice chairman,He is the former vice chairman.,He is the former chairman.,non-entailment,non-entailment,0.9474639892578125
+584,pri-pri,the former vice chairman,He is the former vice chairman.,He is the vice chairman.,non-entailment,non-entailment,0.9773836666718125
+585,pri-pri,the former vice chairman,He is the former vice chairman.,He is the chairman.,non-entailment,non-entailment,0.9972116192802787
+586,pri-pri,the future deputy administrator,She is the future deputy administrator.,She is the deputy administrator.,non-entailment,non-entailment,0.6204112134873867
+587,pri-pri,the future deputy administrator,She is the future deputy administrator.,She is the administrator.,non-entailment,non-entailment,0.9767231987789273
+588,pri-pri,the so-called artificial intelligence,This is the so-called artificial intelligence.,This is artificial intelligence.,non-entailment,entailment,0.9894465
+589,pri-pri,the simulated virtual reality,This is simulated virtual reality.,This is reality.,non-entailment,non-entailment,0.9996110925567336
+590,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director.,She is the 52-year-old deputy director.,non-entailment,non-entailment,0.6384195331484079
+591,pri-pri,the 52-year-old former deputy director,She is the 52-year-old former deputy director.,She is the 52-year-old director.,non-entailment,non-entailment,0.9046068321913481
+592,pri-pri,the proposed initial public offering,This is the proposed initial public offering.,This is the initial public offering.,non-entailment,entailment,0.812785
+593,pri-pri,possible future purchases,Those are possible future purchases.,Those are future purchases.,non-entailment,entailment,0.9790701
+594,pri-pri,the company's likely future performance,This is the company's likely future performance.,This is the company's future performance.,non-entailment,entailment,0.9618477
+595,pri-pri,the company's likely future performance,This is the company's likely future performance.,This is the company's performance.,non-entailment,entailment,0.70916593
+596,pri-pri,almost half a kilo,This is almost half a kilo.,This is almost a kilo.,non-entailment,entailment,0.94818676
+597,pri-pri,almost half a kilo,This is almost half a kilo.,This is half a kilo.,non-entailment,entailment,0.57006943
+598,pri-pri,almost half a kilo,This is almost half a kilo.,This is a kilo.,non-entailment,entailment,0.5298061
+599,pri-pri,an almost impossible job,This is an almost impossible job.,This is an impossible job.,non-entailment,entailment,0.8565052
+600,pri-pri,a likely temporary solution,This is a likely temporary solution.,This is a solution.,non-entailment,entailment,0.94813603
+601,pri-pri,a former alleged thief,This is a former alleged thief.,This is a former thief.,non-entailment,entailment,0.98845017
+602,pri-pri,a former alleged thief,This is a former alleged thief.,This is an alleged thief.,non-entailment,entailment,0.76470435
+603,pri-pri,a former alleged thief,This is a former alleged thief.,This is a thief.,non-entailment,entailment,0.73893726
+604,pri-pri,an alleged former thief,This is an alleged former thief.,This is a thief.,non-entailment,entailment,0.6935716
+605,pri-int,an alleged male criminal,He is an alleged male criminal.,He is a criminal.,non-entailment,entailment,0.96777344
+606,pri-int,a so-called American expert,She is a so-called American expert.,She is an American expert.,non-entailment,entailment,0.98637694
+607,pri-int,a so-called American expert,She is a so-called American expert.,She is an expert.,non-entailment,entailment,0.9710779
+608,pri-int,a former European commissioner,He is a former European commissioner.,He is a European commissioner.,non-entailment,non-entailment,0.579826932400465
+609,pri-int,a former European commissioner,He is a former European commissioner.,He is a commissioner.,non-entailment,non-entailment,0.5137854963541031
+610,pri-int,a former Australian owner,She is a former Australian owner.,She is an Australian owner.,non-entailment,entailment,0.7503326
+611,pri-int,our next popular star,She is our next popular star.,She is our popular star.,non-entailment,entailment,0.9790546
+612,pri-int,a fake rhinestone diamond,This is a fake rhinestone diamond.,This is a diamond.,non-entailment,non-entailment,0.6540749371051788
+613,pri-int,an expected financial surge,This is an expected financial surge.,This is a financial surge.,non-entailment,entailment,0.9825743
+614,pri-int,half a kilo,This is half a kilo.,This is a kilo.,non-entailment,non-entailment,0.5915403179824352
+615,pri-int,an alleged racial discrimination,This is an alleged racial discrimination.,This is a racial discrimination.,non-entailment,entailment,0.962141
+616,pri-int,an alleged racial discrimination,This is an alleged racial discrimination.,This is a discrimination.,non-entailment,entailment,0.9736153
+617,pri-int,an alleged criminal breach,This is an alleged criminal breach.,This is a criminal breach.,non-entailment,entailment,0.94747424
+618,pri-int,an alleged criminal breach,This is an alleged criminal breach.,This is a breach.,non-entailment,entailment,0.97532177
+619,pri-int,an alleged racial inequality,This is an alleged racial inequality.,This is a racial inequality.,non-entailment,entailment,0.95732564
+620,pri-int,an alleged racial inequality,This is an alleged racial inequality.,This is an inequality.,non-entailment,entailment,0.9615827
+621,pri-int,an alleged discriminatory practice,This is an alleged discriminatory practice.,This is a discriminatory practice.,non-entailment,entailment,0.9650388
+622,pri-int,a so-called poisonous pill,This is a so-called poisonous pill.,This is a poisonous pill.,non-entailment,entailment,0.99158806
+623,pri-int,a false health gadget,This is a false health gadget.,This is a health gadget.,non-entailment,non-entailment,0.9009466869756579
+624,pri-int,the expected thermal intensity,This is the expected thermal intensity.,This is the thermal intensity.,non-entailment,entailment,0.9290349
+625,pri-int,an expected Canadian move,This is an expected Canadian move.,This is a Canadian move.,non-entailment,entailment,0.9844439
+626,pri-int,his future American wife,She is his future American wife.,She is his American wife.,non-entailment,entailment,0.9853903
+627,pri-int,his future American wife,She is his future American wife.,She is his wife.,non-entailment,entailment,0.97753567
+628,pri-sub,an alleged ruthless criminal,He is an alleged ruthless criminal.,He is a ruthless criminal.,non-entailment,entailment,0.969893
+629,pri-sub,a potential professional talent,This is a potential professional talent.,This is a professional talent.,non-entailment,non-entailment,0.7923723943531513
+630,pri-sub,a likely first step,This is a likely first step.,This is the first step.,non-entailment,entailment,0.9323462
+631,pri-sub,the former national security adviser,She is the former national security adviser.,She is the national security adviser.,non-entailment,non-entailment,0.9937959872186184
+632,pri-sub,the former national security adviser,She is the former national security adviser.,She is the security adviser.,non-entailment,non-entailment,0.8700213879346848
+633,pri-sub,the former senior president,He is the former senior president.,He is the senior president.,non-entailment,non-entailment,0.9197888607159257
+634,pri-sub,the former senior president,He is the former senior president.,He is the president.,non-entailment,non-entailment,0.9746789857745171
+635,pri-sub,his potential second wife,She is his potential second wife.,She is his second wife.,non-entailment,non-entailment,0.5242388546466827
+636,pri-sub,his potential second wife,She is his potential second wife.,She is his wife.,non-entailment,entailment,0.5949503
+637,pri-sub,the deputy national security adviser,He is the deputy national security adviser.,He is the national security adviser.,non-entailment,non-entailment,0.9418767131865025
+638,pri-sub,possible deep structural damage,This is possible deep structural damage.,This is deep structural damage.,non-entailment,entailment,0.9108414
+639,pri-sub,an unlikely big spender,This is an unlikely big spender.,This is a big spender.,non-entailment,entailment,0.851536
+640,pri-sub,a proposed new company,This is a proposed new company.,This is a new company.,non-entailment,entailment,0.93846494
+641,pri-sub,a former beautiful actress,She is a former beautiful actress.,She is a beautiful actress.,non-entailment,entailment,0.85730195
+642,pri-sub,a former skillful surgeon,He is a former skillful surgeon.,He is a skillful surgeon.,non-entailment,entailment,0.67248714
+643,pri-sub,an imaginary powerful enemy,He is an imaginary powerful enemy.,He is a powerful enemy.,non-entailment,entailment,0.9629528
+644,pri-sub,an arguable perfect solution,This is an arguable perfect solution.,This is a perfect solution.,non-entailment,entailment,0.98489064
+645,pri-sub,the deputy chief economic adviser,She is the deputy chief economic adviser.,She is the chief economic adviser.,non-entailment,non-entailment,0.9669103808701038
+646,pri-sub,their expected average lifespan,This is their expected average lifespan.,This is their average lifespan.,non-entailment,entailment,0.9575031
+647,pri-sub,their expected average lifespan,This is their expected average lifespan.,This is their lifespan.,non-entailment,entailment,0.8706586
+648,pri-sub,a former famous actor,He is a former famous actor.,He is a famous actor.,non-entailment,entailment,0.599635
+649,pri-sub,the group's alleged earlier violation,This is the group's alleged earlier violation.,This is the group's earlier violation.,non-entailment,entailment,0.95291436
+650,pri-sub,the group's alleged earlier violation,This is the group's alleged earlier violation.,This is the group's violation.,non-entailment,entailment,0.97087044
+651,pri-sub,some so-called high-quality junk issues,Those are some so-called high-quality junk issues.,Those are some high-quality issues.,non-entailment,non-entailment,0.8428788045421243
+652,int-pri,a white paper plane,This is a white paper plane.,This is a white plane.,non-entailment,entailment,0.9507601
+653,sub-pri,an expensive toy car,This is an expensive toy car.,This is an expensive car.,non-entailment,entailment,0.98224705
+654,sub-pri,Phoenix's senior vice president,He is Phoenix's senior vice president.,He is Phoenix's senior president.,non-entailment,non-entailment,0.790720958262682
+655,sub-pri,Phoenix's senior vice president,He is Phoenix's senior vice president.,He is Phoenix's president.,non-entailment,non-entailment,0.9933759612031281
+656,sub-pri,their only apparent difference,This is their only apparent difference.,This is their only difference.,non-entailment,entailment,0.98832333
+657,sub-pri,its only nominal influence,This is its only nominal influence.,This is its only influence.,non-entailment,entailment,0.96536523
+658,sub-pri,the minimum total potential energy,This is the minimum total potential energy.,This is the total potential energy.,non-entailment,entailment,0.56323767
+659,sub-pri,the minimum total potential energy,This is the minimum total potential energy.,This is the total energy.,non-entailment,entailment,0.5467545
+660,sub-pri,the only possible answer,This is the only possible answer.,This is the only answer.,non-entailment,entailment,0.9570991
+661,sub-pri,a senior deputy manager,She is a senior deputy manager.,She is a senior manager.,non-entailment,non-entailment,0.702440619468689
+662,sub-pri,Charles ' only apparent interest,This is Charles ' only apparent interest.,This is Charles ' only interest.,non-entailment,entailment,0.9895399
+663,sub-pri,new potential customers,They are new potential customers.,They are new customers.,non-entailment,entailment,0.9737074
+664,sub-pri,the only possible candidate,He is the only possible candidate.,He is the only candidate.,non-entailment,entailment,0.984236
+665,sub-pri,the highest expected return,This is the highest expected return.,This is the highest return.,non-entailment,entailment,0.9810177
+666,sub-pri,the highest expected return,This is the highest expected return.,This is the return.,non-entailment,entailment,0.7805358
+667,sub-pri,a famous former actor,He is a famous former actor.,He is a famous actor.,non-entailment,entailment,0.8168009
+668,sub-pri,a famous former actor,He is a famous former actor.,He is an actor.,non-entailment,entailment,0.7074924
+669,sub-pri,a scary mock execution,This is a scary mock execution.,This is a scary execution.,non-entailment,entailment,0.932026
+670,sub-pri,a scary mock execution,This is a scary mock execution.,This is an execution.,non-entailment,non-entailment,0.8772685546427965
+671,sub-int,our first real reunion,This is our first real reunion.,This is our first reunion.,non-entailment,entailment,0.98584545
+672,sub-int,the first American war,This is the first American war.,This is the first war.,non-entailment,entailment,0.9329475
+673,sub-int,New York's first black mayor,He is New York's first black mayor.,He is New York's first mayor.,non-entailment,entailment,0.8129796
+674,sub-int,the first black principal owners,They are the first black principal owners.,They are the first principal owners.,non-entailment,entailment,0.9373403
+675,sub-int,the only original works,Those are the only original works.,Those are the only works.,non-entailment,entailment,0.98794997
+676,sub-int,a typical American girl,She is a typical American girl.,She is a typical girl.,non-entailment,entailment,0.98967767
+677,sub-int,my first real involvement,This is my first real involvement.,This is my first involvement.,non-entailment,entailment,0.98527235
+678,sub-int,their first real test,This is their first real test.,This is their first test.,non-entailment,entailment,0.9875497
+679,sub-int,her only real bonus,This is her only real bonus.,This is her only bonus.,non-entailment,entailment,0.99188226
+680,sub-int,her favorite European designer,He is her favorite European designer.,He is her favorite designer.,non-entailment,entailment,0.9888637
+681,sub-int,her favorite European designer,He is her favorite European designer.,He is her European designer.,non-entailment,entailment,0.9822208
+682,sub-int,her favorite European designer,He is her favorite European designer.,He is her designer.,non-entailment,entailment,0.98048353
+683,sub-int,his only real alternative,This is his only real alternative.,This is his only alternative.,non-entailment,entailment,0.98913634
+684,sub-int,her first real job,This is her first real job.,This is her first job.,non-entailment,entailment,0.9866476
+685,sub-int,the company's only real problem,This is the company's only real problem.,This is the company's only problem.,non-entailment,entailment,0.99423176
+686,sub-int,the first free republic,This is the first free republic.,This is the first republic.,non-entailment,entailment,0.9463757
+687,sub-int,the only European luxury brand,This is the only European luxury brand.,This is the only luxury brand.,non-entailment,entailment,0.96736664
+688,sub-int,the company's third full year,This is the company's third full year.,This is the company's third year.,non-entailment,entailment,0.99078864
+689,sub-int,her favorite natural playground,This is her favorite natural playground.,This is her favorite playground.,non-entailment,entailment,0.97308314
+690,sub-int,their first major American purchase,This is their first major American purchase.,This is their first major purchase.,non-entailment,entailment,0.9890597
+691,sub-int,my favorite local restaurant,This is my favorite local restaurant.,This is my favorite restaurant.,non-entailment,entailment,0.9805834
+692,sub-int,my favorite local restaurant,This is my favorite local restaurant.,This is my restaurant.,non-entailment,entailment,0.9521901
+693,sub-int,the fifth consecutive annual decline,This is the fifth consecutive annual decline.,This is the fifth annual decline.,non-entailment,entailment,0.98891604
+694,sub-int,the fifth consecutive annual decline,This is the fifth consecutive annual decline.,This is the fifth decline.,non-entailment,entailment,0.9904613
+695,sub-sub,my new favorite movie,This is my new favorite movie.,This is my new movie.,non-entailment,entailment,0.96958274
+696,sub-sub,my new favorite movie,This is my new favorite movie.,This is my movie.,non-entailment,entailment,0.96762854
+697,sub-sub,my favorite new movie,This is my favorite new movie.,This is my new movie.,non-entailment,entailment,0.9640734
+698,sub-sub,my favorite new movie,This is my favorite new movie.,This is my movie.,non-entailment,entailment,0.96580803
+699,sub-sub,Japan's typical small homes,These are Japan's typical small homes.,These are Japan's typical homes.,non-entailment,entailment,0.9913367
+700,sub-sub,their first annual review,This is their first annual review.,This is their first review.,non-entailment,entailment,0.9910256
+701,sub-sub,their first professional position,This is their first professional position.,This is their first position.,non-entailment,entailment,0.9906446
+702,sub-sub,his first big chance,This is his first big chance.,This is his first chance.,non-entailment,entailment,0.97700727
+703,sub-sub,the only good thing,This is the only good thing.,This is the only thing.,non-entailment,entailment,0.96064997
+704,sub-sub,his second young partner,She is his second young partner.,She is his second partner.,non-entailment,entailment,0.99196625
+705,sub-sub,his first good look,This is his first good look.,This is his first look.,non-entailment,entailment,0.9805509
+706,sub-sub,his favorite U.S. small business,This is his favorite U.S. small business.,This is his U.S. small business.,non-entailment,entailment,0.9727816
+707,sub-sub,his favorite U.S. small business,This is his favorite U.S. small business.,This is his favorite small business.,non-entailment,entailment,0.9916155
+708,sub-sub,his favorite U.S. small business,This is his favorite U.S. small business.,This is his favorite U.S. business.,non-entailment,entailment,0.9927174
+709,sub-sub,the company's first new car franchise,This is the company's first new car franchise.,This is the company's first car franchise.,non-entailment,entailment,0.9858819
+710,sub-sub,the first big wave,This is the first big wave.,This is the first wave.,non-entailment,entailment,0.9596587
+711,sub-sub,its first national ad campaign,This is its first national ad campaign.,This is its first ad campaign.,non-entailment,entailment,0.98640454
+712,sub-sub,the third big aluminum company,This is the third big aluminum company.,This is the third aluminum company.,non-entailment,entailment,0.99256355
+713,sub-sub,the only professional instruction,This is the only professional instruction.,This is the only instruction.,non-entailment,entailment,0.94575524
+714,sub-sub,the second most powerful man,He is the second most powerful man.,He is the second man.,non-entailment,entailment,0.9678119
+715,sub-sub,the second most powerful man,He is the second most powerful man.,He is the most powerful man.,non-entailment,non-entailment,0.9763861745595932
+716,sub-sub,its second recent arbitration case,This is its second recent arbitration case.,This is its second arbitration case.,non-entailment,entailment,0.99278307
+717,sub-sub,his first big gamble,This is his first big gamble.,This is his first gamble.,non-entailment,entailment,0.9875666
+718,sub-sub,Quebecor's second big printing acquisition,This is Quebecor's second big printing acquisition.,This is Quebecor's second printing acquisition.,non-entailment,entailment,0.9907128
+719,sub-sub,its first new series,This is its first new series.,This is its first series.,non-entailment,entailment,0.9539862
+720,sub-sub,the only new music,This is the only new music.,This is the only music.,non-entailment,entailment,0.97439337
+721,sub-sub,the only big losers,They are the only big losers.,They are the only losers.,non-entailment,entailment,0.9908434
+722,sub-sub,my old best friend,She is my old best friend.,She is my best friend.,non-entailment,entailment,0.9771827
+723,sub-sub,an amazing beginner drummer,She is an amazing beginner drummer.,She is an amazing drummer.,non-entailment,entailment,0.9873396
+724,pri-pri,a likely next speaker,She is the likely next speaker.,She is the next speaker.,non-entailment,entailment,0.96512425
+725,pri-pri,the likely future premier,He is the likely future premier.,He is the future premier.,non-entailment,entailment,0.9847436
+726,pri-pri,the likely future premier,He is the likely future premier.,He is the premier.,non-entailment,non-entailment,0.9758679019287229
+727,pri-pri,a likely temporary destination,This is a likely temporary destination.,This is a temporary destination.,non-entailment,entailment,0.98722804
+728,pri-pri,a likely temporary destination,This is a likely temporary destination.,This is a destination.,non-entailment,entailment,0.96173966
+729,pri-pri,its expected future earnings,Those are its expected future earnings.,Those are its future earnings.,non-entailment,entailment,0.978704
+730,pri-pri,its expected future earnings,Those are its expected future earnings.,Those are its earnings.,non-entailment,entailment,0.8781252
+731,pri-pri,an expected imminent attack,This is an expected imminent attack.,This is an attack.,non-entailment,entailment,0.9837451
+732,pri-pri,past would-be reformers,They are past would-be reformers.,They are past reformers.,non-entailment,entailment,0.9811194
+733,pri-pri,past would-be reformers,They are past would-be reformers.,They are would-be reformers.,non-entailment,entailment,0.7849107
+734,pri-pri,past would-be reformers,They are past would-be reformers.,They are reformers.,non-entailment,non-entailment,0.8341004475951195
+735,pri-pri,the past half century,This is the past half century.,This is the past century.,non-entailment,entailment,0.9297466
+736,pri-pri,the past half century,This is the past half century.,This is the century.,non-entailment,entailment,0.7842373
+737,pri-pri,his past alleged misdeeds,Those are his past alleged misdeeds.,Those are his past misdeeds.,non-entailment,entailment,0.9900752
+738,pri-pri,his past alleged misdeeds,Those are his past alleged misdeeds.,Those are his misdeeds.,non-entailment,entailment,0.9847585
+739,pri-pri,a past unsuccessful candidate,He is a past unsuccessful candidate.,He is a candidate.,non-entailment,entailment,0.66420144
+740,pri-pri,potential future victims,They are potential future victims.,They are future victims.,non-entailment,entailment,0.99108
+741,pri-pri,potential future victims,They are potential future victims.,They are victims.,non-entailment,entailment,0.89123476
+742,pri-pri,the previous historic peak,This is the previous historic peak.,This is the historic peak.,non-entailment,entailment,0.78812265
+743,pri-pri,the previous historic peak,This is the previous historic peak.,This is the peak.,non-entailment,entailment,0.8920262
+744,pri-pri,a previous proposed deal,This is a previous proposed deal.,This is a previous deal.,non-entailment,entailment,0.9824322
+745,pri-pri,the previous theoretical limit,This is the previous theoretical limit.,This is the theoretical limit.,non-entailment,entailment,0.85448813
+746,pri-pri,the previous theoretical limit,This is the previous theoretical limit.,This is the limit.,non-entailment,entailment,0.9138893
+747,pri-int,a fake rhinestone diamond,This is a fake rhinestone diamond.,This is a diamond.,non-entailment,non-entailment,0.6540749371051788
+748,pri-int,his future American wife,She is his future American wife.,She is his American wife.,non-entailment,entailment,0.9853903
+749,pri-int,his future American wife,She is his future American wife.,She is his wife.,non-entailment,entailment,0.97753567
+750,pri-int,an impossible long-term solution,This is an impossible long-term solution.,This is a long-term solution.,non-entailment,non-entailment,0.8143195081502199
+751,pri-sub,our previous top picks,Those are our previous top picks.,Those are our top picks.,non-entailment,entailment,0.936665
+752,pri-sub,our previous top picks,Those are our previous top picks.,Those are our picks.,non-entailment,entailment,0.96669513
+753,pri-sub,its previous official deadline,This is its previous official deadline.,This is its official deadline.,non-entailment,entailment,0.7744444
+754,pri-sub,its previous official deadline,This is its previous official deadline.,This is its deadline.,non-entailment,entailment,0.8127744
+755,pri-sub,a previous federal law,This is a previous federal law.,This is a federal law.,non-entailment,entailment,0.7870334
+756,pri-sub,a previous federal law,This is a previous federal law.,This is a law.,non-entailment,entailment,0.9757715
+757,pri-sub,the previous federal government,It is the previous federal government.,It is the federal government.,non-entailment,entailment,0.68403566
+758,pri-sub,the previous federal government,It is the previous federal government.,It is the government.,non-entailment,entailment,0.8346652
+759,pri-sub,an arrogant former young genius,He is an arrogant former young genius.,He is an arrogant young genius.,non-entailment,entailment,0.78719723
+760,pri-sub,an arrogant former young genius,He is an arrogant former young genius.,He is an arrogant genius.,non-entailment,entailment,0.9240307
+761,int-sub,mental ill health,He is in mental ill health.,He is in mental health.,non-entailment,entailment,0.92151254
+762,int-sub,mental ill health,He is in mental ill health.,He is in health.,non-entailment,non-entailment,0.9972107213689014
+763,sub-int,an early evening flight,This is an early evening flight.,This is an early flight.,non-entailment,non-entailment,0.514404097571969
+764,sub-int,a late morning flight,This is a late morning flight.,This is a late flight.,non-entailment,entailment,0.7858204
+765,sub-int,negative net income,They have negative net income.,They have net income.,non-entailment,entailment,0.61139375
+766,sub-int,negative net income,They have negative net income.,They have income.,non-entailment,non-entailment,0.5473276004195213
+767,sub-int,the only practical choice,This is the only practical choice.,This is the only choice.,non-entailment,entailment,0.95405936
+768,sub-sub,an awful good cook,She is an awful good cook.,She is an awful cook.,non-entailment,non-entailment,0.9998198974353727
+769,sub-sub,a pretty ugly divorce,This is a pretty ugly divorce.,This is a pretty divorce.,non-entailment,non-entailment,0.9610311263240874
+770,sub-sub,America's top amateur wrestler,He is America's top amateur wrestler.,He is America's top wrestler.,non-entailment,entailment,0.9558017
+771,sub-sub,a top junior gymnast,She is a top junior gymnast.,She is a top gymnast.,non-entailment,entailment,0.98360735
+772,sub-sub,Britain's top secondary schools,These are Britain's top secondary schools.,These are Britain's top schools.,non-entailment,entailment,0.98801476
+773,sub-sub,July's average maximum temperature,This is July's average maximum temperature.,This is July's average temperature.,non-entailment,entailment,0.9553222
+774,sub-sub,July's average maximum temperature,This is July's average maximum temperature.,This is July's maximum temperature.,non-entailment,entailment,0.91185874
+775,pri-pri,the next would-be mogul,He is the next would-be mogul.,He is the next mogul.,non-entailment,entailment,0.98644155
+776,pri-pri,the next would-be mogul,He is the next would-be mogul.,He is a mogul.,non-entailment,non-entailment,0.9389476403594017
+777,pri-pri,an almost impossible military assignment,This is an almost impossible military assignment.,This is an almost military assignment.,non-entailment,non-entailment,0.729711975902319
+778,pri-pri,an almost impossible military assignment,This is an almost impossible military assignment.,This is an impossible military assignment.,non-entailment,entailment,0.8670459
+779,pri-pri,an imminent partial shutdown,This is an imminent partial shutdown.,This is a shutdown.,non-entailment,entailment,0.96350235
+780,pri-pri,a most plausible potential president,She is a most plausible potential president.,She is a most plausible president.,non-entailment,entailment,0.9903841
+781,pri-pri,a fictional past relationship,This is a fictional past relationship.,This is a past relationship.,non-entailment,entailment,0.95068264
+782,pri-pri,a deputy foreign vice minister,He is a deputy foreign vice minister.,He is a deputy foreign minister.,non-entailment,entailment,0.9236882
+783,pri-pri,a deputy foreign vice minister,He is a deputy foreign vice minister.,He is a foreign minister.,non-entailment,non-entailment,0.8549127392470837
+784,pri-pri,the probable next CEO,She is the probable next CEO.,She is the next CEO.,non-entailment,entailment,0.95259935
+785,pri-pri,the probable next CEO,She is the probable next CEO.,She is the CEO.,non-entailment,non-entailment,0.7651921957731247
+786,pri-pri,simulated mock executions,These are simulated mock executions.,These are executions.,non-entailment,non-entailment,0.9919602600857615
+787,pri-pri,possible later pregnancies,Those are possible later pregnancies.,Those are pregnancies.,non-entailment,entailment,0.87691396
+788,pri-pri,possible faulty restorations,Those are possible faulty restorations.,Those are possible restorations.,non-entailment,entailment,0.9579143
+789,pri-pri,possible faulty restorations,Those are possible faulty restorations.,Those are faulty restorations.,non-entailment,entailment,0.9490126
+790,pri-pri,possible faulty restorations,Those are possible faulty restorations.,Those are restorations.,non-entailment,entailment,0.9081078
+791,pri-pri,a wooden model airplane,This is a wooden model airplane.,This is an airplane.,non-entailment,entailment,0.95238316
+792,pri-pri,a plausible future prime minister,He is a plausible future prime minister.,He is a future prime minister.,non-entailment,entailment,0.9900152
+793,pri-pri,a plausible future prime minister,He is a plausible future prime minister.,He is a prime minister.,non-entailment,non-entailment,0.7257787957787514
+794,pri-pri,a possible incorrect declaration,This is a possible incorrect declaration.,This is an incorrect declaration.,non-entailment,entailment,0.88743925
+795,pri-pri,a suspicious temporary license plate,This is a suspicious temporary license plate.,This is a temporary license plate.,non-entailment,entailment,0.94112355
+796,pri-pri,a retired plastic surgeon,He is a retired plastic surgeon.,He is a surgeon.,non-entailment,entailment,0.7692619
+797,pri-pri,an experimental artificial heart,This is an experimental artificial heart.,This is a heart.,non-entailment,entailment,0.93896097
+798,pri-pri,a supposed potential terrorist,She is a supposed potential terrorist.,She is a terrorist.,non-entailment,entailment,0.65801305
+799,pri-pri,a probable right-wing candidate,He is a probable right-wing candidate.,He is a right-wing candidate.,non-entailment,entailment,0.9846651
+800,pri-pri,a probable right-wing candidate,He is a probable right-wing candidate.,He is a candidate.,non-entailment,entailment,0.9854408
+801,pri-pri,Iraq's nominal future leadership,This is Iraq's nominal future leadership.,This is Iraq's nominal leadership.,non-entailment,entailment,0.9558751
+802,pri-pri,Iraq's nominal future leadership,This is Iraq's nominal future leadership.,This is Iraq's leadership.,non-entailment,entailment,0.5173962
+803,pri-pri,the future experimental vaccines,These are the future experimental vaccines.,These are the future vaccines.,non-entailment,entailment,0.97166216
+804,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster.,This is the next blockbuster.,non-entailment,entailment,0.96320343
+805,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster.,This is the blockbuster.,non-entailment,entailment,0.62921774
+806,pri-pri,the deputy senior vice president,He is the deputy senior vice president.,He is the senior president.,non-entailment,non-entailment,0.9858503947034478
+807,pri-pri,his initial false pledge,This is his initial false pledge.,This is his initial pledge.,non-entailment,entailment,0.86169314
+808,pri-pri,a proposed six-month partial ban,This is a proposed six-month partial ban.,This is a six-month partial ban.,non-entailment,entailment,0.9672897
+809,pri-pri,a proposed six-month partial ban,This is a proposed six-month partial ban.,This is a six-month ban.,non-entailment,entailment,0.94974077
+810,pri-pri,would-be future professionals,They are would-be future professionals.,They are professionals.,non-entailment,non-entailment,0.9874113705009222
+811,pri-pri,a possible later prosecution,This is a possible later prosecution.,This is a later prosecution.,non-entailment,entailment,0.9670634
+812,pri-pri,a would-be next prime minister,She is the would-be next prime minister.,She is the next prime minister.,non-entailment,entailment,0.6475068
+813,pri-pri,a would-be next prime minister,She is the would-be next prime minister.,She is the prime minister.,non-entailment,non-entailment,0.9725945014506578
+814,pri-pri,an apparent false statement,This is an apparent false statement.,This is an apparent statement.,non-entailment,entailment,0.6348267
+815,pri-pri,failed initial public offerings,Those are failed initial public offerings.,Those are public offerings.,non-entailment,non-entailment,0.5038480758666992
+816,pri-pri,our next honorary mayor,He is our next honorary mayor.,He is our honorary mayor.,non-entailment,entailment,0.98010033
+817,pri-pri,our next honorary mayor,He is our next honorary mayor.,He is our mayor.,non-entailment,entailment,0.52310985
+818,pri-pri,uncertain potential legal liability,This is uncertain potential legal liability.,This is legal liability.,non-entailment,entailment,0.82067496
+819,pri-pri,a historic former capital,This is a historic former capital.,This is a capital.,non-entailment,non-entailment,0.6841593086719513
+820,pri-pri,a plausible potential mayor,He is a plausible potential mayor.,He is a mayor.,non-entailment,non-entailment,0.9212960712611675
+821,pri-pri,the next probable champion,He is the next probable champion.,He is the champion.,non-entailment,non-entailment,0.974603951908648
+822,pri-pri,the probable next president,He is the probable next president.,He is the next president.,non-entailment,entailment,0.9534953
+823,pri-pri,the probable next president,He is the probable next president.,He is the president.,non-entailment,non-entailment,0.8997050616890192
+824,pri-pri,the next unlikely winner,He is the next unlikely winner.,He is the next winner.,non-entailment,entailment,0.96080834
+825,pri-pri,the next unlikely winner,He is the next unlikely winner.,He is the winner.,non-entailment,entailment,0.75365907
+826,pri-pri,a future would-be president,She is a future would-be president.,She is a future president.,non-entailment,entailment,0.9890682
+827,pri-pri,a future would-be president,She is a future would-be president.,She is a president.,non-entailment,non-entailment,0.8641394972801208
+828,pri-pri,her onetime would-be mentor,He is her onetime would-be mentor.,He is her onetime mentor.,non-entailment,non-entailment,0.5238228142261505
+829,pri-pri,a would-be future French Open champion,She is a would-be future French Open champion.,She is a French Open champion.,non-entailment,non-entailment,0.9723175903782248
+830,pri-pri,unsuccessful would-be buyers,They are unsuccessful would-be buyers.,They are unsuccessful buyers.,non-entailment,entailment,0.9943006
+831,pri-pri,a fictional former street urchin,This is a fictional former street urchin.,This is a former street urchin.,non-entailment,entailment,0.9462367
+832,pri-pri,a fictional former street urchin,This is a fictional former street urchin.,This is a street urchin.,non-entailment,non-entailment,0.662569522857666
+833,pri-pri,proposed future ministers,They are proposed future ministers.,They are future ministers.,non-entailment,entailment,0.96907693
+834,pri-pri,proposed future ministers,They are proposed future ministers.,They are ministers.,non-entailment,non-entailment,0.5340170040726662
+835,pri-pri,Iraq's nominal future leadership,This is Iraq's nominal future leadership.,This is Iraq's nominal leadership.,non-entailment,entailment,0.9558751
+836,pri-pri,a mythical Chinese stone monkey,This is a mythical Chinese stone monkey.,This is a mythical Chinese monkey.,non-entailment,entailment,0.96482307
+837,pri-pri,a mythical Chinese stone monkey,This is a mythical Chinese stone monkey.,This is a Chinese monkey.,non-entailment,entailment,0.87477815
+838,pri-pri,a putative future star,This is a putative future star.,This is a star.,non-entailment,entailment,0.7772951
+839,pri-pri,the plausible next president,He is the plausible next president.,He is the next president.,non-entailment,entailment,0.9735128
+840,pri-pri,the plausible next president,He is the plausible next president.,He is the president.,non-entailment,non-entailment,0.9270485434681177
+841,pri-pri,an imaginary future world currency,This is an imaginary future world currency.,This is a world currency.,non-entailment,non-entailment,0.7229004688560963
+842,pri-pri,an almost empty blue field,This is an almost empty blue field.,This is an empty blue field.,non-entailment,entailment,0.8693061
+843,pri-pri,a onetime presumed front-runner,He is a onetime presumed front-runner.,He is a onetime front-runner.,non-entailment,entailment,0.97843564
+844,pri-pri,an uncertain future benefit,This is an uncertain future benefit.,This is a benefit.,non-entailment,entailment,0.9751694
+845,pri-pri,a questionable so-called health food,This is a questionable so-called healthy food.,This is a healthy food.,non-entailment,non-entailment,0.8826965000480413
+846,pri-pri,a retired super spy,He is a retired super spy.,He is a super spy.,non-entailment,entailment,0.6371147
+847,pri-pri,A next probable foe,She is the next probable foe.,She is the next foe.,non-entailment,entailment,0.9748369
+848,pri-pri,A next probable foe,She is the next probable foe.,She is a foe.,non-entailment,entailment,0.9748632
+849,pri-pri,a fake honorary degree,This is a fake honorary degree.,This is an honorary degree.,non-entailment,non-entailment,0.5507792495191097
+850,pri-pri,a deputy senior vice president,He is a deputy senior vice president.,He is a deputy senior president.,non-entailment,entailment,0.7087975
+851,pri-pri,a deputy senior vice president,He is a deputy senior vice president.,He is a senior vice president.,non-entailment,non-entailment,0.8699981234967709
+852,pri-pri,a deputy senior vice president,He is a deputy senior vice president.,He is a senior president.,non-entailment,non-entailment,0.9086859356611967
+853,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster.,This is the next blockbuster.,non-entailment,entailment,0.96320343
+854,pri-pri,the next would-be blockbuster,This is the next would-be blockbuster.,This is the blockbuster.,non-entailment,entailment,0.62921774
+855,pri-pri,a fake wooden rifle,This is a fake wooden rifle.,This is a rifle.,non-entailment,non-entailment,0.5809508934617043
+856,pri-pri,a 19th-century wooden toy train,This is a 19th-century wooden toy train.,This is a 19th-century train.,non-entailment,entailment,0.9468522
+857,pri-pri,imaginary future revenues,Those are imaginary future revenues.,Those are future revenues.,non-entailment,entailment,0.5913835
+858,pri-pri,imaginary future revenues,Those are imaginary future revenues.,Those are future revenues.,non-entailment,entailment,0.5913835
+859,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader.,He is a Catholic deputy leader.,non-entailment,non-entailment,0.608473151922226
+860,pri-pri,a would-be Catholic deputy leader,He is a would-be Catholic deputy leader.,He is a Catholic leader.,non-entailment,non-entailment,0.7225804999470711
+861,pri-pri,the probable next CEO,He is the probable next CEO.,He is the next CEO.,non-entailment,entailment,0.9453735
+862,pri-pri,the probable next CEO,He is the probable next CEO.,He is the CEO.,non-entailment,non-entailment,0.8483441360294819
+863,pri-pri,simulated drowning executions,This is simulated drowning executions.,This is drowning executions.,non-entailment,entailment,0.9134698
+864,pri-pri,a possible later pregnancy,This is a possible later pregnancy.,This is a later pregnancy.,non-entailment,entailment,0.9580583
+865,pri-pri,a possible faulty restoration,This is a possible faulty restoration.,This is a faulty restoration.,non-entailment,entailment,0.9119641
+866,pri-pri,improbable future catastrophes,These are improbable future catastrophes.,These are future catastrophes.,non-entailment,entailment,0.8738573
+867,pri-pri,an unlikely initial success,This is an unlikely initial success.,This is an initial success.,non-entailment,entailment,0.89185166
+868,pri-pri,an unlikely initial success,This is an unlikely initial success.,This is a success.,non-entailment,entailment,0.89536107
+869,pri-pri,a retired naval admiral,He is a retired naval admiral.,He is a naval admiral.,non-entailment,entailment,0.58935046
+870,pri-pri,the improbable future catastrophe,This is an improbable future catastrophe.,This is a future catastrophe.,non-entailment,entailment,0.7878232
+871,pri-pri,a retired naval admiral,She is a retired naval admiral.,She is an admiral.,non-entailment,entailment,0.6951466
+872,pri-pri,a deputy foreign vice minister,She is a deputy foreign vice minister.,She is a deputy foreign minister.,non-entailment,entailment,0.88701904
+873,pri-pri,a deputy foreign vice minister,She is a deputy foreign vice minister.,She is a foreign minister.,non-entailment,non-entailment,0.8592817857861519
+874,pri-pri,his would-be next work,This is his would-be next work.,This is his next work.,non-entailment,entailment,0.80183494
+875,pri-pri,an unlikely would-be assassin,This is an unlikely would-be assassin.,This is an assassin.,non-entailment,non-entailment,0.952366990968585
+876,pri-pri,a mock wooden barrier,This is a mock wooden barrier.,This is a wooden barrier.,non-entailment,entailment,0.8953397
+877,pri-pri,a false temporary Ukrainian passport,This is a false temporary Ukrainian passport.,This is a temporary Ukrainian passport.,non-entailment,entailment,0.52464736
+878,pri-pri,a false temporary Ukrainian passport,This is a false temporary Ukrainian passport.,This is a Ukrainian passport.,non-entailment,non-entailment,0.8492634892463684
+879,pri-pri,a fake wooden sword,This is a fake wooden sword.,This is a sword.,non-entailment,non-entailment,0.6860416382551193
+880,pri-pri,a 69-year-old retired plastic surgeon,He is a 69-year-old retired plastic surgeon.,He is a 69-year-old plastic surgeon.,non-entailment,entailment,0.970315
+881,pri-pri,a 69-year-old retired plastic surgeon,He is a 69-year-old retired plastic surgeon.,He is a 69-year-old surgeon.,non-entailment,entailment,0.97647834
+882,pri-pri,an unsuccessful proposed labor agreement,This is an unsuccessful proposed labor agreement.,This is an unsuccessful labor agreement.,non-entailment,entailment,0.9896861
+883,pri-pri,an unsuccessful proposed labor agreement,This is an unsuccessful proposed labor agreement.,This is a labor agreement.,non-entailment,entailment,0.6153131
+884,pri-pri,a probable center-right candidate,This is a probable center-right candidate.,This is a center-right candidate.,non-entailment,entailment,0.9664174
+885,pri-pri,a theoretical future budget surplus,This is a theoretical future budget surplus.,This is a future budget surplus.,non-entailment,entailment,0.94990367
+886,pri-pri,the initial half hour,This is the initial half hour.,This is the initial hour.,non-entailment,entailment,0.8536932
+887,pri-pri,the initial half hour,This is the initial half hour.,This is the hour.,non-entailment,entailment,0.6465069
+888,pri-pri,a fake honorary doctorate,This is a fake honorary doctorate.,This is an honorary doctorate.,non-entailment,entailment,0.50801736
+889,pri-pri,a fake honorary doctorate,This is a fake honorary doctorate.,This is a doctorate.,non-entailment,non-entailment,0.8267743699252605
+890,pri-pri,a dubious potential leader,This is a dubious potential leader.,This is a leader.,non-entailment,non-entailment,0.7146274074912071
+891,pri-pri,the alleged dubious trading,This is alleged dubious trading.,This is dubious trading.,non-entailment,entailment,0.950592
+892,pri-pri,a retired former French diplomat,He is a retired former French diplomat.,He is a French diplomat.,non-entailment,entailment,0.6723967
+893,pri-pri,a onetime alleged dirty-bomb plotter,He is a onetime alleged dirty-bomb plotter.,He is a onetime dirty-bomb plotter.,non-entailment,entailment,0.98361087
+894,pri-pri,a onetime alleged dirty-bomb plotter,He is a onetime alleged dirty-bomb plotter.,He is a dirty-bomb plotter.,non-entailment,entailment,0.8079044
+895,pri-pri,the initial half dozen countries,These are the initial half dozen countries.,These are the initial dozen countries.,non-entailment,entailment,0.9862136
+896,pri-pri,the initial half dozen countries,These are the initial half dozen countries.,These are a dozen countries.,non-entailment,entailment,0.94978863
+897,pri-pri,the presumed future leader,This is the presumed future leader.,This is the presumed leader.,non-entailment,entailment,0.92892087
+898,pri-pri,the presumed future leader,This is the presumed future leader.,This is the future leader.,non-entailment,entailment,0.9628366
+899,pri-pri,the presumed future leader,This is the presumed future leader.,This is the leader.,non-entailment,non-entailment,0.7323575168848038
+900,pri-pri,a retired black deputy sheriff,He is a retired black deputy sheriff.,He is a black deputy sheriff.,non-entailment,entailment,0.8793395
+901,pri-pri,a possible imminent eruption,That is a possible imminent eruption.,That is an eruption.,non-entailment,entailment,0.9661442
+902,pri-pri,the initial false declarations,These are the initial false declarations.,These are the initial declarations.,non-entailment,entailment,0.8751291
+903,pri-pri,those presumed future contenders,They are those presumed future contenders.,They are those future contenders.,non-entailment,entailment,0.9880508
+904,pri-pri,imminent potential reactions,These are imminent potential reactions.,These are imminent reactions.,non-entailment,entailment,0.80911434
+905,pri-pri,future hypothetical threats,These are future hypothetical threats.,These are threats.,non-entailment,entailment,0.82476896
+906,pri-pri,theoretical potential losses,Those are theoretical potential losses.,Those are losses.,non-entailment,entailment,0.8272386
+907,pri-pri,a potential negative impact,He has a potential negative impact.,He has a negative impact.,non-entailment,entailment,0.9805181
+908,pri-pri,a potential negative impact,He has a potential negative impact.,He has an impact.,non-entailment,entailment,0.9879973
+909,pri-pri,an almost empty house,This is an almost empty house.,This is an empty house.,non-entailment,entailment,0.6692282
+910,pri-sub,a supposed brief affair,This is a supposed brief affair.,This is a brief affair.,non-entailment,entailment,0.8503473
+911,pri-sub,a hypothetical regional conflict,This is a hypothetical regional conflict.,This is a regional conflict.,non-entailment,entailment,0.83748746
+912,pri-sub,a hypothetical regional conflict,This is a hypothetical regional conflict.,This is a conflict.,non-entailment,entailment,0.93159056
+913,pri-sub,a supposed positive result,This is a supposed positive result.,This is a positive result.,non-entailment,entailment,0.93353236
+914,pri-sub,dubious strategic importance,This is of dubious strategic importance.,This is of importance.,non-entailment,entailment,0.8908236
+915,pri-sub,a presumed negative effect,This is a presumed negative effect.,This is a negative effect.,non-entailment,entailment,0.9899809
+916,pri-sub,an artificial high return,This is an artificial high return.,This is a high return.,non-entailment,entailment,0.95955276
+917,pri-sub,the supposed good guys,They are the supposed good guys.,They are the good guys.,non-entailment,entailment,0.9181154
+918,pri-sub,a fictional national championship,It is a fictional national championship.,It is a championship.,non-entailment,entailment,0.9108053
+919,pri-sub,a phony moral authority,They have a phony moral authority.,They have moral authority.,non-entailment,entailment,0.9331095
+920,pri-sub,a phony moral authority,They have a phony moral authority.,They have authority.,non-entailment,entailment,0.53158486
+921,pri-sub,a probable high position,This is a probable high position.,This is a high position.,non-entailment,entailment,0.9810651
+922,pri-sub,the probable maximum loss,It is the probable maximum loss.,It is the maximum loss.,non-entailment,entailment,0.9770468
+923,pri-sub,Ukrainian first vice prime minister,This is the Ukrainian first vice prime minister.,This is the Ukrainian first minister.,non-entailment,non-entailment,0.9672271749004722
+924,pri-sub,past official targets,They are past official targets.,They are official targets.,non-entailment,entailment,0.5864488
+925,pri-sub,past official targets,They are past official targets.,They are targets.,non-entailment,entailment,0.95777017
+926,pri-sub,a phony royal seal,This is a phony royal seal.,This is a royal seal.,non-entailment,non-entailment,0.6205692254006863
+927,pri-sub,the predicted annual economic growth,This is the predicted annual economic growth.,This is the annual economic growth.,non-entailment,entailment,0.9404056
+928,pri-sub,a onetime domestic policy adviser,He is a onetime domestic policy adviser.,He is a domestic policy adviser.,non-entailment,non-entailment,0.6150946412235498
+929,pri-sub,a counterfeit new U.S. dollar,This is a counterfeit new U.S. dollar.,This is a U.S. dollar.,non-entailment,non-entailment,0.9463688125833869
+930,pri-sub,the predicted global economic turbulence,This is the predicted global economic turbulence.,This is the global economic turbulence.,non-entailment,entailment,0.96596086
+931,pri-sub,a mock common admission test,This is a mock common admission test.,This is an admission test.,non-entailment,entailment,0.8800913
+932,pri-sub,A would-be classic baseball game,This is A would-be classic baseball game.,This is a classic baseball game.,non-entailment,non-entailment,0.6182013675570488
+933,pri-sub,his presumed strong competitors,They are his presumed strong competitors.,They are his strong competitors.,non-entailment,entailment,0.9847504
+934,pri-sub,a presumed short circuit,This is a presumed short circuit.,This is a short circuit.,non-entailment,entailment,0.9502193
+935,pri-sub,a presumed common origin,They have a presumed common origin.,They have a common origin.,non-entailment,entailment,0.9882377
+936,pri-sub,a retired federal lawyer,She is a retired federal lawyer.,She is a federal lawyer.,non-entailment,entailment,0.61737484
+937,pri-sub,a retired federal lawyer,She is a retired federal lawyer.,She is a lawyer.,non-entailment,entailment,0.902107
+938,pri-sub,counterfeit modern bills,Those are counterfeit modern bills.,Those are modern bills.,non-entailment,non-entailment,0.9704331932589412
+939,pri-sub,counterfeit modern bills,Those are counterfeit modern bills.,Those are bills.,non-entailment,non-entailment,0.7946449257433414
+940,pri-sub,the next highest federal court,This is the next highest federal court.,This is the next highest court.,non-entailment,entailment,0.9822748
+941,pri-sub,the next highest federal court,This is the next highest federal court.,This is the highest federal court.,non-entailment,non-entailment,0.9958303971216083
+942,pri-sub,the next highest federal court,This is the next highest federal court.,This is the highest court.,non-entailment,non-entailment,0.9977062398102134
+943,pri-sub,a forged medical professional license,This is a forged medical professional license.,This is a medical professional license.,non-entailment,non-entailment,0.8122402466833591
+944,pri-sub,a forged medical professional license,This is a forged medical professional license.,This is a medical license.,non-entailment,non-entailment,0.6218697279691696
+945,pri-sub,a would-be serious cook,She is a would-be serious cook.,She is a serious cook.,non-entailment,non-entailment,0.7487684488296509
+946,pri-sub,a would-be serious cook,She is a would-be serious cook.,She is a cook.,non-entailment,entailment,0.8550814
+947,pri-sub,that last plausible independent candidate,He is the last plausible independent candidate.,He is the last independent candidate.,non-entailment,entailment,0.9857745
+948,pri-sub,that last plausible independent candidate,He is the last plausible independent candidate.,He is the last candidate.,non-entailment,entailment,0.98228043
+949,pri-sub,a seeming diplomatic breakthrough,This is a seeming diplomatic breakthrough.,This is a diplomatic breakthrough.,non-entailment,entailment,0.89408606
+950,pri-sub,a hypothetical independent candidate,She is a hypothetical independent candidate.,She is a candidate.,non-entailment,entailment,0.9800019
+951,pri-sub,a probable easy fix,This is a probable easy fix.,This is an easy fix.,non-entailment,entailment,0.9881307
+952,pri-sub,a hypothetical ninth season,This is a hypothetical ninth season.,This is the ninth season.,non-entailment,entailment,0.50696963
+953,pri-sub,an assumed annual inflation rate,This is an assumed annual inflation rate.,This is an annual inflation rate.,non-entailment,entailment,0.97914416
+954,pri-sub,a retired prominent basketball player,This is a retired prominent basketball player.,This is a prominent basketball player.,non-entailment,entailment,0.8567706
+955,pri-sub,a presumed front runner,This is a presumed front runner.,This is a front runner.,non-entailment,entailment,0.9707081
+956,pri-sub,a fictitious coastal state,This is a fictitious coastal state.,This is a coastal state.,non-entailment,entailment,0.82487667
+957,pri-sub,a fictitious coastal state,This is a fictitious coastal state.,This is a state.,non-entailment,non-entailment,0.7747750468552113
+958,pri-sub,a onetime musical director,He is a onetime musical director.,He is a director.,non-entailment,entailment,0.5632917
+959,pri-sub,a would-be front runner,She is a would-be front runner.,She is a front runner.,non-entailment,non-entailment,0.6031166166067123
+960,pri-sub,a would-be front runner,She is a would-be front runner.,She is a runner.,non-entailment,entailment,0.9646238
+961,pri-sub,a fictional common ancestor,She is a fictional common ancestor.,She is a common ancestor.,non-entailment,entailment,0.97116125
+962,pri-sub,a fictional common ancestor,She is a fictional common ancestor.,She is an ancestor.,non-entailment,entailment,0.9194836
+963,pri-sub,a mock early surrender,This is a mock early surrender.,This is an early surrender.,non-entailment,non-entailment,0.5920122750103474
+964,pri-sub,a mock early surrender,This is a mock early surrender.,This is a surrender.,non-entailment,entailment,0.5618921
+965,pri-sub,past southern areas,Those are past southern areas.,Those are southern areas.,non-entailment,entailment,0.9374988
+966,pri-sub,a probable third round meeting,This is a probable third-round meeting.,This is a third-round meeting.,non-entailment,entailment,0.9677911
+967,pri-sub,an assumed presidential nominee,She is an assumed presidential nominee.,She is a presidential nominee.,non-entailment,entailment,0.96803176
+968,pri-sub,a supposed key piece,This is a supposed key piece.,This is a key piece.,non-entailment,entailment,0.9415946
+969,pri-sub,a would-be high roller,This is a would-be high roller.,This is a high roller.,non-entailment,non-entailment,0.5754698999226093
+970,pri-sub,the seeming easy access,This is a seeming easy access.,This is an easy access.,non-entailment,entailment,0.98443884
+971,pri-sub,an unlikely high scorer,He is an unlikely high scorer.,He is an unlikely scorer.,non-entailment,entailment,0.98740953
+972,pri-sub,fraudulent professional courtesies,These are fraudulent professional courtesies.,These are professional courtesies.,non-entailment,non-entailment,0.8327725231647491
+973,pri-sub,hypothetical legislative bills,These are hypothetical legislative bills.,These are legislative bills.,non-entailment,non-entailment,0.6802607998251915
+974,pri-sub,a forged diplomatic passport,He has a forged diplomatic passport.,He has a diplomatic passport.,non-entailment,entailment,0.5863606
+975,pri-sub,a forged Iranian diplomatic passport,This is a forged Iranian diplomatic passport.,This is an Iranian diplomatic passport.,non-entailment,non-entailment,0.6294096149504185
+976,pri-sub,a forged Iranian diplomatic passport,This is a forged Iranian diplomatic passport.,This is an Iranian passport.,non-entailment,entailment,0.6268794
+977,pri-sub,a presumed early rebel target,He is a presumed early rebel target.,He is an early rebel target.,non-entailment,entailment,0.97672254
+978,pri-sub,a predicted average expenditure,This is a predicted average expenditure.,This is an average expenditure.,non-entailment,entailment,0.9527521
+979,pri-sub,a Spanish first vice prime minister,She is the Spanish first vice prime minister.,She is the Spanish first prime minister.,non-entailment,non-entailment,0.9946489394642413
+980,pri-sub,a Spanish first vice prime minister,She is the Spanish first vice prime minister.,She is the Spanish first minister.,non-entailment,non-entailment,0.9527888223528862
+981,pri-sub,The probable maximum loss,This is The probable maximum loss.,This is The maximum loss.,non-entailment,entailment,0.9713448
+982,pri-sub,the first vice prime minister,He is the first vice prime minister.,He is the first prime minister.,non-entailment,non-entailment,0.9983420190401375
+983,pri-sub,the first vice prime minister,He is the first vice prime minister.,He is the first minister.,non-entailment,non-entailment,0.9724448937922716
+984,pri-sub,the predicted annual economic growth,This is the predicted annual economic growth.,This is the annual economic growth.,non-entailment,entailment,0.9404056
+985,pri-sub,the predicted annual economic growth,This is the predicted annual economic growth.,This is the economic growth.,non-entailment,entailment,0.9475987
+986,pri-sub,a onetime domestic policy adviser,This is a onetime domestic policy adviser.,This is a domestic policy adviser.,non-entailment,non-entailment,0.5305382758378983
+987,pri-sub,a onetime domestic policy adviser,This is a onetime domestic policy adviser.,This is a policy adviser.,non-entailment,entailment,0.60838664
+988,pri-sub,a prior national interest,This is a prior national interest.,This is a national interest.,non-entailment,entailment,0.8986462
+989,pri-sub,a fictitious high school,This is a fictitious high school.,This is a high school.,non-entailment,non-entailment,0.7962597105652094
+990,pri-sub,a fictitious high school,This is a fictitious high school.,This is a school.,non-entailment,non-entailment,0.5919764563441277
+991,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a federal lawyer.,non-entailment,entailment,0.5678177
+992,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a lawyer.,non-entailment,entailment,0.85286087
+993,pri-sub,a counterfeit modern bill,This is a counterfeit modern bill.,This is a modern bill.,non-entailment,non-entailment,0.9382274486124516
+994,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier.,He is Al-Qaeda's top financier.,non-entailment,entailment,0.8805022
+995,pri-sub,a would-be lead blocker,This is a would-be lead blocker.,This is a lead blocker.,non-entailment,non-entailment,0.5194809287786484
+996,pri-sub,some presumed serious mental health problem,He has some presumed serious mental health problems.,He has some serious mental health problems.,non-entailment,entailment,0.99327457
+997,pri-sub,a next top star,She is the next top star.,She is a top star.,non-entailment,entailment,0.944992
+998,pri-sub,a next top star,She is the next top star.,She is a star.,non-entailment,entailment,0.9697892
+999,pri-sub,A would-be classic baseball game,This is A would-be classic baseball game.,This is a classic baseball game.,non-entailment,non-entailment,0.6182013675570488
+1000,pri-sub,a presumed strong competitor,He is a presumed strong competitor.,He is a strong competitor.,non-entailment,entailment,0.9796306
+1001,pri-sub,a presumed short circuit,This is a presumed short circuit.,This is a short circuit.,non-entailment,entailment,0.9502193
+1002,pri-sub,a retired short seller,He is a retired short seller.,He is a short seller.,non-entailment,non-entailment,0.5359199605882168
+1003,pri-sub,a retired short seller,He is a retired short seller.,He is a seller.,non-entailment,entailment,0.8179492
+1004,pri-sub,a presumed common origin,This is a presumed common origin.,This is a common origin.,non-entailment,entailment,0.96319604
+1005,pri-sub,every previous significant work,This is every previous significant work.,This is every significant work.,non-entailment,entailment,0.92112106
+1006,pri-sub,every previous significant work,This is every previous significant work.,This is every work.,non-entailment,entailment,0.94530976
+1007,pri-sub,a phony moral authority,He is a phony moral authority.,He is a moral authority.,non-entailment,entailment,0.63952446
+1008,pri-sub,a probable high position,This is a probable high position.,This is a high position.,non-entailment,entailment,0.9810651
+1009,pri-sub,a fictitious professional golfer,He is a fictitious professional golfer.,He is a professional golfer.,non-entailment,non-entailment,0.520763386040926
+1010,pri-sub,a mock serious tone,This is a mock serious tone.,This is a serious tone.,non-entailment,non-entailment,0.9460317408666015
+1011,pri-sub,dubious strategic value,It has dubious strategic value.,It has strategic value.,non-entailment,entailment,0.7961569
+1012,pri-sub,dubious strategic value,It has dubious strategic value.,It has value.,non-entailment,entailment,0.894929
+1013,pri-sub,a probable third round meeting,This is a probable third-round meeting.,This is a third-round meeting.,non-entailment,entailment,0.9677911
+1014,pri-sub,a probable third round meeting,This is a probable third-round meeting.,This is a meeting.,non-entailment,entailment,0.96170354
+1015,pri-sub,the mock common admission test,This is the mock common admission test.,This is the common admission test.,non-entailment,entailment,0.64134496
+1016,pri-sub,the mock common admission test,This is the mock common admission test.,This is the admission test.,non-entailment,entailment,0.637895
+1017,pri-sub,a seeming similar experience,This is a seeming similar experience.,This is a similar experience.,non-entailment,entailment,0.9850212
+1018,pri-sub,a retired independent contractor,He is a retired independent contractor.,He is an independent contractor.,non-entailment,entailment,0.7856824
+1019,pri-sub,a retired independent contractor,He is a retired independent contractor.,He is a contractor.,non-entailment,entailment,0.9447862
+1020,pri-sub,its presumed specific principles,These are its presumed specific principles.,These are its specific principles.,non-entailment,entailment,0.95352983
+1021,pri-sub,counterfeit new U.S. dollars,Those are counterfeit new U.S. dollars.,Those are new U.S. dollars.,non-entailment,non-entailment,0.8963859612122178
+1022,pri-sub,counterfeit new U.S. dollars,Those are counterfeit new U.S. dollars.,Those are U.S. dollars.,non-entailment,non-entailment,0.9939395664259791
+1023,pri-sub,Al-Qaeda's presumed top financier,He is Al-Qaeda's presumed top financier.,He is Al-Qaeda's top financier.,non-entailment,entailment,0.8805022
+1024,pri-sub,a would-be lead blocker,This is a would-be lead blocker.,This is a lead blocker.,non-entailment,non-entailment,0.5194809287786484
+1025,pri-sub,a presumed serious mental health problem,This is a presumed serious mental health problem.,This is a serious mental health problem.,non-entailment,entailment,0.9887733
+1026,pri-sub,a presumed serious mental health problem,This is a presumed serious mental health problem.,This is a mental health problem.,non-entailment,entailment,0.9897559
+1027,pri-sub,a mock official inquiry,This is a mock official inquiry.,This is an official inquiry.,non-entailment,non-entailment,0.9261868707835674
+1028,pri-sub,an imminent positive result,This is an imminent positive result.,This is a positive result.,non-entailment,entailment,0.9876621
+1029,pri-sub,a theoretical average salary,This is a theoretical average salary.,This is an average salary.,non-entailment,entailment,0.96625865
+1030,pri-sub,a supposed corrupt federal official,He is a supposed corrupt federal official.,He is a corrupt federal official.,non-entailment,entailment,0.92334586
+1031,pri-sub,a supposed corrupt federal official,He is a supposed corrupt federal official.,He is a corrupt official.,non-entailment,entailment,0.92515683
+1032,pri-sub,a fictional common ancestor,This is a fictional common ancestor.,This is a common ancestor.,non-entailment,entailment,0.87045974
+1033,pri-sub,a fictional common ancestor,This is a fictional common ancestor.,This is an ancestor.,non-entailment,entailment,0.8358445
+1034,pri-sub,a mock early surrender,This is a mock early surrender.,This is a surrender.,non-entailment,entailment,0.5618921
+1035,pri-sub,a past southern area,This is a past southern area.,This is a southern area.,non-entailment,entailment,0.9442674
+1036,pri-sub,a mock parliamentary debate,This is a mock parliamentary debate.,This is a parliamentary debate.,non-entailment,non-entailment,0.8641216419637203
+1037,pri-sub,a prior federal judge,She is a prior federal judge.,She is a judge.,non-entailment,entailment,0.9578721
+1038,pri-sub,some improbable common ground,This is some improbable common ground.,This is some ground.,non-entailment,entailment,0.96439147
+1039,pri-sub,his somewhat disputed eighth championship,This is his somewhat disputed eighth championship.,This is his somewhat championship.,non-entailment,entailment,0.94885397
+1040,pri-sub,an allegedly fraudulent national election,This is an allegedly fraudulent national election.,This is an allegedly national election.,non-entailment,entailment,0.8715121
+1041,pri-sub,Germany's next top star,She is Germany's next top star.,She is Germany's top star.,non-entailment,entailment,0.6739314
+1042,pri-sub,Germany's next top star,She is Germany's next top star.,She is Germany's star.,non-entailment,entailment,0.9786034
+1043,pri-sub,An unlikely top seller,This is An unlikely top seller.,This is An unlikely seller.,non-entailment,entailment,0.9839549
+1044,pri-sub,An unlikely top seller,This is An unlikely top seller.,This is a top seller.,non-entailment,entailment,0.79836214
+1045,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a federal lawyer.,non-entailment,entailment,0.5678177
+1046,pri-sub,a retired federal lawyer,He is a retired federal lawyer.,He is a lawyer.,non-entailment,entailment,0.85286087
+1047,pri-sub,counterfeit modern bills,Those are counterfeit modern bills.,Those are modern bills.,non-entailment,non-entailment,0.9704331932589412
+1048,pri-sub,counterfeit modern bills,Those are counterfeit modern bills.,Those are bills.,non-entailment,non-entailment,0.7946449257433414
+1049,pri-sub,an improbable presidential candidacy,This is an improbable presidential candidacy.,This is a presidential candidacy.,non-entailment,entailment,0.7708958
+1050,pri-sub,a counterfeit federal certificate,This is a counterfeit federal certificate.,This is a federal certificate.,non-entailment,non-entailment,0.9464279972016811
+1051,pri-sub,a counterfeit federal certificate,This is a counterfeit federal certificate.,This is a certificate.,non-entailment,non-entailment,0.5400718450546265
+1052,pri-sub,a hypothetical average consumption,This is a hypothetical average consumption.,This is an average consumption.,non-entailment,entailment,0.94734806
+1053,pri-sub,a fictional small island,This is a fictional small island.,This is an island.,non-entailment,entailment,0.7799444
+1054,pri-sub,a forged Arab diplomatic passport,This is a forged Arab diplomatic passport.,This is an Arab diplomatic passport.,non-entailment,entailment,0.5124695
+1055,pri-sub,a forged Arab diplomatic passport,This is a forged Arab diplomatic passport.,This is an Arab passport.,non-entailment,entailment,0.6714036
+1056,pri-sub,a putative central character,She is a putative central character.,She is a central character.,non-entailment,entailment,0.87110084
+1057,pri-sub,a would-be late bloomer,He is a would-be late bloomer.,He is a late bloomer.,non-entailment,entailment,0.7365004
+1058,pri-sub,a would-be late bloomer,He is a would-be late bloomer.,He is a bloomer.,non-entailment,non-entailment,0.8927087709307671
+1059,pri-sub,a hypothetical severe weather day,This is a hypothetical severe weather day.,This is a severe weather day.,non-entailment,entailment,0.87570995
+1060,pri-sub,a probable top contender,This is a probable top contender.,This is a top contender.,non-entailment,entailment,0.97305375
+1061,pri-sub,vice presidential short lists,These are vice presidential short lists.,These are presidential short lists.,non-entailment,non-entailment,0.9845873452723026
+1062,pri-sub,Germany's next top star,She is Germany's next top star.,She is Germany's top star.,non-entailment,entailment,0.6739314
+1063,pri-sub,a would-be musical rebel,This is a would-be musical rebel.,This is a musical rebel.,non-entailment,entailment,0.60495436
+1064,pri-sub,a would-be musical rebel,This is a would-be musical rebel.,This is a rebel.,non-entailment,entailment,0.87251663
+1065,pri-sub,a phony royal seal,This is a phony royal seal.,This is a royal seal.,non-entailment,non-entailment,0.6205692254006863
+1066,pri-sub,the predicted annual economic growth,This is the predicted annual economic growth.,This is the annual economic growth.,non-entailment,entailment,0.9404056
+1067,pri-sub,The would-be federal law,This is a would-be federal law.,This is a federal law.,non-entailment,non-entailment,0.8621756695210934
+1068,pri-sub,a vice ministerial-level strategic dialogue,This is a vice ministerial-level strategic dialogue.,This is a ministerial-level strategic dialogue.,non-entailment,non-entailment,0.8036662116646767
+1069,pri-sub,a vice ministerial-level strategic dialogue,This is a vice ministerial-level strategic dialogue.,This is a ministerial-level dialogue.,non-entailment,non-entailment,0.7206734791398048
+1070,pri-sub,predicted poor next rains,These are predicted poor next rains.,These are poor next rains.,non-entailment,entailment,0.98932785
+1071,pri-sub,a probable small reduction,This is a probable small reduction.,This is a small reduction.,non-entailment,entailment,0.9855801
+1072,pri-sub,phony official statistics,They are phony official statistics.,They are official statistics.,non-entailment,entailment,0.6190405
+1073,pri-sub,a presumed early rebel target,This is a presumed early rebel target.,This is an early rebel target.,non-entailment,entailment,0.9625499
+1074,pri-sub,the predicted current average expenditure,This is the predicted current average expenditure.,This is the current average expenditure.,non-entailment,entailment,0.66272324
+1075,pri-sub,the predicted current average expenditure,This is the predicted current average expenditure.,This is the average expenditure.,non-entailment,entailment,0.9182515
+1076,pri-sub,an unlikely new weapon,This is an unlikely new weapon.,This is an unlikely weapon.,non-entailment,entailment,0.9918584
+1077,pri-sub,a prior grand jury,He is a prior grand jury.,He is a grand jury.,non-entailment,entailment,0.91822493
+1078,pri-sub,a retired northern general,He is a retired northern general.,He is a northern general.,non-entailment,entailment,0.8025417
+1079,pri-sub,a retired northern general,He is a retired northern general.,He is a general.,non-entailment,entailment,0.88916314
+1080,pri-sub,a phony independent committee,This is a phony independent committee.,This is an independent committee.,non-entailment,non-entailment,0.5557659901678562
+1081,pri-sub,a onetime regular performer,He is a onetime regular performer.,He is a regular performer.,non-entailment,entailment,0.5869117
+1082,pri-sub,the supposed traditional wisdom,It is the supposed traditional wisdom.,It is the traditional wisdom.,non-entailment,entailment,0.9180077
+1083,pri-sub,the supposed traditional wisdom,It is the supposed traditional wisdom.,It is wisdom.,non-entailment,entailment,0.8752029
+1084,pri-sub,would-be musical rebels,They are would-be musical rebels.,They are musical rebels.,non-entailment,entailment,0.6487968
+1085,pri-sub,would-be musical rebels,They are would-be musical rebels.,They are rebels.,non-entailment,entailment,0.80961096
+1086,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer.,He is a Russian arms dealer.,non-entailment,entailment,0.9832255
+1087,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer.,He is an arms dealer.,non-entailment,entailment,0.9748981
+1088,int-pri,African would-be emigrants,They are African would-be emigrants.,They are African emigrants.,non-entailment,non-entailment,0.5745876878499985
+1089,int-pri,African would-be emigrants,They are African would-be emigrants.,They are emigrants.,non-entailment,entailment,0.70280963
+1090,int-pri,a Russian retired spy,She is a Russian retired spy.,She is a Russian spy.,non-entailment,entailment,0.7450703
+1091,int-pri,a Russian retired spy,She is a Russian retired spy.,She is a spy.,non-entailment,entailment,0.8876628
+1092,int-pri,a French retired diplomat,He is a French retired diplomat.,He is a French diplomat.,non-entailment,entailment,0.6883128
+1093,int-pri,a French retired diplomat,He is a French retired diplomat.,He is a diplomat.,non-entailment,entailment,0.70428485
+1094,int-pri,Russian alleged spies,They are Russian alleged spies.,They are spies.,non-entailment,entailment,0.87283665
+1095,int-pri,their original nominal value,This is their original nominal value.,This is their nominal value.,non-entailment,entailment,0.95820755
+1096,int-pri,their original nominal value,This is their original nominal value.,This is their value.,non-entailment,entailment,0.97731507
+1097,int-pri,Chinese would-be mothers,They are Chinese would-be mothers.,They are Chinese mothers.,non-entailment,non-entailment,0.8637814447283745
+1098,int-pri,Chinese would-be mothers,They are Chinese would-be mothers.,They are mothers.,non-entailment,non-entailment,0.8899739570915699
+1099,int-pri,a single false compliment,This is a single false compliment.,This is a single compliment.,non-entailment,entailment,0.658008
+1100,int-pri,an original virtual pet,This is an original virtual pet.,This is an original pet.,non-entailment,entailment,0.9871788
+1101,int-pri,a Russian retired spy,This is a Russian retired spy.,This is a Russian spy.,non-entailment,entailment,0.7424833
+1102,int-pri,Chinese would-be astronauts,They are Chinese would-be astronauts.,They are Chinese astronauts.,non-entailment,non-entailment,0.7959690503776073
+1103,int-pri,Chinese would-be astronauts,They are Chinese would-be astronauts.,They are astronauts.,non-entailment,non-entailment,0.8222880214452744
+1104,int-pri,a single false positive,This is a single false positive.,This is a single positive.,non-entailment,non-entailment,0.8140217904001474
+1105,int-pri,African would-be emigrants,They are African would-be emigrants.,They are African emigrants.,non-entailment,non-entailment,0.5745876878499985
+1106,int-pri,African would-be emigrants,They are African would-be emigrants.,They are emigrants.,non-entailment,entailment,0.70280963
+1107,int-pri,a Russian alleged arms dealer,He is a Russian alleged arms dealer.,He is a Russian arms dealer.,non-entailment,entailment,0.9832255
+1108,int-pri,a Russian possible participation,This is a Russian possible participation.,This is a participation.,non-entailment,entailment,0.9424006
+1109,int-sub,Western standard business education,This is Western standard business education.,This is standard business education.,non-entailment,entailment,0.9597622
+1110,sub-pri,a high expected dividend growth,This is a high expected dividend growth.,This is a high dividend growth.,non-entailment,entailment,0.98821753
+1111,sub-pri,its maximum potential value,This is its maximum potential value.,This is its maximum value.,non-entailment,entailment,0.9206505
+1112,sub-pri,a high false alarm rate,It has a high false alarm rate.,It has a high alarm rate.,non-entailment,entailment,0.9866241
+1113,sub-pri,a low expected return,This is a low expected return.,This is a low return.,non-entailment,entailment,0.99078256
+1114,sub-pri,the maximum initial sentence,This is the maximum initial sentence.,This is the maximum sentence.,non-entailment,entailment,0.9203863
+1115,sub-pri,the maximum initial fee,This is the maximum initial fee.,This is the maximum fee.,non-entailment,entailment,0.96336114
+1116,sub-pri,the maximum proposed CO2 levels,This is the maximum proposed CO2 level.,This is the maximum CO2 level.,non-entailment,entailment,0.91972744
+1117,sub-pri,many prior connections,He has many prior connections.,He has many connections.,non-entailment,entailment,0.9921744
+1118,sub-pri,many prior connections,He has many prior connections.,He has connections.,non-entailment,entailment,0.9909923
+1119,sub-pri,a high false negative rate,This is a high false negative rate.,This is a negative rate.,non-entailment,entailment,0.9589028
+1120,sub-pri,many seeming similarities,There are many seeming similarities.,There are similarities.,non-entailment,entailment,0.96956336
+1121,sub-pri,numerous would-be parents,There are numerous would-be parents.,There are numerous parents.,non-entailment,non-entailment,0.8057658784091473
+1122,sub-pri,numerous would-be parents,There are numerous would-be parents.,There are parents.,non-entailment,entailment,0.5887106
+1123,sub-pri,a national anti- pandemic plan,This is a national anti- pandemic plan.,This is a national pandemic plan.,non-entailment,non-entailment,0.9540134007111192
+1124,sub-pri,a national anti- pandemic plan,This is a national anti- pandemic plan.,This is a pandemic plan.,non-entailment,non-entailment,0.8203474972397089
+1125,sub-pri,the maximum initial fee,This is the maximum initial fee.,This is the maximum fee.,non-entailment,entailment,0.96336114
+1126,sub-pri,her many supposed friends,These are her many supposed friends.,These are her many friends.,non-entailment,entailment,0.9861158
+1127,sub-pri,her many supposed friends,These are her many supposed friends.,These are her friends.,non-entailment,entailment,0.9848246
+1128,sub-pri,the total national gold reserves,These are the total national gold reserves.,These are the total national reserves.,non-entailment,entailment,0.9049842
+1129,sub-pri,the total national gold reserves,These are the total national gold reserves.,These are the total gold reserves.,non-entailment,entailment,0.9761134
+1130,sub-pri,the total national gold reserves,These are the total national gold reserves.,These are the total reserves.,non-entailment,entailment,0.93517005
+1131,sub-pri,numerous failed cease-fires,These are numerous failed cease-fires.,These are numerous cease-fires.,non-entailment,entailment,0.80966955
+1132,sub-pri,a low likely return,This is a low likely return.,This is a low return.,non-entailment,entailment,0.9867937
+1133,sub-pri,our numerous onetime allies,They are our numerous onetime allies.,They are our allies.,non-entailment,entailment,0.9856529
+1134,sub-pri,a maximum theoretical speed,This is a maximum theoretical speed.,This is a maximum speed.,non-entailment,entailment,0.9804262
+1135,sub-pri,her numerous fake names,These are her numerous fake names.,These are her names.,non-entailment,non-entailment,0.6021630503237247
+1136,sub-pri,many supposed solutions,Those are many supposed solutions.,Those are many solutions.,non-entailment,entailment,0.98712164
+1137,sub-pri,many supposed solutions,Those are many supposed solutions.,Those are solutions.,non-entailment,entailment,0.9054294
+1138,sub-pri,the maximum nominal devaluation,This is the maximum nominal devaluation.,This is the maximum devaluation.,non-entailment,entailment,0.9798693
+1139,sub-pri,its maximum potential value,This is its maximum potential value.,This is its maximum value.,non-entailment,entailment,0.9206505
+1140,sub-pri,a high false alarm rate,This is a high false alarm rate.,This is a high alarm rate.,non-entailment,entailment,0.94107354
+1141,sub-pri,a low expected return,This is a low expected return.,This is a low return.,non-entailment,entailment,0.99078256
+1142,sub-pri,the maximum initial sentence,This is the maximum initial sentence.,This is the maximum sentence.,non-entailment,entailment,0.9203863
+1143,sub-pri,many seeming similarities,There are many seeming similarities.,There are many similarities.,non-entailment,entailment,0.98796
+1144,sub-pri,many seeming similarities,There are many seeming similarities.,There are similarities.,non-entailment,entailment,0.96956336
+1145,sub-pri,numerous would-be parents,They are numerous would-be parents.,They are numerous parents.,non-entailment,non-entailment,0.8081984892487526
+1146,sub-pri,numerous would-be parents,They are numerous would-be parents.,They are parents.,non-entailment,non-entailment,0.9784157844260335
+1147,sub-pri,many unlikely contributors,There are many unlikely contributors.,There are many contributors.,non-entailment,entailment,0.98657274
+1148,sub-pri,her many supposed friends,These are her many supposed friends.,These are her many friends.,non-entailment,entailment,0.9861158
+1149,sub-pri,her many supposed friends,These are her many supposed friends.,These are her friends.,non-entailment,entailment,0.9848246
+1150,sub-int,the fourth democratic parliament,This is the fourth democratic parliament.,This is the fourth parliament.,non-entailment,entailment,0.978369
+1151,sub-int,the fourth foreign winner,She is the fourth foreign winner.,She is the fourth winner.,non-entailment,entailment,0.968757
+1152,sub-int,regular married folks,They are regular married folks.,They are regular folks.,non-entailment,entailment,0.9873767
+1153,sub-int,its fourth democratic election,This is its fourth democratic election.,This is its fourth election.,non-entailment,entailment,0.989031
+1154,sub-int,its fourth consecutive gold medal,This is its fourth consecutive gold medal.,This is its fourth consecutive medal.,non-entailment,entailment,0.9892869
+1155,sub-int,the third-largest gold producer,It is the third-largest gold producer.,It is the third-largest producer.,non-entailment,entailment,0.99084187
+1156,sub-int,the third-largest gold producer,It is the third-largest gold producer.,It is the largest gold producer.,non-entailment,non-entailment,0.9945593951269984
+1157,sub-int,its fifth democratic poll,This is its fifth democratic poll.,This is its fifth poll.,non-entailment,entailment,0.98180425
+1158,sub-int,the fourth democratic parliament,This is the fourth democratic parliament.,This is the fourth parliament.,non-entailment,entailment,0.978369
+1159,sub-int,the fourth Swedish winner,This is the fourth Swedish winner.,This is the fourth winner.,non-entailment,entailment,0.9548417
+1160,sub-sub,the average current user,He is the average current user.,He is the average user.,non-entailment,entailment,0.9913862
+1161,sub-sub,a top amateur U.S. athlete,She is a top amateur U.S. athlete.,She is a top U.S. athlete.,non-entailment,entailment,0.9327424
+1162,sub-int,the second green ball,This is the second green ball.,This is the second ball.,non-entailment,entailment,0.96305925
+1163,pri-sub,an alleged antique vase,This is an alleged antique vase.,This is an antique vase.,non-entailment,entailment,0.82427955
