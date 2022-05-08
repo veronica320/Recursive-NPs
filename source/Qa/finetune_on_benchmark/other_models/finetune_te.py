@@ -1,12 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
+'''
+Finetune models other than GPT3 on the training set of existing benchmarks: MPE, ADEPT.
+'''
 
 import os
 import sys
 import argparse
 
-os.environ['PYTORCH_TRANSFORMERS_CACHE'] = '/transformers/cache/dir/'
-os.chdir('/path/to/Recursive-NPs')
+os.environ['PYTORCH_TRANSFORMERS_CACHE'] = '/shared/lyuqing/Recursive-NPs/output_model_dir'
+os.chdir("../../../..")
 
 parser = argparse.ArgumentParser(description='Process finetune config.')
 parser.add_argument("--cuda",
@@ -19,19 +20,13 @@ parser.add_argument("--mode",
 					default=None,
 					type=str,
 					required=True,
-					help="train_eval | eval | transfer | test.",
+					help="train_eval | eval | test.",
 					)
 parser.add_argument("--target",
 					default=None,
 					type=str,
 					required=True,
 					help="Target data to tune on.",
-					)
-parser.add_argument("--source",
-					default=None,
-					type=str,
-					required=False,
-					help="Source model for transfer.",
 					)
 parser.add_argument("--task",
 					default=None,
@@ -62,13 +57,10 @@ model_type = {
 	'roberta-l': 'roberta',
 	'roberta-large-mnli': 'roberta',
 	'bert': 'bert',
-	'mbert': 'bert',
-	'mbert-c': 'bert',
+	'bert-l': 'bert',
 	'xlnet': 'xlnet',
 	'xlm-roberta': 'xlm-roberta',
 	'xlm-roberta-l': 'xlm-roberta',
-	'xlm': 'xlm',
-	'deberta': ''
 }
 
 model_name = {
@@ -77,12 +69,9 @@ model_name = {
 	'roberta-large-mnli': 'roberta-large-mnli',
 	'bert': 'bert-base-uncased',
 	'bert-l': 'bert-large-uncased',
-	'mbert': 'bert-base-multilingual-uncased',
-	'mbert-c': 'bert-base-multilingual-cased',
 	'xlnet': 'xlnet-base-cased',
 	'xlm-roberta': 'xlm-roberta-base',
 	'xlm-roberta-l': 'xlm-roberta-large',
-	'xlm': 'xlm-mlm-100-1280',
 }
 
 if args.model in model_name:
@@ -93,16 +82,19 @@ else:
 os.environ['TRANS_DIR'] = 'transformers/examples/text-classification'
 os.environ['OUT_DIR'] = 'output_model_dir/{}_{}'.format(args.target, args.model)
 
+log_dir = "Qa/finetune_on_benchmark/other_models/logs/"
+if not os.path.isdir(log_dir):
+	os.makedirs(log_dir)
+
+data_dir = "data/existing_benchmarks"
+
 if args.target == 'MPE':
-	os.environ['DATA_DIR'] = 'data/MPE/tsv'
+	os.environ['DATA_DIR'] = f'{data_dir}/MPE/tsv'
 elif args.target == "ADEPT":
-	os.environ['DATA_DIR'] = 'data/ADEPT/tsv'
+	os.environ['DATA_DIR'] = f'{data_dir}/ADEPT/tsv'
 else:
 	raise ValueError("Unknown target. Can only be among {'MPE', 'ADEPT'}.")
 
-if args.mode == 'transfer':
-	os.environ['SOURCE_DIR'] = 'output_model_dir/{}_{}'.format(args.source, args.model)
-	os.environ['OUT_DIR'] = 'output_model_dir/{}_{}_{}'.format(args.target, args.source, args.model)
 
 if args.mode == 'train_eval':
 	os.system(f'python $TRANS_DIR/run_glue.py \

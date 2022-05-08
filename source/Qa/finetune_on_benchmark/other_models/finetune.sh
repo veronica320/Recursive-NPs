@@ -10,5 +10,5 @@ nohup python finetune_te.py --mode test --task MNLI --target MPE --model roberta
 nohup python finetune_te.py --mode train_eval --task WNLI --target ADEPT --model bert --cuda 0 > logs/adept_bert.log 2>&1 &
 nohup python finetune_te.py --mode train_eval --task WNLI --target ADEPT --model bert-l --cuda 1 > logs/adept_bert-l.log 2>&1 &
 nohup python finetune_te.py --mode train_eval --task WNLI --target ADEPT --model roberta --cuda 2 > logs/adept_roberta.log 2>&1 &
-nohup python finetune_te.py --mode train_eval --task WNLI --target ADEPT --model roberta-l --cuda 4 > logs/adept_roberta-l.log 2>&1 &
+nohup python finetune_te.py --mode train_eval --task WNLI --target ADEPT --model roberta-l --cuda 3 > logs/adept_roberta-l.log 2>&1 &
 
