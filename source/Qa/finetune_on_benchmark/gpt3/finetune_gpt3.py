@@ -1,11 +1,15 @@
-#!/usr/bin/env python
-# coding: utf-8
+'''
+Finetune GPT3 on the training set of existing benchmarks: MPE, ADEPT.
+End-of-prompt separator:\n\n###\n\n
+Start-of-completion separator:a whitespace
+End token:\n, ### or any other special token which doesn't appear within any completion.
+'''
 
 import os
 import sys
 import argparse
 
-os.chdir('/path/to/Recursive-NPs')
+os.chdir("../../../..")
 
 parser = argparse.ArgumentParser(description='Process finetune config.')
 parser.add_argument("--data",
@@ -28,26 +32,14 @@ parser.add_argument("--model",
 
 args = parser.parse_args()
 
-fn2id = {"data/MPE/jsonl/train.jsonl": "file-mzUJ58Cu0rQk3r7eM4Gc4X3c",
-         "data/ADEPT/jsonl/train.jsonl": "file-PicteiSiMnV1PACcjj22Yvwh",
-         }
+data_dir = "data/existing_benchmarks"
 
 assert args.model in ["ada", "babbage", "curie"]
 
-def convert_fn_to_id(fn):
-	if fn in fn2id:
-		return fn2id[fn]
-	else:
-		return fn
 
-
-if args.format != "":
-	train_dir = f"data/{args.data}/jsonl/{args.format}/train.jsonl"
-	train_dir = convert_fn_to_id(train_dir)
-	os.system(f'nohup openai api fine_tunes.create -t {train_dir} -m {args.model} --no_packing \
-	> source/Qa/finetune_on_existing_benchmarks/gpt3/{args.data}_{args.format}_{args.model}.log 2>&1 &')
-else:
-	train_dir = f"data/{args.data}/jsonl/train.jsonl"
-	train_dir = convert_fn_to_id(train_dir)
-	os.system(f'nohup openai api fine_tunes.create -t {train_dir} -m {args.model} --no_packing \
-	> source/Qa/finetune_on_existing_benchmarks/gpt3/{args.data}_{args.model}.log 2>&1 &')
+train_dir = f"data/{args.data}/jsonl/train.jsonl"
+os.system(f'nohup openai api fine_tunes.create \
+			-t {train_dir} \
+			-m {args.model} \
+			--no_packing \
+			source/Qa/finetune_on_benchmark/gpt3/logs/{args.data}_{args.model}.log 2>&1 &')
