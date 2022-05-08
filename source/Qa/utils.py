@@ -100,13 +100,21 @@ def read_dataset(frn):
 	           }
 	return dataset
 
-def add_missing_label(target_labels, label_probs):
+def filter_labels(target_labels, label_probs):
+	# add missing labels
 	for label in target_labels:
 		if label not in label_probs:
 			label_probs[label] = 0.0
-	return label_probs
 
-def query(model, prompt):
+	# only retain target labels
+	new_label_probs = {}
+	for label, prob in label_probs.items():
+		if label in target_labels:
+			new_label_probs[label] = prob
+
+	return new_label_probs
+
+def query(model, prompt, n_classes=5):
 	'''Query GPT3 model for prompt-based generation.'''
 	response = openai.Completion.create(
 		model=model,
@@ -116,7 +124,7 @@ def query(model, prompt):
 		top_p=1,
 		frequency_penalty=0,
 		presence_penalty=0,
-		logprobs=5,
+		logprobs=n_classes,
 	)
 	if response["choices"][0]["text"] == "":
 		raise ValueError(f"Null response: {response}\nPrompt: {[prompt]}")
@@ -124,5 +132,6 @@ def query(model, prompt):
 	                               response["choices"][0]["logprobs"]["top_logprobs"][0]
 
 	label_probs = {key:np.exp(value) for key, value in top_logprobs.items()}
-	label_probs = add_missing_label({" 0"," 1"," 2"}, label_probs)
+	label_probs = filter_labels(target_labels={" 0"," 1"," 2"}, label_probs=label_probs)
+	label_probs = {int(key.strip()):value for key, value in label_probs.items()}
 	return response_label, label_probs

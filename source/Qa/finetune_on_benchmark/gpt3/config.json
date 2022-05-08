@@ -1,0 +1,9 @@
+{
+  "cache_dir": "/shared/lyuqing/Recursive-NPs/output_model_dir",
+
+  "gpu_devices": "4",
+
+  "task": "['MPTE', 'EPC'][1]",
+  "gpt3_model": "['ada', 'curie'][0]",
+  "trial": true
+}

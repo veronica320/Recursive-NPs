@@ -1,0 +1,1613 @@
+first_event	second_event	gold label	pred label	confidence
+Urine is tested to check for disease.	Dark urine is tested to check for disease.	2	1	0.9987617150129161
+News is relevant.	False news is relevant.	0	0	0.7963740211310466
+Rice is stirred.	Fresh rice is stirred.	1	1	0.9999990183688526
+Plastic is made of carbon.	Colorful plastic is made of carbon.	1	1	0.9999998259903435
+Sometimes hiking causes a smile.	Sometimes abundant hiking causes a smile.	1	1	0.9999981717503956
+A sheep lives in a field.	A free-range sheep lives in a field.	1	1	0.9877111146318696
+A firefighter rushes to a burning building.	A full-time firefighter rushes to a burning building.	1	1	0.9996443117078772
+An oboe is for creating sound with a double reed.	A double oboe is for creating sound with a double reed.	1	1	0.9961755328929951
+A pavement is hard.	A porous pavement is hard.	1	1	0.9924088841391703
+A pit is found in a cherry.	An unusual pit is found in a cherry.	1	1	0.9926127251736817
+A shop sails over the ocean.	A pro shop sails over the ocean.	1	1	0.9993623861446865
+A scale is for helping you loose weight.	A senior scale is for helping you loose weight.	1	1	0.6291925806691941
+A rabbit has long ears.	A frightened rabbit has long ears.	1	1	0.9999980586548481
+You use a system to beat the dealer.	You use an omnivorous system to beat the dealer.	0	1	0.7868583047158502
+You use a calendar to obtain a pretty picture.	You use a virtual calendar to obtain a pretty picture.	1	1	0.998881340119113
+A town is for people to party in.	A past town is for people to party in.	0	0	0.6709282697727882
+The internet is made of networked computers.	The base internet is made of networked computers.	1	1	0.9999989371160584
+You use a ring to get engaged.	You use a fake ring to get engaged.	0	0	0.9926536634130391
+The alphabet contains all the letters.	The runic alphabet contains all the letters.	1	1	0.9999978313173811
+A robot sometimes needs oil.	An artificial robot sometimes needs oil.	1	1	0.8852608066871758
+Food is very pleasurable.	False food is very pleasurable.	0	0	0.9986666104984214
+An eagle spots a rabbit on the ground.	A big eagle spots a rabbit on the ground.	1	1	0.9994759064384005
+Trash may consist of bottles.	Dead trash may consist of bottles.	1	1	0.7616599525059878
+A telephone is for making prank phone calls.	A current telephone is for making prank phone calls.	1	1	0.9999127636532906
+An idea bridges difference between cultures.	A doubtful idea bridges difference between cultures.	0	1	0.9963195529380217
+The storm rains on our heads.	The magnetic storm rains on our heads.	0	0	0.7859558060707101
+A gallery is for art.	A virtual gallery is for art.	1	1	0.9678828347127392
+A council is for performing some task.	A present council is for performing some task.	1	1	0.999997488889596
+Ketchup is eaten with hot dogs.	Special ketchup is eaten with hot dogs.	1	1	0.9992188232208101
+A pavement is for avoiding falls.	An off pavement is for avoiding falls.	1	0	0.716021419979094
+A queen is for her people.	A so-called queen is for her people.	1	1	0.9964299918327202
+You use a stadium to play sport events.	You use a historic stadium to play sport events.	1	1	0.9968256699839383
+Breaking something is bad.	Controlled breaking something is bad.	0	1	0.9841045651918077
+Dish is used for scan.	Cheap dish is used for scan.	1	1	0.7473147139525076
+Bleach is alkaline.	Liquid bleach is alkaline.	1	1	0.9998418162184022
+A driver drives a car in reverse.	An unidirectional driver drives a car in reverse.	0	1	0.9874346021202304
+A rat races through a maze.	A stinking rat races through a maze.	1	1	0.9998712897174978
+A desk is for storing and working with papers.	An antique desk is for storing and working with papers.	1	1	0.9992580908474922
+A pouch is for a joey.	A main pouch is for a joey.	1	1	0.9999979103650461
+You use a cloud to hide a plane.	You use a thinned cloud to hide a plane.	0	1	0.9191863358139922
+A president signs a bill.	An erstwhile president signs a bill.	1	1	0.9999282338256779
+A trunk is for storing cleaning products.	A standard trunk is for storing cleaning products.	1	1	0.999585940915821
+A predator hunts for food.	An apparent predator hunts for food.	1	1	0.5475365435560665
+A union agrees to contract negotiations.	A native union agrees to contract negotiations.	1	1	0.999998589430235
+A text is for reflection.	A single text is for reflection.	1	1	0.999994524500456
+Grease coats a bearing.	Old grease coats a bearing.	1	0	0.9755163160664393
+Yacht is used for sail.	Historic yacht is used for sail.	1	1	0.9999703025291456
+A road branches right or left.	An extra road branches right or left.	1	1	0.9994958734737892
+An attic is for storic boxes of used clothing.	A residential attic is for storic boxes of used clothing.	1	1	0.9184363724440769
+A mall is used for gathering shops.	A modern mall is used for gathering shops.	1	1	0.9943629205367076
+You use a bazaar to shop for things.	You use an annual bazaar to shop for things.	1	1	0.9979892405046606
+A poet is for rhyming.	A visual poet is for rhyming.	0	1	0.9864651748001355
+Glue sticks wood.	Red glue sticks wood.	1	1	0.890289848452162
+A seat is for slouching into.	A metallic seat is for slouching into.	1	1	0.9937897407648776
+You use a cello to play a quartet.	You use a principal cello to play a quartet.	1	1	0.9999804000266769
+A tooth is used for a lucky charm.	A next tooth is used for a lucky charm.	0	1	0.7034903075040678
+A seed sprout.	A select seed sprout.	1	1	0.9998937615367323
+A ticket is used for enterance.	A blank ticket is used for enterance.	0	1	0.755584110355508
+An event surprises you.	A celestial event surprises you.	1	1	0.998785273994144
+A family has descendants.	A territorial family has descendants.	1	1	0.9999999682359259
+You use a bowl to hold chips.	You use a false bowl to hold chips.	0	0	0.9998692495876832
+The police questions the suspect now.	The national police questions the suspect now.	1	1	0.9999275329595891
+You use a condom to prevent pregnancy.	You use an effective condom to prevent pregnancy.	2	2	0.9999740254523961
+Bread is used for sandwiches.	Low bread is used for sandwiches.	1	0	0.99832957533384
+You use a passageway to get out of a building.	You use a fake passageway to get out of a building.	0	0	0.9583240754046675
+An attic is for boxes.	An inaccessible attic is for boxes.	0	0	0.9998435953477617
+You use a mirror to see your reflection.	You use a variable mirror to see your reflection.	1	1	0.9497685826794787
+A text is for studying.	A funny text is for studying.	0	0	0.9999724065290361
+A tourniquet is used for pressing vascules.	A homemade tourniquet is used for pressing vascules.	1	1	0.9827844775423286
+Buffing fairs a surface.	Clean buffing fairs a surface.	1	1	0.9231766033231181
+An acrylic is used for art.	A dental acrylic is used for art.	0	0	0.9999845729811392
+Oil is for frying food in.	Likely oil is for frying food in.	0	1	0.5321484843017924
+People kisses their lover.	Young people kisses their lover.	1	1	0.9987287180630486
+An instrument is used for doing something useful.	A historic instrument is used for doing something useful.	1	1	0.9996335818823596
+Squash is edible.	Bumpy squash is edible.	1	0	0.9997065759026333
+A society is for socialising.	A meteorological society is for socialising.	1	0	0.9936379459112054
+A road divides into two roads.	A simulated road divides into two roads.	1	1	0.9572159264256124
+A body is for food.	A vital body is for food.	1	1	0.9992428335209095
+A family plays a board game together.	An ex- family plays a board game together.	0	0	0.8460462662589754
+A chapel is for meditating.	A holy chapel is for meditating.	2	1	0.8665738574786591
+You use a fountain to make a wish.	You use an iconic fountain to make a wish.	1	1	0.999480238091611
+A bouncer prevents passage.	A legendary bouncer prevents passage.	1	1	0.9998219335907923
+A clip is used for holding.	A virtual clip is used for holding.	0	0	0.9991472369445226
+Gas means liquid petroleum.	Fictitious gas means liquid petroleum.	0	0	0.9995445443764461
+A chameleon reaches very far with its tongue.	A veiled chameleon reaches very far with its tongue.	1	1	0.9999999125684934
+A company markets a product.	A noteworthy company markets a product.	1	1	0.9999999890637566
+A beggar needs clothes.	A hungry beggar needs clothes.	1	1	0.8999431945138057
+You use a show to entertain your parents.	You use a dead show to entertain your parents.	0	0	0.9999870606805459
+A felony is one kind of serious crime.	A federal felony is one kind of serious crime.	2	1	0.9995599614707673
+Beer is for drinking.	Local beer is for drinking.	1	1	0.9999836972353406
+You use electricity to heat your house.	You use simple electricity to heat your house.	1	1	0.9998261487041483
+You use a menu to choose an action.	You use an open menu to choose an action.	1	1	0.9965043809008456
+Tape is backing a photo.	Hydrophilic tape is backing a photo.	1	1	0.999972609897907
+A driver turns a key.	A vindictive driver turns a key.	1	1	0.9998864526712419
+A bartender notices an empty glass.	An ostensible bartender notices an empty glass.	1	0	0.9709985506239001
+Sometimes working causes fatigue.	Sometimes hard working causes fatigue.	2	2	0.9999982795130155
+The goo is sticky.	The fly goo is sticky.	1	1	0.6210675832620848
+Currency is used to purchase food.	Total currency is used to purchase food.	1	1	0.9996085110833585
+Some matter has no electrical charge.	Some dead matter has no electrical charge.	1	0	0.9997843530661449
+A needle is used for injections.	A distal needle is used for injections.	0	1	0.9999862646940699
+A mechanic buys auto parts from the factory.	A certificated mechanic buys auto parts from the factory.	1	1	0.9998086660723995
+Sometimes climbing causes you to fall.	Sometimes extreme climbing causes you to fall.	2	2	0.9998267702329879
+An army includes an army of ants.	A former army includes an army of ants.	0	0	0.9827834029486118
+You use a menu to order food.	You use an established menu to order food.	1	1	0.9528957139653845
+A winery ages barrels of wine.	An organic winery ages barrels of wine.	1	1	0.9998601170336532
+A robber cases the joint.	An alleged robber cases the joint.	1	1	0.9999732343266702
+A jug amounts water.	A narrow jug amounts water.	0	1	0.9999970688858857
+Peppermint is opaque.	Broad peppermint is opaque.	1	1	0.9999874637539136
+A bell is smooth to the touch.	A detachable bell is smooth to the touch.	1	1	0.9999998380399745
+Milk is produced by a female cow.	False milk is produced by a female cow.	0	0	0.9999442190648797
+A handgun is for self defense.	A primary handgun is for self defense.	1	1	0.999988768682367
+A number is for identifying an apartment.	A necessary number is for identifying an apartment.	0	1	0.9999667325575645
+A preacher reports that god loves everyone.	A national preacher reports that god loves everyone.	1	1	0.9999249087783073
+A shoe is for protecting feet from injury.	A direct shoe is for protecting feet from injury.	1	1	0.9965672599036112
+You use a bookcase to display a nice clock.	You use an open bookcase to display a nice clock.	1	1	0.9993367938226794
+A wound pains a victim.	An amorphous wound pains a victim.	1	1	0.9986572390023039
+A comforter is very flexible.	A solid comforter is very flexible.	0	1	0.99336640425938
+A boot is used for walking.	A typical boot is used for walking.	1	1	0.9644685559961592
+Airports have runways.	Beautiful airports have runways.	1	1	0.9999994705778367
+An apple has seeds inside.	A yellow apple has seeds inside.	1	1	0.9999990295350499
+Salesman parts you from your money.	Retail salesman parts you from your money.	1	1	0.9998706109869212
+A mast is for holding a crows nest.	A different mast is for holding a crows nest.	1	1	0.9996058736397953
+Constipation is unhealthy.	Idiopathic constipation is unhealthy.	1	1	0.9998766320404002
+A president leads a nation.	An onetime president leads a nation.	1	1	0.9913917274837647
+Wine is used for drinkin.	Full-bodied wine is used for drinkin.	1	1	0.9999946193078542
+You use a token to get through the bridge.	You use an exclusive token to get through the bridge.	1	1	0.9999808905668208
+One puts things on a bookshelf.	Dead one puts things on a bookshelf.	0	0	0.9757112554497404
+Art is appraised.	Impossible art is appraised.	1	1	0.9910245937064311
+An ear is for gathering sound waves.	A virtual ear is for gathering sound waves.	1	1	0.670539635033424
+A graveyard is used for burying dead people.	A deserted graveyard is used for burying dead people.	1	1	0.9965108644319393
+Land is for roaming.	Unsuccessful land is for roaming.	0	0	0.9999945135570927
+You use a pike to poke something.	You use a free pike to poke something.	1	1	0.9992794880858306
+Pepper seasons a dish.	Freshly pepper seasons a dish.	1	1	0.9999996406445846
+Debate is useful in developing consensus.	Excruciating debate is useful in developing consensus.	1	1	0.9998519052766669
+You use a pistol to shoot a match.	You use a sized pistol to shoot a match.	1	1	0.9999526762272387
+A mall is for eating.	An outdoor mall is for eating.	2	1	0.9993512055585426
+Marble is carved.	Artificial marble is carved.	1	1	0.9968023993513111
+A hairbrush is for combing out loose hair.	A large hairbrush is for combing out loose hair.	1	1	0.9998047946743458
+Quartz is for clocks.	Coarse quartz is for clocks.	2	1	0.9999999886512431
+A hen mothers her chicks.	An unruly hen mothers her chicks.	0	1	0.9999932436387755
+You use a hairpin to keep hair out of the face.	You use a legendary hairpin to keep hair out of the face.	1	1	0.9923509549922944
+A detective catches a suspect.	A reverse detective catches a suspect.	0	0	0.9905060690087171
+Cardboard is for making boxes for storage.	Rigid cardboard is for making boxes for storage.	2	1	0.9998669409375192
+A hospital is used for human repairs.	A square hospital is used for human repairs.	0	1	0.9972473351161583
+You use plumbing to move water.	You use general plumbing to move water.	1	1	0.9999152196950472
+A doll is small.	A new doll is small.	1	1	0.9999891703011683
+China has successfully sent animals into space.	Chic china has successfully sent animals into space.	0	0	0.9995791775584797
+A leader chairs a panel.	A deputy leader chairs a panel.	1	1	0.9999940407548377
+A child questions a parent.	A past child questions a parent.	0	0	0.98502034236273
+A factory contains machines and people.	A normal factory contains machines and people.	1	1	0.9988649330639489
+An entryway is used for entering.	A right entryway is used for entering.	1	1	0.9996837115047071
+A pit is for fighting.	A patterned pit is for fighting.	1	1	0.9997596828715296
+Capsicum is used as an expectorant.	Fried capsicum is used as an expectorant.	1	0	0.9803647320618213
+Sarcasm brings hostility.	Gentle sarcasm brings hostility.	0	1	0.9958108590886144
+An animal is for visiting in a zoo.	A grouped animal is for visiting in a zoo.	2	1	0.9999266881191295
+You use cord to tie bundles.	You use red cord to tie bundles.	1	1	0.9998164830950375
+Wing is used for raise.	Heavy wing is used for raise.	1	1	0.9997270412271106
+A judge fines an offender.	A civil judge fines an offender.	1	1	0.9991124694904696
+A handle is used for pulling.	An attachable handle is used for pulling.	2	1	0.9999999040723313
+A painter coats a house.	A talented painter coats a house.	2	2	0.9999688819634454
+You use a toy to play with a child.	You use a stuffed toy to play with a child.	1	1	0.9984457338550558
+A story is made up of many words.	A twin story is made up of many words.	1	1	0.9995198834056064
+Electricity powers a television.	Industrial electricity powers a television.	1	1	0.9995328356237076
+An airplane reaches its destination.	A certified airplane reaches its destination.	1	1	0.9964965009557714
+You use a show to entertain people.	You use a phony show to entertain people.	0	1	0.987753602383384
+Winning is important to losers.	Good winning is important to losers.	1	0	0.6817687943194114
+Snow is for christmas.	Legitimate snow is for christmas.	2	1	0.9555571566261577
+A rule restricts behavior.	A binding rule restricts behavior.	2	1	0.9978988646507405
+The effect of sleeping is getting rest.	The effect of basic sleeping is getting rest.	1	1	0.9999692356893861
+Sometimes work causes bank accounts to increase.	Sometimes erroneous work causes bank accounts to increase.	1	0	0.552387295725799
+War brings freedom.	Stealthy war brings freedom.	1	1	0.9999291774501946
+A miner mines for coal.	A young miner mines for coal.	1	1	0.9996913143686267
+You use a passage to illustrate a literary point.	You use a single passage to illustrate a literary point.	1	1	0.9994256332613316
+A pad is for writing on.	A reusable pad is for writing on.	1	1	0.999933590896958
+A flame heats the room.	A triple flame heats the room.	1	1	0.9999014448105014
+Your date doctors your drink with a mickey.	Your confirmed date doctors your drink with a mickey.	1	1	0.9997318227217252
+A scientist experiments.	A fictitious scientist experiments.	0	0	0.9999835082310172
+Yacht is used for transport.	Residential yacht is used for transport.	1	0	0.9952257126858394
+Misery is undesirable.	Neurotic misery is undesirable.	1	1	0.99999911683697
+You use a toothpaste to clean your teeth.	You use an original toothpaste to clean your teeth.	1	1	0.9999370511990194
+A number is for indicating quantity.	A possible number is for indicating quantity.	0	0	0.9324863415085349
+You use a stapler to staple papers together.	You use an open stapler to staple papers together.	1	1	0.5940034023499
+An executive pages a co-worker.	A legal executive pages a co-worker.	1	1	0.9986903058560711
+You use a leather to make saddle bags.	You use a classy leather to make saddle bags.	1	1	0.9999984774155994
+You use a number to list things in order.	You use an imaginary number to list things in order.	0	1	0.9489890671355437
+A house is built.	An abandoned house is built.	0	1	0.7844795706869131
+A psychopath attempts murder.	A dangerous psychopath attempts murder.	2	2	0.9941320924522586
+A jacket is worn to keep warm in winter.	A straight jacket is worn to keep warm in winter.	0	1	0.9968090368099184
+A voice is for communicating.	A mobile voice is for communicating.	1	1	0.9999862833392581
+A horse goes away.	A dead horse goes away.	0	0	0.8922836270991447
+A thermometer measures temperature.	A thermal thermometer measures temperature.	1	1	0.9856279959185867
+Sometimes punching someone causes pain.	Sometimes clean punching someone causes pain.	0	1	0.9468001753176349
+A pervert offers candy to children.	An immoral pervert offers candy to children.	2	1	0.9983384634206806
+The market feels selling pressure.	The warm market feels selling pressure.	1	1	0.9999838774357452
+You use a loom to weave cloth.	You use a major loom to weave cloth.	1	1	0.9999963895696693
+You use a grasper to dumpster dive.	You use a second grasper to dumpster dive.	1	1	0.9856053757371988
+A token is used for a representation.	A blue token is used for a representation.	1	1	0.9980370903699645
+An illness causes runny noses.	An alleged illness causes runny noses.	0	1	0.9999126941753715
+A batter crowds the plate.	A proteinaceous batter crowds the plate.	0	0	0.8720215582559863
+A criminal owns a gun.	A wanted criminal owns a gun.	2	1	0.9999910916948097
+You use a channel to view something.	You use a simulated channel to view something.	0	1	0.7856522769507125
+Iron is magnetized.	Fabricated iron is magnetized.	1	1	0.9999927728610631
+Fish is cooked.	Toxicant fish is cooked.	0	0	0.8126309806170615
+Skiing is for winter travel.	Downhill skiing is for winter travel.	1	1	0.9999455823868482
+Die is bad.	Dead die is bad.	0	0	0.6364928339582511
+A criminal picks a lock.	A habitual criminal picks a lock.	1	1	0.774034027051479
+Gas is for balloons.	Exhilarating gas is for balloons.	1	1	0.565077581135717
+A bell is for summoning people.	A silly bell is for summoning people.	1	1	0.999900139480169
+Compost is useful for recycling.	Hot compost is useful for recycling.	1	1	0.9863160076238733
+A painter coats a wall.	A little painter coats a wall.	1	1	0.99969467779188
+My grandmother has an alarm clock like this.	My sweet grandmother has an alarm clock like this.	1	1	0.9996611405468334
+A kitchen is used for cooking food.	A full kitchen is used for cooking food.	1	1	0.6152302526048694
+Hope brings fortune.	Sincere hope brings fortune.	1	1	0.9999845154797007
+A hall is for playing concerts.	A main hall is for playing concerts.	1	1	0.9999001760237999
+A landmark is for marking a boundary on land.	A medieval landmark is for marking a boundary on land.	1	1	0.9955481437269796
+You use a needle to make a hole in material.	You use a dead needle to make a hole in material.	0	0	0.9999771421007374
+You use a staircase to climb.	You use a sweeping staircase to climb.	1	1	0.9995550224563975
+You use a gold to pay a debt.	You use an antique gold to pay a debt.	1	1	0.9981460342622263
+A government is used for controlling society.	An individual government is used for controlling society.	1	1	0.9922572272793568
+A balloon  is made of rubber .	A spherical balloon  is made of rubber .	2	1	0.9998882447953072
+Your pet belongs to you.	Your pro pet belongs to you.	0	0	0.7976963104940807
+A gold is for first place in an olympic event.	A synthetic gold is for first place in an olympic event.	1	0	0.6041684819116363
+Failure lowers your expectations.	Abysmal failure lowers your expectations.	2	1	0.9980018573043279
+A rod is for the back of a fool.	A former rod is for the back of a fool.	1	0	0.9418617660877393
+A hallway is flat.	A short hallway is flat.	1	1	0.9996538187069549
+A winner rises to the occasion.	A democratic winner rises to the occasion.	1	1	0.9999999848873473
+A tiger circles its prey.	A huge tiger circles its prey.	1	1	0.9908975443576469
+A platform is for trains to arrive at.	A circular platform is for trains to arrive at.	1	1	0.9986963778577934
+Shopping is for discovering new products.	Former shopping is for discovering new products.	0	0	0.9516715774509308
+You use a triangle to produce music.	You use a golden triangle to produce music.	1	1	0.9234040349933145
+A stick is used to play a game called hockey.	A double stick is used to play a game called hockey.	0	1	0.9980010156097707
+You use a calendar to remember important dates.	You use a virtual calendar to remember important dates.	1	1	0.9976655629250728
+Sometimes fencing causes problem running out.	Sometimes net fencing causes problem running out.	1	1	0.9803663087252182
+A capital is used for the beginnings of sentences.	A future capital is used for the beginnings of sentences.	0	0	0.9637909224379704
+A tiger hunts for food.	A saber-toothed tiger hunts for food.	1	1	0.9999971228689455
+A luggage is used for carrying clothes on a trip.	A virtual luggage is used for carrying clothes on a trip.	0	0	0.9998607092698129
+Denim is used for making jeans.	Dependable denim is used for making jeans.	1	1	0.9999870653111768
+A ticket is for seeing a concert.	An individual ticket is for seeing a concert.	1	1	0.999990132814962
+A rack is used to hold things.	A remote rack is used to hold things.	1	1	0.9993015999292897
+Affix causes adhere.	Cyclic affix causes adhere.	1	1	0.999375659158602
+Superhero is generally good.	New superhero is generally good.	1	1	0.9999917799552436
+Tom nails becky.	Big tom nails becky.	1	1	0.9995233847008861
+An illness subjects one to much pain.	A febrile illness subjects one to much pain.	1	1	0.9999997608296735
+Fermentation turns organic wastes into other things.	Spontaneous fermentation turns organic wastes into other things.	1	1	0.9999999347428952
+A city charges sales tax.	A clustered city charges sales tax.	1	1	0.9999999748034134
+Paper contains pulp.	Former paper contains pulp.	0	0	0.9884913450600485
+A hallway is used for walking from one room to another.	A previous hallway is used for walking from one room to another.	0	0	0.9907652592343091
+A forest contains species of many plants and animals.	A simulated forest contains species of many plants and animals.	0	1	0.9641191984213943
+A pencil is for doing math.	A sharp pencil is for doing math.	1	1	0.925615948983071
+Music is played by an orchestra.	Canned music is played by an orchestra.	0	1	0.9998951480465103
+A sailor boards a ship.	A blue sailor boards a ship.	1	0	0.9743823419978567
+A pen is for taking notes.	A counterfeit pen is for taking notes.	2	0	0.9999531551384302
+A beauty suns her body.	A historic beauty suns her body.	1	1	0.99540786239763
+A hat is used for keeping hair from showing.	A dark hat is used for keeping hair from showing.	1	1	0.999999784735589
+A teenager acts crazy.	An independent teenager acts crazy.	1	1	0.9992803225705224
+You use a muscle to move something.	You use a lateral muscle to move something.	1	1	0.8890166668677404
+A card is for saying i love you.	A self-contained card is for saying i love you.	0	1	0.9987053159417858
+A porch is for sitting on.	A wonderful porch is for sitting on.	1	1	0.9819186407487669
+Mike is looking for work.	Open mike is looking for work.	0	0	0.9441335700271696
+A movie is made up of scenes.	A mature movie is made up of scenes.	1	1	0.9999508167796883
+Something that might happen as a consequence of cooking is tough food.	Something that might happen as a consequence of slow cooking is tough food.	0	1	0.9995066611046144
+A trumpet is blaring.	A second trumpet is blaring.	1	1	0.9863995970646089
+You use an acrylic to paint.	You use a low acrylic to paint.	1	1	0.9675549705557077
+A handicap lowers potential.	An accessible handicap lowers potential.	0	1	0.9999845779527989
+Plastic melts.	Glossy plastic melts.	1	1	0.9999999915712202
+You use a drum to sit on.	You use a refrigerant drum to sit on.	0	0	0.9712891841449792
+Silk is formed into threads.	Artificial silk is formed into threads.	1	1	0.9971711658461262
+A surface is used for looking at.	A hypothetical surface is used for looking at.	0	0	0.9755571138124849
+A building falls down.	A circular building falls down.	1	1	0.9994313886407741
+A mosquito wants fresh blood.	A suspect mosquito wants fresh blood.	1	1	0.9684427439698041
+A situation turns bad.	A dishonorable situation turns bad.	1	1	0.9999946292737756
+A sword is sharp.	A big sword is sharp.	1	1	0.9999931577571561
+A piano is played.	A virtual piano is played.	1	0	0.7472689836591212
+Matter is made of elements.	Bloody matter is made of elements.	1	0	0.9997925290329402
+An herb is for flavoring food.	A resistant herb is for flavoring food.	0	1	0.999999836226995
+A stairway is used for getting into the basement.	A southern stairway is used for getting into the basement.	1	1	0.999991786605321
+Sometimes smoking causes needed reparis.	Sometimes rapid smoking causes needed reparis.	2	1	0.9844815047474151
+Your secretary pages you.	Your deputy secretary pages you.	1	1	0.9958935959067701
+You use a lantern to light a dark room.	You use a traditional lantern to light a dark room.	1	1	0.9991503906604429
+A teacher agrees with a student.	An alternative teacher agrees with a student.	1	0	0.8352920675172876
+You use a courtyard to sit and think.	You use an internal courtyard to sit and think.	1	1	0.9996761865600502
+You use a statue to symbolize something.	You use a multicolored statue to symbolize something.	1	1	0.9999991873763651
+A soundstage is used for recording.	A perfect soundstage is used for recording.	1	1	0.9988279894994802
+A story is told for enjoyment or to teach.	A supposed story is told for enjoyment or to teach.	1	1	0.977012723846689
+The government places ideas into your mind.	The future government places ideas into your mind.	1	1	0.9715199251199366
+I hope you can advance me a few dollars.	I square hope you can advance me a few dollars.	1	1	0.7952968915671887
+You use a shed to store lawncare tools.	You use a working shed to store lawncare tools.	1	1	0.9873582839584789
+A menu is for making choices.	A former menu is for making choices.	0	0	0.9842572766666471
+A name is a proper noun.	A fabricated name is a proper noun.	1	1	0.9982804691099408
+China has a 97% software piracy rate.	Commemorative china has a 97% software piracy rate.	0	0	0.9977270989809821
+Furniture costs a lot of money.	Necessary furniture costs a lot of money.	1	1	0.9999146006835209
+You use a shower to clean yourself.	You use a practical shower to clean yourself.	2	1	0.9997959852898686
+An army is for keeping peace.	A fifth army is for keeping peace.	0	1	0.9911447500564167
+A mouth kisses another mouth.	A full mouth kisses another mouth.	1	1	0.9867158996865861
+Shampoo is for to wash your pets.	Fake shampoo is for to wash your pets.	0	0	0.9955720610404476
+You use a grasper to grab stuff.	You use a hollow grasper to grab stuff.	1	1	0.9999988807754855
+A can is for carrying icecreams.	An old can is for carrying icecreams.	0	1	0.8661879627531963
+Dad starts the car.	Poor dad starts the car.	1	1	0.9995461933867404
+An accountant wants to balance.	A former accountant wants to balance.	0	0	0.911367864344866
+You use a baseball to play catch.	You use a commercial baseball to play catch.	1	1	0.9875836516107798
+An weapon hurts a victim.	A mock weapon hurts a victim.	1	0	0.983753518876029
+Ears are sensitive for soundwaves.	Open ears are sensitive for soundwaves.	2	2	0.7320797255506806
+A deer is killed.	A red deer is killed.	1	1	0.9889465913544903
+A television is similar to a monitor.	A heavy television is similar to a monitor.	1	1	0.9947495654205444
+Sunlight has the effect of heating the earth.	Intense sunlight has the effect of heating the earth.	2	2	0.9769622201451661
+Defendant is criminal.	Putative defendant is criminal.	1	1	0.9982320286077392
+A newspaper motivate.	An enhanced newspaper motivate.	0	1	0.9973967145613296
+A burglar breaks the law.	An occasional burglar breaks the law.	1	1	0.9992796095334753
+A cellphone is for communication.	A personal cellphone is for communication.	1	1	0.9999984197131273
+A band has a rehearsal to practice playing music.	An unlikely band has a rehearsal to practice playing music.	0	1	0.9999395088542947
+A family farms potatoes.	An affluent family farms potatoes.	1	1	0.999982376065104
+A bean is for growing a plant frm.	A blue bean is for growing a plant frm.	1	1	0.9946455338076895
+A steamer streams vegetables.	A coastal steamer streams vegetables.	0	1	0.9999999011851354
+Success often begins in failure.	Gratifying success often begins in failure.	1	1	0.9798410348333557
+An anesthetic may eliminate pain sensations.	A long-acting anesthetic may eliminate pain sensations.	1	1	0.9999672541178783
+A door is locked.	A final door is locked.	1	1	0.9986668335575666
+Cash is easy to count.	Disputed cash is easy to count.	1	1	0.9989897248185106
+A suitcase is for carrying documents.	A wheeled suitcase is for carrying documents.	1	1	0.9974415897933776
+A duplex is for saving space.	A historic duplex is for saving space.	1	1	0.9952092592629578
+A carpenter hammers a nail.	A handsome carpenter hammers a nail.	1	1	0.9998767118492289
+A reception is for a chance to mingle.	An expected reception is for a chance to mingle.	1	1	0.9999844108257444
+Pain causes suffer.	Big pain causes suffer.	2	1	0.9922466606469479
+A hose is for watering plants.	A modular hose is for watering plants.	1	1	0.9999880481868522
+Protein is found in yogurt.	Edible protein is found in yogurt.	1	1	0.9973143629453709
+A den is for reading.	A main den is for reading.	1	1	0.9999951962440835
+A couch is used for making sweat sweat love.	An apt couch is used for making sweat sweat love.	1	1	0.9850024856545525
+You use a success to acquire more challenging work.	You use an ostensible success to acquire more challenging work.	1	1	0.9971025987336493
+You use a feather to tickle your lover.	You use a blue feather to tickle your lover.	1	1	0.9886513964484377
+Gas is for use as a fuel.	Typical gas is for use as a fuel.	1	1	0.975574409982508
+A refrigerator is for refrigerating.	A base refrigerator is for refrigerating.	1	1	0.9999920411309805
+A bucket is found in a house.	An inventive bucket is found in a house.	0	0	0.9195257157525487
+A ghost appears out of nowhere.	A literal ghost appears out of nowhere.	1	1	0.9999548122494999
+You use an ottoman to put your feet up and relax.	You use a small ottoman to put your feet up and relax.	1	1	0.9999299819163202
+Detector is used for monitor.	Counterfeit detector is used for monitor.	0	0	0.9995813466837591
+An artist shades a picture.	A doctoral artist shades a picture.	1	1	0.9567769023373139
+A balloon is blown up.	A high balloon is blown up.	1	1	0.9995116273699434
+An echo returns from a sound.	A so-called echo returns from a sound.	1	1	0.8320727595387428
+A book is used for learning about medicine.	A good book is used for learning about medicine.	2	1	0.987849498985347
+A river divides land.	A wide river divides land.	1	1	0.9977141136248068
+A player evens the score.	A future player evens the score.	0	1	0.9411778282147725
+A door close.	A crimson door close.	1	1	0.99908102019412
+Bride plans a wedding.	Shocked bride plans a wedding.	1	0	0.827904892860113
+A razor is for shaving the hair off your body.	A simulated razor is for shaving the hair off your body.	0	0	0.999735251127116
+A pedestal is for supporting a bust of beethoven's head.	A central pedestal is for supporting a bust of beethoven's head.	1	1	0.9996129746506964
+History is written by the winners of wars.	Marked history is written by the winners of wars.	1	1	0.9940431097303801
+A dragon fly.	A safe dragon fly.	1	1	0.9984006547750276
+A condominium is for being snobby.	A residential condominium is for being snobby.	1	1	0.9989155408336405
+An ear is for processing sounds.	A former ear is for processing sounds.	0	0	0.9999181447156373
+You use a chest to store things.	You use a second chest to store things.	1	1	0.998643155986771
+You use a soap to emulsify water.	You use a cold soap to emulsify water.	1	1	0.999432611118064
+Jeans is for looking cool.	Fashionable jeans is for looking cool.	1	1	0.771974970412226
+You use a hammer to hurt people.	You use a hard hammer to hurt people.	1	1	0.9084483181167962
+Art is for education.	Shaded art is for education.	1	1	0.9999994101778421
+A spirit is for haunting.	A right spirit is for haunting.	0	1	0.9940637153699337
+You use a piece to fix.	You use a future piece to fix.	0	0	0.8336887532468871
+A speaker steps up to the podium.	A worldwide speaker steps up to the podium.	1	1	0.9999642319024479
+A rights right a wrong.	A mock rights right a wrong.	0	0	0.9963990299554953
+You use a ranch to breed cattle.	You use a private ranch to breed cattle.	1	1	0.9999631367979241
+You use a shed to store old books.	You use a historic shed to store old books.	1	1	0.996216353849035
+The effect of falling is conformity to gravity.	The effect of alleged falling is conformity to gravity.	0	1	0.9985749133770346
+A tub may be used to hold butter.	A dry tub may be used to hold butter.	1	0	0.8633784642105616
+Air is invisible.	Dead air is invisible.	1	1	0.9289138833326391
+Clothing is kept in a wardrobe.	Virtual clothing is kept in a wardrobe.	0	0	0.9744406608798692
+A chapel is for christians.	A small chapel is for christians.	1	1	0.9983131203273626
+A bed rests a person.	A buoyant bed rests a person.	1	1	0.9999365345636888
+A tree dies from pollution.	A possible tree dies from pollution.	0	0	0.9612289018176288
+A professor answers a question.	A tenured professor answers a question.	1	1	0.9998728593973168
+A statue is used for honoring a person.	A golden statue is used for honoring a person.	1	1	0.9932649902639278
+A platform is for speeches.	An international platform is for speeches.	1	1	0.9999952903008996
+A lens is for building into binoculars.	A select lens is for building into binoculars.	1	1	0.9996032470876325
+A baker stops the dough from raising.	An experienced baker stops the dough from raising.	1	1	0.8525284158597962
+A backdrop is for covering the back of something.	A supportive backdrop is for covering the back of something.	1	1	0.9999249470994348
+Revolution is fun.	Passive revolution is fun.	1	1	0.9229190700161145
+A freezer is for freezing fresh food.	An adjustable freezer is for freezing fresh food.	1	1	0.9996528528274687
+You use a manipulator to manipulate.	You use a hydraulic manipulator to manipulate.	1	1	0.9999838510320368
+Lettuce is used to make a salad.	Loose lettuce is used to make a salad.	1	1	0.9999998064596208
+Those present numbers over 15.	Those potential present numbers over 15.	1	0	0.7736127405093856
+A sailor mans a submarine.	A senior sailor mans a submarine.	2	1	0.9999705518363319
+You use a pool to hold a meet.	You use a sensational pool to hold a meet.	1	1	0.9800043521340174
+A grenade is used for explosions.	A rocket-propelled grenade is used for explosions.	2	1	0.9999928014312707
+You use a basket to shoot hoops.	You use a net basket to shoot hoops.	1	1	0.9817475792655503
+A painter paints a wall.	An old painter paints a wall.	1	1	0.9975865626338428
+Sleep is important to human health.	Subject sleep is important to human health.	1	1	0.9698938269992478
+A grocer is for buying bread.	A wholesale grocer is for buying bread.	1	1	0.9994737868744379
+Starch is used to make clothes crisp.	Agglomerated starch is used to make clothes crisp.	1	1	0.9999999940261377
+A mill is for pulverizing.	A rural mill is for pulverizing.	1	1	0.9999493553892602
+An operator pages a doctor.	An algebraic operator pages a doctor.	0	0	0.9998318793529484
+You use a horn to warn other motorists of danger.	You use a ventral horn to warn other motorists of danger.	0	1	0.9999852451989594
+A word means more than one thing.	A front word means more than one thing.	1	1	0.9829267404308769
+An operator pages a doctor.	A fictitious operator pages a doctor.	1	0	0.9999668805230829
+A christian believes in jesus christ.	A rational christian believes in jesus christ.	1	2	0.9232405072399064
+A stage is for bands.	A former stage is for bands.	0	0	0.9986872768772906
+A smoker lights a cigarette.	A heavy smoker lights a cigarette.	1	2	0.5830327075464834
+A monopoly corners a market.	A virtual monopoly corners a market.	0	1	0.968927330131916
+You use hardwood to make a floor.	You use certified hardwood to make a floor.	1	1	0.9944379365773891
+A dealer deals a hand of cards.	A general dealer deals a hand of cards.	1	1	0.9999967115351271
+An elevator lifts people.	A dental elevator lifts people.	0	0	0.9993638020978687
+Fruit becomes ripe.	Active fruit becomes ripe.	1	1	0.9983373652393093
+A master teaches an apprentice to work.	A past master teaches an apprentice to work.	1	0	0.9948998679940774
+You use a doorway to enter into a room.	You use an open doorway to enter into a room.	1	1	0.8178160020095313
+An apartment is for housing people.	A virtual apartment is for housing people.	0	0	0.9999315881805391
+You use a table to play cards.	You use an entire table to play cards.	1	1	0.9994776050966352
+You use a hammer to knock something into place.	You use a heavy hammer to knock something into place.	1	1	0.9994255599915285
+A christian repent.	A good christian repent.	2	2	0.8828390987971186
+Filters separates solids.	Combined filters separates solids.	1	1	0.9999964503296769
+An anesthetic may eliminate pain sensations.	An evaporated anesthetic may eliminate pain sensations.	0	1	0.9983022447304233
+A crank powers an engine.	An average crank powers an engine.	1	1	0.9998321583082949
+A human torture.	A little human torture.	1	1	0.9993840429193678
+A ruler governs peopple.	A dark ruler governs peopple.	1	1	0.998095424766765
+An earring is used for decorating an ear lobe.	A pendant earring is used for decorating an ear lobe.	1	1	0.9999957699509463
+A cigarette is used for smoking tobacco.	A whole cigarette is used for smoking tobacco.	1	1	0.9852346881229348
+An animal senses fear in a human.	A mythical animal senses fear in a human.	0	0	0.9996600384915039
+A rapist is sentenced to death.	An alleged rapist is sentenced to death.	0	1	0.9998525557309704
+Sunshine is harmful.	Alive sunshine is harmful.	0	1	0.9008836534030736
+A key frees a prisoner.	A retail key frees a prisoner.	0	1	0.6217280175282303
+A sculptor produces a statue.	A renowned sculptor produces a statue.	1	2	0.9999972113349651
+A college is used for getting away from parents.	A new college is used for getting away from parents.	1	1	0.9956358514184377
+A child breathes.	A rewarding child breathes.	0	1	0.9906103487789717
+A fork has prongs.	A straight fork has prongs.	1	1	0.9982126398734372
+You use a wallet to hold credit cards.	You use a fat wallet to hold credit cards.	1	1	0.9994743485712565
+The weather is muggy during the summer.	The potential weather is muggy during the summer.	1	1	0.998784247902293
+A planet is used for orbiting around the sun.	A dead planet is used for orbiting around the sun.	0	0	0.9999998115440161
+The truth works to our advantage.	The likely truth works to our advantage.	1	1	0.999983425253855
+An iron is used to hit a golf ball.	A hot iron is used to hit a golf ball.	0	1	0.9964982473352703
+An artist letters a poster.	A great artist letters a poster.	2	2	0.6134525927216218
+A contraceptive is used to reduce the chance of pregnancy.	An oral contraceptive is used to reduce the chance of pregnancy.	1	1	0.9990171493407154
+Banks have branches in neighborhoods.	Former banks have branches in neighborhoods.	1	0	0.9991668201533404
+A grenade is for destroying a bunker.	A phosphorous grenade is for destroying a bunker.	1	1	0.9999965074596149
+The casino deals cards to the players.	The virtual casino deals cards to the players.	1	1	0.9996297568355798
+A try is used for an attempt.	A probable try is used for an attempt.	1	1	0.9924294860795919
+Sunblock prevents sunburn.	Genetic sunblock prevents sunburn.	1	0	0.9902689762389819
+A leather is for tanning.	An artificial leather is for tanning.	1	1	0.6414064662350161
+Fishing is for providing yourself or someone with fish.	Yellow fishing is for providing yourself or someone with fish.	1	0	0.8945930677102352
+You use a storm to watch lightning.	You use a potential storm to watch lightning.	1	1	0.5596878942258068
+An appeal rights an injustice.	A historic appeal rights an injustice.	1	1	0.9976735877569558
+A sportsman drops a catch.	An old sportsman drops a catch.	1	1	0.9747219468035276
+A photographer may take a horse's picture.	A qualified photographer may take a horse's picture.	1	1	0.9914653042942417
+A stamp  is used for postage.	A transparent stamp  is used for postage.	1	0	0.994290296317504
+Turkey is bought at a store.	Whole turkey is bought at a store.	1	1	0.9997300239855728
+A school is for listening to teachers.	A parochial school is for listening to teachers.	1	1	0.9999974783490981
+The effect of an earthquake is a disaster.	The effect of a predicted earthquake is a disaster.	1	1	0.958341822180576
+A citizen signs a petition.	A supposed citizen signs a petition.	1	1	0.9944745606785961
+Life is full of chance.	Reproductive life is full of chance.	1	1	0.999978540788995
+A hiker wishes to reach the summit.	A sufficient hiker wishes to reach the summit.	0	1	0.999393064784082
+A baby learns to walk.	A dead baby learns to walk.	2	0	0.9999999963781421
+A skillet browns potatoes.	A small skillet browns potatoes.	1	1	0.9999992403791473
+A law results oppression.	A lax law results oppression.	0	1	0.5350279694907294
+An apple is for dessert.	A transparent apple is for dessert.	0	0	0.7258966254358614
+You use wheat to do crafts.	You use normal wheat to do crafts.	1	1	0.9999728105602734
+A lady kisses a pig.	A former lady kisses a pig.	0	0	0.6701153962967312
+Telescopes sees distant objects.	Cosmic telescopes sees distant objects.	2	2	0.9083071636870028
+Carpeting is used in place of hardwood floors.	Industrial carpeting is used in place of hardwood floors.	1	1	0.8483470161409143
+Ice cools a person down.	Dead ice cools a person down.	0	0	0.9999997921512803
+A firefighter wants to put out fires.	A full-time firefighter wants to put out fires.	1	1	0.9979496380914618
+A piece is one part of something.	A possible piece is one part of something.	1	1	0.515042058372791
+Music moves feelings.	Ethereal music moves feelings.	1	1	0.999999827954012
+A sidewalk is for drawing with chalk on.	A common sidewalk is for drawing with chalk on.	0	1	0.6556712233391272
+Farmland is for planting crops.	Good farmland is for planting crops.	2	2	0.9999914596876717
+Stock is risky.	Plain stock is risky.	1	1	0.9998230159029807
+A pond is full of water.	A calm pond is full of water.	1	1	0.9996072471681513
+A farmer markets his crops.	A base farmer markets his crops.	1	1	0.999971280503638
+Airports are full of people.	International airports are full of people.	2	1	0.9998537485230403
+A pike is sticking into soil.	A free pike is sticking into soil.	1	1	0.9998396361210206
+A bus transports many people at once.	A virtual bus transports many people at once.	2	0	0.9982576236164586
+A boundary is for keeping things in.	A disputed boundary is for keeping things in.	0	0	0.9919540897632559
+A criminal arms a bomb.	An evil criminal arms a bomb.	2	1	0.9996502325037926
+A timer is used to measure time, especially in cooking.	A busy timer is used to measure time, especially in cooking.	1	1	0.9989198535355613
+A revolver is for protection.	A double revolver is for protection.	1	1	0.9241623643271883
+A tack attaches paper to a bulletin board.	A different tack attaches paper to a bulletin board.	1	1	0.9996547657113419
+A monument is for honoring an event.	An equestrian monument is for honoring an event.	1	1	0.9999341058858654
+A technician fixes a cd player.	A virtual technician fixes a cd player.	1	1	0.8772947135230823
+Swimming is for aerobic exercise.	Excellent swimming is for aerobic exercise.	2	1	0.972359264403791
+A veterinarian fixes a pet.	A talented veterinarian fixes a pet.	2	2	0.7352464864529562
+Cleaning is for removing dirt.	Manual cleaning is for removing dirt.	1	1	0.9980079203343086
+A detective wants to catch criminals.	A reverse detective wants to catch criminals.	0	0	0.9946234485459565
+A cloth is used for wiping.	A mobile cloth is used for wiping.	1	1	0.9999730171171799
+The reception has lots of food and drink.	The cellular reception has lots of food and drink.	2	1	0.9999967124864156
+Education opens doors in the mind.	False education opens doors in the mind.	0	0	0.9999855748019032
+A bed is for closing your eyes.	A historic bed is for closing your eyes.	0	1	0.9353823662427759
+A director is showing a screening.	An eponymous director is showing a screening.	1	1	0.9999983262590575
+Bob machines tools.	Wobbly bob machines tools.	0	0	0.8972078020870246
+A student studies classics.	A worthy student studies classics.	1	1	0.9999902879875824
+A rule is enforced by an authority.	An augmented rule is enforced by an authority.	1	1	0.9999215276105259
+The web is impressive.	The implicit web is impressive.	2	1	0.9999462408608693
+People have eyes.	New people have eyes.	1	1	0.9999446101289322
+A baker adds water to flour.	An original baker adds water to flour.	1	1	0.9999552167475719
+A lid covers a pot.	A proposed lid covers a pot.	1	1	0.8374947526849345
+A chef balls a piece of dough.	A fine chef balls a piece of dough.	1	1	0.9999601580414876
+You use a hoist to li.	You use a mobile hoist to li.	1	1	0.9999685100479535
+A fortune is for exchanging for something useful.	A non fortune is for exchanging for something useful.	0	0	0.8616880387883817
+A tack is for putting up posters.	A blue tack is for putting up posters.	1	1	0.9934042418602309
+A hand holds another hand.	A green hand holds another hand.	0	1	0.9846345924559495
+A cd is for recording music.	A potential cd is for recording music.	0	0	0.8706723562725749
+A canvas is for using acrylics.	An ultra canvas is for using acrylics.	1	1	0.9320325311306265
+You use a prosthesis to replace lost limbs.	You use an orthopedic prosthesis to replace lost limbs.	1	1	0.9999623503497331
+Battery is used for charge.	Dumb battery is used for charge.	0	0	0.9998604302646388
+A soundstage is for making movies.	An ideal soundstage is for making movies.	1	1	0.9996902492900028
+An organ voices a reed stop.	A large organ voices a reed stop.	1	1	0.9999632336002383
+Fabric is for making curtains.	Virtual fabric is for making curtains.	1	0	0.9990667322851061
+A clip is for a kind of pace.	A stilted clip is for a kind of pace.	1	0	0.7723027115540796
+Gaze is used at boundaries of episodes.	Golden gaze is used at boundaries of episodes.	1	0	0.9474290199918733
+A spring bends easily.	A false spring bends easily.	0	0	0.9772487156673473
+Its player is proud.	Its so-called player is proud.	1	1	0.9993141675168927
+Police cases a building.	Uncertain police cases a building.	1	0	0.9981948954718101
+A reporter covers a story.	A seasoned reporter covers a story.	1	2	0.9785838838645016
+Dew is wet.	Foggy dew is wet.	1	1	0.9999994532433163
+A clip is for poodles.	An universal clip is for poodles.	1	1	0.997120360478208
+A guest thanks a hostess.	A potential guest thanks a hostess.	1	1	0.9731499705741273
+You use a stall to take a break from work.	You use a due stall to take a break from work.	1	1	0.9995379197185551
+A groom walks a hot horse.	A base groom walks a hot horse.	1	1	0.999709456107557
+A skylight brightens up a room.	An optional skylight brightens up a room.	0	0	0.925983681833636
+Mercury is poisonous.	Dental mercury is poisonous.	0	1	0.9434192899177082
+An arena is for performing a rock music concert.	A behavioral arena is for performing a rock music concert.	0	0	0.9944666821139572
+A sink is for washing the laundry.	An air-cooled sink is for washing the laundry.	1	1	0.9954069182512048
+Your head contains your brain.	Your mythical head contains your brain.	0	0	0.999988177605134
+A writer is used for creating books.	A major writer is used for creating books.	1	1	0.9999477363343203
+An organism needs something.	An artificial organism needs something.	0	0	0.9963493369550479
+The deacon passes the plate.	The cardinal deacon passes the plate.	1	1	0.9880070378345035
+A leaf is for converting carbon dioxide to oxygen.	A dead leaf is for converting carbon dioxide to oxygen.	0	0	0.9999896431764346
+A kennel boards animals.	A rectangular kennel boards animals.	1	1	0.9990989041162794
+An account gains earnings from investment.	A hypothetical account gains earnings from investment.	0	0	0.9488425854537426
+Blood is made of haemogloin.	Initial blood is made of haemogloin.	1	1	0.9969479274490439
+Tobacco is smoked.	Dark tobacco is smoked.	1	1	0.9999959499792944
+A song is for expressing emotion in words and music.	A dead song is for expressing emotion in words and music.	0	0	0.9999957654330552
+A gate is for leaving the garden.	A false gate is for leaving the garden.	0	0	0.5252069913371602
+A nerve is for sending signals to the brain.	A good nerve is for sending signals to the brain.	1	1	0.9996461966931892
+Crack causes crack.	Simulated crack causes crack.	0	0	0.9954329952379616
+An actress furthers her career.	A big actress furthers her career.	2	1	0.9944613163259763
+You use a stone to break open a clam.	You use a dead stone to break open a clam.	1	0	0.9816528962555041
+A hostess welcomes guests.	A little hostess welcomes guests.	1	1	0.9999967649664167
+The earth is comprised of 75% water.	The early earth is comprised of 75% water.	0	1	0.9876070691215985
+A highway is for riding a bus.	An express highway is for riding a bus.	1	1	0.9994623893464746
+Canvas is used by artist.	Virtual canvas is used by artist.	1	1	0.9785043029030787
+The sun dries almost everything.	The potential sun dries almost everything.	0	1	0.9999593526464959
+An island is for isolation.	A worth island is for isolation.	0	1	0.9566941320270491
+Cycling is healthy.	Everyday cycling is healthy.	2	2	0.9999939388488802
+A guitar is for playing chords.	A simulated guitar is for playing chords.	0	1	0.999426170832541
+Weather looks beautiful.	Present weather looks beautiful.	1	1	0.9993813419325204
+Plumbing is for fitting taps to.	Open plumbing is for fitting taps to.	1	0	0.9983627881035855
+You use a bus to get around town.	You use a mythical bus to get around town.	0	0	0.999747280778658
+Sleeping is for maintaining sanity.	Former sleeping is for maintaining sanity.	0	0	0.9939107555263726
+A fisherman bones a salmon.	A second fisherman bones a salmon.	1	1	0.9981665286438223
+A call is for a derivative financial instrument.	A disputed call is for a derivative financial instrument.	1	0	0.9654744997312446
+A rule is used for keeping order.	A proposed rule is used for keeping order.	1	1	0.9858208673396711
+A court is used for holding court.	A held court is used for holding court.	0	1	0.9516604357485486
+A bucket is used for carrying things.	A hydraulic bucket is used for carrying things.	1	1	0.9984814423060677
+A hand is for holding things.	A shaken hand is for holding things.	0	1	0.9300552775116233
+Water fills a reservoir.	Questionable water fills a reservoir.	0	0	0.9999384402269096
+A game is used for amusing oneself.	A potential game is used for amusing oneself.	0	1	0.9392177814465247
+Carbon likes nearly every other element.	Conductive carbon likes nearly every other element.	1	1	0.9999999204069476
+Science explains many things.	Theoretical science explains many things.	1	1	0.9999907524927193
+Wedding is for getting married.	Big wedding is for getting married.	1	1	0.9884575329041166
+A bike has 2 tires.	An odd bike has 2 tires.	1	1	0.999992729999873
+You use a sprinkler to water a garden.	You use a percussive sprinkler to water a garden.	1	1	0.995282409582874
+A wardrobe is used for dressing properly.	A virtual wardrobe is used for dressing properly.	0	0	0.9998418832919818
+A dam stills a river.	A new dam stills a river.	1	1	0.9995735191103365
+Grind means to rub against.	Like grind means to rub against.	0	0	0.9839444552299296
+An industry is for making a type of product.	A proprietary industry is for making a type of product.	1	1	0.9999455755849619
+A skater skateboards.	An average skater skateboards.	1	1	0.9994651540116899
+Dancing is for moving with music.	Casual dancing is for moving with music.	1	1	0.9995802484474833
+A tapestry is for reducing drafts in castles.	A majestic tapestry is for reducing drafts in castles.	1	2	0.7794880068695352
+A stock increases in value.	A counterfeit stock increases in value.	0	0	0.9998079148336156
+A mat is used for exercise.	A photographic mat is used for exercise.	1	0	0.9976123605798041
+Fungi like to grow in decaying matter.	Airborne fungi like to grow in decaying matter.	1	0	0.9314345268913877
+A master requires obedience.	A former master requires obedience.	0	0	0.9313068919041035
+You use a road to find your way.	You use a probable road to find your way.	1	1	0.987650017282736
+A chimpanzee holds her baby.	A hypothetical chimpanzee holds her baby.	0	0	0.9953445500568485
+Clay is wet dirt.	Activated clay is wet dirt.	0	1	0.9984077137058718
+Animation draws attention.	Simple animation draws attention.	1	1	0.9999990806611447
+Bill meets bob.	Counterfeit bill meets bob.	0	0	0.993987038573628
+A pencil is for note-taking.	An indelible pencil is for note-taking.	1	1	0.9371508999647143
+The effect of waiting is boredom.	The effect of aboriginal waiting is boredom.	1	1	0.9959909115350106
+A toilet is found in a hospice.	A separate toilet is found in a hospice.	1	1	0.9990491231250013
+A continent containbs several countries.	A seventh continent containbs several countries.	1	1	0.9559206479839487
+Anyone steal, lie, and cheat.	Sick anyone steal, lie, and cheat.	1	1	0.8341713695192946
+Hair has a protective function.	Wavy hair has a protective function.	1	1	0.9999946566073058
+You use wool to make yarn.	You use undyed wool to make yarn.	1	1	0.9976572861275201
+Hardware is good for making things.	Diagnostic hardware is good for making things.	1	1	0.9948632208858057
+Sometimes moisture causes damage.	Sometimes high moisture causes damage.	2	1	0.9977182522004997
+A painter views a portrait.	A sweet painter views a portrait.	1	1	0.9999999441876899
+A fool is more clever than a wise man.	A round fool is more clever than a wise man.	1	1	0.9999797857170027
+Water is boiled.	Sanitary water is boiled.	2	1	0.9890077459941927
+A painter does a painting.	A subject painter does a painting.	1	1	0.9992718862726722
+The pyromaniac burns the house for his pleasure.	The psychotic pyromaniac burns the house for his pleasure.	2	1	0.999499974072157
+A candle is for creating mood.	A standard candle is for creating mood.	1	1	0.9997638096109629
+A backpack is useful for camping.	A transportable backpack is useful for camping.	2	1	0.9999842490048478
+A fisherman rows a dory.	A wise fisherman rows a dory.	2	1	0.9996946104678845
+Food is spicy hot.	Novel food is spicy hot.	1	1	0.9999200194905644
+A letter is for expressing your feelings.	An autographed letter is for expressing your feelings.	1	0	0.9649206611555002
+Some counseling is false.	Some hypothetical counseling is false.	1	1	0.9265525567537801
+Romance is generally complicated.	Possible romance is generally complicated.	1	1	0.996438030415278
+Sewing is for making clothes from cloth.	Particular sewing is for making clothes from cloth.	1	1	0.999999758854374
+One chooses to be happy or unhappy.	Appropriate one chooses to be happy or unhappy.	0	1	0.6940390926544566
+A ledger is for keeping track of expenditures.	A nominal ledger is for keeping track of expenditures.	1	1	0.999999076667154
+A bishop is for religion.	A 14th bishop is for religion.	1	1	0.9991007660340162
+You use a string to tie things together.	You use a virtual string to tie things together.	0	0	0.9934540000696245
+A microwave heats food.	An artificial microwave heats food.	0	0	0.9592765150679112
+A carpenter trues planks.	A handsome carpenter trues planks.	1	1	0.9998580536969103
+A forest is used for cutting down and making paper.	A former forest is used for cutting down and making paper.	0	0	0.8861593063995509
+Typing is for writing a computer program.	Latent typing is for writing a computer program.	0	0	0.9593039319326923
+A monocle is used for correcting the vision in one eye.	A similar monocle is used for correcting the vision in one eye.	1	1	0.9999979296041596
+A flute is for making music.	A pretty flute is for making music.	1	1	0.9999756112077157
+A ship nears shore.	A swift ship nears shore.	1	1	0.9999743057995825
+The government conditions that thought.	The expected government conditions that thought.	1	1	0.9871676239723788
+A family is compound of several members.	A pronged family is compound of several members.	1	1	0.9999999958464196
+An employee stocks store shelves.	A potential employee stocks store shelves.	0	1	0.9654045505734086
+A flower is symmetrical.	An artificial flower is symmetrical.	2	1	0.990243339652676
+A password is used to access a host computer.	A right password is used to access a host computer.	2	0	0.9651449043672163
+A comforter is used for babies.	A second comforter is used for babies.	1	1	0.9990552260862743
+An immigrant longs for his homeland.	A legal immigrant longs for his homeland.	1	1	0.9993307197253641
+A pitcher holds iced tea.	A reliable pitcher holds iced tea.	1	1	0.998829930183782
+Meat is for sale.	Artificial meat is for sale.	1	1	0.9987486757183481
+A lover touches tenderly.	A married lover touches tenderly.	1	1	0.9989269237984043
+You use a banjo to perform music.	You use a mute banjo to perform music.	0	1	0.9990263744183122
+You use a bomb to start a war.	You use a false bomb to start a war.	2	0	0.9193046679495723
+A gift is used for transferring ownership without a payment required.	An appropriate gift is used for transferring ownership without a payment required.	2	1	0.9951409298908155
+A community schools their children.	A pacifistic community schools their children.	1	1	0.9999164539664945
+Cancer is very dangerous.	Transitional cancer is very dangerous.	1	1	0.9999212242060944
+You use a weapon to accidentally shoot the ones you love.	You use an additional weapon to accidentally shoot the ones you love.	2	1	0.873115980320549
+A petitioner returns with petition granted.	A competent petitioner returns with petition granted.	2	1	0.985057208928594
+Football is for exercising.	Fancy football is for exercising.	0	1	0.9997545027087656
+A company bottles water.	A fake company bottles water.	0	0	0.9817991904390009
+A computer starts computing.	A foreign computer starts computing.	1	1	0.9990088411474854
+A salon is for having your hair cut.	A rear salon is for having your hair cut.	1	1	0.9999631391226731
+Farmland is for putting horses to exercise.	Fertile farmland is for putting horses to exercise.	1	1	0.9999551105454291
+Tables are found in an eatery.	Virtual tables are found in an eatery.	0	0	0.9727953636508039
+Cotton is for threading.	Simple cotton is for threading.	1	1	0.9999998807416622
+A landmark is used for recognizing where you are.	A cultural landmark is used for recognizing where you are.	1	1	0.9975939663148793
+Chef butters bread.	Able chef butters bread.	1	1	0.999442807372476
+You use a landing to stop your fall downstairs.	You use a next landing to stop your fall downstairs.	1	1	0.9987073649336159
+A shelf is for storage.	A wooden shelf is for storage.	1	1	0.9990142649116492
+A person wins a race.	A fictitious person wins a race.	0	0	0.9999086332199264
+A hallway is used to move between rooms.	A narrow hallway is used to move between rooms.	1	1	0.9999189980189751
+An electrician fixes a dead connection.	A jobless electrician fixes a dead connection.	1	1	0.9990448258092938
+You use the internet to communicate.	You use the faulty internet to communicate.	0	0	0.9999037325091086
+A cup is for measuring.	A respectable cup is for measuring.	1	1	0.9998906851063963
+God loves.	Fictitious god loves.	1	0	0.9958499960209476
+Cream is used for the benefit of skin.	Powerful cream is used for the benefit of skin.	1	1	0.9829023202193873
+A file is used for orginazation of paperwork.	A red file is used for orginazation of paperwork.	1	1	0.9991742809454367
+Skiing is done in lesotho in winter.	Fantastic skiing is done in lesotho in winter.	1	1	0.9871572734697228
+A tap is for signalling.	An optical tap is for signalling.	1	1	0.996684409667746
+You use a world to crush a man.	You use a future world to crush a man.	0	1	0.6052630350795997
+A bookcase is for keeping your favorite books.	A new bookcase is for keeping your favorite books.	1	1	0.9993405083339046
+An automobile is for travelling.	A hybrid automobile is for travelling.	1	1	0.9992370771597512
+Painting is for growth.	Future painting is for growth.	0	1	0.9955520047761088
+A pistol is dangerous.	A new pistol is dangerous.	1	1	0.9997782909889282
+You use a government to control people.	You use a communal government to control people.	1	1	0.9999651531924899
+Friendship is offered and must be honored.	False friendship is offered and must be honored.	0	0	0.7512551100754368
+A hunter circles its prey.	A real hunter circles its prey.	2	1	0.938129227122243
+An eatery is used for buying food.	An informal eatery is used for buying food.	1	1	0.9999978704266171
+An artist perfects her work of art.	An onetime artist perfects her work of art.	0	1	0.9906965172886487
+Wheat is baked into bread.	False wheat is baked into bread.	0	0	0.9995955992037224
+Information is used for acquiring knowledge.	Extra information is used for acquiring knowledge.	2	1	0.9852238523777209
+Nature is destructive.	Convincing nature is destructive.	1	1	0.9990076118071006
+A stick pokes your eye out.	A light stick pokes your eye out.	1	1	0.6081045775337688
+You use a sea to swim in.	You use a panoramic sea to swim in.	1	1	0.9873466376171827
+A siren sounds loud.	An electronic siren sounds loud.	1	1	0.9857892770646449
+Love destroys you.	Express love destroys you.	1	1	0.9991517916553538
+A crowbar forces a door open.	An enchanted crowbar forces a door open.	0	0	0.9901746365348014
+A ledger is used to keep a records of accounts.	A secondary ledger is used to keep a records of accounts.	1	1	0.9984666021863466
+Chain is used for chain.	Virtual chain is used for chain.	0	0	0.9998954989419844
+An apartment is for renting.	A low apartment is for renting.	1	1	0.9990469538671662
+A kitty tears something with its claws.	A special kitty tears something with its claws.	1	1	0.9999998272352151
+A teacher explains the world.	A groomed teacher explains the world.	1	1	0.9999918799715307
+A cup is for serving liquids.	A coral cup is for serving liquids.	1	1	0.95242763876853
+Infidelity means shooting.	Financial infidelity means shooting.	1	1	0.9736857690058707
+A grill is used for barbecuing foods.	A hybrid grill is used for barbecuing foods.	1	1	0.971062909654969
+A mind forms images.	A so-called mind forms images.	1	0	0.9265877203658506
+Corn is transported to the market.	Shelled corn is transported to the market.	1	1	0.9999999986077779
+You use a towel to dry your self.	You use a dispensable towel to dry your self.	1	1	0.999883637517442
+A watch is for telling the date.	An awesome watch is for telling the date.	1	1	0.9999906709453533
+A dentist bridges the two teeth.	A great dentist bridges the two teeth.	1	2	0.7427461888658199
+A jar contains things like pickles or jam.	An oversized jar contains things like pickles or jam.	1	1	0.9999999085666752
+Buying something is for getting things you need.	Domestic buying something is for getting things you need.	1	1	0.9999359616204391
+An atom is made of nucleous and electrons.	An artificial atom is made of nucleous and electrons.	0	0	0.9885434048954008
+Skin is for allowing perspiration.	Extra skin is for allowing perspiration.	0	1	0.9865435023108567
+A tailor irons clothing.	A former tailor irons clothing.	0	0	0.7888905650989463
+A party is for celebrating your friends birthday.	A presumed party is for celebrating your friends birthday.	0	1	0.9852870187442629
+A horn is used for music.	A sonic horn is used for music.	1	1	0.9997147197445733
+A net is used for describing a price.	A small net is used for describing a price.	0	1	0.5381702747402336
+Hydrogen is made of subatomic particles.	Separate hydrogen is made of subatomic particles.	1	1	0.8958500448289538
+Sometimes grooming causes mistakes.	Sometimes low grooming causes mistakes.	2	0	0.9167459602243884
+A fox tails a rabbit in the woods.	An all-around fox tails a rabbit in the woods.	1	2	0.9346067179243877
+A warrior has honor.	A heroic warrior has honor.	2	2	0.9994240073199905
+You use a finger to twist a bottle cap.	You use a hooked finger to twist a bottle cap.	1	1	0.9770811054160535
+Space separates two objects.	Virtual space separates two objects.	1	1	0.8707248073338781
+A mechanic oils a squeeky axle.	A second mechanic oils a squeeky axle.	1	1	0.9997797507205917
+A director chairs a meeting.	A false director chairs a meeting.	0	0	0.9997245788948177
+An umbrella may break in high wind.	A single umbrella may break in high wind.	1	1	0.9999764369940048
+Meat is for baiting traps.	Mock meat is for baiting traps.	1	0	0.985007705242999
+Carpeting is for walking on.	Pink carpeting is for walking on.	1	1	0.9950793334245713
+A stage is for a drama.	An aerated stage is for a drama.	1	1	0.9999290492796555
+A party rings in the new year.	A high party rings in the new year.	1	1	0.9993915870839373
+A creek has runnign water in it.	A proverbial creek has runnign water in it.	0	1	0.9999376122603199
+You use a platform to dive from.	You use a virtual platform to dive from.	0	0	0.9088756118633973
+A book is used for learning about biology.	An energetic book is used for learning about biology.	1	0	0.833911259987526
+A weapon terrorizes.	A mock weapon terrorizes.	0	0	0.9875735382055811
+A queen is for a country.	An extra queen is for a country.	1	1	0.9201910363092477
+A minibar is used for a limited stock of alcoholic beverages.	An electric minibar is used for a limited stock of alcoholic beverages.	1	1	0.9999127407853523
+Attention is drawn to something moving.	Potential attention is drawn to something moving.	1	1	0.9065763213697673
+A government forces citizens to comply.	An unified government forces citizens to comply.	1	1	0.9999999792881384
+A salon is for getting your hair colored.	An original salon is for getting your hair colored.	1	1	0.9999057092225683
+Paper flies in the wind.	Serial paper flies in the wind.	1	1	0.7491219859876617
+Clock is used for clock time.	Virtual clock is used for clock time.	1	1	0.9922303291890487
+A vat separates milk and cream.	A payable vat separates milk and cream.	1	1	0.9969644665258081
+The effect of cleaning is a change in surfaces.	The effect of happy cleaning is a change in surfaces.	1	1	0.984581809666238
+A virus makes a computer malfunction.	An equine virus makes a computer malfunction.	0	0	0.9971431894957572
+A duvet is used for sleeping.	A comfy duvet is used for sleeping.	2	1	0.9999522598878116
+A factory is used for producing things.	A virtual factory is used for producing things.	0	0	0.9989859499386383
+A family branches out in many directions.	A fictional family branches out in many directions.	1	0	0.5426146380562918
+A photograph is used for preserving a memory.	A historic photograph is used for preserving a memory.	1	1	0.9944617370691418
+An affair destroys a relationship.	An alleged affair destroys a relationship.	1	1	0.9905398330289042
+Singing is for cheering yourself up.	Evocative singing is for cheering yourself up.	2	1	0.6435073868782775
+An investigator is gathering facts.	A great investigator is gathering facts.	1	1	0.9174860172462959
+A house has a washing machine.	A historic house has a washing machine.	0	1	0.997718755248802
+A fence is used for enclosing a space.	A single fence is used for enclosing a space.	0	1	0.9999999786779159
+A diamond is rare and difficult to find.	A fashioned diamond is rare and difficult to find.	1	1	0.9995722916863492
+Humanity wants to live.	Modern humanity wants to live.	1	1	0.9997260402705616
+A clover is green.	A yellow clover is green.	0	1	0.9582391994102283
+You use a cake to celebrate.	You use an external cake to celebrate.	0	1	0.977122555620996
+A sensor measures physical phenomenon.	A wearable sensor measures physical phenomenon.	1	1	0.9999982281091038
+Wool is used for making woollen clothing.	Possible wool is used for making woollen clothing.	1	0	0.6228295891363433
+You use a machine to dispense snacks.	You use a virtual machine to dispense snacks.	0	0	0.839011331258396
+Glass withstands modest forces.	Former glass withstands modest forces.	0	0	0.9907930925073443
+A town is for containing townspeople.	A normal town is for containing townspeople.	1	1	0.9994538441516074
+Anxiety is common in a dentist's office.	Mild anxiety is common in a dentist's office.	1	1	0.9989985251533112
+Something that might happen as a consequence of climbing is sweating.	Something that might happen as a consequence of traditional climbing is sweating.	1	1	0.9999416280791752
+You use a stairwell to control fires.	You use a former stairwell to control fires.	0	0	0.9998565817862315
+A cooks cook food.	A great cooks cook food.	1	1	0.8948961274903172
+Paint coats a car.	Transparent paint coats a car.	1	1	0.9999652056329157
+A guide shows a tourist group a cathedral.	An alleged guide shows a tourist group a cathedral.	1	0	0.7538955732481022
+You use a barbecue to invite people over.	You use a political barbecue to invite people over.	1	0	0.9896319586154004
+An editor spots a misspelling.	A supposed editor spots a misspelling.	1	1	0.996949487740033
+You use a metal to build a rocket.	You use a radioactive metal to build a rocket.	1	0	0.9996517540009645
+A harmonica is annoying.	A stunning harmonica is annoying.	0	1	0.997355302208331
+Land is used for planting trees.	Sporty land is used for planting trees.	0	1	0.9999904066023415
+An archeologist dates an artifact.	A fictional archeologist dates an artifact.	0	0	0.9999652442656749
+A passenger is pushing the elevator buttons.	An unnamed passenger is pushing the elevator buttons.	1	1	0.9493608960596
+A nose is used for breathing.	A round nose is used for breathing.	1	1	0.9999999090713448
+A handle helps you hold a telescope.	A dead handle helps you hold a telescope.	0	0	0.999999884986734
+A mirror is found in a car.	A consistent mirror is found in a car.	1	1	0.9998274409152434
+You use a notebook to make lists.	You use a small notebook to make lists.	1	1	0.9999881708168818
+A stall is for holding cattle.	An idle stall is for holding cattle.	2	1	0.995921334483729
+Fish analyses the social status of others.	Proportionate fish analyses the social status of others.	0	1	0.999997227661673
+A robot is for making life easier.	An automated robot is for making life easier.	1	1	0.9731761910203159
+Hiking is for seeing the world.	Difficult hiking is for seeing the world.	1	1	0.9998714803771047
+A person wants to relax sometimes.	A meek person wants to relax sometimes.	1	1	0.9999878401253038
+Lubrication is made of water.	Active lubrication is made of water.	1	1	0.9988320880740602
+A contest involves a type of play.	A 70th contest involves a type of play.	0	1	0.9903217061094709
+A pastor serves his congregation.	An executive pastor serves his congregation.	1	1	0.9999824167216319
+Weather is unpredictable.	Potential weather is unpredictable.	1	1	0.9934259099815423
+A column is cylindrical.	A metallic column is cylindrical.	1	1	0.9999897831565719
+A valley is low.	A through valley is low.	1	1	0.9965305276455932
+You use a statue to honor a veteran.	You use a tall statue to honor a veteran.	1	1	0.9986264587646115
+The lord guides you.	The 11th lord guides you.	1	1	0.9614413429216796
+You use a flute to play songs by ted nugent.	You use a historic flute to play songs by ted nugent.	1	0	0.8988021958127121
+Plutonium has a melting point of 639.5 deg.	Civil plutonium has a melting point of 639.5 deg.	0	0	0.600959650161919
+Dovetail causes fit.	Axial dovetail causes fit.	0	1	0.9999995209385705
+An audience laughs at a comedian's jokes.	A scientific audience laughs at a comedian's jokes.	1	0	0.9958966457602128
+An entryway is used for passage inward.	A tight entryway is used for passage inward.	1	1	0.9963278570079487
+A menu is for describing the wine selection.	A perfect menu is for describing the wine selection.	1	1	0.9922372214340461
+A virus mutates.	A mock virus mutates.	1	0	0.9334559338977663
+A fact destroys beliefs.	A virtual fact destroys beliefs.	1	1	0.9815120516320182
+The effect of dreaming is clearing the mind.	The effect of vivid dreaming is clearing the mind.	1	1	0.9999703214207109
+A salmon needs to spawn.	A dead salmon needs to spawn.	0	0	0.9999991355206928
+A joke breaks the silence.	A lame joke breaks the silence.	1	1	0.9554124762223707
+A diva wants to sing.	A like diva wants to sing.	0	1	0.8282083386949236
+A director makes a movie.	A federal director makes a movie.	0	1	0.8961447839816536
+Wool is used for pulling over the eyes.	Ultimate wool is used for pulling over the eyes.	1	0	0.967562877774688
+Currency is used to purchase things.	Counterfeit currency is used to purchase things.	0	0	0.913971135581184
+A bone breaks a tooth.	A sacral bone breaks a tooth.	1	1	0.9908262413920519
+Archaeology improves knowledge about past human societies.	Mythical archaeology improves knowledge about past human societies.	0	1	0.9999988829578528
+Diplomacy bridges differences.	Economic diplomacy bridges differences.	1	1	0.9999791814375579
+You use a ferry to travel between islands.	You use a slow ferry to travel between islands.	1	1	0.9867685814567487
+You use a horse to ride.	You use a saddled horse to ride.	2	1	0.9996589675361144
+A child grows up.	An immunocompromised child grows up.	1	1	0.8458687269973895
+A hamster spins on a wheel.	A little hamster spins on a wheel.	1	1	0.9998213440792676
+File is used for organize.	Virtual file is used for organize.	1	1	0.997024052892152
+You use a classroom to join a class.	You use a virtual classroom to join a class.	1	1	0.9768793622754007
+A baker rolls out dough.	An original baker rolls out dough.	1	1	0.9999890805099115
+A disease is used for filling hospitals.	A putative disease is used for filling hospitals.	1	1	0.9999985421750556
+A kitchen is for cooking lunch.	A fantastic kitchen is for cooking lunch.	1	1	0.9997139741138407
+A doll is used for studying anatomy.	A fine doll is used for studying anatomy.	1	1	0.9999986716045051
+A building is built with bricks.	A potential building is built with bricks.	1	1	0.9838953659914789
+Crime often takes place in the street.	Alleged crime often takes place in the street.	1	1	0.9997668778078765
+Police hurries drivers.	Alleged police hurries drivers.	0	1	0.9993563592814347
+A sale is used for disposing of excess merchandise.	A referenced sale is used for disposing of excess merchandise.	0	1	0.9999988700295088
+You use a machine to combine.	You use an anesthetic machine to combine.	1	0	0.9989235699629819
+A bartender shakes a martini.	A gullible bartender shakes a martini.	1	1	0.9999999961389361
+A flask is used for hold wine.	A second flask is used for hold wine.	1	1	0.9997483383138915
+A call is for showing poker hands.	A fake call is for showing poker hands.	1	0	0.9732400873180154
+A trombone is for wagnerian brass sections.	A rusty trombone is for wagnerian brass sections.	1	1	0.9955020974213985
+A sprinkler waters the lawn.	A residential sprinkler waters the lawn.	1	1	0.9999994250806858
+A ranch is for vacation.	A small ranch is for vacation.	1	1	0.9998988836611561
+Garlic is used as a spice in food.	Crushed garlic is used as a spice in food.	1	1	0.9999997515891379
+A platform is used for supporting things above the ground.	A striking platform is used for supporting things above the ground.	1	1	0.9994377907452832
+A recipient thanks a gift giver.	A possible recipient thanks a gift giver.	0	0	0.9788054167685273
+An acre contains 43, 560 square feet.	A cultivated acre contains 43, 560 square feet.	1	1	0.9999959228787999
+A pirate sails a pirateship.	An old pirate sails a pirateship.	1	1	0.9996430635755679
+A piece is used for a puzzle.	A sylvan piece is used for a puzzle.	1	1	0.9777364582343945
+A list is for ordering things.	A future list is for ordering things.	0	1	0.7519787829641694
+A gardener waters the roses.	An experienced gardener waters the roses.	1	2	0.5111418589244316
+A council is for performing some task.	An erstwhile council is for performing some task.	1	1	0.9999945611129767
+You use a necktie to strangle a man.	You use an abandoned necktie to strangle a man.	1	1	0.975172554822052
+You use a rod to punish your children.	You use a noted rod to punish your children.	1	1	0.9988472570589868
+You use a fork to eat your vegetables.	You use an exclusive fork to eat your vegetables.	0	1	0.9976943091564731
+An actor cakes on make-up.	A social actor cakes on make-up.	1	1	0.9786014585675572
+A balloon is for popping.	A coated balloon is for popping.	0	1	0.9999893673914512
+Action causes change.	Alternate action causes change.	1	1	0.9945485283341634
+John is going out.	Big John is going out.	1	1	0.998066166079988
+A horse is for horse racing.	A pathetic horse is for horse racing.	0	1	0.525569397771175
+The lawyer clears him of all charges.	The former lawyer clears him of all charges.	0	1	0.9203612842655837
+English are funny.	Good english are funny.	1	1	0.9996405663109805
+Intoxication clouds your thoughts.	Legal intoxication clouds your thoughts.	0	1	0.9998332194972864
+A tree provides shelter.	A select tree provides shelter.	1	1	0.9999935680345553
+A climber nears the top.	A former climber nears the top.	1	1	0.5680923336324487
+A canoe is for fishing.	A wooden canoe is for fishing.	1	1	0.5921861911191971
+A metal is for building many things.	A false metal is for building many things.	0	0	0.9999746269436003
+A fan cools a hot room.	A sonic fan cools a hot room.	0	1	0.9995949255000118
+You use a boulevard to take a walk.	You use a former boulevard to take a walk.	1	1	0.910497312218486
+A patio is used for sitting outside.	A friendly patio is used for sitting outside.	1	2	0.7398249288314451
+You use a cake to eat.	You use a fancy cake to eat.	1	1	0.9997916353254915
+A protagonist wrongs a right.	A young protagonist wrongs a right.	1	1	0.9999662269342866
+A jury sometimes decides whether someone lives or dies.	A struck jury sometimes decides whether someone lives or dies.	0	1	0.836290494035632
+Tobacco is smoked.	Simulated tobacco is smoked.	0	0	0.9833167084872376
+Carpeting is for floors.	Dead carpeting is for floors.	0	0	0.993548823519078
+A gun is used to shoot things.	A mock gun is used to shoot things.	0	0	0.9985467472873336
+A tooth is used for keeping dentists in business.	A formative tooth is used for keeping dentists in business.	1	1	0.9996819953079104
+A net is used for describing a weight.	A virtual net is used for describing a weight.	0	0	0.9970171471365197
+Dancing is for celebration.	Southern dancing is for celebration.	1	1	0.999928382449636
+The effect of dancing is exhilerating.	The effect of wireless dancing is exhilerating.	0	1	0.8106584463551005
+Paper is recycled.	Virgin paper is recycled.	0	1	0.842110956467563
+Drinking is for pleasure.	Normal drinking is for pleasure.	1	1	0.9993883640812237
+Military arms soldiers.	National military arms soldiers.	1	1	0.9957771824593215
+A drug is for taking.	An illicit drug is for taking.	1	1	0.9996220266963917
+You use a duvet to keep warm.	You use a top duvet to keep warm.	1	1	0.9971419558385647
+You use a bar to meet people.	You use a fibrous bar to meet people.	0	1	0.9999616971102586
+You use a finger to transfer moisture.	You use a former finger to transfer moisture.	0	0	0.9997987255200848
+A president ducks out of dull parties.	A past president ducks out of dull parties.	1	0	0.5290301008485228
+Plastic is derived from milk.	Porous plastic is derived from milk.	1	1	0.9998784729921028
+Marijuana eases chonic pain.	Medicinal marijuana eases chonic pain.	1	1	0.9331426660104457
+A surface is for a counter.	A washable surface is for a counter.	2	1	0.9658345265748441
+An egg is for rolling on the white house lawn.	A simulated egg is for rolling on the white house lawn.	0	0	0.8208597874502616
+The team rows faster than their competition.	The virtual team rows faster than their competition.	1	0	0.9577121871929334
+A sailor wants wind.	A lone sailor wants wind.	1	1	0.9999296459749127
+You use a mineral to make jewelery.	You use a possible mineral to make jewelery.	1	1	0.7858159578820109
+A situation angers a human.	An uncertain situation angers a human.	2	1	0.7660716883088864
+A teenager listens to rock music.	A skinny teenager listens to rock music.	1	1	0.9999869201176061
+A sign is for giving information to the public.	A historic sign is for giving information to the public.	1	1	0.9984064640913798
+Cash is used to purchase things.	Future cash is used to purchase things.	1	1	0.5262675878505555
+Jealousy distances friends.	Mistaken jealousy distances friends.	1	1	0.8277564458869279
+Paint is for painting.	Resistant paint is for painting.	1	1	0.9999997730644542
+A lock is used for security.	A worn lock is used for security.	0	1	0.9879430619191747
+You use a gift to please someone.	You use an extra gift to please someone.	1	1	0.9870488002052128
+A hamster burrows.	A related hamster burrows.	1	1	0.9999992700542605
+You use a role to act.	You use an unspecific role to act.	1	1	0.9997565137945342
+A ring is for uniting two items.	A single ring is for uniting two items.	2	1	0.9972318679432953
+A campfire starts a bushfire.	An outside campfire starts a bushfire.	1	1	0.9570460631961966
+Quartz is used in watches.	Shocked quartz is used in watches.	0	0	0.9877311808855157
+A desk is found in a school.	A secretarial desk is found in a school.	1	1	0.9994858675211199
+A blowtorch is used for lighting fires.	A similar blowtorch is used for lighting fires.	1	1	0.9999389571516457
+You use a pad to write on.	You use a virtual pad to write on.	1	1	0.9956698648773635
+A tiger jumps though hoops.	A sabre-toothed tiger jumps though hoops.	1	1	0.9999983953708511
+A saddle is for riding a mule.	A standard saddle is for riding a mule.	1	1	0.9998585110669627
+A suitcase is used for casing suits.	A wheeled suitcase is used for casing suits.	1	1	0.9560529095077509
+A challenge proves to be difficult.	A repeated challenge proves to be difficult.	0	1	0.9217506269811454
+Fencing is for erecting a division on some land.	Conventional fencing is for erecting a division on some land.	1	1	0.9999510833580031
+A monkey wants to eat a banana.	A dead monkey wants to eat a banana.	0	0	0.9999911810055341
+Someone will often read a paper.	Someone hypothetical will often read a paper.	0	1	0.8934267017325397
+A nail is hit by a hammer.	A next nail is hit by a hammer.	0	1	0.9818250903828392
+Silk is for making boxer shorts.	Artificial silk is for making boxer shorts.	1	1	0.9992022766456908
+A cook bones a cooked chicken.	An average cook bones a cooked chicken.	1	1	0.9998041065050391
+Petrol drops in price.	Unbranded petrol drops in price.	1	1	0.9999997137376493
+A stamp is put on an envelope.	A counterfeit stamp is put on an envelope.	0	0	0.8655628596559758
+You use carpeting to cover a floor.	You use new carpeting to cover a floor.	2	1	0.9955667769271773
+Pay is earned by people.	Likely pay is earned by people.	0	1	0.993992085282586
+A leader schools us in the fine points.	A historic leader schools us in the fine points.	1	1	0.9997327094114149
+A politician wants to win elections.	A national politician wants to win elections.	1	1	0.9999325712397426
+Carpeting is for utility.	New carpeting is for utility.	1	1	0.9979351393449771
+Intimacy is incompatible with workaholism.	Former intimacy is incompatible with workaholism.	0	0	0.7831702168090918
+A community trades services for money.	A liturgical community trades services for money.	1	1	0.9998352460921605
+A gossip spreads a rumor.	An unauthorized gossip spreads a rumor.	1	1	0.9998410312116481
+A garden is for growing food.	A sustainable garden is for growing food.	1	2	0.9965290535395276
+A dish is used for eating off.	A prepared dish is used for eating off.	1	1	0.9817685405749769
+An idea drives a revolution.	An uncertain idea drives a revolution.	0	0	0.912420454421718
+A butterfly has wings.	A little butterfly has wings.	2	1	0.9999954279497331
+Calculus is difficult.	Complex calculus is difficult.	1	1	0.9518456203037936
+A christian rebels.	A rational christian rebels.	0	1	0.6909641216765412
+A stall is for containing a horse.	A disabled stall is for containing a horse.	0	1	0.8519607738429463
+A dentist bridges a gap in teeth.	A general dentist bridges a gap in teeth.	1	1	0.9999886865064013
+Some typeface is bold.	Some right typeface is bold.	1	1	0.9999666609465871
+A revolutionary frees a country.	A dead revolutionary frees a country.	1	0	0.9999997063849053
+Knowledge seeds ideas.	Conscious knowledge seeds ideas.	1	1	0.9996634159627332
+The president is arriving in los angeles.	The assistant president is arriving in los angeles.	1	1	0.9992340939172673
+You use an arm to push people further away.	You use a virtual arm to push people further away.	0	0	0.9243686055606781
+Space has zero pressure.	Likely space has zero pressure.	0	0	0.9501118040506276
+You use a kingdom to do great things.	You use a future kingdom to do great things.	0	1	0.9970248979240661
+Judiciary is for interpreting law.	Military judiciary is for interpreting law.	1	1	0.994315669076802
+Something that might happen as a consequence of shopping is you run out of money.	Something that might happen as a consequence of frugal shopping is you run out of money.	0	1	0.9994234996644773
+A glass is clean.	A tasty glass is clean.	0	1	0.9988895455382072
+Television is informative.	Virtual television is informative.	0	1	0.9999944073966875
+The universe has been constructed.	The future universe has been constructed.	0	1	0.9944920737077272
+A bean is for using as a marker.	A red bean is for using as a marker.	1	1	0.9998361097508898
+Sunlight ages newsprint.	Soft sunlight ages newsprint.	0	1	0.9999660615674381
+An album is for storing photos.	A virtual album is for storing photos.	1	1	0.9987862277178301
+A child states the obvious.	A dead child states the obvious.	0	0	0.9999930174246133
+A vessel has multiple meanings.	An obsolescent vessel has multiple meanings.	1	1	0.996564345840792
+The effect of reading is knowing.	The effect of volitional reading is knowing.	1	1	0.9999657713336483
+You use a sky to feel the wind.	You use an exceptional sky to feel the wind.	1	1	0.9997777868340271
+A backyard is for children to play in.	A gorgeous backyard is for children to play in.	1	1	0.9993760244924619
+A witness states the facts.	A true witness states the facts.	2	2	0.9027117922873655
+A pencil contains graphite not lead.	A colored pencil contains graphite not lead.	1	1	0.9995310389166246
+Reality is for losers.	Dubious reality is for losers.	0	1	0.9999709109581609
+You use a loft to store hay.	You use a cozy loft to store hay.	1	1	0.9996378401244638
+An outfit is made of clothes.	A handsome outfit is made of clothes.	1	1	0.9999960970802165
+You use an entrance to go in.	You use a fake entrance to go in.	0	0	0.6959733136494037
+Calculator calculate.	Revolutionary calculator calculate.	0	1	0.9607970194248994
+A van carries camping gear.	An expensive van carries camping gear.	1	1	0.9999991991195916
+You use an arena to compete.	You use a main arena to compete.	1	1	0.9998978206854809
+My honey lasts all night.	My processed honey lasts all night.	1	0	0.5807852019251887
+A lawyer states the case.	A constitutional lawyer states the case.	1	1	0.9999581211939811
+An arm is used for a fulcrum.	A multiply arm is used for a fulcrum.	0	1	0.9541333560797078
+You use a fur to make a furcoat.	You use a fake fur to make a furcoat.	1	0	0.7579271857990786
+An entryway is for providing an exit from a room.	A busy entryway is for providing an exit from a room.	1	1	0.9989974637462657
+Game is played.	Parliamentary game is played.	0	1	0.9881058695417869
+Telephones is annoying.	Short telephones is annoying.	0	1	0.9998791674343149
+A museum is for educating the public.	A national museum is for educating the public.	1	2	0.9763097520904633
+Snowfall is measured in inches in america.	Major snowfall is measured in inches in america.	2	1	0.998665123311387
+A psychiatrist helps a manic-depressive.	A questionable psychiatrist helps a manic-depressive.	0	0	0.9473515393423503
+A thoroughfare is used for transportation.	A major thoroughfare is used for transportation.	2	1	0.9437652676514491
+Truth frees the mind.	Invariable truth frees the mind.	2	1	0.9999924705241805
+A hose has a vacant core.	A likely hose has a vacant core.	1	1	0.9999467238514739
+A boulevard is used for travel.	A four-lane boulevard is used for travel.	1	1	0.9967739627197632
+Jealousy destroys a relationship.	Lifelong jealousy destroys a relationship.	2	1	0.8232182225772606
+A comb is used for neat hair.	A pale comb is used for neat hair.	1	1	0.946053538936991
+A couple goes out.	A suburban couple goes out.	1	1	0.999627575175156
+Humor is subjective.	Good humor is subjective.	1	1	0.9567723870518375
+You use a comb to comb your hair.	You use a drawn comb to comb your hair.	0	1	0.8311204948053758
+Gasoline is less dense than water.	Leaded gasoline is less dense than water.	1	1	0.9999999929356742
+A stitch is used to make a quilt.	An attractive stitch is used to make a quilt.	1	1	0.9999576048376926
+A scapegoat shoulders the blame.	An useful scapegoat shoulders the blame.	1	1	0.9914432204658672
+A mill is for crushing.	A mental mill is for crushing.	0	0	0.9998328665319377
+A highway is for facilitating the movement of goods.	A dual highway is for facilitating the movement of goods.	1	1	0.9997954117631633
+You use a club to beat things.	You use a secular club to beat things.	1	1	0.9999978806966976
+A server forwards mail.	A probable server forwards mail.	0	0	0.9876233145329654
+A plane gains altitude.	A presumed plane gains altitude.	1	1	0.8221944853888606
+Some typeface is bold.	Some desired typeface is bold.	1	1	0.9999981883233621
+A fee is charged on a toll road.	A possible fee is charged on a toll road.	1	1	0.7731170487369076
+Skating is for playing hockey.	Synchronized skating is for playing hockey.	0	0	0.9997305805919829
+A disease is used for power.	A recognized disease is used for power.	1	1	0.9993006940119985
+Water is used for cooking.	Past water is used for cooking.	0	0	0.9628623959693072
+A farmer weeds out weeds.	A small farmer weeds out weeds.	1	1	0.9999124415200081
+A student voices dissent.	An attractive student voices dissent.	1	1	0.9999996848639907
+Bodies are unique.	Constitutional bodies are unique.	1	1	0.9986849025603916
+A queen is for a king.	A former queen is for a king.	0	1	0.5840518446860996
+A tailor dresses a man.	A popular tailor dresses a man.	1	1	0.9996644984515193
+Ideology changes a society.	Twisted ideology changes a society.	1	1	0.9990472389650805
+Vegetables are grown to use for food.	Dark vegetables are grown to use for food.	1	1	0.9999999971633977
+A patient waits in the lobby.	A presumed patient waits in the lobby.	1	1	0.9999899015603204
+A manufacturer is making wonderful widgets.	A new manufacturer is making wonderful widgets.	1	1	0.999999996342952
+A token is used for subway ride.	A revised token is used for subway ride.	1	1	0.9992243306061314
+A hall is used for meetings.	An online hall is used for meetings.	1	0	0.7146122573620645
+Cream makes your skin smooth.	Salted cream makes your skin smooth.	1	1	0.9999975665285811
+Corn is for cleansing of the colon.	Fine corn is for cleansing of the colon.	1	1	0.9999993832995197
+Sometimes surfing causes getting wet.	Sometimes unlimited surfing causes getting wet.	1	2	0.5959077384537894
+A memo is for pasing on information.	A verbal memo is for pasing on information.	1	1	0.996239004377084
+A puzzle is for mental stimulation.	A third puzzle is for mental stimulation.	1	1	0.9973775796869601
+War destroys property.	Impossible war destroys property.	0	0	0.9991773931704747
+Bread is for baking.	Consecrated bread is for baking.	1	1	0.9999916069975533
+Work oftens by enjoyable.	Intervening work oftens by enjoyable.	1	1	0.9941642578210677
+The air contains oxygen, nitrogen and carbon dioxide.	The false air contains oxygen, nitrogen and carbon dioxide.	0	0	0.9999937654043697
+A diamond is used for jewelry.	A blue diamond is used for jewelry.	1	1	0.9997897576031
+Jewelry is for attracting muggers.	Fake jewelry is for attracting muggers.	0	1	0.6140008841549285
+A town is for social interaction.	A sleepy town is for social interaction.	0	1	0.9978858511909452
+An umbrella is for staying dry.	A popular umbrella is for staying dry.	1	1	0.9875112887766561
+Infidelity divides spouses.	Financial infidelity divides spouses.	1	1	0.9971619600474313
+You use a stairwell to place landings.	You use a fine stairwell to place landings.	1	1	0.999894689857554
+You use an oven to burn.	You use a compact oven to burn.	1	1	0.9998968784321088
+You use a cemetery to collect data on your dead ancestors.	You use a virtual cemetery to collect data on your dead ancestors.	1	0	0.7886368232995931
+Your ribs are found in your chest.	Your previous ribs are found in your chest.	0	0	0.9640576477255104
+A file is for helping you to remember things.	A dependent file is for helping you to remember things.	1	1	0.9877970276621848
+Waste is put in the bin.	False waste is put in the bin.	0	0	0.9967669482531676
+Some illnesses is cured thanks to modern medicine.	Some related illnesses is cured thanks to modern medicine.	1	1	0.9997981235180096
+A menu is for ordering food.	A key menu is for ordering food.	0	1	0.9996389012141139
+A ledger is used for listing items.	An electronic ledger is used for listing items.	1	1	0.995248193226853
+War is caused by greed.	Common war is caused by greed.	1	1	0.9999758976128191
+A cello is used to make music.	A solo cello is used to make music.	1	1	0.9983806154621871
+A detective follows a suspect.	A bright detective follows a suspect.	2	2	0.9720401994593898
+You use a science to understand life.	You use a theoretical science to understand life.	1	1	0.9965876151807564
+Cooking is for relaxation.	Waterless cooking is for relaxation.	1	1	0.9998824036503523
+A plane crashes.	A main plane crashes.	1	1	0.999886180385335
+A bean is for filling a bag.	A technical bean is for filling a bag.	1	1	0.9999788818585139
+A recipe lists ingredients.	A homely recipe lists ingredients.	1	1	0.999999033561495
+One recycles some plastics.	Likely one recycles some plastics.	1	1	0.6104992417065971
+Some patterns are floral.	Some current patterns are floral.	1	1	0.9999335703332279
+A collectible completes a collection.	A future collectible completes a collection.	0	1	0.9646482401206721
+You use an adjective to describe a noun.	You use a redundant adjective to describe a noun.	1	1	0.9980742304022306
+An election may require a run-off.	A disputed election may require a run-off.	2	1	0.9888510851386668
+A word means more than one thing.	A discouraging word means more than one thing.	1	1	0.9988009972811782
+A handicap evens the odds.	A new handicap evens the odds.	1	1	0.998847313859697
+The mayor presents an award.	The new mayor presents an award.	1	1	0.9999934799172037
+A gate allows selected people to pass by.	A mute gate allows selected people to pass by.	0	1	0.9999594915717481
+A hunter lands a wild animal.	A swift hunter lands a wild animal.	2	1	0.9997351617669997
+An actor plays a part.	A dead actor plays a part.	0	0	0.988681019428974
+A visitor lets the cat out.	A dear visitor lets the cat out.	1	1	0.9999754250626648
+Sometimes hate causes violence.	Sometimes antisemitic hate causes violence.	1	1	0.9999997794551196
+Manganese has a silvery metallic colour.	High manganese has a silvery metallic colour.	1	1	0.9999993836362697
+The printer is for handicapped, lazy, and fat people.	The wireless printer is for handicapped, lazy, and fat people.	1	0	0.7406575384455761
+A flight goes to austin.	A suspicious flight goes to austin.	1	1	0.7614070594987622
+An audience is found at a concert.	A respectable audience is found at a concert.	1	1	0.9999786442779544
+A hose is for transporting water.	A false hose is for transporting water.	0	0	0.9999998393917084
+A homeowner gardens a flower bed.	A nearby homeowner gardens a flower bed.	1	1	0.9999971999842284
+You use a study to learn things.	You use a physiologic study to learn things.	1	1	0.9998432267386457
+You use a barbecue to cook hot dogs.	You use a free barbecue to cook hot dogs.	1	1	0.9999469558866777
+A seat is for filling out the pants.	An inflatable seat is for filling out the pants.	0	0	0.9998126935470075
+Copper is one of the most important metals.	Bare copper is one of the most important metals.	1	0	0.5589333106321986
+A river is used for dumping toxic waste.	A long river is used for dumping toxic waste.	1	1	0.9972790942869051
+You use a manipulator to make things easy.	You use an articulated manipulator to make things easy.	1	1	0.9999937638685964
+A handgun is for police use.	A primary handgun is for police use.	1	1	0.99999779303248
+An exporter ships merchandise.	A foreign exporter ships merchandise.	1	1	0.9999924946259405
+You use a classroom to teach children.	You use an inclusive classroom to teach children.	1	1	0.9999982987794676
+A chef quarters an apple.	A top chef quarters an apple.	1	1	0.987627627655072
+Tape fixes sloppy edges.	Virtual tape fixes sloppy edges.	0	0	0.9994165231457507
+The stomach digests itself.	The gassy stomach digests itself.	1	1	0.9999999861430444
+A suitcase is for throwing at people.	An original suitcase is for throwing at people.	1	1	0.9999072404533323
+A sword has a sharp edge.	A two-handed sword has a sharp edge.	1	1	0.8547041933711004
+A judge presents a contestant with a prize.	A little judge presents a contestant with a prize.	1	1	0.999875267936449
+A friend is someone you can trust.	A fair friend is someone you can trust.	2	1	0.9999981187543834
+A toothpick is for getting shrimp off of a tray.	A reusable toothpick is for getting shrimp off of a tray.	1	1	0.9767494642673279
+You use a lady to win over a jack.	You use a dead lady to win over a jack.	0	0	0.9999856709179212
+You use vinyl to replace the siding on a house.	You use expandable vinyl to replace the siding on a house.	1	1	0.9999536048221034
+A dollar is used for shopping.	A half dollar is used for shopping.	1	1	0.5727542520380736
+You use a stairwell to safety during fires.	You use a public stairwell to safety during fires.	1	1	0.9974561927432583
+You use a drug to cure some diseases.	You use a possible drug to cure some diseases.	0	1	0.9867209534397721
+A trumpet is solid.	A former trumpet is solid.	1	1	0.9579025097340192
+A key is inserted into a lock.	A binary key is inserted into a lock.	1	1	0.9749622423788816
+John fancies sally.	Nude John fancies sally.	1	1	0.9933182123544282
+You use a monkey to get children offguard.	You use a dead monkey to get children offguard.	0	0	0.9999472204872609
+An executive pages a co-worker.	An accountable executive pages a co-worker.	1	1	0.5812406285881173
+Talk is essential in reaching tentative agreements.	Unsuccessful talk is essential in reaching tentative agreements.	0	0	0.9976252328736088
+A hose is for watering the garden.	An intended hose is for watering the garden.	1	1	0.999641642339573
+A tack is used for hanging up a childs artwork.	A different tack is used for hanging up a childs artwork.	1	1	0.9997116652747301
+The internet contains lots of information.	The simulated internet contains lots of information.	1	1	0.999447585332755
+Ivy is found in a forest.	Delicate ivy is found in a forest.	1	1	0.9999982364731178
+A baker wants good quality ingredients.	A good baker wants good quality ingredients.	2	2	0.9993380336240226
+Yogurt has bacteria in it.	Regular yogurt has bacteria in it.	1	1	0.9999972363517361
+A snake slithers down the street.	A western snake slithers down the street.	1	1	0.9999998548514265
+My mom presses my shirt.	My free mom presses my shirt.	1	1	0.9999999981093093
+The clerk closes the account.	The regular clerk closes the account.	1	1	0.9999677496445634
+A refill is for iced tea.	A favorite refill is for iced tea.	1	2	0.954671860454917
+A stool is used for climbing.	A former stool is used for climbing.	0	0	0.999598068436691
+A landmark is for noticing.	A trackable landmark is for noticing.	1	1	0.6030259326640252
+A council is used for decision making.	A quarrelsome council is used for decision making.	0	0	0.977676660020171
+Skin feels heat.	Sore skin feels heat.	1	1	0.9974847107163635
+A voice is for being heard.	A simulated voice is for being heard.	1	1	0.8490970055691082
+The robber cases the target.	The alleged robber cases the target.	1	1	0.9999801095817692
+Banks are run by people.	Former banks are run by people.	0	0	0.9963358024809308
+A floor is covered with carpet.	A 5th floor is covered with carpet.	1	1	0.995253266728803
+Alcohol burns.	Soluble alcohol burns.	1	1	0.999999987577466
+A tourist asks directions.	A happy tourist asks directions.	2	1	0.998788008812394
+You use a puck to score a goal in hockey.	You use a flexible puck to score a goal in hockey.	1	1	0.9865651576489686
+A soldier is for operating military equipment.	An uniform soldier is for operating military equipment.	1	1	0.9998011389685274
+A crew mans the ship.	A third crew mans the ship.	1	1	0.999429151726857
+A day is ending when the sun goes down.	A leisurely day is ending when the sun goes down.	1	1	0.998664572444304
+A comb is for styling hair.	A fine-tooth comb is for styling hair.	1	1	0.9951538429745863
+Bits are promiscuous.	Fallen bits are promiscuous.	1	0	0.9994777983016114
+Paint is used on canvas,.	Liquid paint is used on canvas,.	1	1	0.9999782360318425
+A jellyfish is found in the ocean.	An immortal jellyfish is found in the ocean.	0	1	0.9799403166988039
+Meat is for animals to eat.	Smoked meat is for animals to eat.	0	1	0.8257486569648227
+Interest is compounded or.	Mistaken interest is compounded or.	0	0	0.9999326307861899
+News is printed on papers.	Additional news is printed on papers.	1	1	0.9980232050836485
+An adult hands a toy to a child.	An interested adult hands a toy to a child.	1	1	0.9990319209265136
+You use a bed to sit on.	You use a noble bed to sit on.	1	1	0.9548254450484992
+A barn is for keeping animals.	A 18th barn is for keeping animals.	1	1	0.9386931719900676
+A map is for handy reference.	A weighted map is for handy reference.	1	1	0.9996163326076766
+A prince is considered royal.	A 3rd prince is considered royal.	1	1	0.9997790250360995
+Learning is very very nice.	Selective learning is very very nice.	0	1	0.9998643619113361
+A juror is expected to not dress too informally.	An original juror is expected to not dress too informally.	1	1	0.9999998737971147
+Good is for destroying evil.	Chief good is for destroying evil.	1	1	0.9944307264946741
+An attorney represents you in a lawsuit.	A former attorney represents you in a lawsuit.	0	0	0.9912728030808875
+You use an attic to store things you are not using.	You use an unconditioned attic to store things you are not using.	0	1	0.9991989517629741
+You use cash to pay somebody.	You use spare cash to pay somebody.	1	1	0.9929503677831822
+Morphine is addictive.	Free morphine is addictive.	1	1	0.9997400548021467
+A consumer saves money.	A protected consumer saves money.	1	1	0.9989465421116366
+Cloth is shipped in lots.	Grayish cloth is shipped in lots.	1	1	0.9999935556835174
+A wristwatch is used for awareness of time.	A cardiac wristwatch is used for awareness of time.	0	0	0.9999904501794656
+You use a bean to make furniture.	You use a false bean to make furniture.	1	0	0.5521748581853755
+A ticket is for proof of purchase.	A virtual ticket is for proof of purchase.	1	1	0.9748995181278763
+A pacifier quiets a baby.	A medical pacifier quiets a baby.	1	1	0.9983817568560367
+An organ is one kind of keyboard instrument.	A whole organ is one kind of keyboard instrument.	1	1	0.9985173490337363
+Carpeting is used to cover bare floors.	Auxiliary carpeting is used to cover bare floors.	1	1	0.9967796293108871
+The effect of intimacy is affection.	The effect of mental intimacy is affection.	1	1	0.9997549110443752
+Quality is reliable.	Disappointing quality is reliable.	0	0	0.9975596684803625
+You use a saucepan to cook with.	You use a heavy saucepan to cook with.	1	1	0.9999998684885599
+You use a machine to kill.	You use a hybrid machine to kill.	1	1	0.9983594863243942
+Energy is necessary for life.	Potential energy is necessary for life.	1	1	0.9915435621069468
+A handgun is for shooting people.	An unsafe handgun is for shooting people.	0	1	0.9994334688295973
+A sheet is for sale on the internet.	A virtual sheet is for sale on the internet.	1	1	0.9375165691170005
+You use a cloud to oscure.	You use a high cloud to oscure.	1	1	0.9894757882097929
+You use a skylight to let in light.	You use an additional skylight to let in light.	1	1	0.9993504679211052
+An army mines a battlefield.	A former army mines a battlefield.	0	0	0.9953689277992966
+A tooth is used for putting under a pillow.	A possible tooth is used for putting under a pillow.	0	0	0.8881045740252607
+You use a tool to drill a hole.	You use a total tool to drill a hole.	1	0	0.9994516462757451
+You use a sail to power a sailboat.	You use a set sail to power a sailboat.	1	1	0.7937718839805298
+A dollar is used for buying a lottery ticket.	A current dollar is used for buying a lottery ticket.	0	1	0.9997356643794529
+You use a letter to make an invitation.	You use a professional letter to make an invitation.	2	1	0.9777558752982219
+You use a spoon to eat ice cream.	You use a femoral spoon to eat ice cream.	0	0	0.9999874165162556
+A prisoner attempts an escape.	An ill prisoner attempts an escape.	0	1	0.9917729783183975
+A stethoscope is used to see if the person is dead.	An electronic stethoscope is used to see if the person is dead.	1	1	0.9985637934353703
+A pouch is for holding a baby kangaroo.	A soft pouch is for holding a baby kangaroo.	1	1	0.9992483343741854
+A celebrity is associated with photographers.	A washed-up celebrity is associated with photographers.	0	1	0.9947283351474565
+You use a bookend to stop books falling off.	You use an antique bookend to stop books falling off.	1	1	0.9995974788417736
+A coffin is found in a cemetary.	A wrong coffin is found in a cemetary.	1	1	0.9737174122970709
+The temperature is droping rapidly.	The operational temperature is droping rapidly.	1	1	0.9973048054363945
+A motel is for sleeping overnight when away from home.	A former motel is for sleeping overnight when away from home.	1	1	0.7487375457819505
+A counter is for counting disintegrations.	A backward counter is for counting disintegrations.	1	1	0.9955696749760504
+A christian fail.	A rational christian fail.	1	1	0.6865266641884198
+A mandolin is for kentucky hills music.	A new mandolin is for kentucky hills music.	1	1	0.999859945344914
+A lens is for building into microscopes.	A virtual lens is for building into microscopes.	0	0	0.7950905349184186
+A customer demands a check.	A potential customer demands a check.	0	1	0.8703043699605006
+Soil is one kind of earth.	Retentive soil is one kind of earth.	1	1	0.9999997315604355
+The sidewalk is sticky.	The artificial sidewalk is sticky.	0	1	0.9752220211050525
+Sometimes shopping causes calluses.	Sometimes major shopping causes calluses.	1	1	0.9994010169817205
+You use a plastic to make a spork.	You use a gold plastic to make a spork.	0	1	0.828695575207277
+A channel is used for moving water and floating things.	A metallic channel is used for moving water and floating things.	1	0	0.9808567446483001
+Cotton is used for making fabrics.	Colorful cotton is used for making fabrics.	1	1	0.9999999923226738
+A system is for doing something.	An obstetric system is for doing something.	0	1	0.834222475546674
+A lathe is used to alter the shape of oak wood.	A very lathe is used to alter the shape of oak wood.	0	0	0.9716286736017448
+A judge fines the accused.	A single judge fines the accused.	1	1	0.9999999312167642
+An ear is for insering an ear plug.	An unilateral ear is for insering an ear plug.	0	1	0.9997708960668324
+A farmer gathers cropsa.	An organic farmer gathers cropsa.	1	1	0.9881525299030072
+A shore is next to the sea.	A celestial shore is next to the sea.	1	1	0.9792263974135575
+An army rises up.	A virtual army rises up.	0	1	0.6117954773375356
+A fortune is for giving away.	A multiple fortune is for giving away.	1	1	0.9989875756544473
+A story begins when someone starts telling it.	A remarkable story begins when someone starts telling it.	1	1	0.9998664267648258
+A company markets a product.	A bright company markets a product.	1	1	0.9999990305130582
+Fitness is for a better life.	Potential fitness is for a better life.	1	1	0.9979518215195144
+Garlic seasons food.	Purple garlic seasons food.	1	1	0.999998989458861
+A chef butters the pastries.	A former chef butters the pastries.	1	1	0.9224589956133842
+You use cotton to make cloth.	You use likely cotton to make cloth.	1	1	0.9999842870892418
+A christian is forgiven.	A good christian is forgiven.	2	2	0.8102102229645461
+A friend needles you.	A potential friend needles you.	1	0	0.9012478900719992
+A knife is used for decorating a cake.	A hidden knife is used for decorating a cake.	0	0	0.9323616886382018
+A graveyard is for burying dead creatures.	An old graveyard is for burying dead creatures.	1	1	0.9953170325866927
+You use a telephone to communicate.	You use a standard telephone to communicate.	1	1	0.9998256018820377
+A boss pages an employee.	A pyramidal boss pages an employee.	1	1	0.9999890056458017
+A comb has many teeth.	A thick comb has many teeth.	1	1	0.999841843141523
+A trumpet  is made of brass.	An uplifted trumpet  is made of brass.	1	1	0.9999976097187537
+Cotton is for sewing.	Heavy-duty cotton is for sewing.	2	1	0.7621514130220186
+Politicians legislates.	Involved politicians legislates.	1	1	0.9999995786446081
+A plant is suffering dehydration.	A simulated plant is suffering dehydration.	0	0	0.8032029387780858
+A saloon is for playing cards.	A famous saloon is for playing cards.	1	1	0.9997799015507839
+A mechanic conditions an engine.	A retired mechanic conditions an engine.	1	1	0.9880312424881755
+A species has a common set of ancestors.	A likely species has a common set of ancestors.	1	1	0.9974100831621554
+A sheet is for ku klux klan uniforms.	A holographic sheet is for ku klux klan uniforms.	0	0	0.9108653795076915
+President offers pardon.	Disputed president offers pardon.	1	0	0.9156659993722777
+A sidewalk is for riding skateboards.	An artificial sidewalk is for riding skateboards.	0	1	0.9656117524427812
+The army arms a man.	The so-called army arms a man.	1	1	0.5145462050781109
+A table has legs.	A foldable table has legs.	1	1	0.9992221652391841
+A mouse rings a bell.	A dead mouse rings a bell.	0	0	0.9999441344303186
+A guard mans a station.	A former guard mans a station.	0	0	0.9941135664847861
+Fur is used for making clothes.	Natural fur is used for making clothes.	1	2	0.9734146563958989
+The effect of terrorism is death.	The effect of pursuing terrorism is death.	1	1	0.930557728636126
+A plant flowers in spring time.	A simulated plant flowers in spring time.	0	1	0.9984061602087131
+You use god to justify hate.	You use fake god to justify hate.	1	1	0.9216986487996995
+Something that might happen as a consequence of drinking is the body becomes rehydrated.	Something that might happen as a consequence of professional drinking is the body becomes rehydrated.	0	0	0.9458039161977112
+The effect of playing is feeling happy.	The effect of likely playing is feeling happy.	0	1	0.887697283725556
+Gold is melted.	Looted gold is melted.	1	1	0.9989841818236712
+You use a passageway to travel from one place to another.	You use an alleged passageway to travel from one place to another.	1	1	0.5786851207094276
+A bean is for bean and garlic sauce.	A fake bean is for bean and garlic sauce.	0	0	0.9911672039106395
+A bass is used for a rock and roll band.	A much bass is used for a rock and roll band.	0	0	0.9996903487749879
+The tip is glowing.	The artificial tip is glowing.	1	1	0.9719630829899362
+You use a weapon to hurt someone.	You use a slow weapon to hurt someone.	1	0	0.7973268278157315
+A professional cleans your goose.	A young professional cleans your goose.	1	1	0.9999049040970148
+A stylus is used to write on a clay tablet.	A virtual stylus is used to write on a clay tablet.	0	1	0.9859094373112343
+The effect of sleeping is refreshment.	The effect of rough sleeping is refreshment.	0	1	0.9978125101905253
+Organizations have members.	Front organizations have members.	1	1	0.9999950905129297
+A passenger books a flight reservation.	A drunk passenger books a flight reservation.	1	0	0.9984757450254086
+A john is for defecating.	A big john is for defecating.	1	1	0.9726805674527214
+One advertises one's business services.	Counterfeit one advertises one's business services.	0	0	0.9978810864174903
+An eye is used for looking.	A false eye is used for looking.	2	0	0.9998545044309698
+A ball is used to play golf.	A base ball is used to play golf.	0	0	0.9246873975941267
+Some property is owned by the federal government.	Some historic property is owned by the federal government.	1	1	0.9998452172781706
+An army is for protection.	A democratic army is for protection.	1	1	0.9999868878771395
+A story begins in the morning.	A choral story begins in the morning.	1	1	0.9999279829033307
+A disk is round and flat.	A high-speed disk is round and flat.	1	1	0.9904740627428529
+A leader is for being the first to do something.	A flexible leader is for being the first to do something.	1	1	0.9991963777588252
+Jasmine buys her dress at the store.	Romantic jasmine buys her dress at the store.	0	1	0.999933111052082
+A doorway is used for entry.	A large doorway is used for entry.	1	1	0.9999152987804099
+To feed means to take food.	To electrical feed means to take food.	0	1	0.5149667070320694
+You use a heater to heat the room.	You use a flat heater to heat the room.	0	1	0.9999576555948035
+A vineyard bottles wine.	A first-class vineyard bottles wine.	2	1	0.9978787689858117
+A saw cuts wood and other materials.	A hot saw cuts wood and other materials.	0	1	0.9998521253990232
+A grocer is for selling food.	An organic grocer is for selling food.	1	1	0.9997916899851803
+You use a bowl to hold fruit.	You use a conical bowl to hold fruit.	1	1	0.9999998623098809
+A clown acts foolish.	A potential clown acts foolish.	1	0	0.9584219038961865
+Pork is forbidden by judaism and islam.	Red pork is forbidden by judaism and islam.	1	1	0.9980912837026358
+Loneliness is made of emotion.	Miserly loneliness is made of emotion.	1	1	0.9999993021078907
+The effect of stigma is work problems or discrimination.	The effect of primary stigma is work problems or discrimination.	1	2	0.6477825489101949
+Love lasts a life time.	Unfeasible love lasts a life time.	0	0	0.9994940851301491
+You use a foyer to take off shoes.	You use a mirrored foyer to take off shoes.	1	1	0.9984659283509779
+You use a ring to rule them all.	You use a rigid ring to rule them all.	1	1	0.9993453268891243
+A season is one fourth of a year.	A presidential season is one fourth of a year.	0	1	0.9997627596242968
+Racism is bad.	Southern racism is bad.	1	1	0.9999052463954254
+Calculus is more difficult than algebra.	Divine calculus is more difficult than algebra.	1	1	0.9502657711918739
+The cursor is moved around the screen or document.	The global cursor is moved around the screen or document.	0	1	0.9999970881685207
+Teenager wants to leave home.	Innocent teenager wants to leave home.	1	1	0.9999748452664691
+The world has many different cultures.	The artificial world has many different cultures.	0	0	0.9958414549618378
+The lawyer comes early.	The good lawyer comes early.	2	1	0.9996669059929902
+A creamer separates the cream from the milk.	A powdered creamer separates the cream from the milk.	1	1	0.9640428040755905
+A backdrop is used for photography.	An uncertain backdrop is used for photography.	1	1	0.7482193746495754
+Rubbish is put in a dustbin.	Alternate rubbish is put in a dustbin.	1	1	0.9918905420048056
+You use a vibrator to entertain yourself.	You use an electromechanical vibrator to entertain yourself.	1	1	0.9999926197475586
+A truck boxes in a car.	A following truck boxes in a car.	1	0	0.9679553148209685
+You use velvet to walk on.	You use red velvet to walk on.	1	1	0.9889263517776737
+Dough forms bread.	Close dough forms bread.	0	0	0.9999679184495912
+A patient appears better.	An ambulatory patient appears better.	1	1	0.9996169257774564
+Communicating is for convicing others.	Second communicating is for convicing others.	2	1	0.978845915888083
+A cam is for climbing.	A dead cam is for climbing.	0	0	0.9999995684020995
+A hotel is used for lodging.	A historic hotel is used for lodging.	1	1	0.9994952955553124
+My brother deals a deck of cards.	My dead brother deals a deck of cards.	0	0	0.9999585146848596
+An alley is for sneaking past clogged traffic.	A historic alley is for sneaking past clogged traffic.	1	1	0.9988689868902532
+A soldier digs a trench.	A subservient soldier digs a trench.	1	1	0.9999845509019439
+A cornerback returns that pass.	A junior cornerback returns that pass.	1	1	0.9999979183805067
+A can is for opening with a can opener.	A cylindrical can is for opening with a can opener.	1	1	0.999736073402141
+Lemon is citrus.	Orange lemon is citrus.	1	1	0.9995217866965768
+An entrance is used to enter a building.	A public entrance is used to enter a building.	1	1	0.9993275139996245
+Serotonin is distributed throughout the body.	Selective serotonin is distributed throughout the body.	1	1	0.9999999872151214
+A bank is for keeping money secure.	A sudden bank is for keeping money secure.	1	0	0.9868327737992695
+Land is for building a house.	Likely land is for building a house.	1	1	0.9963943375153119
+A salesman is traveling the country with wares.	A very salesman is traveling the country with wares.	0	1	0.6723048676869715
+Snoring is for people with sleeping problems.	Habitual snoring is for people with sleeping problems.	1	1	0.996726579919275
+My friends sees that i like them.	My imaginary friends sees that i like them.	1	0	0.9976681221761404
+An officer captains a ship.	A historic officer captains a ship.	1	1	0.9998107056408022
+You use experience to avoid mistakes.	You use fictitious experience to avoid mistakes.	1	0	0.9995801121865147
+An alarm triggers a siren.	A tonal alarm triggers a siren.	1	1	0.9999999068365765
+A nose has 2 nostrils.	A soft nose has 2 nostrils.	1	1	0.999999921012148
+A neighborhood may consist of several blocks.	A delightful neighborhood may consist of several blocks.	1	1	0.9999987421110653
+A forest is used for many things, producing lumber.	A centenary forest is used for many things, producing lumber.	1	1	0.9989388281873962
+You use a laser to play tag.	You use a bad laser to play tag.	1	0	0.9986069851704363
+A decanter is for pouring from one container to another.	A ceramic decanter is for pouring from one container to another.	1	1	0.9998458398343174
+A system is used for getting things done efficiently and quickly.	A cervical system is used for getting things done efficiently and quickly.	0	0	0.9974232768928649
+Sometimes drinking causes less thirst.	Sometimes past drinking causes less thirst.	0	0	0.9907168116624456
+A day is made up of 24 hours.	A possible day is made up of 24 hours.	1	1	0.6331852098347092
+A hairbrush is used to.	An available hairbrush is used to.	1	1	0.5854582877813547
+A disease is ending in death.	A phony disease is ending in death.	1	0	0.998650732288221
+Everything is natural.	Coated everything is natural.	0	1	0.9998662908109068
+A beaver builds a dam.	A busy beaver builds a dam.	2	1	0.9999989535542502
+The ground is sandy in the country.	The final ground is sandy in the country.	1	1	0.9323845235544924
+A manager lowers prices.	A possible manager lowers prices.	0	1	0.9257680313939431
+A closet is for storing clothing.	A fabulous closet is for storing clothing.	1	1	0.9999511963531207
+A surface is for delineating the edge of a body.	A rust-free surface is for delineating the edge of a body.	1	1	0.9964315931835301
+A club is for dance.	A so-called club is for dance.	1	1	0.9983407323676385
+Garbage is for being picked up by garbage men.	Complete garbage is for being picked up by garbage men.	1	1	0.9842340367516168
+A friend is for doing activities with.	A relative friend is for doing activities with.	1	1	0.9999373124189639
+You use a system to increase efficiency.	You use a theoretical system to increase efficiency.	1	0	0.7429490503316879
+Few hits .300 in professional baseball.	Lovely few hits .300 in professional baseball.	1	1	0.9108079731286872
+An author completes a book.	A would-be author completes a book.	1	1	0.9866715551644746
+Something that might happen as a consequence of buying something is we have less money.	Something that might happen as a consequence of shrewd buying something is we have less money.	0	1	0.9906417194149691
+A pan is for frying food.	A shallow pan is for frying food.	1	1	0.999994061712468
+A tourniquet is dangerous if left on too long.	A surgical tourniquet is dangerous if left on too long.	1	1	0.9679678751502258
+Police arms their weapons.	Questionable police arms their weapons.	1	0	0.9979986780242441
+Coke is contained in bottles.	Asphaltic coke is contained in bottles.	0	0	0.9997193677000732
+Garbage is for polluting the landscape.	Informed garbage is for polluting the landscape.	0	1	0.9992603646739923
+A  is is the fist letter of the alphabet.	Strong a  is is the fist letter of the alphabet.	0	1	0.8654378711294303
+Fun is enjoyable.	Virtual fun is enjoyable.	1	1	0.999827366909718
+You use cotton to make cotton cloth.	You use top cotton to make cotton cloth.	1	1	0.9901357526660461
+A penny is for tossing a coin.	A bad penny is for tossing a coin.	1	1	0.9660822664600885
+You use a snowflake to make water.	You use an orange snowflake to make water.	0	0	0.8309195669229051
+A resin is for prepareing bows for stringed instuments.	A false resin is for prepareing bows for stringed instuments.	0	0	0.963289839457569
+We think we can make a nice contribution.	We minute think we can make a nice contribution.	0	1	0.8253618198568126
+A soldier storms a beach.	A former soldier storms a beach.	2	0	0.9988376427533251
+A bank is used for charging interest.	A proposed bank is used for charging interest.	1	1	0.9974712691355438
+Airports is well designed.	Next airports is well designed.	0	1	0.9998401377772116
+A decanter is used for holding a beverage.	A large decanter is used for holding a beverage.	1	1	0.9999881208056177
+A backyard is used for growing a garden.	A next backyard is used for growing a garden.	1	1	0.9993687633270107
+You use a bicycle to travel short distances.	You use a whole bicycle to travel short distances.	1	1	0.9999980410814739
+You use a bookshelf to hide defects on a wall.	You use a virtual bookshelf to hide defects on a wall.	0	0	0.9908444387975021
+Garbage is for being picked up by garbage men.	Regular garbage is for being picked up by garbage men.	1	1	0.9961486367353123
+A wheelchair is used for mobility.	A standard wheelchair is used for mobility.	1	1	0.9987002915580032
+You use the net to order books.	You use the preliminary net to order books.	1	0	0.7019216812888538
+A tub is for clean people.	A cylindrical tub is for clean people.	1	1	0.9999016923683678
+You use a projectile to hit an object.	You use a select projectile to hit an object.	1	1	0.9977009238354911
+You use a friend to go shopping with.	You use a former friend to go shopping with.	0	1	0.5891623185630234
+A democrat fears republicans.	A liberal democrat fears republicans.	1	1	0.9997011519602262
+The attendant sorts the ticket stubs.	The personal attendant sorts the ticket stubs.	1	1	0.999963109818111
+A coin is used for small change.	A former coin is used for small change.	0	0	0.9968555200678745
+An alley is for rear exits from buildings or property.	A historic alley is for rear exits from buildings or property.	1	1	0.9989466577799003
+A banjo is for playing.	A good banjo is for playing.	1	1	0.9994492665008782
+The cop directs traffic.	The much cop directs traffic.	0	0	0.9999965588591678
+A band records an album.	A virtual band records an album.	1	1	0.9856599029020977
+A bottle contains liquid.	A left-hand bottle contains liquid.	1	1	0.9999999584777788
+A rifle is for murder.	An unregistered rifle is for murder.	2	1	0.9999651617995248
+A shareholder is for losing money.	A fictional shareholder is for losing money.	0	0	0.9705781038092144
+A trumpet sounds like a horn.	A potent trumpet sounds like a horn.	1	1	0.9995920112539324
+Steel is polished.	Material steel is polished.	1	1	0.9747425896676044
+A system is for organizing data.	A simulated system is for organizing data.	0	1	0.943773937001419
+Carpeting is for covering the floor.	Artificial carpeting is for covering the floor.	1	1	0.9812926828250443
+A handbag is for carrying your drivers license.	A double handbag is for carrying your drivers license.	1	1	0.9999725267559697
+The author words things very carefully.	The surgical author words things very carefully.	2	1	0.8968408551988912
+A trader trades with people.	A former trader trades with people.	0	0	0.9699857512937302
+Jump causes jump.	Unsuccessful jump causes jump.	0	0	0.9950811638271827
+Something that might happen as a consequence of shouting is a sore throat.	Something that might happen as a consequence of loud shouting is a sore throat.	2	1	0.9887371161770822
+An operator directs a call.	A certain operator directs a call.	1	1	0.999992472096255
+A battle is for gaining territory.	A current battle is for gaining territory.	1	1	0.9989677688940665
+Button is used for fasten.	Dead button is used for fasten.	1	0	0.9999998770081931
+A house is for keeping accumulated junk.	A historic house is for keeping accumulated junk.	1	1	0.9928133728234678
+Seawater contains minute traces of gold.	Warm seawater contains minute traces of gold.	1	1	0.9999996394400915
+A bidet is for washing your backside.	A simple bidet is for washing your backside.	1	1	0.987018319321225
+You use a kettle to prepare tea.	You use an inexhaustible kettle to prepare tea.	1	1	0.9956487371971601
+An altar is for sacrifices.	An original altar is for sacrifices.	0	1	0.9996005236380406
+You use a hotel to sleep.	You use a fine hotel to sleep.	1	1	0.9998274516172027
+Sometimes fishing causes you to tell a fish tale.	Sometimes salmon fishing causes you to tell a fish tale.	1	1	0.995441940614212
+The universe is very old.	The political universe is very old.	1	1	0.9990522309622223
+A secretary agrees with his boss.	A deputy secretary agrees with his boss.	1	1	0.9757401725275727
+A classroom is for teaching.	A popular classroom is for teaching.	1	1	0.9999464718298263
+Recycle sorts junk.	Secondary recycle sorts junk.	1	1	0.9981776832163953
+Fiberglass is used for insulation.	Comparable fiberglass is used for insulation.	1	1	0.9999974689446429
+A neighbor is for borrowing things from.	A virtual neighbor is for borrowing things from.	1	0	0.9906991518620326
+A rabbi seats the synagogue.	An associate rabbi seats the synagogue.	1	1	0.9997521891207204
+A nurse voices concern.	A behavioral nurse voices concern.	1	1	0.9994888398303431
+History is written by the winners of wars.	False history is written by the winners of wars.	0	0	0.9574832584012835
+A roof is found on top of a building.	An enormous roof is found on top of a building.	1	1	0.9995360819640333
+A clip is for dogs.	A flashy clip is for dogs.	0	1	0.9999760978375787
+A chapel is for people who are seeking sanctuary.	A mandatory chapel is for people who are seeking sanctuary.	0	1	0.9940130891331781
+You use a menu to order food.	You use an open menu to order food.	1	1	0.9986918285461284
+Silk is for bed sheets.	Artificial silk is for bed sheets.	1	1	0.9993468099637711
+A rabbit has long front teeth.	A frightened rabbit has long front teeth.	1	1	0.9999993278842148
+A college is used for learning new things.	A veterinary college is used for learning new things.	1	1	0.9996965726101057
+A drawer is for storing personal items.	A stainless drawer is for storing personal items.	1	1	0.9997383165135874
+Cricket is played in many british colonies.	Hard cricket is played in many british colonies.	1	1	0.9936800455353418
+A tractor is used for pulling waggons.	An excellent tractor is used for pulling waggons.	1	1	0.9998086863290878
+A wig is bought at a wig shoppe.	A big wig is bought at a wig shoppe.	1	1	0.9990122024418446
+Soap is for washing.	Insecticidal soap is for washing.	0	1	0.999967856386788
+A company has assets.	A historic company has assets.	1	1	0.9999973220090971
+A leader arms a population.	A tribal leader arms a population.	1	1	0.6913956947203261
+A lady fancies a slice of cake.	A former lady fancies a slice of cake.	1	1	0.9730754341067712
+A clarinet is used for playing music in a band.	A rare clarinet is used for playing music in a band.	1	1	0.8043105696685368
+You use a restaurant to drink lemonade.	You use an ethnic restaurant to drink lemonade.	1	1	0.9999236403929072
+A backdrop is found on a stage.	A global backdrop is found on a stage.	1	1	0.9999478588390429
+Seaweed is found in the ocean.	Green seaweed is found in the ocean.	1	1	0.9999968957187368
+Something that might happen as a consequence of working is becoming bored.	Something that might happen as a consequence of central working is becoming bored.	0	0	0.7101421499690268
+You use cash to pay for goods.	You use tax-free cash to pay for goods.	1	1	0.9999265599743263
+A hallway is for stairs to lead to.	An old hallway is for stairs to lead to.	1	1	0.9993874411952641
+A fence is used for containing animals.	A virtual fence is used for containing animals.	0	0	0.9963038330994998
+A satchel is used for packaging.	A cool satchel is used for packaging.	1	1	0.9999982181992377
+A carpenter completes a bookshelf.	A retired carpenter completes a bookshelf.	1	0	0.7767458406846145
+Skin is for removing unwanted things from body.	Disposable skin is for removing unwanted things from body.	0	1	0.945815674696387
+An auditorium is for performances.	A high auditorium is for performances.	1	1	0.9999531046466822
+A bath is for relaxation.	A light bath is for relaxation.	1	1	0.9986506408321677
+A batter misses the ball.	A classic batter misses the ball.	0	1	0.9988014472117099
+The magician saws the lady in half.	The star magician saws the lady in half.	1	1	0.9757541317884755
+A building is for providing shelter.	A former building is for providing shelter.	0	1	0.9063916413393344
+A boat settles lower.	A former boat settles lower.	0	1	0.507693677563868
+The effect of democracy is equality for everyone.	The effect of unanimous democracy is equality for everyone.	1	1	0.9999149957685824
+A party is for politics.	A medieval party is for politics.	1	1	0.8851751134631428
+You use a saw to cut wood or metal.	You use a cordless saw to cut wood or metal.	1	1	0.9998753144224382
+Turkey is sold in a shop.	Deep-fried turkey is sold in a shop.	1	1	0.9999691856409417
+A homeowner paints their house.	A new homeowner paints their house.	1	1	0.999819345868538
+Wallet may be made from man-made leather.	Empty wallet may be made from man-made leather.	1	1	0.9999969280125228
+A guest brings wine to a party.	A potential guest brings wine to a party.	1	0	0.7814042204799074
+Emo is kind of like wussy punk.	Real emo is kind of like wussy punk.	1	1	0.9967309944499559
+A can is for holding fruits.	An old can is for holding fruits.	1	1	0.9656638165332043
+A cigarette contains poison.	A bent cigarette contains poison.	0	1	0.9931032488015477
+A cave is used for refuge.	A new cave is used for refuge.	1	1	0.9912469787201408
+You use a farmhouse to live in.	You use an idyllic farmhouse to live in.	1	2	0.9997502085596608
+A citizen votes.	A roman citizen votes.	1	1	0.9924079652160958
+A contestant guesses an answer to a question.	A top contestant guesses an answer to a question.	1	1	0.9878980476025876
+Three is more than two.	Serial three is more than two.	1	0	0.9525687140435213
+Carpeting is for comfort.	Custom carpeting is for comfort.	1	1	0.9978955245370746
+A thing is a conception, idea, or utterance.	A dead thing is a conception, idea, or utterance.	0	0	0.9987233584328906
+A kettle is used for making tea.	A big kettle is used for making tea.	1	1	0.999998991194281
+A family moves house.	A hypothetical family moves house.	0	1	0.9638046840610952
+Confidence is contagious.	Pubescent confidence is contagious.	1	1	0.9999244355733353
+Pizza is meant to be cheap food.	Cheap pizza is meant to be cheap food.	2	1	0.6176756831716711
+Some tables are rectangular.	Some mathematical tables are rectangular.	1	1	0.9992079607786265
+A miser saves money.	A lonely miser saves money.	1	1	0.9999971159087047
+A trainer shoes a horse.	A total trainer shoes a horse.	1	0	0.9793018993798869
+A motel is for resting.	A former motel is for resting.	0	0	0.8432976114880826
+A table is for drawing on.	A fake table is for drawing on.	0	0	0.8935900228427769
+Fish have no legs.	Fake fish have no legs.	1	1	0.7679939135342579
+A boat is for floating.	A classic boat is for floating.	1	1	0.9999873829126495
+A building is for providing shelter.	An universal building is for providing shelter.	1	1	0.999618897518575
+A cable is constructed of steel.	A secure cable is constructed of steel.	1	1	0.8708143449582982
+You use a machine to amplify.	You use an ample machine to amplify.	0	1	0.9997602634642905
+A menu is for describing food.	A great menu is for describing food.	1	1	0.9992554263507905
+A survey numbers citizens.	A fictitious survey numbers citizens.	0	0	0.9786811184646227
+Disease kills human bodies.	Mistaken disease kills human bodies.	0	0	0.998366364422407
+A brother bugs his sister.	An unemployed brother bugs his sister.	1	1	0.7658758033190083
+The nurse pages the doctor.	The former nurse pages the doctor.	1	0	0.9964972363479826
+Fabric is made up of fibres.	Possible fabric is made up of fibres.	1	1	0.9975468452065491
+An army is used for wars.	A fictitious army is used for wars.	0	0	0.9999701045493703
+A painter spends time on preliminary sketches.	A past painter spends time on preliminary sketches.	1	1	0.9975935605908944
+A teacher helps a student to learn.	A genuine teacher helps a student to learn.	1	1	0.9995563950610916
+Chocolate coats cherries.	Hot chocolate coats cherries.	0	1	0.9983256282418425
+A store charges money for goods.	A partial store charges money for goods.	1	1	0.9993706124085131
+You use a radio to listen to the daily news.	You use an old radio to listen to the daily news.	1	1	0.9866938193387033
+Cardboard is recycled.	High cardboard is recycled.	1	1	0.8789758802716481
+A menu is for listing entrees.	A virtual menu is for listing entrees.	1	1	0.9991744973420867
+A fortune is used for doing good works.	An astounding fortune is used for doing good works.	1	1	0.9987781747700786
+A gambler doubles her winnings.	An impressive gambler doubles her winnings.	2	2	0.998457079545503
+A tool is used to fix or build things.	An artificial tool is used to fix or build things.	1	1	0.9992324011428583
+A mechanic perfects a carburetor adjustment procedure.	A private mechanic perfects a carburetor adjustment procedure.	1	1	0.9996927484151916
+A terrace is for erosion prevention.	An outdoor terrace is for erosion prevention.	1	1	0.9121326789914966
+Bodies have tissue.	Governing bodies have tissue.	1	1	0.9999315052930706
+An alarm is sounded when the sentry is frightened.	A second alarm is sounded when the sentry is frightened.	1	1	0.9999892145430822
+Fence is used for marking property lines.	Extra fence is used for marking property lines.	1	1	0.9974540085090553
+Hay is used to feed cattle.	Old hay is used to feed cattle.	1	1	0.9989642778456631
+A rug is for walking on.	A floral rug is for walking on.	1	1	0.9999740476710114
+A hand holds a hand.	A virtual hand holds a hand.	0	1	0.9254756116889948
+You use a column to organize information.	You use a dead column to organize information.	0	0	0.9999999533632821
+Reading is for research.	Possible reading is for research.	0	0	0.9451903913357416
+A tin is used for storing stuff.	A loose tin is used for storing stuff.	1	1	0.9999859882634874
+Some inflation is good.	Some natural inflation is good.	1	1	0.9979192097137494
+Bow is used for shoot.	Particular bow is used for shoot.	0	1	0.9971587739370464
+Cold has the effect of freezing.	Congested cold has the effect of freezing.	0	0	0.9868270503544884
+Success is perceived by each individual's standards.	Surging success is perceived by each individual's standards.	1	1	0.9993463133654706
+A boxer deals a punch to the opponent.	A former boxer deals a punch to the opponent.	0	0	0.9993565197526079
+Housework is boring.	General housework is boring.	1	1	0.9999960160977251
+A knife is used to kill a person.	An ordinary knife is used to kill a person.	1	1	0.9884992774031214
+A bureau is for sachets.	A criminal bureau is for sachets.	0	0	0.9637710661962845
+A bicycle is used for riding.	A nice bicycle is used for riding.	1	1	0.9999928925700756
+Cardboard is made from trees.	Rigid cardboard is made from trees.	1	1	0.9999172036019724
+A male kisses a female.	A modern male kisses a female.	1	1	0.9979898542708711
+Rotate causes revolve.	Relative rotate causes revolve.	1	1	0.9867008926026765
+A loft is for storing objects.	A superior loft is for storing objects.	1	1	0.9999360104554925
+Breathing is for taking oxygen into our bodies.	Controlled breathing is for taking oxygen into our bodies.	1	1	0.5392919102479078
+A painter coats a wall with paint.	A characteristic painter coats a wall with paint.	0	1	0.9999789771965539
+Tofu is made from soybeans.	Fried tofu is made from soybeans.	2	1	0.950955312514022
+A freezer is for keeping things very cold.	A mechanical freezer is for keeping things very cold.	1	1	0.9999032594620844
+Fish keeps track of complex social relationships.	Dead fish keeps track of complex social relationships.	0	0	0.9999999601722622
+Steam is used to steam rice.	Impure steam is used to steam rice.	1	0	0.9813206701859575
+A drummer follows the tume.	A great drummer follows the tume.	2	1	0.9813627729727536
+Something that might happen as a consequence of shopping is you might buy new clothes.	Something that might happen as a consequence of future shopping is you might buy new clothes.	1	1	0.9906238757450394
+You use a club to beat somebody up.	You use a likely club to beat somebody up.	1	1	0.9969092453138495
+A stock doubles in worth.	A virtual stock doubles in worth.	1	1	0.9516687464241589
+An athlete attempts to set a record.	An awesome athlete attempts to set a record.	2	1	0.9966279293204775
+An arena is used for watching sports.	A covered arena is used for watching sports.	1	1	0.9999958527502185
+A keyboard is used for play music.	An inexpensive keyboard is used for play music.	1	1	0.9998577671582517
+Sometimes dancing causes you to sweat.	Sometimes interactive dancing causes you to sweat.	1	1	0.9999999213882026
+A river is used for carrying off rain water.	A green river is used for carrying off rain water.	0	1	0.9999290313091596
+An alley is for access to the backsides of buildings.	A new alley is for access to the backsides of buildings.	2	1	0.9998430271531134
+Health is good.	Future health is good.	1	1	0.9924221847091818
+A jack is strong enough to lift a truck.	A common jack is strong enough to lift a truck.	1	1	0.9998516994894839
+A climber nears the top.	A skilled climber nears the top.	1	2	0.9999920420116756
+A leather is for protective clothing.	An available leather is for protective clothing.	0	1	0.998391704567526
+The effect of swimming is movement through water.	The effect of high swimming is movement through water.	1	1	0.9993745170100915
+An artist colors a picture.	An expected artist colors a picture.	1	1	0.9995288962996625
+You use a grenade to commit suicide.	You use a real grenade to commit suicide.	1	2	0.9903797002396282
+A stream is for wading accross.	A principal stream is for wading accross.	1	1	0.9999452061605673
+A babysitter minds that young child.	A young babysitter minds that young child.	1	1	0.9944717763543829
+A star supernovas.	A supposed star supernovas.	0	1	0.977649568211285
+A psychiatrist listens to people's problems.	A questionable psychiatrist listens to people's problems.	0	1	0.7938971426156125
+A promise is broken.	A false promise is broken.	2	2	0.6282289001907462
+The effect of punching someone is feeling avenged.	The effect of private punching someone is feeling avenged.	2	1	0.9993663566108725
+A tapestry is for looking at.	An arcane tapestry is for looking at.	1	1	0.9979281177757832
+A state may levy taxes.	A nonviolent state may levy taxes.	1	1	0.9999983931323441
+A horn is for jazz.	A superficial horn is for jazz.	0	0	0.8777172752238102
+Snow is beautiful.	Likely snow is beautiful.	1	0	0.6903394635188348
+Milk is homogenized for human consumption.	False milk is homogenized for human consumption.	0	0	0.9990192835851607
+A street is used for automobiles.	A main street is used for automobiles.	1	1	0.9964098899256426
+Blood streams from a serious wound.	Simulated blood streams from a serious wound.	1	0	0.9996842593922897
+You use a toothpaste to ensure good dental health.	You use an ideal toothpaste to ensure good dental health.	2	1	0.6737919568908514
+A bowler gets a strike.	A fourth bowler gets a strike.	1	1	0.9995145200480462
+Compassion touches hearts.	False compassion touches hearts.	0	0	0.9999376528111715
+You use a faucet to get water.	You use a sleek faucet to get water.	1	1	0.9999966845902912
+A doorway is for opening a door.	A former doorway is for opening a door.	1	1	0.5833150809976696
+Something that might happen as a consequence of skating is falling down.	Something that might happen as a consequence of daily skating is falling down.	2	1	0.9866384477053586
+You use a clock to chime in when you need it.	You use a potential clock to chime in when you need it.	0	1	0.7554586840673699
+A bucket holds liquid.	A deep bucket holds liquid.	1	1	0.9997775641720625
+A writer prints written words on a printer.	An award-winning writer prints written words on a printer.	1	1	0.9997612293493383
+A referee parts two boxers.	A worse referee parts two boxers.	0	1	0.7073922911396079
+A rainbow is pretty.	A wild rainbow is pretty.	1	1	0.9989563924582567
+A chapel is useless.	A small chapel is useless.	1	1	0.9934784020537581
+A story is used for putting kids to sleep.	A mock story is used for putting kids to sleep.	1	1	0.781447756391604
+A criminal is likely to have a weapon.	A nefarious criminal is likely to have a weapon.	1	2	0.736603142043396
+A robot is controlled by a computer.	An artificial robot is controlled by a computer.	1	1	0.9996935619833593
+A captain is used for directing lieutenants.	An influential captain is used for directing lieutenants.	1	2	0.9869103989718819
+Confidence is shared.	Young confidence is shared.	1	1	0.999650810121443
+A brother is used for friendship.	A deceased brother is used for friendship.	1	0	0.7533690863468644
+A clock is used for keeping time.	A virtual clock is used for keeping time.	1	1	0.997333051530567
+You use a cloth to add texture.	You use a textile cloth to add texture.	1	1	0.9742396264720434
+A doormat is found outside a door.	A personal doormat is found outside a door.	1	1	0.9999713203856617
+An auditorium is used for lectures.	A main auditorium is used for lectures.	1	1	0.9999632476708707
+A priest puts his congregation to sleep.	A dark priest puts his congregation to sleep.	1	1	0.9994014402079483
+A canary detects gas in a mine.	A sensitive canary detects gas in a mine.	2	1	0.9996547641818675
+You use a billboard to hide from motorists.	You use a virtual billboard to hide from motorists.	0	1	0.7170646188783871
+Survival is fun.	Monthly survival is fun.	0	1	0.9950973402315547
+Comb is needed when you comb your hair.	Second comb is needed when you comb your hair.	0	0	0.6522189527129241
+A policy is cancelled.	An embedded policy is cancelled.	1	1	0.9996001979795033
+A scientist times an experiment.	A supreme scientist times an experiment.	1	1	0.9986215945952636
+A window is for looking outside.	An average window is for looking outside.	1	1	0.999938541147501
+An arch is curved.	A cc arch is curved.	0	1	0.9974330369389561
+Spanking is negative feedback.	Hard spanking is negative feedback.	2	1	0.8123612076233953
+The mind is tended.	The entrepreneurial mind is tended.	1	1	0.9997479999069898
+Yacht is used for race.	Wooden yacht is used for race.	1	0	0.9797801667035148
+Buttons are used to fasten some pants.	Easy buttons are used to fasten some pants.	1	0	0.9786841540006082
+You use a shareholder to support your company.	You use an ineligible shareholder to support your company.	1	0	0.9999916995221013
+Paint is dark.	Non paint is dark.	0	0	0.772939206007012
+The eagle has landed.	The golden eagle has landed.	1	1	0.9996213206586452
+An actress stars in a shakespeare play.	A nude actress stars in a shakespeare play.	1	1	0.9985277946598838
+You use a letter to communicate to a friend.	You use an extended letter to communicate to a friend.	1	1	0.9884704565671192
+The truth is elusive.	The likely truth is elusive.	1	1	0.9992324654533711
+A cannon is used to shoot cannonballs.	A huge cannon is used to shoot cannonballs.	1	1	0.997193948958718
+A price is measured in dollars.	An affordable price is measured in dollars.	1	1	0.9991047937360968
+A banjo is found in new orleans.	A great banjo is found in new orleans.	1	1	0.9224990360480837
+A bungalow is for partying inside.	A detached bungalow is for partying inside.	1	1	0.9999977001496086
+A mortar is used for masonry.	A historic mortar is used for masonry.	0	1	0.9955944546255471
+An execution is for bringing a victim to death.	A past execution is for bringing a victim to death.	0	0	0.9972554881538649
+A family shares a meal.	A stable family shares a meal.	2	1	0.9999992132007989
+An artist shades a picture.	A former artist shades a picture.	0	1	0.6629902522575439
+Slavery is bad.	Racial slavery is bad.	1	1	0.9999992937748895
+You use a couch to rest or relax.	You use a modern couch to rest or relax.	1	1	0.9999335749971563
+A lobby is for a large building.	A main lobby is for a large building.	1	1	0.998665909206537
+The effect of sleeping is wasted time.	The effect of dead sleeping is wasted time.	0	0	0.8867520596899232
+A celebrity is associated with mansions.	An ultimate celebrity is associated with mansions.	1	1	0.9998687542954996
+A shock causes a person to die.	A future shock causes a person to die.	1	0	0.9921706286052088
+Corn is ground into meal.	Braided corn is ground into meal.	0	1	0.999996864753387
+A volume is for adjusting amplitude.	A virtual volume is for adjusting amplitude.	1	1	0.9115905153592765
+A rider bicycles uphill.	An adult rider bicycles uphill.	1	1	0.9995011468484787
+Garbage smells horrible.	Proposed garbage smells horrible.	1	1	0.9993627032378852
+You use a barbecue to feed your family.	You use a contemporary barbecue to feed your family.	1	1	0.9999757179502812
+An adult explains the rules to a child.	A prototypical adult explains the rules to a child.	1	1	0.9997332927978395
+A bear hunts a rabbit.	A small bear hunts a rabbit.	1	1	0.9999991513862668
+Quality is more important than quantity.	Constant quality is more important than quantity.	2	1	0.9992083184848322
+Petrol is put into cars.	Unbranded petrol is put into cars.	1	1	0.9999999875437077
+A graveyard is used for buring the dead.	An old graveyard is used for buring the dead.	1	1	0.9930853010590917
+A cashier prices an item.	An exact cashier prices an item.	1	1	0.9999669702915439
+Bananas is eaten.	Cooked bananas is eaten.	1	1	0.9943590757216371
+Success is measured in many different ways.	Future success is measured in many different ways.	2	1	0.9959323580267366
+A counter is used for working whilst standing.	A virtual counter is used for working whilst standing.	0	1	0.9870110664201645
+Crack causes crack.	Cleft crack causes crack.	2	1	0.7811247263915798
+A lover distances themselves.	A speedy lover distances themselves.	1	1	0.9706655752598708
+A meal nears perfection.	A light meal nears perfection.	1	1	0.9999323784037898
+Meat is taken from freshly killed animals.	Valuable meat is taken from freshly killed animals.	1	1	0.9999317730839592
+A rule is for understanding.	An offshore rule is for understanding.	1	1	0.8029739371264396
+A nurse voices concern.	A possible nurse voices concern.	1	0	0.6878857141237393
+A ghost haunt.	A hungry ghost haunt.	1	1	0.9945436667759575
+A receptionist pages a representative.	A medical receptionist pages a representative.	1	1	0.9941901128671744
+A track is used for running.	A dead track is used for running.	0	0	0.9999984010241888
+A bus is for saving money.	A potential bus is for saving money.	1	1	0.7831309816715118
+A crane lifts large masses.	A large crane lifts large masses.	1	1	0.7351366095026041
+A bullet causes a person to die.	A single bullet causes a person to die.	2	1	0.9988948102855665
+A suitcase is for bellboys to carry.	An original suitcase is for bellboys to carry.	1	1	0.9999284551573717
+A movie ends sadly.	An expected movie ends sadly.	1	1	0.9838564671344627
+You use refuse to go to war.	You use orthodox refuse to go to war.	1	1	0.9269798655338695
+My camper sleeps eight people.	My fifth camper sleeps eight people.	1	1	0.9921206326773336
+A toothbrush rests upon a desk top.	A vibratory toothbrush rests upon a desk top.	1	1	0.9999647545840953
+A container is made of metal.	An adjunct container is made of metal.	1	1	0.9983540311820841
+Thunder rolls across the valley.	Great thunder rolls across the valley.	1	1	0.998647243775723
+Science spreads ideas.	Biomedical science spreads ideas.	1	1	0.9999844055893741
+A director pays actors.	A past director pays actors.	1	0	0.5729822753423953
+You use a stairwell to walk up.	You use a public stairwell to walk up.	1	1	0.9992656077593602
+A squirrel stores nuts.	A blind squirrel stores nuts.	1	1	0.9999972656053446
+You use a wardrobe to hang clothes.	You use a questionable wardrobe to hang clothes.	1	1	0.9323200682647615
+A match touches the skin.	A detailed match touches the skin.	0	1	0.9895036481045766
+Mom uses a opener.	Seeming mom uses a opener.	1	0	0.9937021585327731
+A town is for a place to live.	A north town is for a place to live.	1	1	0.996956462287287
+A drill is for drilling.	An ordinary drill is for drilling.	1	1	0.9978766028014797
+Carpeting is used for softening the sounds of footsteps.	Original carpeting is used for softening the sounds of footsteps.	1	1	0.9997163419137456
+A balloon is for decoration.	A single balloon is for decoration.	1	1	0.9999954707661158
+A visitor rings the doorknob.	A frequent visitor rings the doorknob.	1	1	0.9997346181626068
+You use a name to represent.	You use a funny name to represent.	1	1	0.9971782538336467
+You use a grasper to grab things.	You use a surgical grasper to grab things.	1	1	0.9993750602153872
+A hill is higher ground.	A great hill is higher ground.	1	1	0.991895805957673
+You use a doorway to enter a room.	You use a common doorway to enter a room.	1	1	0.9999537837191893
+You use an audience to get money.	You use a potential audience to get money.	1	1	0.9713008413705695
+A scale is for protecting the body of an animal.	A harmonic scale is for protecting the body of an animal.	0	1	0.9499078719706195
+Something that might happen as a consequence of baking is burning the cake.	Something that might happen as a consequence of subsequent baking is burning the cake.	1	1	0.995521221417671
+A sentence is composed of many words.	A conditional sentence is composed of many words.	1	1	0.9989925828428541
+An umbrella has spokes.	A fantastic umbrella has spokes.	1	1	0.9999258143617993
+Snoring is for noticing that someone is sleeping.	Predetermined snoring is for noticing that someone is sleeping.	1	1	0.9951309389190476
+Aging has the effect of wrinkling the skin.	Natural aging has the effect of wrinkling the skin.	2	1	0.999150591119275
+A bazaar is for looking at things to buy.	An annual bazaar is for looking at things to buy.	1	1	0.988276841787123
+You use a lobby to make deals.	You use a right lobby to make deals.	1	1	0.9999721942240226
+A tree is used for bird nests.	A historic tree is used for bird nests.	1	1	0.9999895273552297
+Sometimes skating causes tired ankles.	Sometimes free skating causes tired ankles.	1	1	0.9999980667128064
+A cubicle is for granting personal space.	A mobile cubicle is for granting personal space.	1	1	0.9964380783680319
+A sponge wets a surface.	An armored sponge wets a surface.	0	1	0.9850467528394355
+Rock is difficult to carve by hand.	Artificial rock is difficult to carve by hand.	1	1	0.8978015962716946
+A reporter doubts his source.	An unprincipled reporter doubts his source.	0	1	0.9999996582418553
+An executive talks with confidence.	A principal executive talks with confidence.	2	1	0.9999756243351061
+A program mines a database.	A faulty program mines a database.	0	0	0.9923278452543651
+A cook decides when to serve dinner.	A select cook decides when to serve dinner.	1	1	0.9999801422698732
+A faucet is used for running water.	A stunning faucet is used for running water.	1	1	0.9926751883753014
+You use a lawn to walk on.	You use a fake lawn to walk on.	1	0	0.7229930411154726
+A suitcase is used for packing clothes for a trip.	A small suitcase is used for packing clothes for a trip.	1	1	0.9999809659693766
+A sugar is for sweetening tea.	A soft sugar is for sweetening tea.	1	1	0.9993254326309869
+A cad wrongs his lover.	A suspected cad wrongs his lover.	1	1	0.994851775446473
+A spoon has a cupped end and a handle.	A full spoon has a cupped end and a handle.	1	1	0.99999980457592
+Electricity powers many machines.	Free electricity powers many machines.	1	1	0.9999903198746497
+A floor is for preventing things from falling.	A composite floor is for preventing things from falling.	1	1	0.917994446023098
+An actor stars in a television show.	A multiple actor stars in a television show.	0	1	0.9995316998671527
+Water is used to make coffee.	Washed water is used to make coffee.	0	1	0.9999872961773683
+A disease is used for killing organisms.	A potential disease is used for killing organisms.	1	1	0.9983835024346526
+Land causes land.	Second land causes land.	1	0	0.9737794644160765
+A burglar surprises a homeowner.	A suspect burglar surprises a homeowner.	1	1	0.9931882288867718
+A tin cans will eventually rust.	A full tin cans will eventually rust.	1	1	0.9773619987627269
+You use a fork to eat a meal.	You use a proprietary fork to eat a meal.	1	0	0.9974638251659205
+Garbage is stored in a can.	Natural garbage is stored in a can.	1	1	0.9999293150352965
+A patient wills to survive.	A potential patient wills to survive.	1	1	0.9041302046877573
+You use a stool to increase your height.	You use a short stool to increase your height.	1	0	0.9681329231308907
+Scrapbook is for remembering.	Annual scrapbook is for remembering.	1	1	0.8888774089142796
+Sometimes love causes pain.	Sometimes suspicious love causes pain.	2	1	0.9998053580252052
+A pebble is for filling small holes.	A porous pebble is for filling small holes.	1	1	0.9999895134599157
+Wheat is used for making flour.	Fat wheat is used for making flour.	1	1	0.9999999385517451
+A stream branches off.	A virtual stream branches off.	0	0	0.6692189747021389
+A heater is used in the winter.	A hot heater is used in the winter.	1	1	0.9955181415780774
+You use a tin to make ornaments.	You use a convenient tin to make ornaments.	1	1	0.9999920826318494
+A table is for writing at it.	A quarterly table is for writing at it.	0	0	0.7687173491074931
+A dollar equals four quarters.	A millionth dollar equals four quarters.	0	1	0.9976292730973269
+A cake is for a birthday.	A fake cake is for a birthday.	0	0	0.9988840179974388

@@ -29,8 +29,8 @@ def map_class(task, pred_label, label_probs):
 	'''Maps GPT3's predicted label to the RNPC task label.'''
 	if task == "MPTE":
 		assert pred_label in [0, 1, 2]
-		entail_prob = label_probs[" 2"]
-		nonentail_prob = label_probs[" 0"] + label_probs[" 1"] # sum up contradiction & neutraal
+		entail_prob = label_probs[2]
+		nonentail_prob = label_probs[0] + label_probs[1] # sum up contradiction & neutraal
 		total_prob = entail_prob + nonentail_prob
 		if entail_prob >= nonentail_prob:
 			return 1, entail_prob/total_prob # entail
@@ -38,8 +38,8 @@ def map_class(task, pred_label, label_probs):
 			return 0, nonentail_prob/total_prob # non-entail
 	elif task == "EPC":
 		assert pred_label in [0, 1, 2]
-		total_prob = label_probs[" 0"] + label_probs[" 1"] + label_probs[" 2"]
-		pred_prob = label_probs[f" {pred_label}"] / total_prob
+		total_prob = label_probs[0] + label_probs[1] + label_probs[2]
+		pred_prob = label_probs[pred_label] / total_prob
 		return pred_label, pred_prob
 
 def convert_example_to_prompt(task, example):
@@ -67,10 +67,8 @@ if __name__ == "__main__":
 	model = eval(config.gpt3_model)
 	trial = config.trial
 
-	# get your own key from https://beta.openai.com/account/api-keys and set it as an environment variable
-	openai.api_key = os.getenv("OPENAI_API_KEY")
 
-
+	# dirs
 	frn = f"data/RNPC/tasks/{task}.csv"
 	test_set = read_dataset(frn)
 
