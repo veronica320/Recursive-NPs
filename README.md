@@ -52,14 +52,53 @@ If you want to finetune the models yourself, start from Step 1. Otherwise, start
 
 #### 1. Finetune a model on an existing benchmark
 
+If you want to finetune **Huggingface models** (BERT, RoBERTa, ...):
+
+(1) Go to the folder
 ```
-cd source/Qa/finetune_on_benchmark
+cd source/Qa/eval_on_RNPC/finetune_on_benchmark/other_models
 ```
+
+(2) Set the relevant configuration in `finetune.py`
+
+See comments inside.
+
+(3) Run the finetuning script
+```
+./finetune.sh
+```
+The running log will be saved under `logs/` in the current directory. The finetuned model will be saved under `output_model_dir` in the root directory.
+
+
+
+Similarly, if you want to finetune **GPT-3 models**:
+
+(1) Go to the folder
+```
+cd source/Qa/eval_on_RNPC/finetune_on_benchmark/gpt3
+```
+
+(2) Set the relevant configuration in `finetune_gpt3.py`
+
+See comments inside.
+
+(3) Set the environment variable `OPENAI_API_KEY`
+```
+export OPENAI_API_KEY = [YOUR KEY FROM https://beta.openai.com/account/api-keys]
+```
+
+(4) Run the finetuning script
+```
+./finetune_gpt3.sh
+```
+The running log will be saved under `logs/` in the current directory. 
+The finetuned model be saved on the OpenAI server, which can be accessed using the model name. The model name will be printed to the log file.
+
 
 #### 2. Evaluate the finetuned model on an RNPC task
 
 
-If you want to evaluate **Huggingface models** (BERT, RoBERTa, BART):
+If you want to evaluate **Huggingface models** (BERT, RoBERTa, ...):
 
 (1) Go to the folder
 ```
@@ -111,8 +150,13 @@ export OPENAI_API_KEY = [YOUR KEY FROM https://beta.openai.com/account/api-keys]
 The output will look similar to the previous case.
 
 ### (b) Is such knowledge learnable with appropriate data?
+
+
 ### (c) What can LMs learn from RNPC?
+We adapt [the code from the Amnesic Probing paper](https://github.com/yanaiela/amnesic_probing) (Elazor et al. 2021). Available upon request.
+
 ### (d) Is RNPC useful for downstream tasks?
+
 
 ## Citation
 If you find this repository useful, please cite our paper:

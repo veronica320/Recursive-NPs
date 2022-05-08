@@ -95,7 +95,7 @@ elif args.target == "ADEPT":
 else:
 	raise ValueError("Unknown target. Can only be among {'MPE', 'ADEPT'}.")
 
-
+# train and evaluate
 if args.mode == 'train_eval':
 	os.system(f'python $TRANS_DIR/run_glue.py \
 	  --model_name_or_path $MODEL_NAME \
@@ -116,6 +116,7 @@ if args.mode == 'train_eval':
 	  --run_name {args.target}_{args.model}_train\
 	  --fp16')
 
+# evaluate only
 if args.mode == 'eval':
 	os.system(f'python $TRANS_DIR/run_glue.py \
 	  --model_name_or_path $OUT_DIR \
@@ -129,6 +130,7 @@ if args.mode == 'eval':
 	  --run_name {args.target}_{args.model}_eval\
 	  --fp16')
 
+#test only
 if args.mode == 'test':
 	os.system(f'python $TRANS_DIR/run_glue.py \
 	  --model_name_or_path $OUT_DIR \
