@@ -1,4 +1,4 @@
-'''Evaluates finetuned models on RNPC tasks.'''
+'''Given models finetuned on existing benchmarks, evaluate on RNPC tasks.'''
 
 import os
 import sys
@@ -16,57 +16,11 @@ os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_devices
 import torch
 
 from Qa.utils import compute_scores, n_classes_dict_NP, label_text2id, label_id2text, task_fieldnames, unchanged_fields
+from utils import entailment, event_plausibility
 
 import numpy as np
 import csv
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from utils import task_name_dict
-
-
-def entailment(model_name, premise, hypothesis):
-	'''Predicts whether the premise entails (1 yes, 0 no) the hypothesis.'''
-
-	global model
-	global tokenizer
-
-	# textattack models have class 1 as entailment
-	if "textattack" in model_name:
-		entail_idx = 1
-	# other models have class 2 as entailment
-	else:
-		entail_idx = 2
-
-	x = tokenizer.encode(premise, hypothesis, return_tensors='pt')
-	logits = model(x.to("cuda:0"))[0]
-
-	probs = logits.softmax(dim=1)[0]
-	probs = probs.cpu().detach().numpy()
-
-	entail_prob = probs[entail_idx]
-	# summing up the probs for contradiction and neutral, as the prob for non-entailment
-	nonentail_prob = sum([prob for i,prob in enumerate(probs) if i != entail_idx])
-
-	if entail_prob >= nonentail_prob:
-		return entail_prob, 1  # entail
-	else:
-		return nonentail_prob, 0  # non-entail
-
-def event_plausibility(model_name, first_event, second_event):
-	'''Predicts whether second_event is more (2)/ equally (1)/ less likely (0) than first_event.'''
-
-	global model
-	global tokenizer
-
-	x = tokenizer.encode(first_event, second_event, return_tensors='pt')
-	logits = model(x.to("cuda:0"))[0]
-
-	probs = logits.softmax(dim=1)[0]
-	probs = probs.cpu().detach().numpy()
-
-	pred_label = np.argmax(probs)
-	confidence = probs[pred_label]
-
-	return confidence, pred_label
 
 
 
@@ -130,10 +84,10 @@ if __name__ == "__main__":
 				# prediction
 				if task in ["SPTE", "MPTE"]:
 					premise, hypothesis = row["premise"], row["hypothesis"]
-					confidence, pred_label_id = entailment(model_name, premise, hypothesis)
+					confidence, pred_label_id = entailment(model, tokenizer, model_name, premise, hypothesis)
 				else:
 					first_event, second_event = row["first_event"], row["second_event"]
-					confidence, pred_label_id = event_plausibility(model_name, first_event, second_event)
+					confidence, pred_label_id = event_plausibility(model, tokenizer, model_name, first_event, second_event)
 
 				gold_label = row["label"]
 				pred_label = label_id2text(pred_label_id, task)

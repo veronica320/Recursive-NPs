@@ -9,7 +9,7 @@
 #nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target SPTE --n_train 125 --model roberta-large-mnli --cuda 0 &
 #nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target SPTE --n_train 150 --model roberta-large-mnli --cuda 0 &
 #nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target SPTE --n_train 175 --model roberta-large-mnli --cuda 0 &
-#nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target SPTE --n_train 200 --model roberta-large-mnli --cuda 0 &
+#nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target SPTE --n_train 200 --model roberta-large-mnli --cuda 4 &
 
 ## MPTE
 #nohup python finetune_on_RNPC.py --mode train_eval --task WNLI --target MPTE --n_train 10 --model MPE_roberta --cuda 1 &

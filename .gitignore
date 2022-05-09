@@ -1,5 +1,7 @@
 # Custom
 .share_model.py
+.idea
+transformers/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
