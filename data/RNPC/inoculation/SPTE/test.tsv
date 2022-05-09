@@ -1,0 +1,967 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is a possible future outcome.	This is a possible outcome.	2	pri-pri	a possible future outcome
+1	This is a burned fake banknote.	This is a fake banknote.	2	pri-pri	a burned fake banknote
+2	This is an almost impossible job.	This is a job.	2	pri-pri	an almost impossible job
+3	This is a figurative quoted expression.	This is a quoted expression.	2	pri-int	a figurative quoted expression
+4	This is a broken glass window.	This is a glass window.	2	pri-int	a broken glass window
+5	This is a virtual private network service.	This is a private network service.	2	pri-int	a virtual private network service
+6	This is a bright counterfeit light.	This is a bright light.	2	int-pri	a bright counterfeit light
+7	This is a handmade empty glass.	This is a handmade glass.	2	int-pri	a handmade empty glass
+8	This is a white paper book.	This is a white book.	2	int-pri	a white paper book
+9	This is a big fake painting.	This is a big painting.	2	sub-pri	a big fake painting
+10	This is a good initial impression.	This is a good impression.	2	sub-pri	a good initial impression
+11	This is a big stone wall.	This is a big wall.	2	sub-pri	a big stone wall
+12	This is a sweet empty dream.	This is a sweet dream.	2	sub-pri	a sweet empty dream
+13	This is a long stone bridge.	This is a long bridge.	2	sub-pri	a long stone bridge
+14	This is the second green ball.	This is a green ball.	2	sub-int	the second green ball
+15	This is the second green ball.	This is a green ball.	2	sub-int	the second green ball
+16	This is an alleged antique vase.	This is a vase.	2	pri-sub	an alleged antique vase
+17	This is an alleged antique vase.	This is a vase.	2	pri-sub	an alleged antique vase
+18	This is a previous long chapter.	This is a previous chapter.	2	pri-sub	a previous long chapter
+19	This is a previous long chapter.	This is a long chapter.	2	pri-sub	a previous long chapter
+20	This is a previous long chapter.	This is a chapter.	2	pri-sub	a previous long chapter
+21	She is a popular female singer.	She is a female singer.	2	sub-int	a popular female singer
+22	This is possible deep structural damage.	This is possible structural damage.	2	pri-sub	possible deep structural damage
+23	This is boring old news.	This is boring news.	2	sub-sub	boring old news
+24	This is one new preferred share.	This is one new share.	2	sub-sub	one new preferred share
+25	This is recent natural disasters.	This is recent disasters.	2	sub-int	recent natural disasters
+26	Those are big European banks.	Those are European banks.	2	sub-int	big European banks
+27	This is a Swedish central statistics agency.	This is a statistics agency.	2	int-sub	a Swedish central statistics agency
+28	This is his old square box.	This is his old box.	2	sub-int	his old square box
+29	This is a national military drill.	This is a military drill.	2	sub-pri	a national military drill
+30	This is some so-called high-quality junk issues.	This is some junk issues.	2	pri-sub	some so-called high-quality junk issues
+31	Those are new yellow curtains.	Those are curtains.	2	sub-int	new yellow curtains
+32	This is Quebecor 's second big printing acquisition.	This is a big printing acquisition.	2	sub-sub	Quebecor 's second big printing acquisition
+33	This is an original unofficial vote count.	This is an unofficial vote count.	2	int-pri	an original unofficial vote count
+34	This is a national experimental project.	This is an experimental project.	2	sub-pri	a national experimental project
+35	He is an imaginary powerful enemy.	He is an imaginary enemy.	2	pri-sub	an imaginary powerful enemy
+36	Those are low initial ratings.	Those are initial ratings.	2	sub-pri	low initial ratings
+37	This is the fourth Swedish winner.	This is the Swedish winner.	2	sub-int	the fourth Swedish winner
+38	This is the mock common admission test.	This is the mock admission test.	2	pri-sub	the mock common admission test
+39	Those are grand old firms.	Those are firms.	2	sub-sub	grand old firms
+40	He is a retired federal lawyer.	He is a retired lawyer.	2	pri-sub	a retired federal lawyer
+41	Those are many failed mergers.	Those are failed mergers.	2	sub-pri	many failed mergers
+42	These are its presumed specific principles.	These are its presumed principles.	2	pri-sub	its presumed specific principles
+43	This is a fictional modern monarchy.	This is a fictional monarchy.	2	pri-sub	a fictional modern monarchy
+44	This is its fourth consecutive gold medal.	This is its consecutive gold medal.	2	sub-int	its fourth consecutive gold medal
+45	She is an attractive blond girl.	She is an girl.	2	sub-int	an attractive blond girl
+46	This is a new preferred stock.	This is a preferred stock.	2	sub-sub	a new preferred stock
+47	This is a presumed negative effect.	This is a presumed effect.	2	pri-sub	a presumed negative effect
+48	This is the fourth Swedish winner.	This is the winner.	2	sub-int	the fourth Swedish winner
+49	Those are new yellow curtains.	Those are new curtains.	2	sub-int	new yellow curtains
+50	He is a presumed regional leader.	He is a presumed leader.	2	pri-sub	a presumed regional leader
+51	This is a low expected return.	This is an expected return.	2	sub-pri	a low expected return
+52	They are Australian junior players.	They are players.	2	int-sub	Australian junior players
+53	This is a broken presidential promise.	This is a broken promise.	2	pri-sub	a broken presidential promise
+54	She is an attractive blond woman.	She is a woman.	2	sub-int	an attractive blond woman
+55	He has numerous broken bones.	He has numerous bones.	2	sub-pri	numerous broken bones
+56	This is a possible incorrect pilot reaction.	This is a possible pilot reaction.	2	pri-pri	a possible incorrect pilot reaction
+57	This is a national anti-terror military drill.	This is a anti-terror military drill.	2	sub-pri	a national anti-terror military drill
+58	This is a partial federal shutdown.	This is a partial shutdown.	2	pri-sub	a partial federal shutdown
+59	These are many unlikely coincidences.	These are unlikely coincidences.	2	sub-pri	many unlikely coincidences
+60	This is a new regional contract.	This is a contract.	2	sub-sub	a new regional contract
+61	This is a big stone lion.	This is a stone lion.	2	sub-pri	a big stone lion
+62	This is a top environmental concern.	This is a concern.	2	sub-int	a top environmental concern
+63	They are regular married folks.	They are folks.	2	sub-int	regular married folks
+64	This is a fictional small island.	This is a fictional island.	2	pri-sub	a fictional small island
+65	This is a retired prominent basketball player.	This is a retired basketball player.	2	pri-sub	a retired prominent basketball player
+66	This is a dangerous dead animal.	This is an animal.	2	sub-int	a dangerous dead animal
+67	This is probable technical difficulties.	This is probable difficulties.	2	pri-sub	probable technical difficulties
+68	This is an apparent third straight defeat.	This is an apparent straight defeat.	2	pri-sub	an apparent third straight defeat
+69	This is the only professional instruction.	This is a professional instruction.	2	sub-sub	the only professional instruction
+70	This is a late morning flight.	This is a flight.	2	sub-int	a late morning flight
+71	These are numerous false rumors.	These are false rumors.	2	sub-pri	numerous false rumors
+72	She is a beautiful young woman.	She is a young woman.	2	sub-sub	a beautiful young woman
+73	He is a Swedish technical skier.	He is a skier.	2	int-sub	a Swedish technical skier
+74	This is a top secondary school.	This is a top school.	2	sub-sub	a top secondary school
+75	He is a tall 12-year-old child.	He is a tall child.	2	sub-int	a tall 12-year-old child
+76	This is an unofficial early result.	This is an unofficial result.	2	pri-sub	an unofficial early result
+77	He is Germany 's next top star.	He is Germany 's next star.	2	pri-sub	Germany 's next top star
+78	Those are grand old firms.	Those are grand firms.	2	sub-sub	grand old firms
+79	These are imminent potential reactions.	These are potential reactions.	2	pri-pri	imminent potential reactions
+80	This is a flat second quarter.	This is a flat quarter.	2	int-sub	a flat second quarter
+81	They are the only big losers.	They are losers.	2	sub-sub	the only big losers
+82	These are top Mexican teams.	These are teams.	2	sub-int	top Mexican teams
+83	These are alleged suspicious transactions.	These are alleged transactions.	2	pri-pri	alleged suspicious transactions
+84	This is impossible good luck.	This is good luck.	2	pri-sub	impossible good luck
+85	She is a heavy newborn baby.	She is a newborn baby.	2	sub-int	a heavy newborn baby
+86	This is the first proposed bid.	This is a proposed bid.	2	sub-pri	the first proposed bid
+87	This is its second recent arbitration case.	This is an arbitration case.	2	sub-sub	its second recent arbitration case
+88	This is a new artificial rubber turf.	This is a new rubber turf.	2	pri-pri	a new artificial rubber turf
+89	This is a South African paper company.	This is a South African company.	2	int-pri	a South African paper company
+90	He is a presumed early rebel target.	He is a presumed rebel target.	2	pri-sub	a presumed early rebel target
+91	This is vice presidential short lists.	This is short lists.	2	pri-sub	vice presidential short lists
+92	This is the company's only real problem.	This is the company's problem.	2	sub-int	the company's only real problem
+93	They are bad Israeli singers.	They are Israeli singers.	2	sub-int	bad Israeli singers
+94	Those are previous similar findings.	Those are similar findings.	2	pri-sub	previous similar findings
+95	He is a Swedish technical skier.	He is a skier.	2	int-sub	a Swedish technical skier
+96	This is a high expected return.	This is an expected return.	2	sub-pri	a high expected return
+97	This is a broken soft drink bottle.	This is a soft drink bottle.	2	pri-sub	a broken soft drink bottle
+98	This is a maximum theoretical speed.	This is a speed.	2	sub-pri	a maximum theoretical speed
+99	This is a national anti- pandemic plan.	This is a anti- pandemic plan.	2	sub-pri	a national anti- pandemic plan
+100	This is some big European institutional investors.	This is some European institutional investors.	2	sub-int	some big European institutional investors
+101	This is a Russian unofficial trade.	This is a Russian trade.	2	int-pri	a Russian unofficial trade
+102	This is a single 18-karat gold earring.	This is a 18-karat gold earring.	2	int-pri	a single 18-karat gold earring
+103	Those are big pink peonies.	Those are big peonies.	2	sub-int	big pink peonies
+104	This is the real genuine truth.	This is the real truth.	2	int-int	the real genuine truth
+105	This is a good full breakfast.	This is a full breakfast.	2	sub-int	a good full breakfast
+106	These are regional religious conflicts.	These are regional conflicts.	2	sub-int	regional religious conflicts
+107	This is the city's first so-called greenfield plant.	This is a so-called greenfield plant.	2	sub-pri	the city's first so-called greenfield plant
+108	She is an honorary national chairman.	She is a chairman.	2	pri-sub	an honorary national chairman
+109	This is the seeming easy access.	This is the seeming access.	2	pri-sub	the seeming easy access
+110	He is a Western top official.	He is a Western official.	2	int-sub	a Western top official
+111	They are many mistaken witnesses.	They are mistaken witnesses.	2	sub-pri	many mistaken witnesses
+112	This is an expected financial surge.	This is an expected surge.	2	pri-int	an expected financial surge
+113	She is a Swedish top diplomat.	She is a Swedish diplomat.	2	int-sub	a Swedish top diplomat
+114	These are national experimental projects.	These are experimental projects.	2	sub-pri	national experimental projects
+115	This is its fourth democratic election.	This is its election.	2	sub-int	its fourth democratic election
+116	She is a top amateur U.S. athlete.	She is an amateur U.S. athlete.	2	sub-sub	a top amateur U.S. athlete
+117	This is a possible incorrect pilot reaction.	This is a pilot reaction.	2	pri-pri	a possible incorrect pilot reaction
+118	This is an apparent heavy demand.	This is an apparent demand.	2	pri-sub	an apparent heavy demand
+119	She is a surrogate national voice.	She is a voice.	2	pri-sub	a surrogate national voice
+120	Those are several past failed efforts.	Those are several efforts.	2	pri-pri	several past failed efforts
+121	This is an original virtual pet.	This is a virtual pet.	2	int-pri	an original virtual pet
+122	This is a single false positive.	This is a false positive.	2	int-pri	a single false positive
+123	This is a big full back yard.	This is a big back yard.	2	sub-int	a big full back yard
+124	This is a plausible fake ID.	This is a fake ID.	2	pri-pri	a plausible fake ID
+125	These are numerous spurious confessions.	These are confessions.	2	sub-pri	numerous spurious confessions
+126	Those are many supposed solutions.	Those are supposed solutions.	2	sub-pri	many supposed solutions
+127	This is a mock early surrender.	This is a mock surrender.	2	pri-sub	a mock early surrender
+128	She has an old German friend.	She has a German friend.	2	sub-int	an old German friend
+129	He is a Swedish permanent representative.	He is a Swedish representative.	2	int-sub	a Swedish permanent representative
+130	She is a Western Australian junior player.	She is a Australian junior player.	2	int-sub	a Western Australian junior player
+131	This is an expected imminent attack.	This is an expected attack.	2	pri-pri	an expected imminent attack
+132	Those are mock wooden machineguns.	Those are mock machineguns.	2	pri-pri	mock wooden machineguns
+133	This is Chinese counterfeit goods.	This is counterfeit goods.	2	int-pri	Chinese counterfeit goods
+134	This is a virtual private network service.	This is a network service.	2	pri-int	a virtual private network service
+135	This is an artificial left leg.	This is an artificial leg.	2	pri-sub	an artificial left leg
+136	She is a known habitual liar.	She is a habitual liar.	2	sub-sub	a known habitual liar
+137	This is a big fake gun.	This is a fake gun.	2	sub-pri	a big fake gun
+138	He is a feverish young boy.	He is a young boy.	2	sub-sub	a feverish young boy
+139	This is soft fake fur.	This is fake fur.	2	sub-pri	soft fake fur
+140	She is a Swedish top diplomat.	She is a diplomat.	2	int-sub	a Swedish top diplomat
+141	This is their first real test.	This is a test.	2	sub-int	their first real test
+142	This is an unlikely late bid.	This is a bid.	2	pri-sub	an unlikely late bid
+143	These are high initial expectations.	These are expectations.	2	sub-pri	high initial expectations
+144	This is an alternative scientific theory.	This is a scientific theory.	2	sub-int	an alternative scientific theory
+145	This is a maximum nominal amount.	This is a nominal amount.	2	sub-pri	a maximum nominal amount
+146	This is a Swedish central statistics agency.	This is a Swedish statistics agency.	2	int-sub	a Swedish central statistics agency
+147	This is a substitute long snapper.	This is a substitute snapper.	2	pri-sub	a substitute long snapper
+148	This is his first big gamble.	This is a big gamble.	2	sub-sub	his first big gamble
+149	He is a tall young man.	He is a young man.	2	sub-sub	a tall young man
+150	These are numerous false assumptions.	These are false assumptions.	2	sub-pri	numerous false assumptions
+151	She is a fictional common ancestor.	She is a fictional ancestor.	2	pri-sub	a fictional common ancestor
+152	This is a sham national convention.	This is a sham convention.	2	pri-sub	a sham national convention
+153	He is an arrogant former young genius.	He is an arrogant former genius.	2	pri-sub	an arrogant former young genius
+154	This is a new preferred stock.	This is a new stock.	2	sub-sub	a new preferred stock
+155	This is a good initial impression.	This is an initial impression.	2	sub-pri	a good initial impression
+156	These are virtual domestic Olympics.	These are virtual Olympics.	2	pri-sub	virtual domestic Olympics
+157	He is a released male prisoner.	He is a released prisoner.	2	pri-int	a released male prisoner
+158	Those are many failed ideas.	Those are many ideas.	2	sub-pri	many failed ideas
+159	This is wide professional use.	This is use.	2	sub-sub	wide professional use
+160	This is a key local industry.	This is a local industry.	2	sub-int	a key local industry
+161	This is false direct evidence.	This is false evidence.	2	pri-int	false direct evidence
+162	He is a famous former actor.	He is a former actor.	2	sub-pri	a famous former actor
+163	This is a big fake painting.	This is a fake painting.	2	sub-pri	a big fake painting
+164	They are the only big losers.	They are big losers.	2	sub-sub	the only big losers
+165	They are new potential customers.	They are potential customers.	2	sub-pri	new potential customers
+166	This is the group 's alleged earlier violation.	This is the group 's alleged violation.	2	pri-sub	the group 's alleged earlier violation
+167	This is a plausible big idea.	This is an idea.	2	pri-sub	a plausible big idea
+168	This is a national rubber producer.	This is a producer.	2	sub-pri	a national rubber producer
+169	He is a Russian alleged arms dealer.	He is an alleged arms dealer.	2	int-pri	a Russian alleged arms dealer
+170	She is my new best friend.	She is my best friend.	2	sub-sub	my new best friend
+171	This is big national laboratories.	This is big laboratories.	2	sub-sub	big national laboratories
+172	Those are numerous mistaken interpretations.	Those are mistaken interpretations.	2	sub-pri	numerous mistaken interpretations
+173	Those are two recent natural disasters.	Those are two disasters.	2	sub-int	two recent natural disasters
+174	He is a retired northern general.	He is a retired general.	2	pri-sub	a retired northern general
+175	This is a fake rhinestone diamond.	This is a fake diamond.	2	pri-int	a fake rhinestone diamond
+176	This is a national honorary society.	This is a society.	2	sub-pri	a national honorary society
+177	He is the previous presidential nominee.	He is the previous nominee.	2	pri-sub	the previous presidential nominee
+178	She is a retired federal lawyer.	She is a retired lawyer.	2	pri-sub	a retired federal lawyer
+179	This is a substitute long snapper.	This is a long snapper.	2	pri-sub	a substitute long snapper
+180	These are broken presidential promises.	These are promises.	2	pri-sub	broken presidential promises
+181	This is a disputed parliamentary election result.	This is a parliamentary election result.	2	pri-sub	a disputed parliamentary election result
+182	This is a real good workout.	This is a workout.	2	int-sub	a real good workout
+183	This is a recent unsuccessful coup.	This is a coup.	2	sub-pri	a recent unsuccessful coup
+184	This is a fictitious high school.	This is a fictitious school.	2	pri-sub	a fictitious high school
+185	They are the supposed good guys.	They are the guys.	2	pri-sub	the supposed good guys
+186	This is a good full breakfast.	This is a good breakfast.	2	sub-int	a good full breakfast
+187	This is a new regional contract.	This is a regional contract.	2	sub-sub	a new regional contract
+188	This is the fourth democratic parliament.	This is the democratic parliament.	2	sub-int	the fourth democratic parliament
+189	This is a top environmental concern.	This is a concern.	2	sub-int	a top environmental concern
+190	This is an allegedly fraudulent national election.	This is an allegedly fraudulent election.	2	pri-sub	an allegedly fraudulent national election
+191	This is recent natural disasters.	This is disasters.	2	sub-int	recent natural disasters
+192	These are regional religious conflicts.	These are religious conflicts.	2	sub-int	regional religious conflicts
+193	This is their first professional position.	This is their professional position.	2	sub-sub	their first professional position
+194	She is a national surrogate speaker.	She is a speaker.	2	sub-pri	a national surrogate speaker
+195	This is an unofficial early result.	This is an early result.	2	pri-sub	an unofficial early result
+196	This is an original hard copy.	This is an original copy.	2	int-sub	an original hard copy
+197	This is a long stone bridge.	This is a bridge.	2	sub-pri	a long stone bridge
+198	This is a past southern area.	This is an area.	2	pri-sub	a past southern area
+199	This is an alleged racial discrimination.	This is an alleged discrimination.	2	pri-int	an alleged racial discrimination
+200	They are a popular vocal quartet.	They are a quartet.	2	sub-int	a popular vocal quartet
+201	She is an old familiar friend.	She is a familiar friend.	2	sub-sub	an old familiar friend
+202	He is a handsome young president.	He is a handsome president.	2	sub-sub	a handsome young president
+203	This is a broken front door lock.	This is a front door lock.	2	pri-sub	a broken front door lock
+204	These are high initial expectations.	These are initial expectations.	2	sub-pri	high initial expectations
+205	Those are his numerous unsuccessful marriages.	Those are his unsuccessful marriages.	2	sub-pri	his numerous unsuccessful marriages
+206	There are numerous wrong turns.	There are wrong turns.	2	sub-pri	numerous wrong turns
+207	This is an alternative scientific theory.	This is an alternative theory.	2	sub-int	an alternative scientific theory
+208	This is an allegedly fraudulent national election.	This is an allegedly fraudulent election.	2	pri-sub	an allegedly fraudulent national election
+209	Those are several past failed efforts.	Those are several past efforts.	2	pri-pri	several past failed efforts
+210	He has a forged diplomatic passport.	He has a forged passport.	2	pri-sub	a forged diplomatic passport
+211	This is an early evening flight.	This is an evening flight.	2	sub-int	an early evening flight
+212	This is an unofficial amateur event.	This is an amateur event.	2	pri-sub	an unofficial amateur event
+213	This is a gold plastic raspberry.	This is a plastic raspberry.	2	pri-pri	a gold plastic raspberry
+214	Those are numerous previous research efforts.	Those are numerous research efforts.	2	sub-pri	numerous previous research efforts
+215	She is an attractive blond girl.	She is an blond girl.	2	sub-int	an attractive blond girl
+216	They are good young players.	They are young players.	2	sub-sub	good young players
+217	He is a Swedish permanent representative.	He is a representative.	2	int-sub	a Swedish permanent representative
+218	This is a new artificial rubber turf.	This is a new artificial turf.	2	pri-pri	a new artificial rubber turf
+219	This is a dead dangerous animal.	This is an animal.	2	int-sub	a dead dangerous animal
+220	It is the supposed traditional wisdom.	It is the supposed wisdom.	2	pri-sub	the supposed traditional wisdom
+221	This is a single previous agreement.	This is a previous agreement.	2	int-pri	a single previous agreement
+222	This is a dead dangerous animal.	This is a dead animal.	2	int-sub	a dead dangerous animal
+223	This is A single wooden chair.	This is A single chair.	2	int-pri	A single wooden chair
+224	He is an attractive beginner golfer.	He is an attractive golfer.	2	sub-int	an attractive beginner golfer
+225	This is his first big chance.	This is his big chance.	2	sub-sub	his first big chance
+226	He is the only possible candidate.	He is a candidate.	2	sub-pri	the only possible candidate
+227	He is the only possible candidate.	He is a possible candidate.	2	sub-pri	the only possible candidate
+228	He is a big dumb idiot.	He is a dumb idiot.	2	sub-sub	a big dumb idiot
+229	This is a counterfeit modern bill.	This is a counterfeit bill.	2	pri-sub	a counterfeit modern bill
+230	Those are previous similar findings.	Those are previous findings.	2	pri-sub	previous similar findings
+231	This is big green containers.	This is big containers.	2	sub-int	big green containers
+232	This is probable severe punishment.	This is probable punishment.	2	pri-sub	probable severe punishment
+233	This is the initial unofficial trading.	This is the unofficial trading.	2	pri-pri	the initial unofficial trading
+234	This is a recent financial crisis.	This is a recent crisis.	2	sub-int	a recent financial crisis
+235	This is its first national ad campaign.	This is an ad campaign.	2	sub-sub	its first national ad campaign
+236	He is a retired naval admiral.	He is a retired admiral.	2	pri-pri	a retired naval admiral
+237	She is my new best friend.	She is my friend.	2	sub-sub	my new best friend
+238	This is Western soft coals.	This is Western coals.	2	int-sub	Western soft coals
+239	She is a popular female singer.	She is a singer.	2	sub-int	a popular female singer
+240	He is her onetime would-be mentor.	He is her would-be mentor.	2	pri-pri	her onetime would-be mentor
+241	He is a virtual extra member.	He is a virtual member.	2	pri-sub	a virtual extra member
+242	This is a national anti-government protest.	This is a anti-government protest.	2	sub-pri	a national anti-government protest
+243	This is a sweet empty dream.	This is a dream.	2	sub-pri	a sweet empty dream
+244	She is a former Australian owner.	She is a former owner.	2	pri-int	a former Australian owner
+245	This is an improbable eighth win.	This is an improbable win.	2	pri-sub	an improbable eighth win
+246	This is a pitiful broken promise.	This is a broken promise.	2	sub-pri	a pitiful broken promise
+247	This is a natural next question.	This is a question.	2	int-pri	a natural next question
+248	He is a onetime domestic policy adviser.	He is a onetime policy adviser.	2	pri-sub	a onetime domestic policy adviser
+249	These are low initial ratings.	These are initial ratings.	2	sub-pri	low initial ratings
+250	He is a supposed corrupt federal official.	He is a supposed corrupt official.	2	pri-sub	a supposed corrupt federal official
+251	This is his second full day.	This is a day.	2	sub-int	his second full day
+252	This is a new national ideology.	This is a national ideology.	2	sub-sub	a new national ideology
+253	This is the company's only real problem.	This is the company's real problem.	2	sub-int	the company's only real problem
+254	This is a national counterfeit industry.	This is a national industry.	2	sub-pri	a national counterfeit industry
+255	This is Quebecor 's second big printing acquisition.	This is a printing acquisition.	2	sub-sub	Quebecor 's second big printing acquisition
+256	These are two burned technical vehicles.	These are two technical vehicles.	2	pri-sub	two burned technical vehicles
+257	This is a big open secret.	This is an open secret.	2	sub-int	a big open secret
+258	He is a retired super spy.	He is a retired spy.	2	pri-pri	a retired super spy
+259	This is a single false attribution.	This is an attribution.	2	int-pri	a single false attribution
+260	This is a national anti-government protest.	This is a national protest.	2	sub-pri	a national anti-government protest
+261	This is an original mistaken diagnosis.	This is an original diagnosis.	2	int-pri	an original mistaken diagnosis
+262	Those are red plastic flowers.	Those are plastic flowers.	2	pri-pri	red plastic flowers
+263	This is a bad European neighbor.	This is a neighbor.	2	sub-int	a bad European neighbor
+264	Those are her past broken promises.	Those are her past promises.	2	pri-pri	her past broken promises
+265	This is an initial domestic agenda.	This is an agenda.	2	pri-sub	an initial domestic agenda
+266	These are partial late payments.	These are payments.	2	pri-sub	partial late payments
+267	This is a pretty ugly divorce.	This is a divorce.	2	sub-sub	a pretty ugly divorce
+268	This is a partial permanent barrier.	This is a partial barrier.	2	pri-sub	a partial permanent barrier
+269	This is a seeming minor decision.	This is a decision.	2	pri-sub	a seeming minor decision
+270	He is an angry old man.	He is an old man.	2	int-sub	an angry old man
+271	She is a previous presidential nominee.	She is a previous nominee.	2	pri-sub	a previous presidential nominee
+272	This is Charles ' only apparent interest.	This is Charles ' interest.	2	sub-pri	Charles ' only apparent interest
+273	This is its maximum potential value.	This is its potential value.	2	sub-pri	its maximum potential value
+274	These are her many supposed friends.	These are her supposed friends.	2	sub-pri	her many supposed friends
+275	She is a prior federal judge.	She is a prior judge.	2	pri-sub	a prior federal judge
+276	This is a real good workout.	This is a good workout.	2	int-sub	a real good workout
+277	This is a pretty ugly divorce.	This is an ugly divorce.	2	sub-sub	a pretty ugly divorce
+278	She is an attractive blond woman.	She is an attractive woman.	2	sub-int	an attractive blond woman
+279	This is big green trash cans.	This is trash cans.	2	sub-int	big green trash cans
+280	He has short blond hair.	He has short hair.	2	sub-int	short blond hair
+281	Those are old orange groves.	Those are orange groves.	2	sub-int	old orange groves
+282	This is a surrogate presidential campaign.	This is a campaign.	2	pri-sub	a surrogate presidential campaign
+283	She is a beautiful young woman.	She is a woman.	2	sub-sub	a beautiful young woman
+284	Those are big European banks.	Those are big banks.	2	sub-int	big European banks
+285	These are many improbable assumptions.	These are assumptions.	2	sub-pri	many improbable assumptions
+286	He is a tall 12-year-old child.	He is a tall child.	2	sub-int	a tall 12-year-old child
+287	Those are our previous top picks.	Those are our previous picks.	2	pri-sub	our previous top picks
+288	This is a national counterfeit industry.	This is a counterfeit industry.	2	sub-pri	a national counterfeit industry
+289	This is a fraudulent parliamentary election.	This is a fraudulent election.	2	pri-sub	a fraudulent parliamentary election
+290	This is a maximum previous award.	This is an award.	2	sub-pri	a maximum previous award
+291	She is a single strong candidate.	She is a candidate.	2	int-sub	a single strong candidate
+292	This is so-called good junk-bond offerings.	This is junk-bond offerings.	2	pri-sub	so-called good junk-bond offerings
+293	These are unofficial early results.	These are unofficial results.	2	pri-sub	unofficial early results
+294	Those are numerous mistaken interpretations.	Those are interpretations.	2	sub-pri	numerous mistaken interpretations
+295	This is a theoretical short list.	This is a list.	2	pri-sub	a theoretical short list
+296	This is a national anti-government protest.	This is a protest.	2	sub-pri	a national anti-government protest
+297	He is an alleged ruthless criminal.	He is an alleged criminal.	2	pri-sub	an alleged ruthless criminal
+298	Those are its past wrong practices.	Those are its practices.	2	pri-pri	its past wrong practices
+299	He is a handsome young president.	He is a young president.	2	sub-sub	a handsome young president
+300	She is an honorary technical advisor.	She is an honorary advisor.	2	pri-sub	an honorary technical advisor
+301	This is the only possible answer.	This is a possible answer.	2	sub-pri	the only possible answer
+302	He is a 69-year-old retired plastic surgeon.	He is a 69-year-old retired surgeon.	2	pri-pri	a 69-year-old retired plastic surgeon
+303	This is a natural next question.	This is a natural question.	2	int-pri	a natural next question
+304	He is an attractive beginner golfer.	He is a beginner golfer.	2	sub-int	an attractive beginner golfer
+305	This is an initial minimum bid.	This is a bid.	2	pri-sub	an initial minimum bid
+306	This is a big powerful nation.	This is a big nation.	2	sub-sub	a big powerful nation
+307	This is boring old news.	This is old news.	2	sub-sub	boring old news
+308	This is a mock common admission test.	This is a mock admission test.	2	pri-sub	a mock common admission test
+309	Those are numerous previous research efforts.	Those are previous research efforts.	2	sub-pri	numerous previous research efforts
+310	She is a top junior gymnast.	She is a gymnast.	2	sub-sub	a top junior gymnast
+311	Those are her past broken promises.	Those are her broken promises.	2	pri-pri	her past broken promises
+312	These are numerous fake invoices.	These are fake invoices.	2	sub-pri	numerous fake invoices
+313	This is a white paper book.	This is a book.	2	int-pri	a white paper book
+314	This is an imminent parliamentary election.	This is an imminent election.	2	pri-sub	an imminent parliamentary election
+315	This is an apparent domestic dispute.	This is a dispute.	2	pri-sub	an apparent domestic dispute
+316	These are initial technical standards.	These are technical standards.	2	pri-sub	initial technical standards
+317	He is the admired super man.	He is the super man.	2	sub-pri	the admired super man
+318	This is a so-called poisonous pill.	This is a pill.	2	pri-int	a so-called poisonous pill
+319	He is the assumed presidential nominee.	He is the assumed nominee.	2	pri-sub	the assumed presidential nominee
+320	This is a single prior conviction.	This is a conviction.	2	int-pri	a single prior conviction
+321	This is a dangerous dead animal.	This is a dangerous animal.	2	sub-int	a dangerous dead animal
+322	This is a pitiful broken engagement.	This is a broken engagement.	2	sub-pri	a pitiful broken engagement
+323	This is a national military drill.	This is a national drill.	2	sub-pri	a national military drill
+324	This is an expected beneficial effect.	This is an expected effect.	2	pri-int	an expected beneficial effect
+325	This is the company 's third full year.	This is a year.	2	sub-int	the company 's third full year
+326	He is a tall young buffalo hunter.	He is a young buffalo hunter.	2	sub-sub	a tall young buffalo hunter
+327	Those are counterfeit modern bills.	Those are counterfeit bills.	2	pri-sub	counterfeit modern bills
+328	This is an initial federal budget.	This is a budget.	2	pri-sub	an initial federal budget
+329	This is a false health gadget.	This is a gadget.	2	pri-int	a false health gadget
+330	This is an unofficial amateur event.	This is an event.	2	pri-sub	an unofficial amateur event
+331	They are bright young Jews.	They are bright Jews.	2	sub-sub	bright young Jews
+332	This is a Swedish central statistics agency.	This is a central statistics agency.	2	int-sub	a Swedish central statistics agency
+333	He is a surrogate good son.	He is a surrogate son.	2	pri-sub	a surrogate good son
+334	This is a top environmental concern.	This is an environmental concern.	2	sub-int	a top environmental concern
+335	She is a fictional chief prosecutor.	She is a fictional prosecutor.	2	pri-sub	a fictional chief prosecutor
+336	He is an angry old man.	He is an angry man.	2	int-sub	an angry old man
+337	This is an old national campaign.	This is a national campaign.	2	sub-sub	an old national campaign
+338	This is an unofficial northern boundary.	This is an unofficial boundary.	2	pri-sub	an unofficial northern boundary
+339	She is a top junior gymnast.	She is a junior gymnast.	2	sub-sub	a top junior gymnast
+340	This is a fictional common ancestor.	This is a fictional ancestor.	2	pri-sub	a fictional common ancestor
+341	This is an impossible long shot.	This is a shot.	2	pri-sub	an impossible long shot
+342	This is the first big wave.	This is a wave.	2	sub-sub	the first big wave
+343	This is erroneous previous information.	This is information.	2	pri-pri	erroneous previous information
+344	This is a burned technical vehicle.	This is a burned vehicle.	2	pri-sub	a burned technical vehicle
+345	This is a famous French painting.	This is a painting.	2	sub-int	a famous French painting
+346	These are prior outstanding deputy bills.	These are prior deputy bills.	2	pri-sub	prior outstanding deputy bills
+347	He is an attractive beginner golfer.	He is a golfer.	2	sub-int	an attractive beginner golfer
+348	This is a fictitious technical issue.	This is a fictitious issue.	2	pri-sub	a fictitious technical issue
+349	This is a prior outstanding deputy bills.	This is a prior deputy bills.	2	pri-sub	a prior outstanding deputy bills
+350	This is his old brown coat.	This is his old coat.	2	sub-int	his old brown coat
+351	These are partial late payments.	These are late payments.	2	pri-sub	partial late payments
+352	This is the third big aluminum company.	This is an aluminum company.	2	sub-sub	the third big aluminum company
+353	This is a denied access permission.	This is a denied permission.	2	pri-int	a denied access permission
+354	This is his old brown coat.	This is his coat.	2	sub-int	his old brown coat
+355	He is a Western top official.	He is an official.	2	int-sub	a Western top official
+356	This is a presumed specific principle.	This is a presumed principle.	2	pri-sub	a presumed specific principle
+357	This is the third big aluminum company.	This is a big aluminum company.	2	sub-sub	the third big aluminum company
+358	This is an Australian amateur competition.	This is a competition.	2	int-sub	an Australian amateur competition
+359	This is a would-be lead blocker.	This is a would-be blocker.	2	pri-sub	a would-be lead blocker
+360	This is a mock parliamentary debate.	This is a mock debate.	2	pri-sub	a mock parliamentary debate
+361	These are many supposed solutions.	These are supposed solutions.	2	sub-pri	many supposed solutions
+362	This is an erroneous national intelligence estimate.	This is an intelligence estimate.	2	pri-sub	an erroneous national intelligence estimate
+363	This is an unlikely sweet dream.	This is a dream.	2	pri-sub	an unlikely sweet dream
+364	This is Western soft coal.	This is soft coal.	2	int-sub	Western soft coal
+365	This is a new regional contract.	This is a new contract.	2	sub-sub	a new regional contract
+366	They are many onetime supporters.	They are onetime supporters.	2	sub-pri	many onetime supporters
+367	This is a dubious strategic gambit.	This is a gambit.	2	pri-sub	a dubious strategic gambit
+368	This is an original mistaken diagnosis.	This is a mistaken diagnosis.	2	int-pri	an original mistaken diagnosis
+369	This is an original false charge.	This is a false charge.	2	int-pri	an original false charge
+370	This is a natural next step.	This is a next step.	2	int-pri	a natural next step
+371	This is a national rubber producer.	This is a rubber producer.	2	sub-pri	a national rubber producer
+372	This is a big old house.	This is an old house.	2	sub-sub	a big old house
+373	These are broken presidential promises.	These are presidential promises.	2	pri-sub	broken presidential promises
+374	Those are the only original works.	Those are works.	2	sub-int	the only original works
+375	These are her numerous fake names.	These are her fake names.	2	sub-pri	her numerous fake names
+376	This is a demolished damaged house.	This is a demolished house.	2	pri-int	a demolished damaged house
+377	This is a plausible big idea.	This is a plausible idea.	2	pri-sub	a plausible big idea
+378	He is a tall 12-year-old child.	He is a child.	2	sub-int	a tall 12-year-old child
+379	They are our numerous onetime supporters.	They are our onetime supporters.	2	sub-pri	our numerous onetime supporters
+380	This is a handmade empty glass.	This is a glass.	2	int-pri	a handmade empty glass
+381	She is an honorary technical advisor.	She is an advisor.	2	pri-sub	an honorary technical advisor
+382	This is a substitute long snapper.	This is a snapper.	2	pri-sub	a substitute long snapper
+383	This is a big old house.	This is a house.	2	sub-sub	a big old house
+384	This is an initial virtual flight.	This is a virtual flight.	2	pri-pri	an initial virtual flight
+385	This is his first good look.	This is a good look.	2	sub-sub	his first good look
+386	This is a plausible recent report.	This is a plausible report.	2	pri-sub	a plausible recent report
+387	She is a heavy newborn baby.	She is a baby.	2	sub-int	a heavy newborn baby
+388	This is an alternative scientific theory.	This is a theory.	2	sub-int	an alternative scientific theory
+389	This is a broken glass window.	This is a window.	2	pri-int	a broken glass window
+390	This is a Swedish central statistics agency.	This is a statistics agency.	2	int-sub	a Swedish central statistics agency
+391	This is his old brown coat.	This is his brown coat.	2	sub-int	his old brown coat
+392	This is fraudulent medical claims.	This is claims.	2	pri-pri	fraudulent medical claims
+393	These are many wrong decisions.	These are wrong decisions.	2	sub-pri	many wrong decisions
+394	This is a presumed serious mental health problem.	This is a presumed mental health problem.	2	pri-sub	a presumed serious mental health problem
+395	This is an American small business.	This is an American business.	2	int-sub	an American small business
+396	He is the next probable champion.	He is the probable champion.	2	pri-pri	the next probable champion
+397	They are good young players.	They are good players.	2	sub-sub	good young players
+398	She is an ugly young actress.	She is a young actress.	2	sub-sub	an ugly young actress
+399	This is an initial high price.	This is a price.	2	pri-sub	an initial high price
+400	This is an erroneous national intelligence estimate.	This is a national intelligence estimate.	2	pri-sub	an erroneous national intelligence estimate
+401	They are good young players.	They are players.	2	sub-sub	good young players
+402	She is his second young partner.	She is his partner.	2	sub-sub	his second young partner
+403	He is a retired plastic surgeon.	He is a retired surgeon.	2	pri-pri	a retired plastic surgeon
+404	This is my first real involvement.	This is a real involvement.	2	sub-int	my first real involvement
+405	This is a forged Iranian diplomatic passport.	This is a forged Iranian passport.	2	pri-sub	a forged Iranian diplomatic passport
+406	This is an Australian amateur competition.	This is an Australian competition.	2	int-sub	an Australian amateur competition
+407	He is a retired short seller.	He is a retired seller.	2	pri-sub	a retired short seller
+408	They are numerous phony celebrities.	They are phony celebrities.	2	sub-pri	numerous phony celebrities
+409	This is a new Renaissance exhibit.	This is a Renaissance exhibit.	2	sub-int	a new Renaissance exhibit
+410	He is a retired federal lawyer.	He is a retired lawyer.	2	pri-sub	a retired federal lawyer
+411	This is a Brazilian fictional film.	This is a Brazilian film.	2	int-pri	a Brazilian fictional film
+412	This is a probable easy fix.	This is a probable fix.	2	pri-sub	a probable easy fix
+413	This is a disputed parliamentary election result.	This is an election result.	2	pri-sub	a disputed parliamentary election result
+414	This is a mock early surrender.	This is a mock surrender.	2	pri-sub	a mock early surrender
+415	He is an honorary assistant coach.	He is an assistant coach.	2	pri-sub	an honorary assistant coach
+416	This is Western soft coal.	This is Western coal.	2	int-sub	Western soft coal
+417	He is a tall young buffalo hunter.	He is a tall buffalo hunter.	2	sub-sub	a tall young buffalo hunter
+418	This is a new preferred stock.	This is a stock.	2	sub-sub	a new preferred stock
+419	This is Western popular music.	This is music.	2	int-sub	Western popular music
+420	This is artificial cool air.	This is artificial air.	2	pri-sub	artificial cool air
+421	She is a national surrogate speaker.	She is a surrogate speaker.	2	sub-pri	a national surrogate speaker
+422	Those are low initial ratings.	Those are ratings.	2	sub-pri	low initial ratings
+423	This is a presumed common origin.	This is a presumed origin.	2	pri-sub	a presumed common origin
+424	These are numerous failed cease-fires.	These are failed cease-fires.	2	sub-pri	numerous failed cease-fires
+425	This is a promised perfect future state.	This is a promised future state.	2	sub-pri	a promised perfect future state
+426	This is a hypothetical ninth season.	This is a hypothetical season.	2	pri-sub	a hypothetical ninth season
+427	He is a tall 12-year-old child.	He is a child.	2	sub-int	a tall 12-year-old child
+428	She is an attractive blond girl.	She is an attractive girl.	2	sub-int	an attractive blond girl
+429	This is a wooden left leg.	This is a wooden leg.	2	pri-sub	a wooden left leg
+430	This is A single wooden chair.	This is a wooden chair.	2	int-pri	A single wooden chair
+431	This is a maximum nominal amount.	This is a nominal amount.	2	sub-pri	a maximum nominal amount
+432	He is a tall young man.	He is a man.	2	sub-sub	a tall young man
+433	This is a fictitious technical issue.	This is a fictitious issue.	2	pri-sub	a fictitious technical issue
+434	This is a single wooden chair.	This is a chair.	2	int-pri	a single wooden chair
+435	This is a top environmental concern.	This is an environmental concern.	2	sub-int	a top environmental concern
+436	This is the only professional instruction.	This is an instruction.	2	sub-sub	the only professional instruction
+437	This is an impossible high standard.	This is a high standard.	2	pri-sub	an impossible high standard
+438	He is a Swedish national coach.	He is a coach.	2	int-sub	a Swedish national coach
+439	This is an artificial high return.	This is an artificial return.	2	pri-sub	an artificial high return
+440	These are mock parliamentary debates.	These are mock debates.	2	pri-sub	mock parliamentary debates
+441	These are regional religious conflicts.	These are conflicts.	2	sub-int	regional religious conflicts
+442	This is a possible incorrect wind measurement.	This is a wind measurement.	2	pri-pri	a possible incorrect wind measurement
+443	This is the first big wave.	This is a big wave.	2	sub-sub	the first big wave
+444	He is a good beginner boxer.	He is a boxer.	2	sub-sub	a good beginner boxer
+445	She is a likely next speaker.	She is a likely speaker.	2	pri-pri	a likely next speaker
+446	This is the first free republic.	This is a free republic.	2	sub-int	the first free republic
+447	These are initial technical standards.	These are standards.	2	pri-sub	initial technical standards
+448	This is a virtual musical instrument.	This is a virtual instrument.	2	pri-sub	a virtual musical instrument
+449	This is fraudulent medical claims.	This is fraudulent claims.	2	pri-pri	fraudulent medical claims
+450	Those are incorrect initial decisions.	Those are incorrect decisions.	2	pri-pri	incorrect initial decisions
+451	This is an almost empty house.	This is a house.	2	pri-pri	an almost empty house
+452	This is a national anti-terror military drill.	This is a anti-terror drill.	2	sub-pri	a national anti-terror military drill
+453	This is Western soft coal.	This is coal.	2	int-sub	Western soft coal
+454	This is an improbable high return.	This is a return.	2	pri-sub	an improbable high return
+455	This is a big full back yard.	This is a full back yard.	2	sub-int	a big full back yard
+456	This is Western popular music.	This is Western music.	2	int-sub	Western popular music
+457	She is a Western Australian junior player.	She is a Western Australian player.	2	int-sub	a Western Australian junior player
+458	This is our first real reunion.	This is our real reunion.	2	sub-int	our first real reunion
+459	This is the so-called imminent danger.	This is the so-called danger.	2	pri-pri	the so-called imminent danger
+460	He is a scarred Iranian soldier.	He is a soldier.	2	int-int	a scarred Iranian soldier
+461	He has short blond hair.	He has hair.	2	sub-int	short blond hair
+462	He is the former vice chairman.	He is the former chairman.	0	pri-pri	the former vice chairman
+463	He is the former vice chairman.	He is the vice chairman.	0	pri-pri	the former vice chairman
+464	He is the former vice chairman.	He is the chairman.	0	pri-pri	the former vice chairman
+465	She is the future deputy administrator.	She is the deputy administrator.	0	pri-pri	the future deputy administrator
+466	She is the future deputy administrator.	She is the administrator.	0	pri-pri	the future deputy administrator
+467	This is the simulated virtual reality.	This is the reality.	0	pri-pri	the simulated virtual reality
+468	She is the 52-year-old former deputy director.	She is the 52-year-old deputy director.	0	pri-pri	the 52-year-old former deputy director
+469	She is the 52-year-old former deputy director.	She is the 52-year-old director.	0	pri-pri	the 52-year-old former deputy director
+470	This is the proposed initial public offering.	This is the initial public offering.	0	pri-pri	the proposed initial public offering
+471	Those are possible future purchases.	Those are future purchases.	0	pri-pri	possible future purchases
+472	This is the company's likely future performance.	This is the company's future performance.	0	pri-pri	the company's likely future performance
+473	This is the company's likely future performance.	This is the company's performance.	0	pri-pri	the company's likely future performance
+474	This is almost half a kilo.	This is almost a kilo.	0	pri-pri	almost half a kilo
+475	This is almost half a kilo.	This is half a kilo.	0	pri-pri	almost half a kilo
+476	This is almost half a kilo.	This is a kilo.	0	pri-pri	almost half a kilo
+477	This is an almost impossible job.	This is an impossible job.	0	pri-pri	an almost impossible job
+478	This is a former alleged thief.	This is a former thief.	0	pri-pri	a former alleged thief
+479	This is a former alleged thief.	This is an alleged thief.	0	pri-pri	a former alleged thief
+480	This is a former alleged thief.	This is a thief.	0	pri-pri	a former alleged thief
+481	This is an alleged former thief.	This is a thief.	0	pri-pri	an alleged former thief
+482	He is an alleged male criminal.	He is a criminal.	0	pri-int	an alleged male criminal
+483	He is a former European commissioner.	He is a European commissioner.	0	pri-int	a former European commissioner
+484	He is a former European commissioner.	He is a commissioner.	0	pri-int	a former European commissioner
+485	She is a former Australian owner.	She is an Australian owner.	0	pri-int	a former Australian owner
+486	She is our next popular star.	She is our popular star.	0	pri-int	our next popular star
+487	This is a fake rhinestone diamond.	This is a diamond.	0	pri-int	a fake rhinestone diamond
+488	This is an expected financial surge.	This is a financial surge.	0	pri-int	an expected financial surge
+489	This is half a kilo.	This is a kilo.	0	pri-int	half a kilo
+490	This is an alleged racial discrimination.	This is a racial discrimination.	0	pri-int	an alleged racial discrimination
+491	This is an alleged racial discrimination.	This is a discrimination.	0	pri-int	an alleged racial discrimination
+492	This is an alleged criminal breach.	This is a criminal breach.	0	pri-int	an alleged criminal breach
+493	This is an alleged criminal breach.	This is a breach.	0	pri-int	an alleged criminal breach
+494	This is an alleged racial inequality.	This is a racial inequality.	0	pri-int	an alleged racial inequality
+495	This is an alleged racial inequality.	This is an inequality.	0	pri-int	an alleged racial inequality
+496	This is an alleged discriminatory practice.	This is a discriminatory practice.	0	pri-int	an alleged discriminatory practice
+497	This is a so-called poisonous pill.	This is a poisonous pill.	0	pri-int	a so-called poisonous pill
+498	This is a false health gadget.	This is a health gadget.	0	pri-int	a false health gadget
+499	This is the expected thermal intensity.	This is the thermal intensity.	0	pri-int	the expected thermal intensity
+500	This is an expected Canadian move.	This is a Canadian move.	0	pri-int	an expected Canadian move
+501	He is an alleged ruthless criminal.	He is a ruthless criminal.	0	pri-sub	an alleged ruthless criminal
+502	This is a potential professional talent.	This is a professional talent.	0	pri-sub	a potential professional talent
+503	She is the former national security adviser.	She is the national security adviser.	0	pri-sub	the former national security adviser
+504	She is the former national security adviser.	She is the security adviser.	0	pri-sub	the former national security adviser
+505	He is the former senior president.	He is the senior president.	0	pri-sub	the former senior president
+506	He is the former senior president.	He is the president.	0	pri-sub	the former senior president
+507	She is his potential second wife.	She is his second wife.	0	pri-sub	his potential second wife
+508	She is his potential second wife.	She is his wife.	0	pri-sub	his potential second wife
+509	He is the deputy national security adviser.	He is the national security adviser.	0	pri-sub	the deputy national security adviser
+510	This is possible deep structural damage.	This is deep structural damage.	0	pri-sub	possible deep structural damage
+511	This is an unlikely big spender.	This is a big spender.	0	pri-sub	an unlikely big spender
+512	She is a former beautiful actress.	She is a beautiful actress.	0	pri-sub	a former beautiful actress
+513	He is a former skillful surgeon.	He is a skillful surgeon.	0	pri-sub	a former skillful surgeon
+514	He is an imaginary powerful enemy.	He is a powerful enemy.	0	pri-sub	an imaginary powerful enemy
+515	This is an arguable perfect solution.	This is a perfect solution.	0	pri-sub	an arguable perfect solution
+516	She is the deputy chief economic adviser.	She is the chief economic adviser.	0	pri-sub	the deputy chief economic adviser
+517	He is a former famous actor.	He is a famous actor.	0	pri-sub	a former famous actor
+518	This is the group 's alleged earlier violation.	This is the group 's earlier violation.	0	pri-sub	the group 's alleged earlier violation
+519	This is the group 's alleged earlier violation.	This is the group 's violation.	0	pri-sub	the group 's alleged earlier violation
+520	This is some so-called high-quality junk issues.	This is some high-quality issues.	0	pri-sub	some so-called high-quality junk issues
+521	This is a white paper plane.	This is a white plane.	0	int-pri	a white paper plane
+522	He is Phoenix 's senior vice president.	He is Phoenix 's senior president.	0	sub-pri	Phoenix 's senior vice president
+523	He is Phoenix 's senior vice president.	He is Phoenix 's president.	0	sub-pri	Phoenix 's senior vice president
+524	This is their only apparent difference.	This is their only difference.	0	sub-pri	their only apparent difference
+525	This is its only nominal influence.	This is its only influence.	0	sub-pri	its only nominal influence
+526	This is the minimum total potential energy.	This is the total potential energy.	0	sub-pri	the minimum total potential energy
+527	This is the minimum total potential energy.	This is the total energy.	0	sub-pri	the minimum total potential energy
+528	This is the only possible answer.	This is the only answer.	0	sub-pri	the only possible answer
+529	She is a senior deputy manager.	She is a senior manager.	0	sub-pri	a senior deputy manager
+530	This is Charles ' only apparent interest.	This is Charles ' only interest.	0	sub-pri	Charles ' only apparent interest
+531	They are new potential customers.	They are new customers.	0	sub-pri	new potential customers
+532	He is the only possible candidate.	He is the only candidate.	0	sub-pri	the only possible candidate
+533	This is the highest expected return.	This is the highest return.	0	sub-pri	the highest expected return
+534	This is the highest expected return.	This is the return.	0	sub-pri	the highest expected return
+535	He is a famous former actor.	He is a famous actor.	0	sub-pri	a famous former actor
+536	He is a famous former actor.	He is an actor.	0	sub-pri	a famous former actor
+537	This is our first real reunion.	This is our first reunion.	0	sub-int	our first real reunion
+538	Those are the only original works.	Those are the only works.	0	sub-int	the only original works
+539	This is my first real involvement.	This is my first involvement.	0	sub-int	my first real involvement
+540	This is their first real test.	This is their first test.	0	sub-int	their first real test
+541	This is her only real bonus.	This is her only bonus.	0	sub-int	her only real bonus
+542	He is her favorite European designer.	He is her favorite designer.	0	sub-int	her favorite European designer
+543	He is her favorite European designer.	He is her European designer.	0	sub-int	her favorite European designer
+544	He is her favorite European designer.	He is her designer.	0	sub-int	her favorite European designer
+545	This is his only real alternative.	This is his only alternative.	0	sub-int	his only real alternative
+546	This is the company's only real problem.	This is the company's only problem.	0	sub-int	the company's only real problem
+547	This is the first free republic.	This is the first republic.	0	sub-int	the first free republic
+548	This is the only European luxury brand.	This is the only luxury brand.	0	sub-int	the only European luxury brand
+549	This is the company 's third full year.	This is the company 's third year.	0	sub-int	the company 's third full year
+550	This is her favorite natural playground.	This is her favorite playground.	0	sub-int	her favorite natural playground
+551	This is my favorite local restaurant.	This is my favorite restaurant.	0	sub-int	my favorite local restaurant
+552	This is my favorite local restaurant.	This is my restaurant.	0	sub-int	my favorite local restaurant
+553	This is my new favorite movie.	This is my new movie.	0	sub-sub	my new favorite movie
+554	This is my new favorite movie.	This is my movie.	0	sub-sub	my new favorite movie
+555	This is Japan 's typical small homes.	This is Japan 's typical homes.	0	sub-sub	Japan 's typical small homes
+556	This is their first professional position.	This is their first position.	0	sub-sub	their first professional position
+557	This is his first big chance.	This is his first chance.	0	sub-sub	his first big chance
+558	This is the only good thing.	This is the only thing.	0	sub-sub	the only good thing
+559	She is his second young partner.	She is his second partner.	0	sub-sub	his second young partner
+560	This is his first good look.	This is his first look.	0	sub-sub	his first good look
+561	This is his favorite U.S. small business.	This is his U.S. small business.	0	sub-sub	his favorite U.S. small business
+562	This is his favorite U.S. small business.	This is his favorite small business.	0	sub-sub	his favorite U.S. small business
+563	This is his favorite U.S. small business.	This is his favorite U.S. business.	0	sub-sub	his favorite U.S. small business
+564	This is the first big wave.	This is the first wave.	0	sub-sub	the first big wave
+565	This is its first national ad campaign.	This is its first ad campaign.	0	sub-sub	its first national ad campaign
+566	This is the third big aluminum company.	This is the third aluminum company.	0	sub-sub	the third big aluminum company
+567	This is the only professional instruction.	This is the only instruction.	0	sub-sub	the only professional instruction
+568	He is the second most powerful man.	He is the second man.	0	sub-sub	the second most powerful man
+569	He is the second most powerful man.	He is the most powerful man.	0	sub-sub	the second most powerful man
+570	This is its second recent arbitration case.	This is its second arbitration case.	0	sub-sub	its second recent arbitration case
+571	This is his first big gamble.	This is his first gamble.	0	sub-sub	his first big gamble
+572	This is Quebecor 's second big printing acquisition.	This is Quebecor 's second printing acquisition.	0	sub-sub	Quebecor 's second big printing acquisition
+573	They are the only big losers.	They are the only losers.	0	sub-sub	the only big losers
+574	She is my old best friend.	She is my best friend.	0	sub-sub	my old best friend
+575	She is an amazing beginner drummer.	She is an amazing drummer.	0	sub-sub	an amazing beginner drummer
+576	She is a likely next speaker.	She is the next speaker.	0	pri-pri	a likely next speaker
+577	He is the likely future premier.	He is the future premier.	0	pri-pri	the likely future premier
+578	He is the likely future premier.	He is the premier.	0	pri-pri	the likely future premier
+579	Those are its expected future earnings.	Those are its future earnings.	0	pri-pri	its expected future earnings
+580	Those are its expected future earnings.	Those are its earnings.	0	pri-pri	its expected future earnings
+581	This is an expected imminent attack.	This is an attack.	0	pri-pri	an expected imminent attack
+582	They are past would-be reformers.	They are past reformers.	0	pri-pri	past would-be reformers
+583	They are past would-be reformers.	They are would-be reformers.	0	pri-pri	past would-be reformers
+584	They are past would-be reformers.	They are reformers.	0	pri-pri	past would-be reformers
+585	This is the past half century.	This is the past century.	0	pri-pri	the past half century
+586	This is the past half century.	This is the century.	0	pri-pri	the past half century
+587	Those are his past alleged misdeeds.	Those are his past misdeeds.	0	pri-pri	his past alleged misdeeds
+588	Those are his past alleged misdeeds.	Those are his misdeeds.	0	pri-pri	his past alleged misdeeds
+589	He is a past unsuccessful candidate.	He is a candidate.	0	pri-pri	a past unsuccessful candidate
+590	They are potential future victims.	They are future victims.	0	pri-pri	potential future victims
+591	They are potential future victims.	They are victims.	0	pri-pri	potential future victims
+592	This is a previous proposed deal.	This is a previous deal.	0	pri-pri	a previous proposed deal
+593	This is the previous theoretical limit.	This is the theoretical limit.	0	pri-pri	the previous theoretical limit
+594	This is the previous theoretical limit.	This is the limit.	0	pri-pri	the previous theoretical limit
+595	This is a fake rhinestone diamond.	This is a diamond.	0	pri-int	a fake rhinestone diamond
+596	This is an impossible long-term solution.	This is a long-term solution.	0	pri-int	an impossible long-term solution
+597	Those are our previous top picks.	Those are our top picks.	0	pri-sub	our previous top picks
+598	Those are our previous top picks.	Those are our picks.	0	pri-sub	our previous top picks
+599	This is a previous federal law.	This is a federal law.	0	pri-sub	a previous federal law
+600	This is a previous federal law.	This is a law.	0	pri-sub	a previous federal law
+601	It is the previous federal government.	It is the federal government.	0	pri-sub	the previous federal government
+602	It is the previous federal government.	It is the government.	0	pri-sub	the previous federal government
+603	He is an arrogant former young genius.	He is an arrogant young genius.	0	pri-sub	an arrogant former young genius
+604	He is an arrogant former young genius.	He is an arrogant genius.	0	pri-sub	an arrogant former young genius
+605	He is in mental ill health.	He is in mental health.	0	int-sub	mental ill health
+606	He is in mental ill health.	He is in health.	0	int-sub	mental ill health
+607	This is an early evening flight.	This is an early flight.	0	sub-int	an early evening flight
+608	This is a late morning flight.	This is a late flight.	0	sub-int	a late morning flight
+609	They have negative net income.	They have net income.	0	sub-int	negative net income
+610	They have negative net income.	They have income.	0	sub-int	negative net income
+611	This is the only practical choice.	This is the only choice.	0	sub-int	the only practical choice
+612	She is an awful good cook.	She is an awful cook.	0	sub-sub	an awful good cook
+613	This is a pretty ugly divorce.	This is a pretty divorce.	0	sub-sub	a pretty ugly divorce
+614	He is America's top amateur wrestler.	He is America's top wrestler.	0	sub-sub	America's top amateur wrestler
+615	She is a top junior gymnast.	She is a top gymnast.	0	sub-sub	a top junior gymnast
+616	These are Britain's top secondary schools.	These are Britain's top schools.	0	sub-sub	Britain's top secondary schools
+617	This is July's average maximum temperature.	This is July's average temperature.	0	sub-sub	July's average maximum temperature
+618	This is July's average maximum temperature.	This is July's maximum temperature.	0	sub-sub	July's average maximum temperature
+619	He is a next would-be mogul.	He is a next mogul.	0	pri-pri	a next would-be mogul
+620	He is a next would-be mogul.	He is a mogul.	0	pri-pri	a next would-be mogul
+621	This is an almost impossible military assignment.	This is an almost military assignment.	0	pri-pri	an almost impossible military assignment
+622	This is an almost impossible military assignment.	This is an impossible military assignment.	0	pri-pri	an almost impossible military assignment
+623	This is an imminent partial shutdown.	This is a shutdown.	0	pri-pri	an imminent partial shutdown
+624	She is a most plausible potential president.	She is a most plausible president.	0	pri-pri	a most plausible potential president
+625	This is a fictional past relationship.	This is a past relationship.	0	pri-pri	a fictional past relationship
+626	He is a deputy foreign vice minister.	He is a deputy foreign minister.	0	pri-pri	a deputy foreign vice minister
+627	He is a deputy foreign vice minister.	He is a foreign minister.	0	pri-pri	a deputy foreign vice minister
+628	She is the probable next CEO.	She is the next CEO.	0	pri-pri	the probable next CEO
+629	She is the probable next CEO.	She is the CEO.	0	pri-pri	the probable next CEO
+630	Those are possible later pregnancies.	Those are pregnancies.	0	pri-pri	possible later pregnancies
+631	Those are possible faulty restorations.	Those are possible restorations.	0	pri-pri	possible faulty restorations
+632	Those are possible faulty restorations.	Those are faulty restorations.	0	pri-pri	possible faulty restorations
+633	Those are possible faulty restorations.	Those are restorations.	0	pri-pri	possible faulty restorations
+634	This is a wooden model airplane.	This is an airplane.	0	pri-pri	a wooden model airplane
+635	He is a plausible future prime minister.	He is a future prime minister.	0	pri-pri	a plausible future prime minister
+636	He is a plausible future prime minister.	He is a prime minister.	0	pri-pri	a plausible future prime minister
+637	This is a possible incorrect declaration.	This is an incorrect declaration.	0	pri-pri	a possible incorrect declaration
+638	He is a retired plastic surgeon.	He is a surgeon.	0	pri-pri	a retired plastic surgeon
+639	She is a supposed potential terrorist.	She is a terrorist.	0	pri-pri	a supposed potential terrorist
+640	He is a probable right-wing candidate.	He is a right-wing candidate.	0	pri-pri	a probable right-wing candidate
+641	He is a probable right-wing candidate.	He is a right-wing.	0	pri-pri	a probable right-wing candidate
+642	This is Iraq 's nominal future leadership.	This is Iraq 's nominal leadership.	0	pri-pri	Iraq 's nominal future leadership
+643	This is Iraq 's nominal future leadership.	This is Iraq 's leadership.	0	pri-pri	Iraq 's nominal future leadership
+644	These are the future experimental vaccines.	These are the future vaccines.	0	pri-pri	the future experimental vaccines
+645	This is the next would-be blockbuster.	This is the next blockbuster.	0	pri-pri	the next would-be blockbuster
+646	This is the next would-be blockbuster.	This is the blockbuster.	0	pri-pri	the next would-be blockbuster
+647	He is the deputy senior vice president.	He is the senior president.	0	pri-pri	the deputy senior vice president
+648	This is his initial false pledge.	This is his initial pledge.	0	pri-pri	his initial false pledge
+649	This is a proposed six-month partial ban.	This is a six-month partial ban.	0	pri-pri	a proposed six-month partial ban
+650	This is a proposed six-month partial ban.	This is a six-month ban.	0	pri-pri	a proposed six-month partial ban
+651	They are would-be future professionals.	They are professionals.	0	pri-pri	would-be future professionals
+652	This is a possible later prosecution.	This is a later prosecution.	0	pri-pri	a possible later prosecution
+653	She is a would-be next prime minister.	She is a next prime minister.	0	pri-pri	a would-be next prime minister
+654	She is a would-be next prime minister.	She is a prime minister.	0	pri-pri	a would-be next prime minister
+655	This is an apparent false statement.	This is an apparent statement.	0	pri-pri	an apparent false statement
+656	Those are failed initial public offerings.	Those are public offerings.	0	pri-pri	failed initial public offerings
+657	He is our next honorary mayor.	He is our honorary mayor.	0	pri-pri	our next honorary mayor
+658	He is our next honorary mayor.	He is our mayor.	0	pri-pri	our next honorary mayor
+659	This is uncertain potential legal liability.	This is legal liability.	0	pri-pri	uncertain potential legal liability
+660	This is a historic former capital.	This is a capital.	0	pri-pri	a historic former capital
+661	He is a plausible potential mayor.	He is a mayor.	0	pri-pri	a plausible potential mayor
+662	He is the next probable champion.	He is the champion.	0	pri-pri	the next probable champion
+663	He is the probable next president.	He is the next president.	0	pri-pri	the probable next president
+664	He is the probable next president.	He is the president.	0	pri-pri	the probable next president
+665	He is the next unlikely winner.	He is the next winner.	0	pri-pri	the next unlikely winner
+666	He is the next unlikely winner.	He is the winner.	0	pri-pri	the next unlikely winner
+667	She is a future would-be president.	She is a future president.	0	pri-pri	a future would-be president
+668	She is a future would-be president.	She is a president.	0	pri-pri	a future would-be president
+669	He is her onetime would-be mentor.	He is her onetime mentor.	0	pri-pri	her onetime would-be mentor
+670	She is a would-be future French Open champion.	She is a French Open champion.	0	pri-pri	a would-be future French Open champion
+671	They are unsuccessful would-be buyers.	They are unsuccessful buyers.	0	pri-pri	unsuccessful would-be buyers
+672	This is a fictional former street urchin.	This is a former street urchin.	0	pri-pri	a fictional former street urchin
+673	This is a fictional former street urchin.	This is a street urchin.	0	pri-pri	a fictional former street urchin
+674	They are proposed future ministers.	They are future ministers.	0	pri-pri	proposed future ministers
+675	They are proposed future ministers.	They are ministers.	0	pri-pri	proposed future ministers
+676	This is Iraq 's nominal future leadership.	This is Iraq 's nominal leadership.	0	pri-pri	Iraq 's nominal future leadership
+677	This is a mythical Chinese stone monkey.	This is a mythical Chinese monkey.	0	pri-pri	a mythical Chinese stone monkey
+678	This is a mythical Chinese stone monkey.	This is a Chinese monkey.	0	pri-pri	a mythical Chinese stone monkey
+679	This is a putative future star.	This is a star.	0	pri-pri	a putative future star
+680	He is the plausible next president.	He is the next president.	0	pri-pri	the plausible next president
+681	He is the plausible next president.	He is the president.	0	pri-pri	the plausible next president
+682	This is an imaginary future world currency.	This is a world currency.	0	pri-pri	an imaginary future world currency
+683	This is an almost empty blue field.	This is an empty blue field.	0	pri-pri	an almost empty blue field
+684	He is an onetime presumed front-runner.	He is an onetime front-runner.	0	pri-pri	an onetime presumed front-runner
+685	This is an uncertain future benefit.	This is a benefit.	0	pri-pri	an uncertain future benefit
+686	This is a questionable so-called health food.	This is a health food.	0	pri-pri	a questionable so-called health food
+687	He is a retired super spy.	He is a super spy.	0	pri-pri	a retired super spy
+688	She is A next probable foe.	She is A next foe.	0	pri-pri	A next probable foe
+689	She is A next probable foe.	She is a foe.	0	pri-pri	A next probable foe
+690	This is a fake honorary degree.	This is an honorary degree.	0	pri-pri	a fake honorary degree
+691	He is a deputy senior vice president.	He is a deputy senior president.	0	pri-pri	a deputy senior vice president
+692	He is a deputy senior vice president.	He is a senior vice president.	0	pri-pri	a deputy senior vice president
+693	He is a deputy senior vice president.	He is a senior president.	0	pri-pri	a deputy senior vice president
+694	This is the next would-be blockbuster.	This is the next blockbuster.	0	pri-pri	the next would-be blockbuster
+695	This is the next would-be blockbuster.	This is the blockbuster.	0	pri-pri	the next would-be blockbuster
+696	This is a fake wooden rifle.	This is a rifle.	0	pri-pri	a fake wooden rifle
+697	This is imaginary future revenues.	This is future revenues.	0	pri-pri	imaginary future revenues
+698	Those are imaginary future revenues.	Those are future revenues.	0	pri-pri	imaginary future revenues
+699	He is a would-be Catholic deputy leader.	He is a Catholic deputy leader.	0	pri-pri	a would-be Catholic deputy leader
+700	He is a would-be Catholic deputy leader.	He is a Catholic leader.	0	pri-pri	a would-be Catholic deputy leader
+701	He is the probable next CEO.	He is the next CEO.	0	pri-pri	the probable next CEO
+702	He is the probable next CEO.	He is the CEO.	0	pri-pri	the probable next CEO
+703	This is simulated drowning executions.	This is drowning executions.	0	pri-pri	simulated drowning executions
+704	This is a possible later pregnancy.	This is a later pregnancy.	0	pri-pri	a possible later pregnancy
+705	This is a possible faulty restoration.	This is a faulty restoration.	0	pri-pri	a possible faulty restoration
+706	These are improbable future catastrophes.	These are future catastrophes.	0	pri-pri	improbable future catastrophes
+707	This is an unlikely initial success.	This is an initial success.	0	pri-pri	an unlikely initial success
+708	This is an unlikely initial success.	This is a success.	0	pri-pri	an unlikely initial success
+709	He is a retired naval admiral.	He is a naval admiral.	0	pri-pri	a retired naval admiral
+710	This is the improbable future catastrophe.	This is the future catastrophe.	0	pri-pri	the improbable future catastrophe
+711	She is a retired naval admiral.	She is an admiral.	0	pri-pri	a retired naval admiral
+712	She is a deputy foreign vice minister.	She is a deputy foreign minister.	0	pri-pri	a deputy foreign vice minister
+713	She is a deputy foreign vice minister.	She is a foreign minister.	0	pri-pri	a deputy foreign vice minister
+714	This is his would-be next work.	This is his next work.	0	pri-pri	his would-be next work
+715	This is an unlikely would-be assassin.	This is an assassin.	0	pri-pri	an unlikely would-be assassin
+716	This is a mock wooden barrier.	This is a wooden barrier.	0	pri-pri	a mock wooden barrier
+717	This is a fake wooden sword.	This is a sword.	0	pri-pri	a fake wooden sword
+718	He is a 69-year-old retired plastic surgeon.	He is a 69-year-old plastic surgeon.	0	pri-pri	a 69-year-old retired plastic surgeon
+719	He is a 69-year-old retired plastic surgeon.	He is a 69-year-old surgeon.	0	pri-pri	a 69-year-old retired plastic surgeon
+720	This is an unsuccessful proposed labor agreement.	This is an unsuccessful labor agreement.	0	pri-pri	an unsuccessful proposed labor agreement
+721	This is an unsuccessful proposed labor agreement.	This is a labor agreement.	0	pri-pri	an unsuccessful proposed labor agreement
+722	This is a probable center-right candidate.	This is a center-right candidate.	0	pri-pri	a probable center-right candidate
+723	This is a theoretical future budget surplus.	This is a future budget surplus.	0	pri-pri	a theoretical future budget surplus
+724	This is the initial half hour.	This is the initial hour.	0	pri-pri	the initial half hour
+725	This is the initial half hour.	This is the hour.	0	pri-pri	the initial half hour
+726	This is a fake honorary doctorate.	This is an honorary doctorate.	0	pri-pri	a fake honorary doctorate
+727	This is a fake honorary doctorate.	This is a doctorate.	0	pri-pri	a fake honorary doctorate
+728	This is a dubious potential leader.	This is a leader.	0	pri-pri	a dubious potential leader
+729	This is the alleged dubious trading.	This is the dubious trading.	0	pri-pri	the alleged dubious trading
+730	He is a retired former French diplomat.	He is a French diplomat.	0	pri-pri	a retired former French diplomat
+731	He is a onetime alleged dirty-bomb plotter.	He is a onetime dirty-bomb plotter.	0	pri-pri	a onetime alleged dirty-bomb plotter
+732	He is a onetime alleged dirty-bomb plotter.	He is a dirty-bomb plotter.	0	pri-pri	a onetime alleged dirty-bomb plotter
+733	These are the initial half dozen countries.	These are the initial dozen countries.	0	pri-pri	the initial half dozen countries
+734	These are the initial half dozen countries.	These are the dozen countries.	0	pri-pri	the initial half dozen countries
+735	This is the presumed future leader.	This is the presumed leader.	0	pri-pri	the presumed future leader
+736	This is the presumed future leader.	This is the future leader.	0	pri-pri	the presumed future leader
+737	This is the presumed future leader.	This is the leader.	0	pri-pri	the presumed future leader
+738	He is a retired black deputy sherriff.	He is a black deputy sherriff.	0	pri-pri	a retired black deputy sherriff
+739	That is a possible imminent eruption.	That is an eruption.	0	pri-pri	a possible imminent eruption
+740	These are the initial false declarations.	These are the initial declarations.	0	pri-pri	the initial false declarations
+741	They are those presumed future contenders.	They are those future contenders.	0	pri-pri	those presumed future contenders
+742	These are imminent potential reactions.	These are imminent reactions.	0	pri-pri	imminent potential reactions
+743	These are future hypothetical threats.	These are threats.	0	pri-pri	future hypothetical threats
+744	Those are theoretical potential losses.	Those are losses.	0	pri-pri	theoretical potential losses
+745	He has a potential negative impact.	He has a negative impact.	0	pri-pri	a potential negative impact
+746	He has a potential negative impact.	He has an impact.	0	pri-pri	a potential negative impact
+747	This is an almost empty house.	This is an empty house.	0	pri-pri	an almost empty house
+748	This is a supposed brief affair.	This is a brief affair.	0	pri-sub	a supposed brief affair
+749	This is a hypothetical regional conflict.	This is a regional conflict.	0	pri-sub	a hypothetical regional conflict
+750	This is a hypothetical regional conflict.	This is a conflict.	0	pri-sub	a hypothetical regional conflict
+751	This is a supposed positive result.	This is a positive result.	0	pri-sub	a supposed positive result
+752	This is dubious strategic importance.	This is importance.	0	pri-sub	dubious strategic importance
+753	This is a presumed negative effect.	This is a negative effect.	0	pri-sub	a presumed negative effect
+754	This is an artificial high return.	This is a high return.	0	pri-sub	an artificial high return
+755	They are the supposed good guys.	They are the good guys.	0	pri-sub	the supposed good guys
+756	It is a fictional national championship.	It is a championship.	0	pri-sub	a fictional national championship
+757	This is a probable high position.	This is a high position.	0	pri-sub	a probable high position
+758	It is the probable maximum loss.	It is the maximum loss.	0	pri-sub	the probable maximum loss
+759	This is Ukrainian first vice prime minister.	This is Ukrainian first minister.	0	pri-sub	Ukrainian first vice prime minister
+760	He is a onetime domestic policy adviser.	He is a domestic policy adviser.	0	pri-sub	a onetime domestic policy adviser
+761	This is a mock common admission test.	This is an admission test.	0	pri-sub	a mock common admission test
+762	This is A would-be classic baseball game.	This is a classic baseball game.	0	pri-sub	A would-be classic baseball game
+763	They are his presumed strong competitors.	They are his strong competitors.	0	pri-sub	his presumed strong competitors
+764	This is a presumed short circuit.	This is a short circuit.	0	pri-sub	a presumed short circuit
+765	They have a presumed common origin.	They have a common origin.	0	pri-sub	a presumed common origin
+766	She is a retired federal lawyer.	She is a federal lawyer.	0	pri-sub	a retired federal lawyer
+767	She is a retired federal lawyer.	She is a lawyer.	0	pri-sub	a retired federal lawyer
+768	Those are counterfeit modern bills.	Those are modern bills.	0	pri-sub	counterfeit modern bills
+769	Those are counterfeit modern bills.	Those are bills.	0	pri-sub	counterfeit modern bills
+770	This is the next highest federal court.	This is the next highest court.	0	pri-sub	the next highest federal court
+771	This is the next highest federal court.	This is the highest federal court.	0	pri-sub	the next highest federal court
+772	This is the next highest federal court.	This is the highest court.	0	pri-sub	the next highest federal court
+773	This is a forged medical professional license.	This is a medical professional license.	0	pri-sub	a forged medical professional license
+774	This is a forged medical professional license.	This is a medical license.	0	pri-sub	a forged medical professional license
+775	She is a would-be serious cook.	She is a serious cook.	0	pri-sub	a would-be serious cook
+776	She is a would-be serious cook.	She is a cook.	0	pri-sub	a would-be serious cook
+777	This is a seeming diplomatic breakthrough.	This is a diplomatic breakthrough.	0	pri-sub	a seeming diplomatic breakthrough
+778	This is a probable easy fix.	This is an easy fix.	0	pri-sub	a probable easy fix
+779	This is a hypothetical ninth season.	This is a ninth season.	0	pri-sub	a hypothetical ninth season
+780	This is a retired prominent basketball player.	This is a prominent basketball player.	0	pri-sub	a retired prominent basketball player
+781	This is a presumed front runner.	This is a front runner.	0	pri-sub	a presumed front runner
+782	This is a fictitious coastal state.	This is a coastal state.	0	pri-sub	a fictitious coastal state
+783	This is a fictitious coastal state.	This is a state.	0	pri-sub	a fictitious coastal state
+784	He is a onetime musical director.	He is a director.	0	pri-sub	a onetime musical director
+785	She is a would-be front runner.	She is a front runner.	0	pri-sub	a would-be front runner
+786	She is a would-be front runner.	She is a runner.	0	pri-sub	a would-be front runner
+787	She is a fictional common ancestor.	She is a common ancestor.	0	pri-sub	a fictional common ancestor
+788	She is a fictional common ancestor.	She is an ancestor.	0	pri-sub	a fictional common ancestor
+789	This is a mock early surrender.	This is an early surrender.	0	pri-sub	a mock early surrender
+790	This is a mock early surrender.	This is a surrender.	0	pri-sub	a mock early surrender
+791	Those are past southern areas.	Those are southern areas.	0	pri-sub	past southern areas
+792	This is a probable third round meeting.	This is a third round meeting.	0	pri-sub	a probable third round meeting
+793	She is an assumed presidential nominee.	She is a presidential nominee.	0	pri-sub	an assumed presidential nominee
+794	This is a supposed key piece.	This is a key piece.	0	pri-sub	a supposed key piece
+795	This is a would-be high roller.	This is a high roller.	0	pri-sub	a would-be high roller
+796	This is the seeming easy access.	This is the easy access.	0	pri-sub	the seeming easy access
+797	He is an unlikely high scorer.	He is an unlikely scorer.	0	pri-sub	an unlikely high scorer
+798	This is fraudulent professional courtesies.	This is professional courtesies.	0	pri-sub	fraudulent professional courtesies
+799	These are hypothetical legislative bills.	These are legislative bills.	0	pri-sub	hypothetical legislative bills
+800	He has a forged diplomatic passport.	He has a diplomatic passport.	0	pri-sub	a forged diplomatic passport
+801	This is a forged Iranian diplomatic passport.	This is a Iranian diplomatic passport.	0	pri-sub	a forged Iranian diplomatic passport
+802	This is a forged Iranian diplomatic passport.	This is a Iranian passport.	0	pri-sub	a forged Iranian diplomatic passport
+803	He is a presumed early rebel target.	He is an early rebel target.	0	pri-sub	a presumed early rebel target
+804	She is a Spanish first vice prime minister.	She is a Spanish first prime minister.	0	pri-sub	a Spanish first vice prime minister
+805	She is a Spanish first vice prime minister.	She is a Spanish first minister.	0	pri-sub	a Spanish first vice prime minister
+806	This is The probable maximum loss.	This is The maximum loss.	0	pri-sub	The probable maximum loss
+807	He is the first vice prime minister.	He is the first prime minister.	0	pri-sub	the first vice prime minister
+808	He is the first vice prime minister.	He is the first minister.	0	pri-sub	the first vice prime minister
+809	This is a onetime domestic policy adviser.	This is a domestic policy adviser.	0	pri-sub	a onetime domestic policy adviser
+810	This is a onetime domestic policy adviser.	This is a policy adviser.	0	pri-sub	a onetime domestic policy adviser
+811	This is a prior national interest.	This is a national interest.	0	pri-sub	a prior national interest
+812	This is a fictitious high school.	This is a high school.	0	pri-sub	a fictitious high school
+813	This is a fictitious high school.	This is a school.	0	pri-sub	a fictitious high school
+814	He is a retired federal lawyer.	He is a federal lawyer.	0	pri-sub	a retired federal lawyer
+815	He is a retired federal lawyer.	He is a lawyer.	0	pri-sub	a retired federal lawyer
+816	This is a counterfeit modern bill.	This is a modern bill.	0	pri-sub	a counterfeit modern bill
+817	He is Al-Qaeda's presumed top financier.	He is Al-Qaeda's top financier.	0	pri-sub	Al-Qaeda's presumed top financier
+818	This is a would-be lead blocker.	This is a lead blocker.	0	pri-sub	a would-be lead blocker
+819	He has some presumed serious mental health problem.	He has some serious mental health problem.	0	pri-sub	some presumed serious mental health problem
+820	She is a next top star.	She is a top star.	0	pri-sub	a next top star
+821	She is a next top star.	She is a star.	0	pri-sub	a next top star
+822	This is A would-be classic baseball game.	This is a classic baseball game.	0	pri-sub	A would-be classic baseball game
+823	He is a presumed strong competitor.	He is a strong competitor.	0	pri-sub	a presumed strong competitor
+824	This is a presumed short circuit.	This is a short circuit.	0	pri-sub	a presumed short circuit
+825	He is a retired short seller.	He is a short seller.	0	pri-sub	a retired short seller
+826	He is a retired short seller.	He is a seller.	0	pri-sub	a retired short seller
+827	This is a presumed common origin.	This is a common origin.	0	pri-sub	a presumed common origin
+828	This is every previous significant work.	This is every significant work.	0	pri-sub	every previous significant work
+829	This is every previous significant work.	This is every work.	0	pri-sub	every previous significant work
+830	This is a probable high position.	This is a high position.	0	pri-sub	a probable high position
+831	He is a fictitious professional golfer.	He is a professional golfer.	0	pri-sub	a fictitious professional golfer
+832	This is a mock serious tone.	This is a serious tone.	0	pri-sub	a mock serious tone
+833	It has dubious strategic value.	It has strategic value.	0	pri-sub	dubious strategic value
+834	It has dubious strategic value.	It has value.	0	pri-sub	dubious strategic value
+835	This is a probable third round meeting.	This is a probable round meeting.	0	pri-sub	a probable third round meeting
+836	This is a probable third round meeting.	This is a round meeting.	0	pri-sub	a probable third round meeting
+837	This is the mock common admission test.	This is the common admission test.	0	pri-sub	the mock common admission test
+838	This is the mock common admission test.	This is the admission test.	0	pri-sub	the mock common admission test
+839	This is a seeming similar experience.	This is a similar experience.	0	pri-sub	a seeming similar experience
+840	These are its presumed specific principles.	These are its specific principles.	0	pri-sub	its presumed specific principles
+841	He is Al-Qaeda's presumed top financier.	He is Al-Qaeda's top financier.	0	pri-sub	Al-Qaeda's presumed top financier
+842	This is a would-be lead blocker.	This is a lead blocker.	0	pri-sub	a would-be lead blocker
+843	This is a presumed serious mental health problem.	This is a serious mental health problem.	0	pri-sub	a presumed serious mental health problem
+844	This is a presumed serious mental health problem.	This is a mental health problem.	0	pri-sub	a presumed serious mental health problem
+845	This is an imminent positive result.	This is a positive result.	0	pri-sub	an imminent positive result
+846	He is a supposed corrupt federal official.	He is a corrupt federal official.	0	pri-sub	a supposed corrupt federal official
+847	He is a supposed corrupt federal official.	He is a corrupt official.	0	pri-sub	a supposed corrupt federal official
+848	This is a fictional common ancestor.	This is a common ancestor.	0	pri-sub	a fictional common ancestor
+849	This is a fictional common ancestor.	This is an ancestor.	0	pri-sub	a fictional common ancestor
+850	This is a mock early surrender.	This is a surrender.	0	pri-sub	a mock early surrender
+851	This is a past southern area.	This is a southern area.	0	pri-sub	a past southern area
+852	This is a mock parliamentary debate.	This is a parliamentary debate.	0	pri-sub	a mock parliamentary debate
+853	She is a prior federal judge.	She is a judge.	0	pri-sub	a prior federal judge
+854	This is some improbable common ground.	This is some ground.	0	pri-sub	some improbable common ground
+855	This is his somewhat disputed eighth championship.	This is his somewhat championship.	0	pri-sub	his somewhat disputed eighth championship
+856	This is an allegedly fraudulent national election.	This is an allegedly national election.	0	pri-sub	an allegedly fraudulent national election
+857	She is Germany 's next top star.	She is Germany 's top star.	0	pri-sub	Germany 's next top star
+858	She is Germany 's next top star.	She is Germany 's star.	0	pri-sub	Germany 's next top star
+859	This is An unlikely top seller.	This is An unlikely seller.	0	pri-sub	An unlikely top seller
+860	This is An unlikely top seller.	This is a top seller.	0	pri-sub	An unlikely top seller
+861	He is a retired federal lawyer.	He is a federal lawyer.	0	pri-sub	a retired federal lawyer
+862	He is a retired federal lawyer.	He is a lawyer.	0	pri-sub	a retired federal lawyer
+863	Those are counterfeit modern bills.	Those are modern bills.	0	pri-sub	counterfeit modern bills
+864	Those are counterfeit modern bills.	Those are bills.	0	pri-sub	counterfeit modern bills
+865	This is an improbable presidential candidacy.	This is a presidential candidacy.	0	pri-sub	an improbable presidential candidacy
+866	This is a counterfeit federal certificate.	This is a federal certificate.	0	pri-sub	a counterfeit federal certificate
+867	This is a counterfeit federal certificate.	This is a certificate.	0	pri-sub	a counterfeit federal certificate
+868	This is a fictional small island.	This is an island.	0	pri-sub	a fictional small island
+869	This is a forged Arab diplomatic passport.	This is a Arab diplomatic passport.	0	pri-sub	a forged Arab diplomatic passport
+870	This is a forged Arab diplomatic passport.	This is a Arab passport.	0	pri-sub	a forged Arab diplomatic passport
+871	She is a putative central character.	She is a central character.	0	pri-sub	a putative central character
+872	He is a would-be late bloomer.	He is a late bloomer.	0	pri-sub	a would-be late bloomer
+873	He is a would-be late bloomer.	He is a bloomer.	0	pri-sub	a would-be late bloomer
+874	This is a hypothetical severe weather day.	This is a severe weather day.	0	pri-sub	a hypothetical severe weather day
+875	This is a probable top contender.	This is a top contender.	0	pri-sub	a probable top contender
+876	This is vice presidential short lists.	This is vice short lists.	0	pri-sub	vice presidential short lists
+877	This is vice presidential short lists.	This is presidential short lists.	0	pri-sub	vice presidential short lists
+878	She is Germany 's next top star.	She is Germany 's top star.	0	pri-sub	Germany 's next top star
+879	This is a would-be musical rebel.	This is a musical rebel.	0	pri-sub	a would-be musical rebel
+880	This is a would-be musical rebel.	This is a rebel.	0	pri-sub	a would-be musical rebel
+881	This is The would-be federal law.	This is The federal law.	0	pri-sub	The would-be federal law
+882	This is a vice ministerial-level strategic dialogue.	This is a ministerial-level strategic dialogue.	0	pri-sub	a vice ministerial-level strategic dialogue
+883	This is a vice ministerial-level strategic dialogue.	This is a ministerial-level dialogue.	0	pri-sub	a vice ministerial-level strategic dialogue
+884	This is a probable small reduction.	This is a small reduction.	0	pri-sub	a probable small reduction
+885	This is a presumed early rebel target.	This is an early rebel target.	0	pri-sub	a presumed early rebel target
+886	He is a prior grand jury.	He is a grand jury.	0	pri-sub	a prior grand jury
+887	He is a retired northern general.	He is a northern general.	0	pri-sub	a retired northern general
+888	He is a retired northern general.	He is a general.	0	pri-sub	a retired northern general
+889	He is a onetime regular performer.	He is a regular performer.	0	pri-sub	a onetime regular performer
+890	It is the supposed traditional wisdom.	It is the traditional wisdom.	0	pri-sub	the supposed traditional wisdom
+891	It is the supposed traditional wisdom.	It is the wisdom.	0	pri-sub	the supposed traditional wisdom
+892	They are would-be musical rebels.	They are musical rebels.	0	pri-sub	would-be musical rebels
+893	They are would-be musical rebels.	They are rebels.	0	pri-sub	would-be musical rebels
+894	He is a Russian alleged arms dealer.	He is a Russian arms dealer.	0	int-pri	a Russian alleged arms dealer
+895	He is a Russian alleged arms dealer.	He is an arms dealer.	0	int-pri	a Russian alleged arms dealer
+896	This is African would-be emigrants.	This is African emigrants.	0	int-pri	African would-be emigrants
+897	This is African would-be emigrants.	This is emigrants.	0	int-pri	African would-be emigrants
+898	They are Russian alleged spies.	They are spies.	0	int-pri	Russian alleged spies
+899	This is their original nominal value.	This is their nominal value.	0	int-pri	their original nominal value
+900	This is their original nominal value.	This is their value.	0	int-pri	their original nominal value
+901	They are Chinese would-be mothers.	They are Chinese mothers.	0	int-pri	Chinese would-be mothers
+902	They are Chinese would-be mothers.	They are mothers.	0	int-pri	Chinese would-be mothers
+903	This is a single false compliment.	This is a single compliment.	0	int-pri	a single false compliment
+904	This is an original virtual pet.	This is an original pet.	0	int-pri	an original virtual pet
+905	They are Chinese would-be astronauts.	They are Chinese astronauts.	0	int-pri	Chinese would-be astronauts
+906	They are Chinese would-be astronauts.	They are astronauts.	0	int-pri	Chinese would-be astronauts
+907	This is a single false positive.	This is a single positive.	0	int-pri	a single false positive
+908	They are African would-be emigrants.	They are African emigrants.	0	int-pri	African would-be emigrants
+909	They are African would-be emigrants.	They are emigrants.	0	int-pri	African would-be emigrants
+910	He is a Russian alleged arms dealer.	He is a Russian arms dealer.	0	int-pri	a Russian alleged arms dealer
+911	This is a Russian possible participation.	This is a participation.	0	int-pri	a Russian possible participation
+912	This is Western standard business education.	This is standard business education.	0	int-sub	Western standard business education
+913	This is a high expected dividend growth.	This is a high dividend growth.	0	sub-pri	a high expected dividend growth
+914	This is its maximum potential value.	This is its maximum value.	0	sub-pri	its maximum potential value
+915	It has a high false alarm rate.	It has a high alarm rate.	0	sub-pri	a high false alarm rate
+916	This is a low expected return.	This is a low return.	0	sub-pri	a low expected return
+917	This is the maximum initial sentence.	This is the maximum sentence.	0	sub-pri	the maximum initial sentence
+918	This is the maximum initial fee.	This is the maximum fee.	0	sub-pri	the maximum initial fee
+919	This is the maximum proposed CO2 levels.	This is the maximum CO2 levels.	0	sub-pri	the maximum proposed CO2 levels
+920	He has many prior connections.	He has many connections.	0	sub-pri	many prior connections
+921	He has many prior connections.	He has connections.	0	sub-pri	many prior connections
+922	This is a high false negative rate.	This is a negative rate.	0	sub-pri	a high false negative rate
+923	These are many seeming similarities.	These are similarities.	0	sub-pri	many seeming similarities
+924	There are numerous would-be parents.	There are numerous parents.	0	sub-pri	numerous would-be parents
+925	There are numerous would-be parents.	There are parents.	0	sub-pri	numerous would-be parents
+926	This is a national anti- pandemic plan.	This is a national pandemic plan.	0	sub-pri	a national anti- pandemic plan
+927	This is a national anti- pandemic plan.	This is a pandemic plan.	0	sub-pri	a national anti- pandemic plan
+928	This is the maximum initial fee.	This is the maximum fee.	0	sub-pri	the maximum initial fee
+929	These are her many supposed friends.	These are her many friends.	0	sub-pri	her many supposed friends
+930	These are her many supposed friends.	These are her friends.	0	sub-pri	her many supposed friends
+931	These are the total national gold reserves.	These are the total national reserves.	0	sub-pri	the total national gold reserves
+932	These are the total national gold reserves.	These are the total gold reserves.	0	sub-pri	the total national gold reserves
+933	These are the total national gold reserves.	These are the total reserves.	0	sub-pri	the total national gold reserves
+934	These are numerous failed cease-fires.	These are numerous cease-fires.	0	sub-pri	numerous failed cease-fires
+935	This is a low likely return.	This is a low return.	0	sub-pri	a low likely return
+936	They are our numerous onetime allies.	They are our allies.	0	sub-pri	our numerous onetime allies
+937	This is a maximum theoretical speed.	This is a maximum speed.	0	sub-pri	a maximum theoretical speed
+938	These are her numerous fake names.	These are her names.	0	sub-pri	her numerous fake names
+939	Those are many supposed solutions.	Those are many solutions.	0	sub-pri	many supposed solutions
+940	Those are many supposed solutions.	Those are solutions.	0	sub-pri	many supposed solutions
+941	This is the maximum nominal devaluation.	This is the maximum devaluation.	0	sub-pri	the maximum nominal devaluation
+942	This is its maximum potential value.	This is its maximum value.	0	sub-pri	its maximum potential value
+943	This is a high false alarm rate.	This is a high alarm rate.	0	sub-pri	a high false alarm rate
+944	This is a low expected return.	This is a low return.	0	sub-pri	a low expected return
+945	This is the maximum initial sentence.	This is the maximum sentence.	0	sub-pri	the maximum initial sentence
+946	These are many seeming similarities.	These are many similarities.	0	sub-pri	many seeming similarities
+947	These are many seeming similarities.	These are similarities.	0	sub-pri	many seeming similarities
+948	They are numerous would-be parents.	They are numerous parents.	0	sub-pri	numerous would-be parents
+949	They are numerous would-be parents.	They are parents.	0	sub-pri	numerous would-be parents
+950	These are many unlikely contributors.	These are many contributors.	0	sub-pri	many unlikely contributors
+951	These are her many supposed friends.	These are her many friends.	0	sub-pri	her many supposed friends
+952	These are her many supposed friends.	These are her friends.	0	sub-pri	her many supposed friends
+953	This is the fourth democratic parliament.	This is the fourth parliament.	0	sub-int	the fourth democratic parliament
+954	She is the fourth foreign winner.	She is the fourth winner.	0	sub-int	the fourth foreign winner
+955	They are regular married folks.	They are regular folks.	0	sub-int	regular married folks
+956	This is its fourth democratic election.	This is its fourth election.	0	sub-int	its fourth democratic election
+957	This is its fourth consecutive gold medal.	This is its fourth consecutive medal.	0	sub-int	its fourth consecutive gold medal
+958	It is the third largest gold producer.	It is the third largest producer.	0	sub-int	the third largest gold producer
+959	It is the third largest gold producer.	It is the largest gold producer.	0	sub-int	the third largest gold producer
+960	This is its fifth democratic poll.	This is its fifth poll.	0	sub-int	its fifth democratic poll
+961	This is the fourth democratic parliament.	This is the fourth parliament.	0	sub-int	the fourth democratic parliament
+962	This is the fourth Swedish winner.	This is the fourth winner.	0	sub-int	the fourth Swedish winner
+963	She is a top amateur U.S. athlete.	She is a top U.S. athlete.	0	sub-sub	a top amateur U.S. athlete
+964	This is the second green ball.	This is the second ball.	0	sub-int	the second green ball
+965	This is an alleged antique vase.	This is an antique vase.	0	pri-sub	an alleged antique vase

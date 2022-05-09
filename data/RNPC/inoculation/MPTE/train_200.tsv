@@ -1,0 +1,201 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is fabricated false news. This is tweets.	This is fabricated tweets.	2	pri-pri	fabricated false news
+1	This is an apparent false alarm. This is an emergency.	This is a false emergency.	2	pri-pri	an apparent false alarm
+2	This is an apparent false alarm. This is an emergency.	This is an apparent emergency.	0	pri-pri	an apparent false alarm
+3	This is a single false compliment. This is a statement.	This is a single statement.	2	int-pri	a single false compliment
+4	This is a single false positive. This is an outcome.	This is a false outcome.	0	int-pri	a single false positive
+5	This is a national false memory syndrome. This is a condition.	This is a national condition.	2	sub-pri	a national false memory syndrome
+6	This is a national false memory syndrome. This is an ailment.	This is a national ailment.	2	sub-pri	a national false memory syndrome
+7	These are numerous false assumptions. These are beliefs.	These are false beliefs.	2	sub-pri	numerous false assumptions
+8	These are numerous false assumptions. These are beliefs.	These are numerous beliefs.	2	sub-pri	numerous false assumptions
+9	This is his initial false pledge. This is attempt.	This is initial attempt.	0	pri-pri	his initial false pledge
+10	This is his initial false pledge. This is his commitment.	This is his initial commitment.	0	pri-pri	his initial false pledge
+11	Those are prior false alarms. Those are noise.	Those are false noise.	0	pri-pri	prior false alarms
+12	This is a future false alarm. This is a warning.	This is a future warning.	0	pri-pri	a future false alarm
+13	This is a next false alarm. This is a siren.	This is a next siren.	0	pri-pri	a next false alarm
+14	He is a skillful American violinsit. He is a father.	He is an American father.	2	sub-int	a skillful American violinsit
+15	He is a skillful American violinsit. He is a musician.	He is a skillful musician.	2	sub-int	a skillful American violinsit
+16	He is a skillful American violinsit. He is a musician.	He is an American musician.	2	sub-int	a skillful American violinsit
+17	He is a skillful American violinsit. He is a father.	He is a skillful father.	0	sub-int	a skillful American violinsit
+18	She is a famous American painter. She is an mother.	She is an American mother.	2	sub-int	a famous American painter
+19	She is a famous American dancer. She is an writer.	She is an American writer.	2	sub-int	a famous American dancer
+20	She is a famous American painter. She is an artist.	She is a famous artist.	2	sub-int	a famous American painter
+21	She is a famous American painter. She is an artist.	She is an American artist.	2	sub-int	a famous American painter
+22	She is a famous American painter. She is a mother.	She is a famous mother.	0	sub-int	a famous American painter
+23	She is a famous American dancer. She is a writer.	She is a famous writer.	0	sub-int	a famous American dancer
+24	She is his future American wife. She is his neighbor.	She is his American neighbor.	2	pri-int	his future American wife
+25	She is his future American wife. She is his girlfriend.	She is his future girlfriend.	0	pri-int	his future American wife
+26	She is his future American wife. She is his girlfriend.	She is his future girlfriend.	0	pri-int	his future American wife
+27	She is his future American wife. She is his neighbor.	She is his future neighbor.	0	pri-int	his future American wife
+28	He is a short American basketball player. He is a man.	He is an American man.	2	sub-int	a short American basketball player
+29	He is a short American ping-pong player. He is a man.	He is an American man.	2	sub-int	a short American ping-pong player
+30	He is a short American ping-pong player. He is a man.	He is a short man.	2	sub-int	a short American ping-pong player
+31	He is a short American basketball player. He is a man.	He is a short man.	0	sub-int	a short American basketball player
+32	This is a gold American eagle. This is a statue.	This is a gold statue.	2	pri-int	a gold American eagle
+33	This is a gold American eagle. This is a statue.	This is an American statue.	0	pri-int	a gold American eagle
+34	This is a bad American showman. This is a performer.	This is an American performer.	2	sub-int	a bad American showman
+35	She is a so-called American expert. She is a Christian.	She is a so-called Christian.	0	pri-int	a so-called American expert
+36	Those are incorrect initial decisions. Those are conclusions.	Those are initial conclusions.	2	pri-pri	incorrect initial decisions
+37	Those are incorrect initial decisions. Those are mistakes.	Those are initial mistakes.	2	pri-pri	incorrect initial decisions
+38	Those are failed initial public offerings. Those are fundraising.	Those are failed fundraising.	2	pri-pri	failed initial public offerings
+39	This is an unlikely initial success. This is an occurrence.	This is an unlikely occurrence.	2	pri-pri	an unlikely initial success
+40	This is an unlikely initial success. This is an occurrence.	This is an initial occurrence.	2	pri-pri	an unlikely initial success
+41	This is an unlikely initial success. This is an outcome.	This is an unlikely outcome.	2	pri-pri	an unlikely initial success
+42	This is an unlikely initial success. This is an attempt.	This is an initial attempt.	0	pri-pri	an unlikely initial success
+43	This is the maximum initial fee. This is an expense.	This is an initial expense.	2	sub-pri	the maximum initial fee
+44	This is the maximum initial fee. This is an expense.	This is a maximum expense.	0	sub-pri	the maximum initial fee
+45	This is the maximum initial fee. This is the cost.	This is the maximum cost.	0	sub-pri	the maximum initial fee
+46	This is the maximum initial sentence. This is the punishment.	This is the maximum punishment.	0	sub-pri	the maximum initial sentence
+47	These are low initial ratings. These are scores.	These are low scores.	2	sub-pri	low initial ratings
+48	These are low initial ratings. These are scores.	These are initial scores.	2	sub-pri	low initial ratings
+49	Those are low initial ratings. Those are grades.	Those are initial grades.	2	sub-pri	low initial ratings
+50	This is a low initial price. This is a discount.	This is a low discount.	0	sub-pri	a low initial price
+51	This is a high initial expense. This is a cost.	This is a high cost.	2	sub-pri	a high initial expense
+52	This is a high initial expense. This is a charge.	This is an initial charge.	2	sub-pri	a high initial expense
+53	Those are high initial expectations. Those are views.	Those are high views.	0	sub-pri	high initial expectations
+54	This is Ukrainian first vice prime minister. This is Ukranian politician.	This is Ukranian politician.	2	pri-sub	Ukrainian first vice prime minister
+55	This is Ukrainian first vice prime minister. This is Ukranian musician.	This is Ukranian musician.	2	pri-sub	Ukrainian first vice prime minister
+56	She is a substitute prime minister. She is a leader.	She is a prime leader.	0	pri-sub	a substitute prime minister
+57	He is a vice national chief prosecutor. He is a figure.	He is a national figure.	2	pri-sub	a vice national chief prosecutor
+58	He is a vice national chief prosecutor. He is a golfer.	He is a national golfer.	0	pri-sub	a vice national chief prosecutor
+59	He is a young national idol. He is a man.	He is a young man.	2	sub-int	a young national idol
+60	It is a fictional national championship. It is a story.	It is a fictional story.	2	pri-sub	a fictional national championship
+61	This is a fictional national championship. This is title.	This is fictional title.	2	pri-sub	a fictional national championship
+62	It is a fictional national championship. It is a story.	It is a national story.	0	pri-sub	a fictional national championship
+63	This is an erroneous national intelligence estimate. This is a calculation.	This is an erroneous calculation.	2	pri-sub	an erroneous national intelligence estimate
+64	This is an erroneous national intelligence estimate. This is a number.	This is an national number.	0	pri-sub	an erroneous national intelligence estimate
+65	He is an honorary national chairman. He is a leader.	He is an honorary leader.	2	pri-sub	an honorary national chairman
+66	He is an honorary national chairman. He is a leader.	He is a national leader.	2	pri-sub	an honorary national chairman
+67	He is an honorary national chairman. He is a musician.	He is an honorary musician.	0	pri-sub	an honorary national chairman
+68	He is an honorary national chairman. He is a musician.	He is a national musician.	0	pri-sub	an honorary national chairman
+69	He is the honorary national chairman. He is father.	He is honorary father.	0	pri-sub	the honorary national chairman
+70	He is the honorary national chairman. He is parent.	He is honorary parent.	0	pri-sub	the honorary national chairman
+71	This is a substitute national holiday. This is a celebration.	This is a national celebration.	2	pri-sub	a substitute national holiday
+72	These are spurious national security grounds. These are stations.	These are spurious stations.	2	pri-sub	spurious national security grounds
+73	This is an allegedly fraudulent national election. This is a process.	This is a fraudulent process.	2	pri-sub	an allegedly fraudulent national election
+74	He is a Swedish national coach. He is a father.	He is a Swedish father.	2	int-sub	a Swedish national coach
+75	He is a Swedish national coach. He is a political leader.	He is a national political leader.	0	int-sub	a Swedish national coach
+76	This is an artificial national boundary. This is a river.	This is an artificial river.	0	pri-sub	an artificial national boundary
+77	This is a prior national interest. This is a concern.	This is a national concern.	0	pri-sub	a prior national interest
+78	This is a sham national convention. This is a meeting.	This is a national meeting.	0	pri-sub	a sham national convention
+79	She is a surrogate national voice. She is a mother.	She is a surrogate mother.	0	pri-sub	a surrogate national voice
+80	This is a good short story. This is an essay.	This is a good essay.	2	sub-sub	a good short story
+81	This is a good short story. This is an essay.	This is a short essay.	2	sub-sub	a good short story
+82	He is a retired short seller. He is a person.	He is a retired person.	2	pri-sub	a retired short seller
+83	He is a retired short seller. He is a driver.	He is a retired driver.	0	pri-sub	a retired short seller
+84	He is a retired short seller. He is a person.	He is a short person.	0	pri-sub	a retired short seller
+85	This is a theoretical short list. This is a catalogue.	This is a theoretical catalogue.	2	pri-sub	a theoretical short list
+86	This is a theoretical short list. This is a collection.	This is a theoretical collection.	2	pri-sub	a theoretical short list
+87	This is a theoretical short list. This is a catalogue.	This is a short catalogue.	0	pri-sub	a theoretical short list
+88	This is a theoretical short list. This is a collection.	This is a short collection.	0	pri-sub	a theoretical short list
+89	This is a presumed short circuit. This is a path.	This is a short path.	0	pri-sub	a presumed short circuit
+90	This is so-called good junk-bond offerings. This is fraud.	This is so-called fraud.	0	pri-sub	so-called good junk-bond offerings
+91	They are good senior bankers. They are mentors.	They are good mentors.	0	sub-sub	good senior bankers
+92	She is an admired senior lecturer. She is a person.	She is an admired person.	2	sub-sub	an admired senior lecturer
+93	She is an admired senior lecturer. She is a woman.	She is an admired woman.	2	sub-sub	an admired senior lecturer
+94	She is an admired senior lecturer. She is a writer.	She is an admired writer.	0	sub-sub	an admired senior lecturer
+95	She is an admired senior lecturer. She is a writer.	She is a senior writer.	0	sub-sub	an admired senior lecturer
+96	She is a so-called senior expert. She is a manager.	She is a so-called manager.	0	pri-sub	a so-called senior expert
+97	She is a so-called senior expert. She is a manager.	She is a senior manager.	0	pri-sub	a so-called senior expert
+98	He is the former senior president. He is a writer.	He is a former writer.	0	pri-sub	the former senior president
+99	He is the former senior president. He is a writer.	He is a senior writer.	0	pri-sub	the former senior president
+100	He is a good beginner boxer. He is a runner.	He is a beginner runner.	0	sub-sub	a good beginner boxer
+101	He is a good beginner boxer. He is a runner.	He is a good runner.	0	sub-sub	a good beginner boxer
+102	He is an attractive beginner golfer. He is a skier.	He is a beginner skier.	0	sub-int	an attractive beginner golfer
+103	She is an amazing beginner drummer. She is an driver.	She is an amazing driver.	0	sub-sub	an amazing beginner drummer
+104	She is an amazing beginner drummer. She is a driver.	She is a beginner driver.	0	sub-sub	an amazing beginner drummer
+105	She is a beautiful young woman. She is a painter.	She is a young painter.	2	sub-sub	a beautiful young woman
+106	She is a beautiful young woman. She is a painter.	She is a beautiful painter.	2	sub-sub	a beautiful young woman
+107	He is a handsome young president. He is a man.	He is a handsome man.	2	sub-sub	a handsome young president
+108	He is a handsome young idol. He is a man.	He is a handsome man.	2	sub-sub	a handsome young idol
+109	He is a handsome young idol. He is a man.	He is a young man.	2	sub-sub	a handsome young idol
+110	She is an ugly young actress. She is a woman.	She is a young woman.	2	sub-sub	an ugly young actress
+111	She is a bright young engineer. She is a woman.	She is a bright woman.	2	sub-sub	a bright young engineer
+112	She is a bright young engineer. She is a woman.	She is a young woman.	2	sub-sub	a bright young engineer
+113	He is a feverish young boy. He is a student.	He is a young student.	2	sub-sub	a feverish young boy
+114	He is a fictitious young blogger. He is a fictitous creator.	He is a fictitous creator.	2	pri-sub	a fictitious young blogger
+115	These are unofficial early results. These are tallies.	These are unofficial tallies.	2	pri-sub	unofficial early results
+116	He is a presumed early rebel target. He is a man.	He is a presumed man.	0	pri-sub	a presumed early rebel target
+117	This is an unofficial northern boundary. This is a border.	This is a northern border.	0	pri-sub	an unofficial northern boundary
+118	He is a retired northern general. He is a man.	He is a northern man.	2	pri-sub	a retired northern general
+119	He is a retired northern general. He is a person.	He is a northern person.	2	pri-sub	a retired northern general
+120	He is a retired northern general. He is a doctor.	He is a retired doctor.	0	pri-sub	a retired northern general
+121	He is a retired northern general. He is a driver.	He is a retired driver.	0	pri-sub	a retired northern general
+122	She is a bright young engineer. She is a woman.	She is a bright woman.	2	sub-sub	a bright young engineer
+123	She is a bright young engineer. She is a woman.	She is a young woman.	2	sub-sub	a bright young engineer
+124	He is a handsome young president. He is a man.	He is a handsome man.	2	sub-sub	a handsome young president
+125	He is a handsome young idol. He is a man.	He is a handsome man.	2	sub-sub	a handsome young idol
+126	He is a handsome young idol. He is a man.	He is a young man.	2	sub-sub	a handsome young idol
+127	She is a beautiful young woman. She is a painter.	She is a young painter.	2	sub-sub	a beautiful young woman
+128	She is a beautiful young woman. She is a painter.	She is a beautiful painter.	2	sub-sub	a beautiful young woman
+129	She is an ugly young actress. She is a woman.	She is a young woman.	2	sub-sub	an ugly young actress
+130	He is a feverish young boy. He is a student.	He is a young student.	2	sub-sub	a feverish young boy
+131	He is a fictitious young blogger. He is a fictitous creator.	He is a fictitous creator.	2	pri-sub	a fictitious young blogger
+132	These are two burned technical vehicles. These are equipment.	These are burned equipment.	2	pri-sub	two burned technical vehicles
+133	These are two burned technical vehicles. These are machines.	These are burned machines.	2	pri-sub	two burned technical vehicles
+134	These are two burned technical vehicles. These are tools.	These are technical tools.	2	pri-sub	two burned technical vehicles
+135	He is a Swedish technical skier. He is an athlete.	He is a Swedish athlete.	2	int-sub	a Swedish technical skier
+136	He is a Swedish technical skier. He is an athlete.	He is a Swedish athlete.	2	int-sub	a Swedish technical skier
+137	This is a fictitious technical issue. This is an obstacle.	This is a technical obstacle.	0	pri-sub	a fictitious technical issue
+138	She is an honorary technical advisor. She is a director.	She is an honorary director.	0	pri-sub	an honorary technical advisor
+139	This is a substitute presidential plane. This is a vehichle.	This is a substitute vehichle.	2	pri-sub	a substitute presidential plane
+140	This is a substitute presidential plane. This is a vehichle.	This is a presidential vehichle.	2	pri-sub	a substitute presidential plane
+141	This is the substitute presidential plane. This is vehicle.	This is substitute vehicle.	2	pri-sub	the substitute presidential plane
+142	He has an improbable presidential candidacy. He has a nomination.	He has an improbable nomination.	2	pri-sub	an improbable presidential candidacy
+143	This is an improbable presidential candidacy. This is a qualification.	This is an improbable qualification.	2	pri-sub	an improbable presidential candidacy
+144	He has an improbable presidential candidacy. He has a nomination.	He has a presidential nomination.	0	pri-sub	an improbable presidential candidacy
+145	This is an improbable presidential candidacy. This is a qualification.	This is a presidential qualification.	0	pri-sub	an improbable presidential candidacy
+146	This is an improbable presidential candidacy. This is an eligibility.	This is a presidential eligibility.	0	pri-sub	an improbable presidential candidacy
+147	He is the assumed presidential nominee. He is the assume candidate.	He is the assume candidate.	2	pri-sub	the assumed presidential nominee
+148	She is an assumed presidential nominee. She is a scholar.	She is a presidential scholar.	0	pri-sub	an assumed presidential nominee
+149	She is an assumed presidential nominee. She is a scholar.	She is an assumed scholar.	0	pri-sub	an assumed presidential nominee
+150	This is an impossible presidential schedule. This is a dubious itinerary.	This is a dubious itinerary.	2	pri-sub	an impossible presidential schedule
+151	This is a broken presidential promise. This is a speech.	This is a broken speech.	0	pri-sub	a broken presidential promise
+152	These are several broken presidential promises. These are sentences.	These are broken sentences.	0	pri-sub	several broken presidential promises
+153	He is the previous presidential nominee. He is the supporter.	He is the previous supporter.	0	pri-sub	the previous presidential nominee
+154	He is the previous presidential nominee. He is the fundraiser.	He is the previous fundraiser.	0	pri-sub	the previous presidential nominee
+155	He is the previous presidential nominee. He is the financier.	He is the previous financier.	0	pri-sub	the previous presidential nominee
+156	She is a previous presidential nominee. She is a spouse.	She is a previous spouse.	0	pri-sub	a previous presidential nominee
+157	This is a substitute national holiday. This is a celebration.	This is a national celebration.	2	pri-sub	a substitute national holiday
+158	He is a young national idol. He is a man.	He is a young man.	2	sub-int	a young national idol
+159	It is a fictional national championship. It is a story.	It is a fictional story.	2	pri-sub	a fictional national championship
+160	This is a fictional national championship. This is title.	This is fictional title.	2	pri-sub	a fictional national championship
+161	It is a fictional national championship. It is a story.	It is a national story.	0	pri-sub	a fictional national championship
+162	This is an erroneous national intelligence estimate. This is a calculation.	This is an erroneous calculation.	2	pri-sub	an erroneous national intelligence estimate
+163	This is an erroneous national intelligence estimate. This is a number.	This is an national number.	0	pri-sub	an erroneous national intelligence estimate
+164	He is an honorary national chairman. He is a leader.	He is an honorary leader.	2	pri-sub	an honorary national chairman
+165	He is an honorary national chairman. He is a leader.	He is a national leader.	2	pri-sub	an honorary national chairman
+166	He is an honorary national chairman. He is a musician.	He is an honorary musician.	0	pri-sub	an honorary national chairman
+167	He is an honorary national chairman. He is a musician.	He is a national musician.	0	pri-sub	an honorary national chairman
+168	He is the honorary national chairman. He is father.	He is honorary father.	0	pri-sub	the honorary national chairman
+169	He is the honorary national chairman. He is parent.	He is honorary parent.	0	pri-sub	the honorary national chairman
+170	He is a vice national chief prosecutor. He is a figure.	He is a national figure.	2	pri-sub	a vice national chief prosecutor
+171	He is a vice national chief prosecutor. He is a golfer.	He is a national golfer.	0	pri-sub	a vice national chief prosecutor
+172	These are spurious national security grounds. These are stations.	These are spurious stations.	2	pri-sub	spurious national security grounds
+173	This is an allegedly fraudulent national election. This is a process.	This is a fraudulent process.	2	pri-sub	an allegedly fraudulent national election
+174	He is a Swedish national coach. He is a father.	He is a Swedish father.	2	int-sub	a Swedish national coach
+175	He is a Swedish national coach. He is a political leader.	He is a national political leader.	0	int-sub	a Swedish national coach
+176	This is an artificial national boundary. This is a river.	This is an artificial river.	0	pri-sub	an artificial national boundary
+177	This is a prior national interest. This is a concern.	This is a national concern.	0	pri-sub	a prior national interest
+178	This is a sham national convention. This is a meeting.	This is a national meeting.	0	pri-sub	a sham national convention
+179	She is a surrogate national voice. She is a mother.	She is a surrogate mother.	0	pri-sub	a surrogate national voice
+180	He is a substitute long snapper. He is a player.	He is a long player.	0	pri-sub	a substitute long snapper
+181	He is a substitute long snapper. He is a player.	He is a substitute player.	0	pri-sub	a substitute long snapper
+182	This is an unlikely long shot. This is attempt.	This is unlikely attempt.	2	pri-sub	an unlikely long shot
+183	He is an unlikely long shot. He is a winner.	He is a long winner.	0	pri-sub	an unlikely long shot
+184	He is an unlikely long shot. He is a winner.	He is an unlikely winner.	0	pri-sub	an unlikely long shot
+185	This is an impossible long shot. This is a contest.	This is an impossible contest.	0	pri-sub	an impossible long shot
+186	She is a substitute prime minister. She is a leader.	She is a prime leader.	0	pri-sub	a substitute prime minister
+187	This is Ukrainian first vice prime minister. This is Ukranian politician.	This is Ukranian politician.	2	pri-sub	Ukrainian first vice prime minister
+188	This is Ukrainian first vice prime minister. This is Ukranian musician.	This is Ukranian musician.	2	pri-sub	Ukrainian first vice prime minister
+189	This is a theoretical Soviet onslaught. This is a possibility.	This is a theoretical possibility.	2	pri-int	a theoretical Soviet onslaught
+190	He is a retired Soviet spy. He is a traitor.	He is a Soviet traitor.	2	pri-int	a retired Soviet spy
+191	He is a retired Soviet spy. He is a doctor.	He is a Soviet doctor.	2	pri-int	a retired Soviet spy
+192	He is a retired Soviet spy. He is a doctor.	He is a retired doctor.	0	pri-int	a retired Soviet spy
+193	This is a theoretical economic disaster. This is a hypothesis.	This is a theoretical hypothesis.	2	pri-int	a theoretical economic disaster
+194	Those are debatable economic issues. Those are concerns.	Those are economic concerns.	2	pri-int	debatable economic issues
+195	This is the theoretical expected rate. This is the algorithm.	This is the expected algorithm.	0	pri-pri	the theoretical expected rate
+196	This is an original expected price range. This is an estimate.	This is an original estimate.	2	int-pri	an original expected price range
+197	This is a high expected return. This is a result.	This is an expected result.	2	sub-pri	a high expected return
+198	This is a theoretical ninth planet. This is a discovery.	This is a ninth discovery.	0	pri-sub	a theoretical ninth planet
+199	This is his unlikely ninth gold medal. This is his achievement.	This is his unlikely achievement.	2	pri-sub	his unlikely ninth gold medal

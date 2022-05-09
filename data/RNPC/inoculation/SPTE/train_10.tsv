@@ -1,0 +1,11 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is a powerful new microprocessor chip.	This is a powerful microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+1	This is a powerful new microprocessor chip.	This is a microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+2	This is a powerful new microprocessor chip.	This is a new microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+3	This is good new products.	This is new products.	2	sub-sub	good new products
+4	This is good new products.	This is products.	2	sub-sub	good new products
+5	This is an expensive new stadium.	This is an new stadium.	2	sub-sub	an expensive new stadium
+6	This is a plausible new product.	This is a plausible product.	2	pri-sub	a plausible new product
+7	This is a proposed new company.	This is a new company.	0	pri-sub	a proposed new company
+8	This is my favorite new movie.	This is my new movie.	0	sub-sub	my favorite new movie
+9	This is my favorite new movie.	This is my movie.	0	sub-sub	my favorite new movie

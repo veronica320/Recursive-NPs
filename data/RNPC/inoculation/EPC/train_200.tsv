@@ -1,0 +1,201 @@
+index	sentence1	sentence2	label	combo	source NP
+0	Its victory defeats the opponent.	Its third straight victory defeats the opponent.	1	sub-int	its third straight victory
+1	A criminal can be innocent.	An alleged male criminal can be innocent.	2	pri-int	an alleged male criminal
+2	A criminal has committed a crime.	An alleged male criminal has committed a crime.	0	pri-int	an alleged male criminal
+3	A prisoner is happy.	A released male prisoner is happy.	2	pri-int	a released male prisoner
+4	A prisoner can attempt an escape.	A released male prisoner can attempt an escape.	0	pri-int	a released male prisoner
+5	Expenditures lead to risky financial positions.	Alleged questionable expenditures lead to risky financial positions.	2	pri-pri	alleged questionable expenditures
+6	Expenditures are conducted using money.	Alleged questionable expenditures are conducted using money.	1	pri-pri	alleged questionable expenditures
+7	Expenditures are happily financed by a bank.	Alleged questionable expenditures are happily financed by a bank.	0	pri-pri	alleged questionable expenditures
+8	A transaction are a fair bargain.	An alleged questionable transaction are a fair bargain.	0	pri-pri	an alleged questionable transaction
+9	His fictitious salary needs further confirmation.	His alleged fictitious salary needs further confirmation.	2	pri-pri	his alleged fictitious salary
+10	His fictitious salary were denominated in US Dollars.	His alleged fictitious salary were denominated in US Dollars.	1	pri-pri	his alleged fictitious salary
+11	Transactions are fradulent.	Alleged suspicious transactions are fradulent.	2	pri-pri	alleged suspicious transactions
+12	He printed out transactions.	He printed out alleged suspicious transactions.	1	pri-pri	alleged suspicious transactions
+13	Transactions were approved by the manager.	Alleged suspicious transactions were approved by the manager.	0	pri-pri	alleged suspicious transactions
+14	Transactions are legitimate.	Alleged suspicious transactions are legitimate.	0	pri-pri	alleged suspicious transactions
+15	A weather forecast is being investigated by the broadcasting authority.	An alleged faulty weather forecast is being investigated by the broadcasting authority.	2	pri-pri	an alleged faulty weather forecast
+16	A weather forecast is essential for farmers to plan their work.	An alleged faulty weather forecast is essential for farmers to plan their work.	0	pri-pri	an alleged faulty weather forecast
+17	Restorations would lead to equipment failure.	Possible faulty restorations would lead to equipment failure.	2	pri-pri	possible faulty restorations
+18	A restoration may result in a refund being requested.	A possible faulty restoration may result in a refund being requested.	2	pri-pri	a possible faulty restoration
+19	Restorations would extend the lifetime of equipment.	Possible faulty restorations would extend the lifetime of equipment.	0	pri-pri	possible faulty restorations
+20	SEC criminal court cases often involve the trading.	SEC criminal court cases often involve the alleged dubious trading.	2	pri-pri	the alleged dubious trading
+21	Italy is a safe haven for the trading.	Italy is a safe haven for the alleged dubious trading.	0	pri-pri	the alleged dubious trading
+22	A thief is bald.	An alleged former thief is bald.	1	pri-pri	an alleged former thief
+23	An actor has many fans.	A famous former actor has many fans.	2	sub-pri	a famous former actor
+24	An actor is a man.	A famous former actor is a man.	1	sub-pri	a famous former actor
+25	An arrogant genius is forgotten.	An arrogant former young genius is forgotten.	2	pri-sub	an arrogant former young genius
+26	An arrogant genius is male.	An arrogant former young genius is male.	1	pri-sub	an arrogant former young genius
+27	A pick is cut from the team.	A failed former pick is cut from the team.	2	pri-pri	a failed former pick
+28	A pick earns a large contract extension.	A failed former pick earns a large contract extension.	0	pri-pri	a failed former pick
+29	A character returns for a sequel.	A fictional former character returns for a sequel.	2	pri-pri	a fictional former character
+30	A character is played by multiple actors.	A fictional former character is played by multiple actors.	1	pri-pri	a fictional former character
+31	A residence is very large.	A historic former residence is very large.	1	pri-pri	a historic former residence
+32	A residence requires little maintenance.	A historic former residence requires little maintenance.	0	pri-pri	a historic former residence
+33	A capital has a lot of tall buildings.	A historic former capital has a lot of tall buildings.	0	pri-pri	a historic former capital
+34	A ruthless criminal has murdered many people.	An alleged ruthless criminal has murdered many people.	0	pri-sub	an alleged ruthless criminal
+35	A coup has an organizer.	A recent unsuccessful coup has an organizer.	1	sub-pri	a recent unsuccessful coup
+36	A coup has overturned the government.	A recent unsuccessful coup has overturned the government.	0	sub-pri	a recent unsuccessful coup
+37	A candidate decided to leave politics.	A past unsuccessful candidate decided to leave politics.	2	pri-pri	a past unsuccessful candidate
+38	A candidate is 40 years old.	A past unsuccessful candidate is 40 years old.	1	pri-pri	a past unsuccessful candidate
+39	A candidate can win an election.	A past unsuccessful candidate can win an election.	0	pri-pri	a past unsuccessful candidate
+40	Marriages got him into several lawsuits.	Numerous unsuccessful marriages got him into several lawsuits.	2	sub-pri	numerous unsuccessful marriages
+41	His marriages make his current girlfriend skeptical.	His numerous unsuccessful marriages make his current girlfriend skeptical.	2	sub-pri	his numerous unsuccessful marriages
+42	Marriages left him many cherishable memories.	Numerous unsuccessful marriages left him many cherishable memories.	0	sub-pri	numerous unsuccessful marriages
+43	His marriages prove his loyalty.	His numerous unsuccessful marriages prove his loyalty.	0	sub-pri	his numerous unsuccessful marriages
+44	The company is bankrupt because of income.	The company is bankrupt because of negative net income.	2	sub-int	negative net income
+45	It is predicted that they will have significant income next year.	It is predicted that they will have significant negative net income next year.	1	sub-int	negative net income
+46	People are happy about income.	People are happy about negative net income.	0	sub-int	negative net income
+47	A snake has no legs.	A vegetarian black snake has no legs.	1	int-int	a vegetarian black snake
+48	A snake can eat a person.	A vegetarian black snake can eat a person.	0	int-int	a vegetarian black snake
+49	An inflation rate forms part of the economic projection for next year.	An assumed annual inflation rate forms part of the economic projection for next year.	2	pri-sub	an assumed annual inflation rate
+50	An inflation rate affects people's livelihood.	An assumed annual inflation rate affects people's livelihood.	0	pri-sub	an assumed annual inflation rate
+51	The economic growth has not been verified by the government.	The predicted annual economic growth has not been verified by the government.	2	pri-sub	the predicted annual economic growth
+52	The economic growth is based on leading indicators.	The predicted annual economic growth is based on leading indicators.	2	pri-sub	the predicted annual economic growth
+53	The economic growth is forecasted not measured.	The predicted annual economic growth is forecasted not measured.	2	pri-sub	the predicted annual economic growth
+54	The economic growth is denominated in US dollars.	The predicted annual economic growth is denominated in US dollars.	1	pri-sub	the predicted annual economic growth
+55	The economic growth is flat.	The predicted annual economic growth is flat.	1	pri-sub	the predicted annual economic growth
+56	The economic growth is discussed by economists on Bloomberg TV.	The predicted annual economic growth is discussed by economists on Bloomberg TV.	1	pri-sub	the predicted annual economic growth
+57	The economic growth is a good indicator for job growth.	The predicted annual economic growth is a good indicator for job growth.	0	pri-sub	the predicted annual economic growth
+58	The reports earn them a bad reputation.	The erroneous annual reports earn them a bad reputation.	2	pri-sub	the erroneous annual reports
+59	The reports contain figures on their revenue, sales and profit.	The erroneous annual reports contain figures on their revenue, sales and profit.	1	pri-sub	the erroneous annual reports
+60	The reports pass the financial audit.	The erroneous annual reports pass the financial audit.	0	pri-sub	the erroneous annual reports
+61	A weight is assigned to a variable.	An assumed average weight is assigned to a variable.	1	pri-sub	an assumed average weight
+62	A weight is precisely measured.	An assumed average weight is precisely measured.	0	pri-sub	an assumed average weight
+63	A salary is estimated.	A theoretical average salary is estimated.	2	pri-sub	a theoretical average salary
+64	An expenditure is calculated after the project.	A predicted average expenditure is calculated after the project.	0	pri-sub	a predicted average expenditure
+65	A name is written on the official document.	An assumed second name is written on the official document.	0	pri-sub	an assumed second name
+66	His wife refuses his proposal.	His potential second wife refuses his proposal.	2	pri-sub	his potential second wife
+67	His wife is beautiful.	His potential second wife is beautiful.	1	pri-sub	his potential second wife
+68	His wife is the first woman he has dated.	His potential second wife is the first woman he has dated.	0	pri-sub	his potential second wife
+69	A quarter has three months.	A flat second quarter has three months.	1	int-sub	a flat second quarter
+70	The company makes plenty of money in a quarter.	The company makes plenty of money in a flat second quarter.	0	int-sub	a flat second quarter
+71	The trader carelessly made a sell order.	The trader carelessly made an apparent mistaken sell order.	2	pri-pri	an apparent mistaken sell order
+72	A sell order was not properly checked over.	An apparent mistaken sell order was not properly checked over.	2	pri-pri	an apparent mistaken sell order
+73	He was praised for a sell order.	He was praised for an apparent mistaken sell order.	0	pri-pri	an apparent mistaken sell order
+74	A sell order was done on purpose.	An apparent mistaken sell order was done on purpose.	0	pri-pri	an apparent mistaken sell order
+75	A diagnosis causes unecessary trauma.	An original mistaken diagnosis causes unecessary trauma.	2	int-pri	an original mistaken diagnosis
+76	The reports are helpful in making a decision.	The original mistaken reports are helpful in making a decision.	0	int-pri	the original mistaken reports
+77	A diagnosis accurately addresses the symptoms.	An original mistaken diagnosis accurately addresses the symptoms.	0	int-pri	an original mistaken diagnosis
+78	Witnesses are leading causes of wrongful convictions.	Many mistaken witnesses are leading causes of wrongful convictions.	2	sub-pri	many mistaken witnesses
+79	Impressions led to a miscommunication.	Many mistaken impressions led to a miscommunication.	2	sub-pri	many mistaken impressions
+80	Witnesses have kids.	Many mistaken witnesses have kids.	1	sub-pri	many mistaken witnesses
+81	Impressions are left by well-informed people.	Many mistaken impressions are left by well-informed people.	0	sub-pri	many mistaken impressions
+82	Interpretations need to be corrected.	Numerous mistaken interpretations need to be corrected.	2	sub-pri	numerous mistaken interpretations
+83	Interpretations are confirmed by peer review.	Numerous mistaken interpretations are confirmed by peer review.	0	sub-pri	numerous mistaken interpretations
+84	A statement receives backlash on the internet.	An apparent false statement receives backlash on the internet.	2	pri-pri	an apparent false statement
+85	An alarm The student confessed there was no fire.	An apparent false alarm The student confessed there was no fire.	2	pri-pri	an apparent false alarm
+86	A statement is receiving praise.	An apparent false statement is receiving praise.	0	pri-pri	an apparent false statement
+87	Heart attacks that are an alarm can be life threatening.	Heart attacks that are an apparent false alarm can be life threatening.	0	pri-pri	an apparent false alarm
+88	Alarms were a test.	Previous false alarms were a test.	2	pri-pri	previous false alarms
+89	Alarms rang in the morning.	Previous false alarms rang in the morning.	1	pri-pri	previous false alarms
+90	Alarms were because of an emergency.	Previous false alarms were because of an emergency.	0	pri-pri	previous false alarms
+91	Testimony was thrown out by the judge.	Prior false testimony was thrown out by the judge.	2	pri-pri	prior false testimony
+92	Testimony was considered by the jury.	Prior false testimony was considered by the jury.	0	pri-pri	prior false testimony
+93	Alarms prevent injuries.	Prior false alarms prevent injuries.	0	pri-pri	prior false alarms
+94	His pledge is caused by not fully understanding the scenario.	His initial false pledge is caused by not fully understanding the scenario.	2	pri-pri	his initial false pledge
+95	The declarations are the source of American distrust.	The initial false declarations are the source of American distrust.	2	pri-pri	the initial false declarations
+96	The declarations are coming from another country.	The initial false declarations are coming from another country.	1	pri-pri	the initial false declarations
+97	The declarations are praised by diplomats all over the world.	The initial false declarations are praised by diplomats all over the world.	0	pri-pri	the initial false declarations
+98	An alarm raises little concern.	A future false alarm raises little concern.	2	pri-pri	a future false alarm
+99	An alarm lowers public confidence in the nuclear warning system.	A next false alarm lowers public confidence in the nuclear warning system.	2	pri-pri	a next false alarm
+100	News is spewed by trolls.	Fabricated false news is spewed by trolls.	2	pri-pri	fabricated false news
+101	News is intended to bring peace to the nation.	Fabricated false news is intended to bring peace to the nation.	0	pri-pri	fabricated false news
+102	A newspaper report misleads many people.	A single false newspaper report misleads many people.	2	int-pri	a single false newspaper report
+103	An attribution could potentially lead to unintended consequences.	A single false attribution could potentially lead to unintended consequences.	2	int-pri	a single false attribution
+104	A compliment can be sarcasm.	A single false compliment can be sarcasm.	2	int-pri	a single false compliment
+105	A positive is inaccurate.	A single false positive is inaccurate.	2	int-pri	a single false positive
+106	A newspaper report is convincing.	A single false newspaper report is convincing.	0	int-pri	a single false newspaper report
+107	An attribution will not be disputed.	A single false attribution will not be disputed.	0	int-pri	a single false attribution
+108	A compliment is sincere.	A single false compliment is sincere.	0	int-pri	a single false compliment
+109	A positive is desirable.	A single false positive is desirable.	0	int-pri	a single false positive
+110	A charge lacks supporting evidence.	An original false charge lacks supporting evidence.	2	int-pri	an original false charge
+111	A charge can put the accused person in jail.	An original false charge can put the accused person in jail.	0	int-pri	an original false charge
+112	A malfunctioning device has a false alarm rate.	A malfunctioning device has a high false alarm rate.	2	sub-pri	a high false alarm rate
+113	A negative rate is from an inaccurate test.	A high false negative rate is from an inaccurate test.	2	sub-pri	a high false negative rate
+114	A credible device has a false alarm rate.	A credible device has a high false alarm rate.	0	sub-pri	a high false alarm rate
+115	Assumptions will lead to ungrounded conclusions.	Numerous false assumptions will lead to ungrounded conclusions.	2	sub-pri	numerous false assumptions
+116	Rumors lead to incorrect information.	Numerous false rumors lead to incorrect information.	2	sub-pri	numerous false rumors
+117	Assumptions are made for an experiment.	Numerous false assumptions are made for an experiment.	1	sub-pri	numerous false assumptions
+118	Rumors are spread among people.	Numerous false rumors are spread among people.	1	sub-pri	numerous false rumors
+119	Rumors are beneficial to the public.	Numerous false rumors are beneficial to the public.	0	sub-pri	numerous false rumors
+120	A memory syndrome can be resolved.	A national false memory syndrome can be resolved.	0	sub-pri	a national false memory syndrome
+121	Other presidencies made people dissatisfied.	Other apparent failed presidencies made people dissatisfied.	2	pri-pri	other apparent failed presidencies
+122	Other presidencies gave the president a good reputation.	Other apparent failed presidencies gave the president a good reputation.	0	pri-pri	other apparent failed presidencies
+123	Several efforts are in vain.	Several past failed efforts are in vain.	2	pri-pri	several past failed efforts
+124	The goal of these several efforts is to serve justice.	The goal of these several past failed efforts is to serve justice.	1	pri-pri	several past failed efforts
+125	Several efforts are in progress.	Several past failed efforts are in progress.	0	pri-pri	several past failed efforts
+126	Ideas waste a lot of time.	Many failed ideas waste a lot of time.	2	sub-pri	many failed ideas
+127	Mergers destroy shareholder value.	Many failed mergers destroy shareholder value.	2	sub-pri	many failed mergers
+128	Ideas came up for a project.	Many failed ideas came up for a project.	1	sub-pri	many failed ideas
+129	Mergers involve two or more companies.	Many failed mergers involve two or more companies.	1	sub-pri	many failed mergers
+130	Mergers were first proposed by his corporate.	Many failed mergers were first proposed by his corporate.	1	sub-pri	many failed mergers
+131	Ideas are adopted.	Many failed ideas are adopted.	0	sub-pri	many failed ideas
+132	Mergers created sustainable value.	Many failed mergers created sustainable value.	0	sub-pri	many failed mergers
+133	Cease-fires caused distrust between the countries.	Numerous failed cease-fires caused distrust between the countries.	2	sub-pri	numerous failed cease-fires
+134	Cease-fires were discussed by the countries' leaders.	Numerous failed cease-fires were discussed by the countries' leaders.	1	sub-pri	numerous failed cease-fires
+135	Cease-fires resulted in peace for many years.	Numerous failed cease-fires resulted in peace for many years.	0	sub-pri	numerous failed cease-fires
+136	A statement is made with the intent of fooling the public.	An apparent fraudulent statement is made with the intent of fooling the public.	2	pri-pri	an apparent fraudulent statement
+137	A statement is a good way to gain trust.	An apparent fraudulent statement is a good way to gain trust.	0	pri-pri	an apparent fraudulent statement
+138	They have been punished for  their activities.	They have been punished for  their past fraudulent activities.	2	pri-pri	their past fraudulent activities
+139	Their activities involve each one of them.	Their past fraudulent activities involve each one of them.	1	pri-pri	their past fraudulent activities
+140	There is nothing wrong about their activities.	There is nothing wrong about their past fraudulent activities.	0	pri-pri	their past fraudulent activities
+141	The financial statement is used in a ponzi scheme.	The false fraudulent financial statement is used in a ponzi scheme.	2	pri-pri	the false fraudulent financial statement
+142	The financial statement holds up in federal court.	The false fraudulent financial statement holds up in federal court.	0	pri-pri	the false fraudulent financial statement
+143	A company will not affect the national economy.	An imaginary fraudulent company will not affect the national economy.	2	pri-pri	an imaginary fraudulent company
+144	A company has make the police nervous.	An imaginary fraudulent company has make the police nervous.	0	pri-pri	an imaginary fraudulent company
+145	Loans will cause havoc for banks.	Numerous fraudulent loans will cause havoc for banks.	2	sub-pri	numerous fraudulent loans
+146	Loans benefit both recipients and loaners.	Numerous fraudulent loans benefit both recipients and loaners.	0	sub-pri	numerous fraudulent loans
+147	She was involved in a scheme.	She was involved in a single fraudulent scheme.	1	int-pri	a single fraudulent scheme
+148	A vote is legitimate.	A single fraudulent vote is legitimate.	0	int-pri	a single fraudulent vote
+149	A scheme turned into a legitimate business plan.	A single fraudulent scheme turned into a legitimate business plan.	0	int-pri	a single fraudulent scheme
+150	A scheme is an honest behavior.	A single fraudulent scheme is an honest behavior.	0	int-pri	a single fraudulent scheme
+151	Transactions are legal.	Future fraudulent transactions are legal.	0	pri-pri	future fraudulent transactions
+152	A dispute happens at home.	An apparent domestic dispute happens at home.	2	pri-sub	an apparent domestic dispute
+153	A dispute involves family members.	An apparent domestic dispute involves family members.	2	pri-sub	an apparent domestic dispute
+154	A dispute is caused by disagreement.	An apparent domestic dispute is caused by disagreement.	1	pri-sub	an apparent domestic dispute
+155	A dispute entails arguments.	An apparent domestic dispute entails arguments.	1	pri-sub	an apparent domestic dispute
+156	A dispute does not involve family members.	An apparent domestic dispute does not involve family members.	0	pri-sub	an apparent domestic dispute
+157	An agenda will be edited before application.	An initial domestic agenda will be edited before application.	2	pri-sub	an initial domestic agenda
+158	His agenda does not need a translator.	His initial domestic agenda does not need a translator.	2	pri-sub	his initial domestic agenda
+159	An agenda will be shared to other politicans.	An initial domestic agenda will be shared to other politicans.	1	pri-sub	an initial domestic agenda
+160	His agenda is busy.	His initial domestic agenda is busy.	1	pri-sub	his initial domestic agenda
+161	Olympics are held during an international pandemic.	Virtual domestic Olympics are held during an international pandemic.	2	pri-sub	virtual domestic Olympics
+162	The spectators filled the stadiums and athletes packed the court for Olympics.	The spectators filled the stadiums and athletes packed the court for virtual domestic Olympics.	0	pri-sub	virtual domestic Olympics
+163	A policy adviser is unaware of recent developments.	A onetime domestic policy adviser is unaware of recent developments.	2	pri-sub	a onetime domestic policy adviser
+164	A policy adviser no longer works in this field.	A onetime domestic policy adviser no longer works in this field.	2	pri-sub	a onetime domestic policy adviser
+165	A policy adviser has a charming personality.	A onetime domestic policy adviser has a charming personality.	1	pri-sub	a onetime domestic policy adviser
+166	A policy adviser still has a major impact on governance.	A onetime domestic policy adviser still has a major impact on governance.	0	pri-sub	a onetime domestic policy adviser
+167	A policy adviser is on a long-term contract.	A onetime domestic policy adviser is on a long-term contract.	0	pri-sub	a onetime domestic policy adviser
+168	A policy adviser has a good understanding of current policies.	A onetime domestic policy adviser has a good understanding of current policies.	0	pri-sub	a onetime domestic policy adviser
+169	A suicide bomber likes sports.	An apparent would-be suicide bomber likes sports.	1	pri-pri	an apparent would-be suicide bomber
+170	A suicide bomber has caused damage.	An apparent would-be suicide bomber has caused damage.	0	pri-pri	an apparent would-be suicide bomber
+171	Reformers are no longer reformers.	Past would-be reformers are no longer reformers.	2	pri-pri	past would-be reformers
+172	Reformers believe in freedom.	Past would-be reformers believe in freedom.	1	pri-pri	past would-be reformers
+173	Reformers have successfully changed the society.	Past would-be reformers have successfully changed the society.	0	pri-pri	past would-be reformers
+174	A mogul is currently a member of the middle class.	A next would-be mogul is currently a member of the middle class.	2	pri-pri	a next would-be mogul
+175	A mogul loves power.	A next would-be mogul loves power.	1	pri-pri	a next would-be mogul
+176	A mogul has many wealthy friends.	A next would-be mogul has many wealthy friends.	0	pri-pri	a next would-be mogul
+177	The blockbuster rewarded its executives with a large bonus last year.	The next would-be blockbuster rewarded its executives with a large bonus last year.	0	pri-pri	the next would-be blockbuster
+178	An assassin managed to slip under the radar during the investigations.	An unlikely would-be assassin managed to slip under the radar during the investigations.	2	pri-pri	an unlikely would-be assassin
+179	A successor surprised everyone.	An unlikely would-be successor surprised everyone.	2	pri-pri	an unlikely would-be successor
+180	An assassin had killed multiple people.	An unlikely would-be assassin had killed multiple people.	0	pri-pri	an unlikely would-be assassin
+181	A successor has been given more authority.	An unlikely would-be successor has been given more authority.	0	pri-pri	an unlikely would-be successor
+182	These emigrants were born in Nigeria.	These African would-be emigrants were born in Nigeria.	2	int-pri	African would-be emigrants
+183	Emigrants have not left the country yet.	African would-be emigrants have not left the country yet.	2	int-pri	African would-be emigrants
+184	These emigrants were born in China.	These African would-be emigrants were born in China.	0	int-pri	African would-be emigrants
+185	Emigrants have already left the country.	African would-be emigrants have already left the country.	0	int-pri	African would-be emigrants
+186	Mothers live in Beijing.	Chinese would-be mothers live in Beijing.	2	int-pri	Chinese would-be mothers
+187	Astronauts have never been to the space.	Chinese would-be astronauts have never been to the space.	2	int-pri	Chinese would-be astronauts
+188	Mothers have mothers.	Chinese would-be mothers have mothers.	1	int-pri	Chinese would-be mothers
+189	Astronauts love adventures.	Chinese would-be astronauts love adventures.	1	int-pri	Chinese would-be astronauts
+190	Mothers need babysitters.	Chinese would-be mothers need babysitters.	0	int-pri	Chinese would-be mothers
+191	Astronauts work for NASA.	Chinese would-be astronauts work for NASA.	0	int-pri	Chinese would-be astronauts
+192	Parents had a miscarriage.	Numerous would-be parents had a miscarriage.	2	sub-pri	numerous would-be parents
+193	Parents buy a crib.	Numerous would-be parents buy a crib.	2	sub-pri	numerous would-be parents
+194	Parents live in the suburbs.	Numerous would-be parents live in the suburbs.	1	sub-pri	numerous would-be parents
+195	Parents feed their children.	Numerous would-be parents feed their children.	0	sub-pri	numerous would-be parents
+196	Immigrants are of all ages.	Future would-be immigrants are of all ages.	1	pri-pri	future would-be immigrants
+197	A president is smart.	A future would-be president is smart.	1	pri-pri	a future would-be president
+198	A president has sufficient governing experience.	A future would-be president has sufficient governing experience.	0	pri-pri	a future would-be president
+199	Buyers took possession of the painting.	Unsuccessful would-be buyers took possession of the painting.	0	pri-pri	unsuccessful would-be buyers

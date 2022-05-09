@@ -1,12 +1,15 @@
-#!/usr/bin/env python
-# coding: utf-8
+'''
+Finetune models on an increasing number of training examples of some RNPC task (the inoculation by finetuning experiment).
+'''
 
 import os
 import sys
 import argparse
 
-os.environ['PYTORCH_TRANSFORMERS_CACHE'] = '/transformers/cache/dir/'
-os.chdir('/path/to/Recursive-NPs')
+os.environ['PYTORCH_TRANSFORMERS_CACHE'] = '/shared/lyuqing/Recursive-NPs/output_model_dir'
+os.chdir("../..")
+root_dir = os.getcwd()
+
 
 parser = argparse.ArgumentParser(description='Process finetune config.')
 parser.add_argument("--cuda",
@@ -19,25 +22,13 @@ parser.add_argument("--mode",
 					default=None,
 					type=str,
 					required=True,
-					help="train_eval | eval | transfer | test.",
+					help="train_eval | train | eval | test.",
 					)
 parser.add_argument("--target",
 					default=None,
 					type=str,
 					required=True,
 					help="Target data to tune on.",
-					)
-parser.add_argument("--batch",
-					default=None,
-					type=str,
-					required=True,
-					help="batch number",
-					)
-parser.add_argument("--strategy",
-					default=0,
-					type=str,
-					required=None,
-					help="Split strategy: random|disjoint.",
 					)
 parser.add_argument("--n_train",
 					default=0,
@@ -74,13 +65,10 @@ model_type = {
 	'roberta-l': 'roberta',
 	'roberta-large-mnli': 'roberta',
 	'bert': 'bert',
-	'mbert': 'bert',
-	'mbert-c': 'bert',
+	'bert-l': 'bert',
 	'xlnet': 'xlnet',
 	'xlm-roberta': 'xlm-roberta',
 	'xlm-roberta-l': 'xlm-roberta',
-	'xlm': 'xlm',
-	'deberta': ''
 }
 
 model_name = {
@@ -89,12 +77,9 @@ model_name = {
 	'roberta-large-mnli': 'roberta-large-mnli',
 	'bert': 'bert-base-uncased',
 	'bert-l': 'bert-large-uncased',
-	'mbert': 'bert-base-multilingual-uncased',
-	'mbert-c': 'bert-base-multilingual-cased',
 	'xlnet': 'xlnet-base-cased',
 	'xlm-roberta': 'xlm-roberta-base',
 	'xlm-roberta-l': 'xlm-roberta-large',
-	'xlm': 'xlm-mlm-100-1280',
 }
 
 if args.model in model_name:
@@ -103,28 +88,26 @@ else:
 	os.environ['MODEL_NAME'] = f'output_model_dir/{args.model}'
 
 os.environ['TRANS_DIR'] = 'transformers/examples/text-classification'
+
+# directory for output models
 inoculation_dir = "output_model_dir/inoculation"
 if not os.path.isdir(inoculation_dir):
 	os.makedirs(inoculation_dir)
-os.environ['OUT_DIR'] = f'{inoculation_dir}/{args.target}_{args.strategy}_{args.model}_{args.n_train}'
+os.environ['OUT_DIR'] = f'{inoculation_dir}/{args.target}_{args.model}_{args.n_train}'
 
-task_name_mapping = {"SPTE":"single_premise_TE",
-                     "MPTE":"multi_premise_TE",
-                     "EPC":"event_plausibility"}
+os.environ['DATA_DIR'] = f'data/RNPC/inoculation/{args.target}'
 
-if args.n_train == "all":
-	wnli_dir = "data/NP_data/test_data/subtasks_wnli/"
-	os.environ['DATA_DIR'] = f'{wnli_dir}/{task_name_mapping[args.target]}/batch{args.batch}'
+# make a copy the file with the specified number of training examples; rename as `train.tsv`
+os.chdir(os.environ['DATA_DIR'])
+os.system(f"rm cached_train_*")
+os.system(f"rm cached_dev_*")
+os.system(f"cp train_{args.n_train}.tsv train.tsv" )
 
-else:
-	wnli_dir = "data/NP_data/inoculation_data/subtasks_wnli"
-	os.environ['DATA_DIR'] = f'{wnli_dir}/{task_name_mapping[args.target]}/batch{args.batch}/{args.strategy}'
+# the transformers script --do_eval option only works on a file named dev.tsv in DATA_DIR
+# so we name test.tsv as dev.tsv
+os.system(f"cp test.tsv dev.tsv" )
 
-	os.chdir(os.environ['DATA_DIR'])
-	os.system(f"rm cached_train_*")
-	os.system(f"rm cached_dev_*")
-	os.system(f"cp train_{args.n_train}.tsv train.tsv" )
-	os.chdir('/path/to/Recursive-NPs')
+os.chdir(root_dir)
 
 
 if args.mode == 'train_eval':
@@ -144,9 +127,8 @@ if args.mode == 'train_eval':
 	  --logging_steps 20 \
 	  --save_steps -1 \
 	  --overwrite_output_dir \
-	  --run_name {args.target}_{args.strategy}_{args.model}_{args.n_train}_train\
+	  --run_name {args.target}_{args.model}_{args.n_train}_train\
 	  --fp16')
-
 
 if args.mode == "train":
 	os.system(f'python $TRANS_DIR/run_glue.py \
@@ -164,7 +146,7 @@ if args.mode == "train":
 	  --logging_steps 100 \
 	  --save_steps -1 \
 	  --overwrite_output_dir \
-	  --run_name {args.target}_{args.strategy}_{args.model}_{args.n_train}_train\
+	  --run_name {args.target}_{args.model}_{args.n_train}_train\
 	  --fp16')
 
 if args.mode == 'eval':
@@ -177,7 +159,7 @@ if args.mode == 'eval':
 	  --max_seq_length 200 \
 	  --output_dir $OUT_DIR \
 	  --save_steps -1 \
-	  --run_name {args.target}_{args.strategy}_{args.model}_eval\
+	  --run_name {args.target}_{args.model}_eval\
 	  --fp16')
 
 if args.mode == 'test':

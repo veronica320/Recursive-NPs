@@ -82,7 +82,7 @@ else:
 os.environ['TRANS_DIR'] = 'transformers/examples/text-classification'
 os.environ['OUT_DIR'] = 'output_model_dir/{}_{}'.format(args.target, args.model)
 
-log_dir = "Qa/finetune_on_benchmark/other_models/logs/"
+log_dir = "source/Qa/finetune_on_benchmark/other_models/logs/"
 if not os.path.isdir(log_dir):
 	os.makedirs(log_dir)
 

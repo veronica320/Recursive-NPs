@@ -1,0 +1,151 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is a powerful new microprocessor chip.	This is a powerful microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+1	This is a powerful new microprocessor chip.	This is a microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+2	This is a powerful new microprocessor chip.	This is a new microprocessor chip.	2	sub-sub	a powerful new microprocessor chip
+3	This is good new products.	This is new products.	2	sub-sub	good new products
+4	This is good new products.	This is products.	2	sub-sub	good new products
+5	This is an expensive new stadium.	This is an new stadium.	2	sub-sub	an expensive new stadium
+6	This is a plausible new product.	This is a plausible product.	2	pri-sub	a plausible new product
+7	This is a proposed new company.	This is a new company.	0	pri-sub	a proposed new company
+8	This is my favorite new movie.	This is my new movie.	0	sub-sub	my favorite new movie
+9	This is my favorite new movie.	This is my movie.	0	sub-sub	my favorite new movie
+10	This is the company 's first new car franchise.	This is the company 's first car franchise.	0	sub-sub	the company 's first new car franchise
+11	This is its first new series.	This is its first series.	0	sub-sub	its first new series
+12	This is the only new music.	This is the only music.	0	sub-sub	the only new music
+13	This is a counterfeit new U.S. dollar.	This is a U.S. dollar.	0	pri-sub	a counterfeit new U.S. dollar
+14	Those are counterfeit new U.S. dollars.	Those are new U.S. dollars.	0	pri-sub	counterfeit new U.S. dollars
+15	Those are counterfeit new U.S. dollars.	Those are U.S. dollars.	0	pri-sub	counterfeit new U.S. dollars
+16	This is an unlikely new weapon.	This is an unlikely weapon.	0	pri-sub	an unlikely new weapon
+17	This is a powerful first shot.	This is the first shot.	2	sub-sub	a powerful first shot
+18	This is a powerful first shot.	This is a powerful shot.	2	sub-sub	a powerful first shot
+19	This is An erroneous first name.	This is a name.	2	pri-sub	An erroneous first name
+20	This is a plausible first strike.	This is a plausible strike.	2	pri-sub	a plausible first strike
+21	This is a likely first step.	This is the first step.	0	pri-sub	a likely first step
+22	This is her first real job.	This is her first job.	0	sub-int	her first real job
+23	This is a plastic toy car.	This is a toy car.	2	pri-pri	a plastic toy car
+24	This is a big toy box.	This is a big box.	2	sub-pri	a big toy box
+25	This is a big toy gun.	This is a toy gun.	2	sub-pri	a big toy gun
+26	This is a wooden toy train.	This is a toy train.	2	pri-pri	a wooden toy train
+27	This is a 19th-century wooden toy train.	This is a 19th-century train.	0	pri-pri	a 19th-century wooden toy train
+28	This is an expensive toy car.	This is an expensive car.	0	sub-pri	an expensive toy car
+29	This is its plastic little human.	This is its plastic human.	2	pri-sub	its plastic little human
+30	This is a depressed doctoral student.	This is a doctoral student.	2	int-int	a depressed doctoral student
+31	This is an extinct ancient animal.	This is an ancient animal.	2	int-sub	an extinct ancient animal
+32	This is an experimental temporary dwellings.	This is an experimental dwellings.	2	pri-pri	an experimental temporary dwellings
+33	This is an experimental temporary solution.	This is a solution.	2	pri-pri	an experimental temporary solution
+34	These are maximum six-week temporary layoffs.	These are maximum six-week layoffs.	2	sub-pri	maximum six-week temporary layoffs
+35	This file is a historic temporary constitution.	This file is a historic constitution.	2	pri-pri	a historic temporary constitution
+36	This is a likely temporary solution.	This is a solution.	0	pri-pri	a likely temporary solution
+37	This is a likely temporary destination.	This is a temporary destination.	0	pri-pri	a likely temporary destination
+38	This is a likely temporary destination.	This is a destination.	0	pri-pri	a likely temporary destination
+39	This is a suspicious temporary license plate.	This is a temporary license plate.	0	pri-pri	a suspicious temporary license plate
+40	This is a false temporary Ukrainian passport.	This is a temporary Ukrainian passport.	0	pri-pri	a false temporary Ukrainian passport
+41	This is a false temporary Ukrainian passport.	This is a Ukrainian passport.	0	pri-pri	a false temporary Ukrainian passport
+42	This is an experimental alternative energy source.	This is an experimental energy source.	2	pri-sub	an experimental alternative energy source
+43	This is an experimental artificial heart.	This is a heart.	0	pri-pri	an experimental artificial heart
+44	This is a faulty artificial joint.	This is an artificial joint.	2	pri-pri	a faulty artificial joint
+45	This is a single artificial white rose.	This is an artificial white rose.	2	int-pri	a single artificial white rose
+46	This is the so-called artificial intelligence.	This is the artificial intelligence.	0	pri-pri	the so-called artificial intelligence
+47	He is a chief online rival.	He is a rival.	2	sub-int	a chief online rival
+48	He is a chief online rival.	He is an online rival.	2	sub-int	a chief online rival
+49	This is a chief online rival.	This is an online rival.	2	sub-int	a chief online rival
+50	This is a chief internal investigator.	This is an internal investigator.	2	sub-int	a chief internal investigator
+51	This is a chief external spokesman.	This is a spokesman.	2	sub-int	a chief external spokesman
+52	This is a predicted hot condition.	This is a condition.	2	pri-sub	a predicted hot condition
+53	This is a predicted hot condition.	This is a predicted condition.	2	pri-sub	a predicted hot condition
+54	This is predicted fast economic growth.	This is predicted economic growth.	2	pri-sub	predicted fast economic growth
+55	This is the predicted global economic turbulence.	This is the predicted economic turbulence.	2	pri-sub	the predicted global economic turbulence
+56	This is the predicted global economic turbulence.	This is the global economic turbulence.	0	pri-sub	the predicted global economic turbulence
+57	This is a partial global population collapse.	This is a partial population collapse.	2	pri-sub	a partial global population collapse
+58	This is the predicted annual economic growth.	This is the annual economic growth.	0	pri-sub	the predicted annual economic growth
+59	This is the predicted annual economic growth.	This is the annual economic growth.	0	pri-sub	the predicted annual economic growth
+60	This is the predicted annual economic growth.	This is the economic growth.	0	pri-sub	the predicted annual economic growth
+61	This is the predicted annual economic growth.	This is the annual economic growth.	0	pri-sub	the predicted annual economic growth
+62	This is their first annual review.	This is their review.	2	sub-sub	their first annual review
+63	This is their first annual review.	This is their first review.	0	sub-sub	their first annual review
+64	This is the fifth consecutive annual decline.	This is the fifth annual decline.	0	sub-int	the fifth consecutive annual decline
+65	This is the fifth consecutive annual decline.	This is the fifth decline.	0	sub-int	the fifth consecutive annual decline
+66	This is an assumed annual inflation rate.	This is an annual inflation rate.	0	pri-sub	an assumed annual inflation rate
+67	This is a predicted average expenditure.	This is an average expenditure.	0	pri-sub	a predicted average expenditure
+68	This is a theoretical average salary.	This is a salary.	2	pri-sub	a theoretical average salary
+69	This is a theoretical average salary.	This is an average salary.	0	pri-sub	a theoretical average salary
+70	This is their expected average lifespan.	This is their average lifespan.	0	pri-sub	their expected average lifespan
+71	This is their expected average lifespan.	This is their lifespan.	0	pri-sub	their expected average lifespan
+72	This is a hypothetical average consumption.	This is an average consumption.	0	pri-sub	a hypothetical average consumption
+73	These are predicted poor next rains.	These are poor next rains.	0	pri-sub	predicted poor next rains
+74	This is the predicted current average expenditure.	This is the current average expenditure.	0	pri-sub	the predicted current average expenditure
+75	This is the predicted current average expenditure.	This is the average expenditure.	0	pri-sub	the predicted current average expenditure
+76	This is an unofficial current status.	This is a status.	2	pri-sub	an unofficial current status
+77	He is the average current user.	He is the average user.	0	sub-sub	the average current user
+78	This is a fierce mock debate.	This is a mock debate.	2	sub-pri	a fierce mock debate
+79	This is a scary mock execution.	This is a scary execution.	0	sub-pri	a scary mock execution
+80	This is a scary mock execution.	This is an execution.	0	sub-pri	a scary mock execution
+81	This is simulated drowning and mock executions.	This is drowning and mock executions.	0	pri-pri	simulated drowning and mock executions
+82	This is simulated drowning and mock executions.	This is drowning and executions.	0	pri-pri	simulated drowning and mock executions
+83	She is a French figurative painter.	She is a figurative painter.	2	int-pri	a French figurative painter
+84	She is a French figurative painter.	She is a French painter.	2	int-pri	a French figurative painter
+85	She is a French figurative painter.	She is a painter.	2	int-pri	a French figurative painter
+86	Those are French historic monuments.	Those are French monuments.	2	int-pri	French historic monuments
+87	This is a national historic treasure.	This is a historic treasure.	2	sub-pri	a national historic treasure
+88	This is a national historic monument.	This is a historic monument.	2	sub-pri	a national historic monument
+89	This is an imminent historic enlargement.	This is an imminent enlargement.	2	pri-pri	an imminent historic enlargement
+90	This is a disputed historic area.	This is a historic area.	2	pri-pri	a disputed historic area
+91	This is a disputed historic area.	This is an area.	2	pri-pri	a disputed historic area
+92	Those are nominal historic peaks.	Those are historic peaks.	2	pri-pri	nominal historic peaks
+93	This is the previous historic peak.	This is the historic peak.	0	pri-pri	the previous historic peak
+94	This is the previous historic peak.	This is the peak.	0	pri-pri	the previous historic peak
+95	He is a French retired diplomat.	He is a French diplomat.	0	int-pri	a French retired diplomat
+96	He is a French retired diplomat.	He is a diplomat.	0	int-pri	a French retired diplomat
+97	She is a Russian retired spy.	She is a Russian spy.	0	int-pri	a Russian retired spy
+98	She is a Russian retired spy.	She is a spy.	0	int-pri	a Russian retired spy
+99	This is a Russian retired spy.	This is a Russian spy.	0	int-pri	a Russian retired spy
+100	This is small attractive hotels.	This is hotels.	2	sub-sub	small attractive hotels
+101	This is a small quiet crowd.	This is a quiet crowd.	2	sub-sub	a small quiet crowd
+102	This is a small quiet crowd.	This is a crowd.	2	sub-sub	a small quiet crowd
+103	It is a small gray elephant.	It is a gray elephant.	2	sub-int	a small gray elephant
+104	It is a small gray elephant.	It is an elephant.	2	sub-int	a small gray elephant
+105	It is a small black pig.	It is a black pig.	2	sub-int	a small black pig
+106	This is a small black book.	This is a black book.	2	sub-int	a small black book
+107	This is a small black book.	This is a small book.	2	sub-int	a small black book
+108	This is a small black skullcap.	This is a skullcap.	2	sub-int	a small black skullcap
+109	He has small black eyes.	He has black eyes.	2	sub-int	small black eyes
+110	It is a small black pig.	It is a small pig.	2	sub-int	a small black pig
+111	He has small black eyes.	He has eyes.	2	sub-int	small black eyes
+112	This is a big black plume.	This is a black plume.	2	sub-int	a big black plume
+113	It is a big black ant.	It is a black ant.	2	sub-int	a big black ant
+114	It is a big black ant.	It is an ant.	2	sub-int	a big black ant
+115	This is a big black plume.	This is a big plume.	2	sub-int	a big black plume
+116	There is heavy black smoke.	There is black smoke.	2	sub-int	heavy black smoke
+117	There is heavy black smoke.	There is heavy smoke.	2	sub-int	heavy black smoke
+118	He has a short black beard.	He has a black beard.	2	sub-int	a short black beard
+119	This is an American black woman.	This is a black woman.	2	int-int	an American black woman
+120	This is an American black woman.	This is an American woman.	2	int-int	an American black woman
+121	They are the first black principal owners.	They are principal owners.	2	sub-int	the first black principal owners
+122	He is New York 's first black mayor.	He is New York 's first mayor.	0	sub-int	New York 's first black mayor
+123	They are the first black principal owners.	They are the first principal owners.	0	sub-int	the first black principal owners
+124	Those are small American companies.	Those are companies.	2	sub-int	small American companies
+125	She is a so-called American expert.	She is a so-called expert.	2	pri-int	a so-called American expert
+126	She is a so-called American expert.	She is an American expert.	0	pri-int	a so-called American expert
+127	She is a so-called American expert.	She is an expert.	0	pri-int	a so-called American expert
+128	This is original American stage plays.	This is original stage plays.	2	int-int	original American stage plays
+129	This is original American stage plays.	This is American stage plays.	2	int-int	original American stage plays
+130	This is the current American government.	This is the American government.	2	sub-int	the current American government
+131	This is a bad American showman.	This is a showman.	2	sub-int	a bad American showman
+132	This is a bad American showman.	This is a American showman.	2	sub-int	a bad American showman
+133	She is a plain American student.	She is a student.	2	sub-int	a plain American student
+134	This is plain American common sense.	This is American common sense.	2	sub-int	plain American common sense
+135	She is a plain American student.	She is a American student.	2	sub-int	a plain American student
+136	She is a famous American painter.	She is a painter.	2	sub-int	a famous American painter
+137	She is a famous American painter.	She is a famous painter.	2	sub-int	a famous American painter
+138	She is a famous American painter.	She is a American painter.	2	sub-int	a famous American painter
+139	She is a famous American dancer.	She is a dancer.	2	sub-int	a famous American dancer
+140	She is a famous American painter.	She is a famous painter.	2	sub-int	a famous American painter
+141	She is a young American girl.	She is a young girl.	2	sub-int	a young American girl
+142	This is a narrow American strategy.	This is a strategy.	2	sub-int	a narrow American strategy
+143	This is a narrow American strategy.	This is a American strategy.	2	sub-int	a narrow American strategy
+144	He is a skillful American violinsit.	He is a American violinsit.	2	sub-int	a skillful American violinsit
+145	He is a short American basketball player.	He is an American basketball player.	2	sub-int	a short American basketball player
+146	He is a short American ping-pong player.	He is a short ping-pong player.	2	sub-int	a short American ping-pong player
+147	This is their first major American purchase.	This is a major purchase.	2	sub-int	their first major American purchase
+148	This is the first American war.	This is the first war.	0	sub-int	the first American war
+149	This is their first major American purchase.	This is their first major purchase.	0	sub-int	their first major American purchase

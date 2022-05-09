@@ -1,0 +1,26 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is fabricated false news. This is tweets.	This is fabricated tweets.	2	pri-pri	fabricated false news
+1	This is an apparent false alarm. This is an emergency.	This is a false emergency.	2	pri-pri	an apparent false alarm
+2	This is an apparent false alarm. This is an emergency.	This is an apparent emergency.	0	pri-pri	an apparent false alarm
+3	This is a single false compliment. This is a statement.	This is a single statement.	2	int-pri	a single false compliment
+4	This is a single false positive. This is an outcome.	This is a false outcome.	0	int-pri	a single false positive
+5	This is a national false memory syndrome. This is a condition.	This is a national condition.	2	sub-pri	a national false memory syndrome
+6	This is a national false memory syndrome. This is an ailment.	This is a national ailment.	2	sub-pri	a national false memory syndrome
+7	These are numerous false assumptions. These are beliefs.	These are false beliefs.	2	sub-pri	numerous false assumptions
+8	These are numerous false assumptions. These are beliefs.	These are numerous beliefs.	2	sub-pri	numerous false assumptions
+9	This is his initial false pledge. This is attempt.	This is initial attempt.	0	pri-pri	his initial false pledge
+10	This is his initial false pledge. This is his commitment.	This is his initial commitment.	0	pri-pri	his initial false pledge
+11	Those are prior false alarms. Those are noise.	Those are false noise.	0	pri-pri	prior false alarms
+12	This is a future false alarm. This is a warning.	This is a future warning.	0	pri-pri	a future false alarm
+13	This is a next false alarm. This is a siren.	This is a next siren.	0	pri-pri	a next false alarm
+14	He is a skillful American violinsit. He is a father.	He is an American father.	2	sub-int	a skillful American violinsit
+15	He is a skillful American violinsit. He is a musician.	He is a skillful musician.	2	sub-int	a skillful American violinsit
+16	He is a skillful American violinsit. He is a musician.	He is an American musician.	2	sub-int	a skillful American violinsit
+17	He is a skillful American violinsit. He is a father.	He is a skillful father.	0	sub-int	a skillful American violinsit
+18	She is a famous American painter. She is an mother.	She is an American mother.	2	sub-int	a famous American painter
+19	She is a famous American dancer. She is an writer.	She is an American writer.	2	sub-int	a famous American dancer
+20	She is a famous American painter. She is an artist.	She is a famous artist.	2	sub-int	a famous American painter
+21	She is a famous American painter. She is an artist.	She is an American artist.	2	sub-int	a famous American painter
+22	She is a famous American painter. She is a mother.	She is a famous mother.	0	sub-int	a famous American painter
+23	She is a famous American dancer. She is a writer.	She is a famous writer.	0	sub-int	a famous American dancer
+24	She is his future American wife. She is his neighbor.	She is his American neighbor.	2	pri-int	his future American wife

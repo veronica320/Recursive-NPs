@@ -1,0 +1,1314 @@
+index	sentence1	sentence2	label	combo	source NP
+0	The chairman has retired.	The former vice chairman has retired.	2	pri-pri	the former vice chairman
+1	The artificial intelligence cannot answer simple questions.	The so-called artificial intelligence cannot answer simple questions.	2	pri-pri	the so-called artificial intelligence
+2	The reality is flawed.	The simulated virtual reality is flawed.	2	pri-pri	the simulated virtual reality
+3	The director has a lot of leisure time..	The former deputy director has a lot of leisure time.	2	pri-pri	the former deputy director
+4	A car can be held in hand.	A plastic toy car can be held in hand.	2	pri-pri	a plastic toy car
+5	A banknote is discarded.	A burned fake banknote is discarded.	2	pri-pri	a burned fake banknote
+6	A job is extremely difficult.	An almost impossible job is extremely difficult.	2	pri-pri	an almost impossible job
+7	An alleged thief is no longer alleged.	A former alleged thief is no longer alleged.	2	pri-pri	a former alleged thief
+8	An expert knows little about her field.	A so-called American expert knows little about her field.	2	pri-int	a so-called American expert
+9	Evidence is rejected.	False direct evidence is rejected.	2	pri-int	false direct evidence
+10	An expression is from a book.	A figurative quoted expression is from a book.	2	pri-int	a figurative quoted expression
+11	A commissioner can speak English.	A former European commissioner can speak English.	2	pri-int	a former European commissioner
+12	A crisis can be prevented.	An imminent global crisis can be prevented.	2	pri-int	an imminent global crisis
+13	People are evacuated from a house.	People are evacuated from a demolished damaged house.	2	pri-int	a demolished damaged house
+14	A window can hurt fingers.	A broken glass window can hurt fingers.	2	pri-int	a broken glass window
+15	Apple juice is bad for health.	Phony infant apple juice is bad for health.	2	pri-int	phony infant apple juice
+16	A detective is from a novel.	A fictional private detective is from a novel.	2	pri-int	a fictional private detective
+17	A gadget is a fraud.	A false health gadget is a fraud.	2	pri-int	a false health gadget
+18	A move is provided by an expert on Canada.	An expected Canadian move is provided by an expert on Canada.	2	pri-int	an expected Canadian move
+19	The security adviser is staying at home.	The former national security adviser is staying at home.	2	pri-sub	the former national security adviser
+20	The president has been fired.	The former senior president has been fired.	2	pri-sub	the former senior president
+21	An ownership arrangement is denied.	A proposed new ownership arrangement is denied.	2	pri-sub	a proposed new ownership arrangement
+22	A big spender is thrifty.	An unlikely big spender is thrifty.	2	pri-sub	an unlikely big spender
+23	A company has no employees.	A proposed new company has no employees.	2	pri-sub	a proposed new company
+24	A skillful surgeon has been out of practice.	A former skillful surgeon has been out of practice.	2	pri-sub	a former skillful surgeon
+25	A perfect solution has a better alternative.	An arguable perfect solution has a better alternative.	2	pri-sub	an arguable perfect solution
+26	A famous actor is no longer famous.	A former famous actor is no longer famous.	2	pri-sub	a former famous actor
+27	A book will be forgotten in the future.	An overhyped bestselling book will be forgotten in the future.	2	pri-sub	an overhyped bestselling book
+28	A child can safely play with a gun.	A child can safely play with a black toy gun.	2	int-pri	a black toy gun
+29	A banknote is confiscated.	A well-made forged banknote is confiscated.	2	int-pri	a well-made forged banknote
+30	Her jewelry is made of cheap material.	Her presented sham jewelry is made of cheap material.	2	int-pri	her presented sham jewelry
+31	The money constitutes a crime.	The sold counterfeit money constitutes a crime.	2	int-pri	the sold counterfeit money
+32	A lion is ridden by a child.	A red stone lion is ridden by a child.	2	int-pri	a red stone lion
+33	A horse can be used as decoration.	A brown wooden horse can be used as decoration.	2	int-pri	a brown wooden horse
+34	A duck is used for playing in the bathtub.	A yellow rubber duck is used for playing in the bathtub.	2	int-pri	a yellow rubber duck
+35	A plane can be easily destroyed.	A white paper plane can be easily destroyed.	2	int-pri	a white paper plane
+36	A book can be easily stained.	A white paper book can be easily stained.	2	int-pri	a white paper book
+37	The sky can be sunny.	The clear blue sky can be sunny.	2	int-int	the clear blue sky
+38	Roses can smell nice.	Fragrant red roses can smell nice.	2	int-int	fragrant red roses
+39	A soldier retreats.	A scarred Iranian soldier retreats.	2	int-int	a scarred Iranian soldier
+40	A student wants to quit.	A depressed doctoral student wants to quit.	2	int-int	a depressed doctoral student
+41	An animal cannot move.	A dead dangerous animal cannot move.	2	int-sub	a dead dangerous animal
+42	A child can buy a gun.	A child can buy a big toy gun.	2	sub-pri	a big toy gun
+43	A painting has little value.	A big fake painting has little value.	2	sub-pri	a big fake painting
+44	A ring is refused.	A cheap fake ring is refused.	2	sub-pri	a cheap fake ring
+45	A car The 12-year-old girl has.	An expensive toy car The 12-year-old girl has.	2	sub-pri	an expensive toy car
+46	A candidate can win an election.	The only possible candidate can win an election.	2	sub-pri	the only possible candidate
+47	Fur is cheap.	Soft fake fur is cheap.	2	sub-pri	soft fake fur
+48	You can touch a lion.	You can touch a big stone lion .	2	sub-pri	a big stone lion
+49	An execution causes mental instead of physical harm.	A scary mock execution causes mental instead of physical harm.	2	sub-pri	a scary mock execution
+50	A man is a hero.	The admired super man is a hero.	2	sub-pri	the admired super man
+51	A flower lasts forever.	A beautiful plastic flower lasts forever.	2	sub-pri	a beautiful plastic flower
+52	The public hasn't fully known the premier.	The public hasn't fully known the likely future premier.	2	pri-pri	the likely future premier
+53	We cannot stay forever at a destination.	We cannot stay forever at a likely temporary destination.	2	pri-pri	a likely temporary destination
+54	An attack is prevented.	An expected imminent attack is prevented.	2	pri-pri	an expected imminent attack
+55	Its practices have hurt the society.	Its past wrong practices have hurt the society.	2	pri-pri	its past wrong practices
+56	His misdeeds are corrected.	His past alleged misdeeds are corrected.	2	pri-pri	his past alleged misdeeds
+57	Her husband hates her because of her promises.	Her husband hates her because of her past broken promises.	2	pri-pri	her past broken promises
+58	Victims can still be saved.	Potential future victims can still be saved.	2	pri-pri	potential future victims
+59	The peak is surpassed.	The previous historic peak is surpassed.	2	pri-pri	the previous historic peak
+60	A deal is withdrawn.	A previous proposed deal is withdrawn.	2	pri-pri	a previous proposed deal
+61	The limit is broken.	The previous theoretical limit is exceeded.	2	pri-pri	the previous theoretical limit
+62	A solution does not work permanently.	An impossible long-term solution does not work permanently.	2	pri-int	an impossible long-term solution
+63	A law has no effects.	A previous federal law has no effects.	2	pri-sub	a previous federal law
+64	The president of the government has retired.	The president of the previous federal government has retired.	2	pri-sub	the previous federal government
+65	These findings have something in common with ours.	These previous similar findings have something in common with ours.	2	pri-sub	previous similar findings
+66	Health can cause depression.	Mental ill health can cause depression.	2	int-sub	mental ill health
+67	An animal is never seen.	An extinct ancient animal is never seen.	2	int-sub	an extinct ancient animal
+68	A copy has legal effects.	An original hard copy has legal effects.	2	int-sub	an original hard copy
+69	A secret is publicly known.	A big open secret is publicly known.	2	sub-int	a big open secret
+70	A divorce ends up in the court.	A pretty ugly divorce ends up in the court.	2	sub-sub	a pretty ugly divorce
+71	A crowd can be controlled easily.	A small quiet crowd can be controlled easily.	2	sub-sub	a small quiet crowd
+72	A strategy will be rejected.	A faulty initial strategy will be rejected.	2	pri-pri	a faulty initial strategy
+73	A milestone should be ignored.	A dubious historic milestone should be ignored.	2	pri-pri	a dubious historic milestone
+74	A 28-foot tree has been built.	A 28-foot fake gold tree has been built.	2	pri-pri	a 28-foot fake gold tree
+75	A military assignment is very difficult to complete.	An almost impossible military assignment is very difficult to complete.	2	pri-pri	an almost impossible military assignment
+76	She made up a relationship.	She made up a fictional past relationship.	2	pri-pri	a fictional past relationship
+77	The CEO did not start the business.	The probable next CEO did not start the business.	2	pri-pri	the probable next CEO
+78	A raspberry feels hard.	A gold plastic raspberry feels hard.	2	pri-pri	a gold plastic raspberry
+79	A declaration was made to intentionally mislead voters.	A possible incorrect declaration was made to intentionally mislead voters.	2	pri-pri	a possible incorrect declaration
+80	Value cannot be confirmed.	Doubtful historic value cannot be confirmed.	2	pri-pri	doubtful historic value
+81	A license plate is on a stolen vehicle.	A suspicious temporary license plate is on a stolen vehicle.	2	pri-pri	a suspicious temporary license plate
+82	A sword is used on stage.	A fake wooden sword is used on stage.	2	pri-pri	a fake wooden sword
+83	A labor agreement failed in Congress.	An unsuccessful proposed labor agreement failed in Congress.	2	pri-pri	an unsuccessful proposed labor agreement
+84	A joint needs to be replaced.	A faulty artificial joint needs to be replaced.	2	pri-pri	a faulty artificial joint
+85	Iraq 's leadership has weak control.	Iraq 's nominal future leadership has weak control.	2	pri-pri	Iraq 's nominal future leadership
+86	Claims were lies.	Fraudulent medical claims were lies.	2	pri-pri	fraudulent medical claims
+87	The researchers try to improve a solution.	The researchers try to improve an experimental temporary solution.	2	pri-pri	an experimental temporary solution
+88	The trader was fired because of the transactions.	The trader was fired because of the so-called erroneous transactions.	2	pri-pri	the so-called erroneous transactions
+89	Professionals are in college.	Would-be future professionals are in college.	2	pri-pri	would-be future professionals
+90	A prime minister is campaigning full-time.	A would-be next prime minister is campaigning full-time.	2	pri-pri	a would-be next prime minister
+91	Initial public offerings anger investors.	Failed initial public offerings anger investors.	2	pri-pri	failed initial public offerings
+92	A mayor gives attractive promises.	A plausible potential mayor gives attractive promises.	2	pri-pri	a plausible potential mayor
+93	A ID fails to let the ID holder into the office.	A plausible fake ID fails to let the ID holder into the office.	2	pri-pri	a plausible fake ID
+94	Countless cease-fires is followed with a next war.	Countless failed past cease-fires is followed with a next war.	2	pri-pri	countless failed past cease-fires
+95	The winner has never won before.	The next unlikely winner has never won before.	2	pri-pri	the next unlikely winner
+96	A collapse will happen in any second.	A possible imminent collapse will happen in any second.	2	pri-pri	a possible imminent collapse
+97	A launch was premature.	An unsuccessful previous launch was premature.	2	pri-pri	an unsuccessful previous launch
+98	An area cause anger amongst various groups.	A disputed historic area cause anger amongst various groups.	2	pri-pri	a disputed historic area
+99	Decisions lead to negative outcomes.	Incorrect initial decisions lead to negative outcomes.	2	pri-pri	incorrect initial decisions
+100	A loss happen very soon.	A probable imminent loss happen very soon.	2	pri-pri	a probable imminent loss
+101	A star is going to become a star.	A putative future star is going to become a star.	2	pri-pri	a putative future star
+102	The president is going to be a candidate in a presidential election.	The plausible next president is going to be a candidate in a presidential election.	2	pri-pri	the plausible next president
+103	A small missile have no possibility of an explosion.	A small mock paper missile have no possibility of an explosion.	2	pri-pri	a small mock paper missile
+104	A world currency cannot be used to purchase at the local store.	An imaginary future world currency cannot be used to purchase at the local store.	2	pri-pri	an imaginary future world currency
+105	A talk incurs little benefit.	A false empty talk incurs little benefit.	2	pri-pri	a false empty talk
+106	A benefit requires many dialogues to reach consensus and certainty.	An uncertain future benefit requires many dialogues to reach consensus and certainty.	2	pri-pri	an uncertain future benefit
+107	A litigation is typically used as a precedent for judging new cases.	A model previous litigation is typically used as a precedent for judging new cases.	2	pri-pri	a model previous litigation
+108	A spy has decades of experience in manipulation and deception.	A retired super spy has decades of experience in manipulation and deception.	2	pri-pri	a retired super spy
+109	A degree is reported to the board.	A fake honorary degree is reported to the board.	2	pri-pri	a fake honorary degree
+110	A colonoscopy gives inaccurate results.	An initial virtual colonoscopy gives inaccurate results.	2	pri-pri	an initial virtual colonoscopy
+111	A senior president answers to the president.	A deputy senior vice president answers to the president.	2	pri-pri	a deputy senior vice president
+112	A friend are intangible.	A fake virtual friend are intangible.	2	pri-pri	a fake virtual friend
+113	A wind measurement is probably wrong.	A possible incorrect wind measurement is probably wrong.	2	pri-pri	a possible incorrect wind measurement
+114	A bid caused little benefit.	An unsuccessful prior bid caused little benefit.	2	pri-pri	an unsuccessful prior bid
+115	The vaccine undergoes clinical trials.	The future experimental vaccine undergoes clinical trials.	2	pri-pri	the future experimental vaccine
+116	The transaction is orchestrated by a scammer.	The so-called erroneous transaction is orchestrated by a scammer.	2	pri-pri	the so-called erroneous transaction
+117	A rifle was given to the child as a gift.	A fake wooden rifle was given to the child as a gift.	2	pri-pri	a fake wooden rifle
+118	Information cannot be used to decide the result.	Erroneous previous information cannot be used to decide the result.	2	pri-pri	erroneous previous information
+119	A 19th-century train was being sold in an antique shop.	A 19th-century wooden toy train was being sold in an antique shop.	2	pri-pri	a 19th-century wooden toy train
+120	Rifles are very light.	Fake wooden rifles are very light.	2	pri-pri	fake wooden rifles
+121	The information is malicious.	The erroneous previous information is malicious.	2	pri-pri	the erroneous previous information
+122	A train is bought as a gift to the child.	A wooden toy train is bought as a gift to the child.	2	pri-pri	a wooden toy train
+123	The CEO showed up for the interview.	The probable next CEO showed up for the interview.	2	pri-pri	the probable next CEO
+124	Nobody will die in executions.	Nobody will die in simulated drowning executions.	2	pri-pri	simulated drowning executions
+125	At 42, she was concerned about a pregnancy.	At 42, she was concerned about a possible later pregnancy.	2	pri-pri	a possible later pregnancy
+126	Catastrophes are very hard to make preparations for.	Improbable future catastrophes are very hard to make preparations for.	2	pri-pri	improbable future catastrophes
+127	A success happened due to luck.	An unlikely initial success happened due to luck.	2	pri-pri	an unlikely initial success
+128	An admiral is currently taking care of his grandkids.	A retired naval admiral is currently taking care of his grandkids.	2	pri-pri	a retired naval admiral
+129	The catastrophe are not threatening.	The improbable future catastrophe are not threatening.	2	pri-pri	the improbable future catastrophe
+130	A success is unexpected.	An unlikely initial success is unexpected.	2	pri-pri	an unlikely initial success
+131	An admiral can hardly walk by herself.	A retired naval admiral can hardly walk by herself.	2	pri-pri	a retired naval admiral
+132	The trading is not legally binding.	The initial unofficial trading is not legally binding.	2	pri-pri	the initial unofficial trading
+133	His work will send him the official offer tomorrow.	His would-be next work will send him the official offer tomorrow.	2	pri-pri	his would-be next work
+134	A nuclear reactor has been proposed for research funding.	A future experimental nuclear reactor has been proposed for research funding.	2	pri-pri	a future experimental nuclear reactor
+135	A Ukrainian passport has been seized at the border.	A false temporary Ukrainian passport has been seized at the border.	2	pri-pri	a false temporary Ukrainian passport
+136	A sword was allowed on the airplane.	A fake wooden sword was allowed on the airplane.	2	pri-pri	a fake wooden sword
+137	A 69-year-old surgeon finally had his retirement party since multiple people can now meet again in person.	A 69-year-old retired plastic surgeon finally had his retirement party since multiple people can now meet again in person.	2	pri-pri	a 69-year-old retired plastic surgeon
+138	A heart is powered by electricity.	An experimental artificial heart is powered by electricity.	2	pri-pri	an experimental artificial heart
+139	A labor agreement will result in financial distress for involved parties.	An unsuccessful proposed labor agreement will result in financial distress for involved parties.	2	pri-pri	an unsuccessful proposed labor agreement
+140	The terrorists are innocent.	The supposed potential terrorists are innocent.	2	pri-pri	the supposed potential terrorists
+141	Joints cause pain.	Faulty artificial joints cause pain.	2	pri-pri	faulty artificial joints
+142	The century was 50 years long.	The half past century was 50 years long.	2	pri-pri	the half past century
+143	A doctorate will be investigated by the police.	A fake honorary doctorate will be investigated by the police.	2	pri-pri	a fake honorary doctorate
+144	The answer has not been verified.	The so-called wrong answer has not been verified.	2	pri-pri	the so-called wrong answer
+145	Allegations will not be approved by the judge.	Continuous forged allegations will not be approved by the judge.	2	pri-pri	continuous forged allegations
+146	A leader does not trust others easily.	A dubious potential leader does not trust others easily.	2	pri-pri	a dubious potential leader
+147	A flight is simulated.	An initial virtual flight is simulated.	2	pri-pri	an initial virtual flight
+148	There is wide speculation that the rate for inflation will rise soon.	There is wide speculation that the theoretical expected rate for inflation will rise soon.	2	pri-pri	the theoretical expected rate
+149	After working for 40 years, a black sherriff moved to Florida with his wife.	After working for 40 years, a retired black deputy sherriff moved to Florida with his wife.	2	pri-pri	a retired black deputy sherriff
+150	A disaster is discussed by conspiracy theorists.	A hypothetical future disaster is discussed by conspiracy theorists.	2	pri-pri	a hypothetical future disaster
+151	Rifles are played with by children.	Wooden toy rifles are played with by children.	2	pri-pri	wooden toy rifles
+152	Those contenders may not be elected in the final.	Those presumed future contenders may not be elected in the final.	2	pri-pri	those presumed future contenders
+153	Machineguns are the source of a big prank.	Mock wooden machineguns are the source of a big prank.	2	pri-pri	mock wooden machineguns
+154	Citizens in Kabul are being warned of reactions.	Citizens in Kabul are being warned of imminent potential reactions.	2	pri-pri	imminent potential reactions
+155	Several attempts are causing us to rethink our plans.	Several failed past attempts are causing us to rethink our plans.	2	pri-pri	several failed past attempts
+156	Flowers are hard and brittle.	Red plastic flowers are hard and brittle.	2	pri-pri	red plastic flowers
+157	A house has only the carpets.	An almost empty house has only the carpets.	2	pri-pri	an almost empty house
+158	The information is causing skepticism towards current statements.	The previous erroneous information is causing skepticism towards current statements.	2	pri-pri	the previous erroneous information
+159	The danger is actually a hoax.	The so-called imminent danger is actually a hoax.	2	pri-pri	the so-called imminent danger
+160	A pilot has plenty of free time.	A retired Indian pilot has plenty of free time.	2	pri-int	a retired Indian pilot
+161	A designer receives pension.	A retired electrical designer receives pension.	2	pri-int	a retired electrical designer
+162	A reporter doesn’t have to go to work.	A retired political reporter doesn’t have to go to work.	2	pri-int	a retired political reporter
+163	A spy returns to his home country.	A retired Soviet spy returns to his home country.	2	pri-int	a retired Soviet spy
+164	Those oysters have parasites.	Those sham Chinese oysters have parasites.	2	pri-int	sham Chinese oysters
+165	A firm is reported to the police.	A sham Russian firm is reported to the police.	2	pri-int	a sham Russian firm
+166	Transactions are used to avoid tax.	Sham financial transactions are used to avoid tax.	2	pri-int	sham financial transactions
+167	A ruler has no power.	A previous military ruler has no power.	2	pri-int	a previous military ruler
+168	An onslaught isn’t harmful.	A theoretical Soviet onslaught isn’t harmful.	2	pri-int	a theoretical Soviet onslaught
+169	Theoretical can be published in conferences.	Theoretical academic writing can be published in conferences.	2	pri-int	theoretical academic writing
+170	People do not admit a victory.	People do not admit a fraudulent electoral victory.	2	pri-int	a fraudulent electoral victory
+171	An excuse is made up.	A fraudulent medical excuse is made up.	2	pri-int	a fraudulent medical excuse
+172	You can still get COVID if you wear a mask.	You can still get COVID if you wear a fraudulent medial mask.	2	pri-int	a fraudulent medial mask
+173	A rose doesn’t wither.	An artificial white rose doesn’t wither.	2	pri-int	an artificial white rose
+174	Fur is cheap.	Artificial white fur is cheap.	2	pri-int	artificial white fur
+175	Flowers can survive coldness.	Artificial tropical flowers can survive coldness.	2	pri-int	artificial tropical flowers
+176	A heart is installed.	An artificial electric heart is installed.	2	pri-int	an artificial electric heart
+177	Those students are not from this country.	Those would-be foreign students are not from this country.	2	pri-int	would-be foreign students
+178	Medicines can kill the patient.	Counterfeit Chinese medicines can kill the patient.	2	pri-int	counterfeit Chinese medicines
+179	Drugs are ineffective.	Counterfeit medical drugs are ineffective.	2	pri-int	counterfeit medical drugs
+180	A card is confiscated.	A counterfeit green card is confiscated.	2	pri-int	a counterfeit green card
+181	An explosion kills no one.	A mock nuclear explosion kills no one.	2	pri-int	a mock nuclear explosion
+182	A battle happens under water.	A mock naval battle happens under water.	2	pri-int	a mock naval battle
+183	Strips have sarcasm.	Mock comic strips have sarcasm.	2	pri-int	mock comic strips
+184	A trial discusses a criminal case.	A mock criminal trial discusses a criminal case.	2	pri-int	a mock criminal trial
+185	Her victory became a failure.	Her presumed electoral victory became a failure.	2	pri-int	her presumed electoral victory
+186	His advantage is nonexistent.	His presumed political advantage is nonexistent.	2	pri-int	his presumed political advantage
+187	An advancement has no solid scientific background.	A presumed scientific advancement has no solid scientific background.	2	pri-int	a presumed scientific advancement
+188	An eagle is expensive.	A gold American eagle is expensive.	2	pri-int	a gold American eagle
+189	The public is doubtful about these health benefits.	The public is doubtful about these debatable public health benefits.	2	pri-int	debatable public health benefits
+190	The economists are discussing a lot of issues.	The economists are discussing a lot of debatable economic issues.	2	pri-int	debatable economic issues
+191	A polar bear is small.	A toy white polar bear is small.	2	pri-int	a toy white polar bear
+192	A car A child can operate.	A toy electric car A child can operate.	2	pri-int	a toy electric car
+193	An identity is uncovered.	A pretended Jewish identity is uncovered.	2	pri-int	a pretended Jewish identity
+194	A dragon is seen.	A brass decorative dragon is seen.	2	pri-int	a brass decorative dragon
+195	A rhino has a hard touch.	A stone African rhino has a hard touch.	2	pri-int	a stone African rhino
+196	A diagnosis is updated after more detailed probing.	A previous fast diagnosis is updated after more detailed probing.	2	pri-sub	a previous fast diagnosis
+197	A blogger cannot eat rice.	A fictitious young blogger cannot eat rice.	2	pri-sub	a fictitious young blogger
+198	A coach is overseen by another coach.	An honorary assistant coach is overseen by another coach.	2	pri-sub	an honorary assistant coach
+199	A contractor did not have full-time benefits.	A retired independent contractor did not have full-time benefits.	2	pri-sub	a retired independent contractor
+200	A daughter is no longer preferred.	An onetime favorite daughter is no longer preferred.	2	pri-sub	an onetime favorite daughter
+201	Importance is rejected by experts.	Dubious strategic importance is rejected by experts.	2	pri-sub	dubious strategic importance
+202	To our surprise, we experienced a return on our portfolio investment.	To our surprise, we experienced an improbable high return on our portfolio investment.	2	pri-sub	an improbable high return
+203	Bernie Madoff experienced a return through his execution of a ponzi scheme.	Bernie Madoff experienced an artificial high return through his execution of a ponzi scheme.	2	pri-sub	an artificial high return
+204	A monarchy is from a Netflix show.	A fictional modern monarchy is from a Netflix show.	2	pri-sub	a fictional modern monarchy
+205	A bookstore operates online.	A virtual independent bookstore operates online.	2	pri-sub	a virtual independent bookstore
+206	A success leads to failure.	A partial strategic success leads to failure.	2	pri-sub	a partial strategic success
+207	After graduation, students want a position.	After graduation, students want a probable high position.	2	pri-sub	a probable high position
+208	A condition will cause high temperature.	A predicted hot condition will cause high temperature.	2	pri-sub	a predicted hot condition
+209	A general receives pension.	A retired northern general receives pension.	2	pri-sub	a retired northern general
+210	An energy source is currently being tested.	An experimental alternative energy source is currently being tested.	2	pri-sub	an experimental alternative energy source
+211	A settlement would reduce tension between the two countries.	A plausible diplomatic settlement would reduce tension between the two countries.	2	pri-sub	a plausible diplomatic settlement
+212	Targets are no longer the focus on the government.	Past official targets are no longer the focus on the government.	2	pri-sub	past official targets
+213	A standard will mess up the product design upon application.	An impossible new standard will mess up the product design upon application.	2	pri-sub	an impossible new standard
+214	An issue is not a cause for concern.	A fictitious technical issue is not a cause for concern.	2	pri-sub	a fictitious technical issue
+215	A member are usually inexperienced.	A putative new member are usually inexperienced.	2	pri-sub	a putative new member
+216	A television rating are upsetting to the cast.	A supposed low television rating are upsetting to the cast.	2	pri-sub	a supposed low television rating
+217	A lawyer has a lot of free time.	A retired federal lawyer has a lot of free time.	2	pri-sub	a retired federal lawyer
+218	Bills are confiscated by authorities.	Counterfeit modern bills are confiscated by authorities.	2	pri-sub	counterfeit modern bills
+219	A candidacy is withdrawn.	An improbable presidential candidacy is withdrawn.	2	pri-sub	an improbable presidential candidacy
+220	A therapy is invented recently.	An experimental new therapy is invented recently.	2	pri-sub	an experimental new therapy
+221	A medical license causes him to go to prison.	A forged medical professional license causes him to go to prison.	2	pri-sub	a forged medical professional license
+222	A world exists in fiction.	A theoretical perfect world exists in fiction.	2	pri-sub	a theoretical perfect world
+223	A kingdom is reduced to a colony.	A onetime independent kingdom is reduced to a colony.	2	pri-sub	a onetime independent kingdom
+224	A fix can be done in a minute.	A probable easy fix can be done in a minute.	2	pri-sub	a probable easy fix
+225	A basic principle is updated by future observations.	A prior basic principle is updated by future observations.	2	pri-sub	a prior basic principle
+226	A government has failed in the latest election.	A previous central government has failed in the latest election.	2	pri-sub	a previous central government
+227	A leg contains circuits.	An artificial left leg contains circuits.	2	pri-sub	an artificial left leg
+228	We can watch a competition online.	We can watch a virtual official competition online.	2	pri-sub	a virtual official competition
+229	Few people own the object if it has a price.	Few people own the object if it has an initial high price.	2	pri-sub	an initial high price
+230	An account is refused.	An erroneous official account is refused.	2	pri-sub	an erroneous official account
+231	A shot is unachievable.	An impossible long shot is unachievable.	2	pri-sub	an impossible long shot
+232	A bid is the lowest offer.	An initial minimum bid is the lowest offer.	2	pri-sub	an initial minimum bid
+233	An election starts tomorrow.	An imminent parliamentary election starts tomorrow.	2	pri-sub	an imminent parliamentary election
+234	Areas were submerged by sea water.	Past southern areas were submerged by sea water.	2	pri-sub	past southern areas
+235	Debates are for fun.	Mock parliamentary debates are for fun.	2	pri-sub	mock parliamentary debates
+236	A vehicle is going to to be demolished.	A burned technical vehicle is going to to be demolished.	2	pri-sub	a burned technical vehicle
+237	A choice takes a long time to make.	An impossible moral choice takes a long time to make.	2	pri-sub	an impossible moral choice
+238	A key piece turns out to be not that important.	A supposed key piece turns out to be not that important.	2	pri-sub	a supposed key piece
+239	His championship caused his opponent’s dissatisfaction.	His disputed eighth championship caused his opponent’s dissatisfaction.	2	pri-sub	his disputed eighth championship
+240	A promise led to his defeat in the second election.	A broken presidential promise led to his defeat in the second election.	2	pri-sub	a broken presidential promise
+241	An allegedly election caused a protest.	An allegedly fraudulent national election caused a protest.	2	pri-sub	an allegedly fraudulent national election
+242	A competent lawyer will dispute the legitimacy of security grounds.	A competent lawyer will dispute the legitimacy of spurious national security grounds.	2	pri-sub	spurious national security grounds
+243	A plane has extensive security measures.	A substitute presidential plane has extensive security measures.	2	pri-sub	a substitute presidential plane
+244	An event is organized by a group of fans.	An unofficial amateur event is organized by a group of fans.	2	pri-sub	an unofficial amateur event
+245	An intelligence estimate resulted in spending over budget on military.	An erroneous national intelligence estimate resulted in spending over budget on military.	2	pri-sub	an erroneous national intelligence estimate
+246	Unexpectedly, the football team uses a shot to win the the game.	Unexpectedly, the football team uses an unlikely long shot to win the the game.	2	pri-sub	an unlikely long shot
+247	A plane was put into use after the previous broke down.	A substitute presidential plane was put into use after the previous broke down.	2	pri-sub	a substitute presidential plane
+248	A chairman has distinction over the whole country.	An honorary national chairman has distinction over the whole country.	2	pri-sub	an honorary national chairman
+249	A Iranian passport was made by a criminal for entering Iran.	A forged Iranian diplomatic passport was made by a criminal for entering Iran.	2	pri-sub	a forged Iranian diplomatic passport
+250	A loss of water led to government officials scrambling to adjust the water policy.	An unlikely heavy loss of water led to government officials scrambling to adjust the water policy.	2	pri-sub	an unlikely heavy loss
+251	A major is not fully attended.	An unofficial fifth major is not fully attended.	2	pri-sub	an unofficial fifth major
+252	A chief prosecutor receives a high salary.	A vice national chief prosecutor receives a high salary.	2	pri-sub	a vice national chief prosecutor
+253	A product must be redesigned.	A plausible new product must be redesigned.	2	pri-sub	a plausible new product
+254	The loss does not necessarily occur.	The probable maximum loss does not necessarily occur.	2	pri-sub	The probable maximum loss
+255	Standards are difficult to implement.	Impossible new standards are difficult to implement.	2	pri-sub	impossible new standards
+256	An issue is told by a liar.	A fictitious technical issue is told by a liar.	2	pri-sub	a fictitious technical issue
+257	Luck surprises us.	Impossible good luck surprises us.	2	pri-sub	impossible good luck
+258	An interest is no longer a concern.	A prior national interest is no longer a concern.	2	pri-sub	a prior national interest
+259	An art print is worthless.	A counterfeit fine art print is worthless.	2	pri-sub	a counterfeit fine art print
+260	A school has no students.	A fictitious high school has no students.	2	pri-sub	a fictitious high school
+261	A lawyer does not have an office.	A retired federal lawyer does not have an office.	2	pri-sub	a retired federal lawyer
+262	A bill has no value.	A counterfeit modern bill has no value.	2	pri-sub	a counterfeit modern bill
+263	A candidacy does not lead to an election campaign.	An improbable presidential candidacy does not lead to an election campaign.	2	pri-sub	an improbable presidential candidacy
+264	A deputy bills is overdue past the due date.	A prior outstanding deputy bills is overdue past the due date.	2	pri-sub	a prior outstanding deputy bills
+265	A door lock allows anyone to open the door and enter the home.	A broken front door lock allows anyone to open the door and enter the home.	2	pri-sub	a broken front door lock
+266	The nominee wants to be nominated again for the upcoming election.	The previous presidential nominee wants to be nominated again for the upcoming election.	2	pri-sub	the previous presidential nominee
+267	Payments led to a fine.	Partial late payments led to a fine.	2	pri-sub	partial late payments
+268	A somewhat championship sparks controversy among fans.	A somewhat disputed eighth championship sparks controversy among fans.	2	pri-sub	a somewhat disputed eighth championship
+269	These promises hurt those who placed their faith in them.	These broken presidential promises hurt those who placed their faith in them.	2	pri-sub	broken presidential promises
+270	A baseball game is widely anticipated.	A would-be classic baseball game is widely anticipated.	2	pri-sub	A would-be classic baseball game
+271	A circuit is causing issues.	A presumed short circuit is causing issues.	2	pri-sub	a presumed short circuit
+272	A seller is knowledgeable about stocks.	A retired short seller is knowledgeable about stocks.	2	pri-sub	a retired short seller
+273	Every work was widely recognized.	Every previous significant work was widely recognized.	2	pri-sub	every previous significant work
+274	An authority gave wrong information.	A phony moral authority gave wrong information.	2	pri-sub	a phony moral authority
+275	A golfer has not played golf.	A fictitious professional golfer has not played golf.	2	pri-sub	a fictitious professional golfer
+276	A tone is artificial.	A mock serious tone is artificial.	2	pri-sub	a mock serious tone
+277	Value is unimportant.	Dubious strategic value is unimportant.	2	pri-sub	dubious strategic value
+278	A round meeting happened after they did not arrive at conclusions in the first two meetings.	A probable third round meeting happened after they did not arrive at conclusions in the first two meetings.	2	pri-sub	a probable third round meeting
+279	Two vehicles were destroyed.	Two burned technical vehicles were destroyed.	2	pri-sub	two burned technical vehicles
+280	A choice is difficult.	An impossible moral choice is difficult.	2	pri-sub	an impossible moral choice
+281	Punishment effectively deters criminals from commiting the offense.	Probable severe punishment effectively deters criminals from commiting the offense.	2	pri-sub	probable severe punishment
+282	Processing units are confiscated by Customs.	Counterfeit central processing units are confiscated by Customs.	2	pri-sub	counterfeit central processing units
+283	The admission test will help people prepare for the real deal.	The mock common admission test will help people prepare for the real deal.	2	pri-sub	the mock common admission test
+284	His coach does not stay with him everyday.	His honorary assistant coach does not stay with him everyday.	2	pri-sub	his honorary assistant coach
+285	A contractor had already earned a lot of money.	A retired independent contractor had already earned a lot of money.	2	pri-sub	a retired independent contractor
+286	The gimmicks was annoying to many people.	The phony cheap gimmicks was annoying to many people.	2	pri-sub	the phony cheap gimmicks
+287	An intelligence estimate was devastating to national security.	An erroneous national intelligence estimate was devastating to national security.	2	pri-sub	an erroneous national intelligence estimate
+288	A status is never truly acknowledged by the government.	An unofficial current status is never truly acknowledged by the government.	2	pri-sub	an unofficial current status
+289	U.S. dollars are detected and confiscated by the police.	Counterfeit new U.S. dollars are detected and confiscated by the police.	2	pri-sub	counterfeit new U.S. dollars
+290	A drink bottle is thrown in the garbage.	A broken soft drink bottle is thrown in the garbage.	2	pri-sub	a broken soft drink bottle
+291	A gambit fails to achieve success.	A dubious strategic gambit fails to achieve success.	2	pri-sub	a dubious strategic gambit
+292	A blocker has not been tested yet.	A would-be lead blocker has not been tested yet.	2	pri-sub	a would-be lead blocker
+293	Deputy bills were remembered.	Prior outstanding deputy bills were remembered.	2	pri-sub	prior outstanding deputy bills
+294	A door lock needs urgent maintenance.	A broken front door lock needs urgent maintenance.	2	pri-sub	a broken front door lock
+295	A massive attack is done on paper.	A mock massive attack is done on paper.	2	pri-sub	a mock massive attack
+296	An official inquiry is not addressed in detail.	A mock official inquiry is not addressed in detail.	2	pri-sub	a mock official inquiry
+297	A convention collects funding for illegitimate organizations.	A sham national convention collects funding for illegitimate organizations.	2	pri-sub	a sham national convention
+298	For popular items, the bid is generally not the accepted due to overbidding.	For popular items, the initial minimum bid is generally not the accepted due to overbidding.	2	pri-sub	the initial minimum bid
+299	A sense turns out to be flawed.	A seeming common sense turns out to be flawed.	2	pri-sub	a seeming common sense
+300	A potential impact does not take effect.	A hypothetical potential negative impact does not take effect.	2	pri-sub	a hypothetical potential negative impact
+301	A common ancestor is mentioned in a novel.	A fictional common ancestor is mentioned in a novel.	2	pri-sub	a fictional common ancestor
+302	An early surrender is simulated on paper.	A mock early surrender is simulated on paper.	2	pri-sub	a mock early surrender
+303	A parliamentary debate is not officially documented.	A mock parliamentary debate is not officially documented.	2	pri-sub	a mock parliamentary debate
+304	A girl is not an actual human.	A plastic beautiful girl is not an actual human.	2	pri-sub	a plastic beautiful girl
+305	A show is considered a practice.	A mock amateur show is considered a practice.	2	pri-sub	a mock amateur show
+306	A source is often overlooked by people.	An improbable new source is often overlooked by people.	2	pri-sub	an improbable new source
+307	A minister is likely to make mistakes.	A substitute prime minister is likely to make mistakes.	2	pri-sub	a substitute prime minister
+308	A standard is lamented by people.	An impossible high standard is lamented by people.	2	pri-sub	an impossible high standard
+309	Security grounds were removed after the investigation.	Spurious national security grounds were removed after the investigation.	2	pri-sub	spurious national security grounds
+310	After retiring from the active role, he became the chairman.	After retiring from the active role, he became the honorary national chairman.	2	pri-sub	the honorary national chairman
+311	A proposal is incomplete.	A partial alternative proposal is incomplete.	2	pri-sub	a partial alternative proposal
+312	An allegedly election will be investigated.	An allegedly fraudulent national election will be investigated.	2	pri-sub	an allegedly fraudulent national election
+313	Bills are used to cheat somebody out of his money.	Counterfeit modern bills are used to cheat somebody out of his money.	2	pri-sub	counterfeit modern bills
+314	A candidacy is not trustworthy.	An improbable presidential candidacy is not trustworthy.	2	pri-sub	an improbable presidential candidacy
+315	A certificate is not valid.	A counterfeit federal certificate is not valid.	2	pri-sub	a counterfeit federal certificate
+316	An election misinforms the report of its results.	A fraudulent parliamentary election misinforms the report of its results.	2	pri-sub	a fraudulent parliamentary election
+317	An event is taken lightly.	An unofficial amateur event is taken lightly.	2	pri-sub	an unofficial amateur event
+318	A boundary is unknown to its surrounding inhabitants.	An unofficial northern boundary is unknown to its surrounding inhabitants.	2	pri-sub	an unofficial northern boundary
+319	A Arab passport is discovered to be fake.	A forged Arab diplomatic passport is discovered to be fake.	2	pri-sub	a forged Arab diplomatic passport
+320	A contender is competing for the championship.	A probable top contender is competing for the championship.	2	pri-sub	a probable top contender
+321	Nobody believes the a justification.	Nobody believes the a dubious moral justification.	2	pri-sub	a dubious moral justification
+322	There were rumors around how he won his championship.	There were rumors around how he won his disputed eighth championship.	2	pri-sub	his disputed eighth championship
+323	Several promises made him lose his popularity.	Several broken presidential promises made him lose his popularity.	2	pri-sub	several broken presidential promises
+324	An allegedly election was annulled.	An allegedly fraudulent national election was annulled.	2	pri-sub	an allegedly fraudulent national election
+325	A result can change.	An unofficial early result can change.	2	pri-sub	an unofficial early result
+326	The standard will result in everyone failing bootcamp.	The impossible new standard will result in everyone failing bootcamp.	2	pri-sub	the impossible new standard
+327	A drink cannot be bought at a store.	A fictitious soft drink cannot be bought at a store.	2	pri-sub	a fictitious soft drink
+328	A balance is convincing.	A plausible regional balance is convincing.	2	pri-sub	a plausible regional balance
+329	People debate heately on an election result.	People debate heately on a disputed parliamentary election result.	2	pri-sub	a disputed parliamentary election result
+330	The LEGO toy car has its human.	The LEGO toy car has its plastic little human.	2	pri-sub	its plastic little human
+331	A town is described in a novel.	A fictitious small town is described in a novel.	2	pri-sub	a fictitious small town
+332	He went to jail because he presented a Iranian passport to the official.	He went to jail because he presented a forged Iranian diplomatic passport to the official.	2	pri-sub	a forged Iranian diplomatic passport
+333	A jury is knowledgeable about the trial system.	A prior grand jury is knowledgeable about the trial system.	2	pri-sub	a prior grand jury
+334	A general is elderly.	A retired northern general is elderly.	2	pri-sub	a retired northern general
+335	The ancestor has not been verified by the historians.	The hypothetical common ancestor has not been verified by the historians.	2	pri-sub	the hypothetical common ancestor
+336	A shift has disproportionately high impact.	A seeming tiny shift has disproportionately high impact.	2	pri-sub	a seeming tiny shift
+337	A legal system is vastly different from the current one.	A would-be alternative legal system is vastly different from the current one.	2	pri-sub	a would-be alternative legal system
+338	A result does not affect the whole country.	A partial regional result does not affect the whole country.	2	pri-sub	a partial regional result
+339	Islands is the center of many battles.	Disputed southern islands is the center of many battles.	2	pri-sub	disputed southern islands
+340	A schedule has not been approved by the president.	An impossible presidential schedule has not been approved by the president.	2	pri-sub	an impossible presidential schedule
+341	Some performers have retired due to their age.	Some past top performers have retired due to their age.	2	pri-sub	some past top performers
+342	A bid will not be proposed by the company.	An unlikely late bid will not be proposed by the company.	2	pri-sub	an unlikely late bid
+343	A bulb needs to be fixed.	A broken light bulb needs to be fixed.	2	pri-sub	a broken light bulb
+344	Brands are not worth a large amount of money.	Counterfeit popular brands are not worth a large amount of money.	2	pri-sub	counterfeit popular brands
+345	The guys cannot be observed in reality.	The fictional wise guys cannot be observed in reality.	2	pri-sub	the fictional wise guys
+346	The wisdom is subverted by modern science.	The supposed traditional wisdom is subverted by modern science.	2	pri-sub	the supposed traditional wisdom
+347	Results should be approved by the authority before release.	Unofficial early results should be approved by the authority before release.	2	pri-sub	unofficial early results
+348	Rebels play gigs at the local bar.	Would-be musical rebels play gigs at the local bar.	2	pri-sub	would-be musical rebels
+349	The work has hypotheses in it.	The original theoretical work has hypotheses in it.	2	int-pri	the original theoretical work
+350	An incident has not happened more than once.	A single past incident has not happened more than once.	2	int-pri	a single past incident
+351	Goods are made in China.	Chinese counterfeit goods are made in China.	2	int-pri	Chinese counterfeit goods
+352	A chair is made of oak.	A single wooden chair is made of oak.	2	int-pri	a single wooden chair
+353	A step comes up easily.	A natural next step comes up easily.	2	int-pri	a natural next step
+354	Late workers like to eat wonton noodles.	Late Chinese model workers like to eat wonton noodles.	2	int-pri	late Chinese model workers
+355	A father has a familial relationship with someone not biologically related to him.	A Chinese surrogate father has a familial relationship with someone not biologically related to him.	2	int-pri	a Chinese surrogate father
+356	A diplomat was born in Paris.	A French retired diplomat was born in Paris.	2	int-pri	a French retired diplomat
+357	Migratory butterflies live in a habitat.	Migratory butterflies live in a natural temporary habitat.	2	int-pri	a natural temporary habitat
+358	Dolls are made from oak.	Russian wooden dolls are made from oak.	2	int-pri	Russian wooden dolls
+359	Their value is an overestimation.	Their original nominal value is an overestimation.	2	int-pri	their original nominal value
+360	A pet can be with you forever.	An original virtual pet can be with you forever.	2	int-pri	an original virtual pet
+361	A tooth makes a person look like a pirate.	A shiny gold tooth makes a person look like a pirate.	2	int-pri	a shiny gold tooth
+362	A photograph has suspicious details.	An original disputed photograph has suspicious details.	2	int-pri	an original disputed photograph
+363	A spy lives a serene life.	A Russian retired spy lives a serene life.	2	int-pri	a Russian retired spy
+364	A price range has been updated.	An original expected price range has been updated.	2	int-pri	an original expected price range
+365	A diplomat was born in France.	A French retired diplomat was born in France.	2	int-pri	a French retired diplomat
+366	A character is known by school children from Paris.	A French fictional character is known by school children from Paris.	2	int-pri	a French fictional character
+367	A vote count does not determine the election results.	An original unofficial vote count does not determine the election results.	2	int-pri	an original unofficial vote count
+368	A chair has smell of wood.	A single wooden chair has smell of wood.	2	int-pri	A single wooden chair
+369	The US authorities are concerned about a trade.	The US authorities are concerned about a Russian unofficial trade.	2	int-pri	a Russian unofficial trade
+370	A note is out of key.	A single incorrect note is out of key.	2	int-pri	a single incorrect note
+371	Painter lives near the Eiffel Tower.	French figurative painter lives near the Eiffel Tower.	2	int-pri	French figurative painter
+372	A white rose does not wither.	A single artificial white rose does not wither.	2	int-pri	a single artificial white rose
+373	A rival is sufficient to swing the party votes.	A single significant rival is sufficient to swing the party votes.	2	int-sub	a single significant rival
+374	A bidder saves money.	A single low bidder saves money.	2	int-sub	a single low bidder
+375	A candidate can expect a job offer.	A single strong candidate can expect a job offer.	2	int-sub	a single strong candidate
+376	A bearer can speak Swedish.	A Swedish standard bearer can speak Swedish.	2	int-sub	a Swedish standard bearer
+377	A diplomat is born in Sweden.	A Swedish top diplomat is born in Sweden.	2	int-sub	a Swedish top diplomat
+378	Births are not legal in some countries.	Many surrogate births are not legal in some countries.	2	sub-pri	many surrogate births
+379	A dividend growth encourages people to invest.	A high expected dividend growth encourages people to invest.	2	sub-pri	a high expected dividend growth
+380	A society has a close connection with the government.	A national honorary society has a close connection with the government.	2	sub-pri	a national honorary society
+381	Interpretations are misleading.	Many erroneous interpretations are misleading.	2	sub-pri	many erroneous interpretations
+382	A return greatly startles investors.	A low expected return greatly startles investors.	2	sub-pri	a low expected return
+383	Expectations were tempered.	High initial expectations were tempered.	2	sub-pri	high initial expectations
+384	The fee is too expensive.	The maximum initial fee is too expensive.	2	sub-pri	the maximum initial fee
+385	Ratings can improve quickly.	Low initial ratings can improve quickly.	2	sub-pri	low initial ratings
+386	The prison sentence causes a large amount of grief.	The maximum possible prison sentence causes a large amount of grief.	2	sub-pri	the maximum possible prison sentence
+387	A secretary help formulate and conduct policies.	A national deputy secretary help formulate and conduct policies.	2	sub-pri	a national deputy secretary
+388	Bones can be fatal.	Numerous broken bones can be fatal.	2	sub-pri	numerous broken bones
+389	A producer supplies the raw material for tires.	A national rubber producer supplies the raw material for tires.	2	sub-pri	a national rubber producer
+390	Similarities led to a misclassification.	Many seeming similarities led to a misclassification.	2	sub-pri	many seeming similarities
+391	Invoices lead to an arrest.	Numerous fake invoices lead to an arrest.	2	sub-pri	numerous fake invoices
+392	Mortality caused a nationwide recall.	High expected mortality caused a nationwide recall.	2	sub-pri	high expected mortality
+393	Ratings are caused by a bad first attempt.	Low initial ratings are caused by a bad first attempt.	2	sub-pri	low initial ratings
+394	A prison sentence is a life imprisonment.	A maximum possible prison sentence is a life imprisonment.	2	sub-pri	a maximum possible prison sentence
+395	A price attracts crowds on Black Friday.	A low initial price attracts crowds on Black Friday.	2	sub-pri	a low initial price
+396	People disagree of his proposal because of assumptions.	People disagree of his proposal because of many improbable assumptions.	2	sub-pri	many improbable assumptions
+397	A tree can be put in the living room.	A tall artificial tree can be put in the living room.	2	sub-pri	a tall artificial tree
+398	The police arrested members in an industry.	The police arrested members in a national counterfeit industry.	2	sub-pri	a national counterfeit industry
+399	The total reserves supports a country's currency.	The total national gold reserves supports a country's currency.	2	sub-pri	the total national gold reserves
+400	A list contains democratic and republican representatives.	A national candidate list contains democratic and republican representatives.	2	sub-pri	a national candidate list
+401	Animals would be hard to distinguish from one another.	Many cloned animals would be hard to distinguish from one another.	2	sub-pri	many cloned animals
+402	Supporters do not plan on supporting a campaign again.	Many onetime supporters do not plan on supporting a campaign again.	2	sub-pri	many onetime supporters
+403	Obligations kept her busy last month.	Numerous prior obligations kept her busy last month.	2	sub-pri	numerous prior obligations
+404	Celebrities pretend that they acted in famous movies.	Numerous phony celebrities pretend that they acted in famous movies.	2	sub-pri	numerous phony celebrities
+405	A monument is well protected by the government.	A national historic monument is well protected by the government.	2	sub-pri	a national historic monument
+406	A loss would result in the company going bankrupt if it occurs.	A maximum potential loss would result in the company going bankrupt if it occurs.	2	sub-pri	a maximum potential loss
+407	Coincidences surprised the researchers.	Many unlikely coincidences surprised the researchers.	2	sub-pri	many unlikely coincidences
+408	A rating can decline over time.	A high initial rating can decline over time.	2	sub-pri	a high initial rating
+409	Confessions contradicted each other.	Numerous spurious confessions contradicted each other.	2	sub-pri	numerous spurious confessions
+410	Decisions led to bankruptcy.	Many wrong decisions led to bankruptcy.	2	sub-pri	many wrong decisions
+411	Our allies refused to assist during the second war.	Our numerous onetime allies refused to assist during the second war.	2	sub-pri	our numerous onetime allies
+412	A difficulty turns out to have an easy fix.	An original seeming difficulty turns out to have an easy fix.	2	sub-pri	an original seeming difficulty
+413	A speed is studied by advanced research teams.	A maximum theoretical speed is studied by advanced research teams.	2	sub-pri	a maximum theoretical speed
+414	Her names catch the police’s attention.	Her numerous fake names catch the police’s attention.	2	sub-pri	her numerous fake names
+415	He invests all his money because he believes there is a return.	He invests all his money because he believes there is a high expected return.	2	sub-pri	a high expected return
+416	Failures make them hopeless.	Numerous previous failures make them hopeless.	2	sub-pri	numerous previous failures
+417	He missed the train because of turns on his way.	He missed the train because of numerous wrong turns on his way.	2	sub-pri	numerous wrong turns
+418	Solutions haven’t been tested out yet.	Many supposed solutions haven’t been tested out yet.	2	sub-pri	many supposed solutions
+419	Projects are finished.	Numerous prior projects are finished.	2	sub-pri	numerous prior projects
+420	A protest occurred in all states.	A national anti-government protest occurred in all states.	2	sub-pri	a national anti-government protest
+421	The damage to a car will result in a full replacement.	The maximum possible damage to a car will result in a full replacement.	2	sub-pri	the maximum possible damage
+422	A price makes this seem like a luxury product.	A high nominal price makes this seem like a luxury product.	2	sub-pri	a high nominal price
+423	Hopes can cause false illusions.	High temporary hopes can cause false illusions.	2	sub-pri	high temporary hopes
+424	The insurance coverage will provide peace of mind for customers.	The maximum possible insurance coverage will provide peace of mind for customers.	2	sub-pri	the maximum possible insurance coverage
+425	A list contains the names of many politicians.	A national candidate list contains the names of many politicians.	2	sub-pri	a national candidate list
+426	Our supporters now turned against us.	Our numerous onetime supporters now turned against us.	2	sub-pri	our numerous onetime supporters
+427	Invoices are an annoyance.	Numerous fake invoices are an annoyance.	2	sub-pri	numerous fake invoices
+428	Arrests lead to distrust.	Numerous spurious arrests lead to distrust.	2	sub-pri	numerous spurious arrests
+429	The damage will require a large effort repair.	The maximum possible damage will require a large effort repair.	2	sub-pri	the maximum possible damage
+430	An amount can afford a house.	A maximum nominal amount can afford a house.	2	sub-pri	a maximum nominal amount
+431	A cost is intimidating for such a poor family.	A maximum potential cost is intimidating for such a poor family.	2	sub-pri	a maximum potential cost
+432	Standards are still being followed by all citizens for years.	National historic standards are still being followed by all citizens for years.	2	sub-pri	national historic standards
+433	Projects are funded by the government.	National experimental projects are funded by the government.	2	sub-pri	national experimental projects
+434	An expense nearly bankrupted them.	A high initial expense nearly bankrupted them.	2	sub-pri	a high initial expense
+435	Meetings are not known by the public.	Numerous unofficial meetings are not known by the public.	2	sub-pri	numerous unofficial meetings
+436	The election went largely unreported.	The national mock election went largely unreported.	2	sub-pri	the national mock election
+437	A anti-terror drill involved senior military leaders.	A national anti-terror military drill involved senior military leaders.	2	sub-pri	a national anti-terror military drill
+438	Solutions are ineffective.	Many supposed solutions are ineffective.	2	sub-pri	many supposed solutions
+439	Assumptions were incorrect.	Many improbable assumptions were incorrect.	2	sub-pri	many improbable assumptions
+440	An industry is being investigated by the FBI.	A national counterfeit industry is being investigated by the FBI.	2	sub-pri	a national counterfeit industry
+441	The standards will be widely adopted across the industry.	The national proposed standards will be widely adopted across the industry.	2	sub-pri	The national proposed standards
+442	Her friends talk about her behind her back.	Her many supposed friends talk about her behind her back.	2	sub-pri	her many supposed friends
+443	An industry is important to the economy.	A key local industry is important to the economy.	2	sub-int	a key local industry
+444	The parliament meeting occurred after the third such meeting.	The fourth democratic parliament meeting occurred after the third such meeting.	2	sub-int	the fourth democratic parliament
+445	A neighbor plays loud music constantly.	A bad European neighbor plays loud music constantly.	2	sub-int	a bad European neighbor
+446	A showman regulary messes up his act.	A bad American showman regulary messes up his act.	2	sub-int	a bad American showman
+447	China’s artists are famous.	China’s top contemporary artists are famous.	2	sub-int	China’s top contemporary artists
+448	A press does not accept sponsorship from corporations.	An independent local press does not accept sponsorship from corporations.	2	sub-int	an independent local press
+449	An industry affects everyone in the town.	A key local industry affects everyone in the town.	2	sub-int	a key local industry
+450	A singer has many fans.	A popular female singer has many fans.	2	sub-int	a popular female singer
+451	A concern affects the globe.	A top environmental concern affects the globe.	2	sub-int	a top environmental concern
+452	A quartet is having world tours.	A popular vocal quartet is having world tours.	2	sub-int	a popular vocal quartet
+453	Teams represent Mexico in world championships.	Top Mexican teams represent Mexico in world championships.	2	sub-int	top Mexican teams
+454	A school sends more students to top universities.	A top secondary school sends more students to top universities.	2	sub-sub	a top secondary school
+455	The golfers are better than most of other players.	The top junior golfers are better than most of other players.	2	sub-sub	the top junior golfers
+456	The administrator is a woman.	The future deputy administrator is a woman.	1	pri-pri	the future deputy administrator
+457	The director is a man.	The former deputy director is a man.	1	pri-pri	the former deputy director
+458	The initial public offering can involve a large amount of money.	The proposed initial public offering can involve a large amount of money.	1	pri-pri	the proposed initial public offering
+459	A car has four wheels.	A plastic toy car has four wheels.	1	pri-pri	a plastic toy car
+460	A job has rewards.	An almost impossible job has rewards.	1	pri-pri	an almost impossible job
+461	A solution is devised by people.	A likely temporary solution is devised by people.	1	pri-pri	a likely temporary solution
+462	A thief is bald.	A former alleged thief is bald.	1	pri-pri	a former alleged thief
+463	An expert can breathe.	A so-called American expert can breathe.	1	pri-int	a so-called American expert
+464	Evidence is a type of information.	False direct evidence is a type of information.	1	pri-int	false direct evidence
+465	An expression contains words.	A figurative quoted expression contains words.	1	pri-int	a figurative quoted expression
+466	A creature has four legs.	A non-existing beautiful creature has four legs.	1	pri-int	a non-existing beautiful creature
+467	A diamond is colorless.	A fake rhinestone diamond is colorless.	1	pri-int	a fake rhinestone diamond
+468	A beast has black fur.	A mythical wild beast has black fur.	1	pri-int	a mythical wild beast
+469	A house is located in China.	A demolished damaged house is located in China.	1	pri-int	a demolished damaged house
+470	Apple juice can be poured into a glass.	Phony infant apple juice can be poured into a glass.	1	pri-int	phony infant apple juice
+471	A machine is domestically  manufactured.	A so-called diagnostic machine is domestically  manufactured.	1	pri-int	a so-called diagnostic machine
+472	A detective is intelligent.	A fictional private detective is intelligent.	1	pri-int	a fictional private detective
+473	A gadget has parts.	A false health gadget has parts.	1	pri-int	a false health gadget
+474	A drummer has a pair of drumsticks.	A so-called professional drummer has a pair of drumsticks.	1	pri-sub	a so-called professional drummer
+475	The security adviser has worked in New York for some time.	The former national security adviser has worked in New York for some time.	1	pri-sub	the former national security adviser
+476	The president has a family of four.	The former senior president has a family of four.	1	pri-sub	the former senior president
+477	A spender has a black wallet.	An unlikely big spender has a black wallet.	1	pri-sub	an unlikely big spender
+478	A company is a cosmetics company.	A proposed new company is a cosmetics company.	1	pri-sub	a proposed new company
+479	An actress has blue eyes.	A former beautiful actress has blue eyes.	1	pri-sub	a former beautiful actress
+480	An actor is a man.	A former famous actor is a man.	1	pri-sub	a former famous actor
+481	A book has a cover.	An overhyped bestselling book has a cover.	1	pri-sub	an overhyped bestselling book
+482	Her jewelry can be worn.	Her presented sham jewelry can be worn.	1	int-pri	her presented sham jewelry
+483	The money can be kept in a safe.	The sold counterfeit money can be kept in a safe.	1	int-pri	the sold counterfeit money
+484	A light can travel.	A bright counterfeit light can travel.	1	int-pri	a bright counterfeit light
+485	A glass is used for drinking.	A handmade empty glass is used for drinking.	1	int-pri	a handmade empty glass
+486	A lion is big.	A red stone lion is big.	1	int-pri	a red stone lion
+487	You can put a saddle on a horse.	You can put a saddle on a brown wooden horse.	1	int-pri	a brown wooden horse
+488	A duck has a bill.	A yellow rubber duck has a bill.	1	int-pri	a yellow rubber duck
+489	An environment has living creatures.	A protective artificial environment has living creatures.	1	int-pri	a protective artificial environment
+490	You can read a book.	You can read a white paper book.	1	int-pri	a white paper book
+491	The sky has no limit.	The clear blue sky has no limit.	1	int-int	the clear blue sky
+492	Roses has thorns.	Fragrant red roses has thorns.	1	int-int	fragrant red roses
+493	His eyes has a pupil.	His clear blue eyes has a pupil.	1	int-int	clear blue eyes
+494	Stage plays has one or more scenes.	Original American stage plays has one or more scenes.	1	int-int	original American stage plays
+495	Stage plays is performed on a stage.	Original American stage plays is performed on a stage.	1	int-int	original American stage plays
+496	A ear can hear sound waves.	A round brown ear can hear sound waves.	1	int-int	a round brown ear
+497	An animal has four legs.	A dead dangerous animal has four legs.	1	int-sub	a dead dangerous animal
+498	A gun is black.	A big fake gun is black.	1	sub-pri	a big fake gun
+499	A gun is black.	A big toy gun is black.	1	sub-pri	a big toy gun
+500	A painting is an oil painting.	A big fake painting is an oil painting.	1	sub-pri	a big fake painting
+501	A ring can be worn.	A cheap fake ring can be worn.	1	sub-pri	a cheap fake ring
+502	A car is white.	An expensive toy car is white.	1	sub-pri	an expensive toy car
+503	A box is for storing something in.	A big toy box is for storing something in.	1	sub-pri	a big toy box
+504	Fur can be worn.	Soft fake fur can be worn.	1	sub-pri	soft fake fur
+505	You can touch a wall.	You can touch a big stone wall.	1	sub-pri	a big stone wall
+506	A debate has two sides.	A fierce mock debate has two sides.	1	sub-pri	a fierce mock debate
+507	A bridge is for crossing a river.	A long stone bridge is for crossing a river.	1	sub-pri	a long stone bridge
+508	A flower can be yellow.	A beautiful plastic flower can be yellow.	1	sub-pri	a beautiful plastic flower
+509	An animal has four legs.	A dangerous dead animal has four legs.	1	sub-int	a dangerous dead animal
+510	A speaker is an expert in computer science.	A likely next speaker is an expert in computer science.	1	pri-pri	a likely next speaker
+511	The premier is right-wing.	The likely future premier is right-wing.	1	pri-pri	the likely future premier
+512	A destination is in the south.	A likely temporary destination is in the south.	1	pri-pri	a likely temporary destination
+513	An attack can be an air combat.	An expected imminent attack can be an air combat.	1	pri-pri	an expected imminent attack
+514	His misdeeds are related to finance.	His past alleged misdeeds are related to finance.	1	pri-pri	his past alleged misdeeds
+515	Her promises were to her husband.	Her past broken promises were to her husband.	1	pri-pri	her past broken promises
+516	Victims are mostly children.	Potential future victims are mostly children.	1	pri-pri	potential future victims
+517	A deal involves two parties.	A previous proposed deal involves two parties.	1	pri-pri	a previous proposed deal
+518	Our picks are manufactured in Italy.	Our previous top picks are manufactured in Italy.	1	pri-sub	our previous top picks
+519	Its deadline is July 30th.	Its previous official deadline is July 30th.	1	pri-sub	its previous official deadline
+520	A law are designed to protect minorities.	A previous federal law are designed to protect minorities.	1	pri-sub	a previous federal law
+521	The government advocates liberalism.	The previous federal government advocates liberalism.	1	pri-sub	the previous federal government
+522	These findings are from a university.	These previous similar findings are from a university.	1	pri-sub	previous similar findings
+523	An animal originates from Africa.	An extinct ancient animal originates from Africa.	1	int-sub	an extinct ancient animal
+524	The choice involves collaboration.	The only practical choice involves collaboration.	1	sub-int	the only practical choice
+525	A secret is dirty.	A big open secret is dirty.	1	sub-int	a big open secret
+526	A divorce involves two parties.	A pretty ugly divorce involves two parties.	1	sub-sub	a pretty ugly divorce
+527	A crowd has gathered outside the government.	A small quiet crowd has gathered outside the government.	1	sub-sub	a small quiet crowd
+528	A free-trade agreement has been written.	A proposed partial free-trade agreement has been written.	1	pri-pri	a proposed partial free-trade agreement
+529	A strategy has been proposed.	A faulty initial strategy has been proposed.	1	pri-pri	a faulty initial strategy
+530	A 28-foot tree towers above the crowd.	A 28-foot fake gold tree towers above the crowd.	1	pri-pri	a 28-foot fake gold tree
+531	A relationship involves two people.	A fictional past relationship involves two people.	1	pri-pri	a fictional past relationship
+532	A trading was discussed.	An initial unofficial trading was discussed.	1	pri-pri	an initial unofficial trading
+533	A foreign minister gave a talk yesterday.	A deputy foreign vice minister gave a talk yesterday.	1	pri-pri	a deputy foreign vice minister
+534	The CEO went to business school.	The probable next CEO went to business school.	1	pri-pri	the probable next CEO
+535	An airplane has two wings.	A wooden model airplane has two wings.	1	pri-pri	a wooden model airplane
+536	Trades occur electronically.	So-called erroneous trades occur electronically.	1	pri-pri	so-called erroneous trades
+537	A raspberry has a round shape.	A gold plastic raspberry has a round shape.	1	pri-pri	a gold plastic raspberry
+538	A prime minister has two children.	A plausible future prime minister has two children.	1	pri-pri	a plausible future prime minister
+539	A nuclear reactor generates clean energy.	A future experimental nuclear reactor generates clean energy.	1	pri-pri	a future experimental nuclear reactor
+540	The name of a right-wing will be on the ballot.	The name of a probable right-wing candidate will be on the ballot.	1	pri-pri	a probable right-wing candidate
+541	The senior president works in the office.	The deputy senior vice president works in the office.	1	pri-pri	the deputy senior vice president
+542	Professionals come from all over the world.	Would-be future professionals come from all over the world.	1	pri-pri	would-be future professionals
+543	A prime minister is conservative.	A would-be next prime minister is conservative.	1	pri-pri	a would-be next prime minister
+544	A mayor is a well educated person.	A plausible potential mayor is a well educated person.	1	pri-pri	a plausible potential mayor
+545	The champion is right-handed.	The next probable champion is right-handed.	1	pri-pri	the next probable champion
+546	Countless cease-fires involve discussion between two parties.	Countless failed past cease-fires involve discussion between two parties.	1	pri-pri	countless failed past cease-fires
+547	The threat is about a hurricane.	The so-called imminent threat is about a hurricane.	1	pri-pri	the so-called imminent threat
+548	An area can be measured spatially.	A disputed historic area can be measured spatially.	1	pri-pri	a disputed historic area
+549	Decisions were made by people.	Incorrect initial decisions were made by people.	1	pri-pri	incorrect initial decisions
+550	A Chinese monkey is black.	A mythical Chinese stone monkey is black.	1	pri-pri	a mythical Chinese stone monkey
+551	The president likes playing golf.	The plausible next president likes playing golf.	1	pri-pri	the plausible next president
+552	A world currency is designed by Americans.	An imaginary future world currency is designed by Americans.	1	pri-pri	an imaginary future world currency
+553	The topic of privatization has been brought up by the manager in the meeting.	The topic of probable partial privatization has been brought up by the manager in the meeting.	1	pri-pri	probable partial privatization
+554	A blue field is a storage place.	An almost empty blue field is a storage place.	1	pri-pri	an almost empty blue field
+555	A litigation involves many lawyers.	A model previous litigation involves many lawyers.	1	pri-pri	a model previous litigation
+556	A degree has a name written on it.	A fake honorary degree has a name written on it.	1	pri-pri	a fake honorary degree
+557	A 19th-century train had 10 carriages.	A 19th-century wooden toy train had 10 carriages.	1	pri-pri	a 19th-century wooden toy train
+558	The Catholic leader loves drinking apple juice.	The would-be Catholic deputy leader loves drinking apple juice.	1	pri-pri	the would-be Catholic deputy leader
+559	Rifles have slender appearances.	Fake wooden rifles have slender appearances.	1	pri-pri	fake wooden rifles
+560	The information was written on scratch paper.	The erroneous previous information was written on scratch paper.	1	pri-pri	the erroneous previous information
+561	Revenues are in British pounds.	Imaginary future revenues are in British pounds.	1	pri-pri	imaginary future revenues
+562	A Catholic leader has a happy family.	A would-be Catholic deputy leader has a happy family.	1	pri-pri	a would-be Catholic deputy leader
+563	The CEO devoted to his work.	The probable next CEO devoted to his work.	1	pri-pri	the probable next CEO
+564	A new turf is installed on a basketball court.	A new artificial rubber turf is installed on a basketball court.	1	pri-pri	a new artificial rubber turf
+565	An admiral is respected.	A retired naval admiral is respected.	1	pri-pri	a retired naval admiral
+566	The trading involves multiple parties.	The initial unofficial trading involves multiple parties.	1	pri-pri	the initial unofficial trading
+567	A foreign minister works for the government.	A deputy foreign vice minister works for the government.	1	pri-pri	a deputy foreign vice minister
+568	His work is about watering the garden.	His would-be next work is about watering the garden.	1	pri-pri	his would-be next work
+569	A nuclear reactor is built in the northern city.	A future experimental nuclear reactor is built in the northern city.	1	pri-pri	a future experimental nuclear reactor
+570	A Ukrainian passport had the name, date of birth and photo of the owner on it.	A false temporary Ukrainian passport had the name, date of birth and photo of the owner on it.	1	pri-pri	a false temporary Ukrainian passport
+571	A 69-year-old surgeon wrote about procedures for the local newspaper.	A 69-year-old retired plastic surgeon wrote about procedures for the local newspaper.	1	pri-pri	a 69-year-old retired plastic surgeon
+572	A heart is meant to pump blood.	An experimental artificial heart is meant to pump blood.	1	pri-pri	an experimental artificial heart
+573	The hour has been booked.	The initial half hour has been booked.	1	pri-pri	the initial half hour
+574	The century is a period of time.	The half past century is a period of time.	1	pri-pri	the half past century
+575	A doctorate is printed on paper.	A fake honorary doctorate is printed on paper.	1	pri-pri	a fake honorary doctorate
+576	Together with the European Union, the dozen countries are part of the Iran Nuclear Deal.	Together with the European Union, the initial half dozen countries are part of the Iran Nuclear Deal.	1	pri-pri	the initial half dozen countries
+577	Economists predict that the rate of return will decline soon.	Economists predict that the theoretical expected rate of return will decline soon.	1	pri-pri	the theoretical expected rate
+578	She had bottled up her feelings for so long, but now there is an eruption of her anger.	She had bottled up her feelings for so long, but now there is a possible imminent eruption of her anger.	1	pri-pri	a possible imminent eruption
+579	A disaster involves a comet.	A hypothetical future disaster involves a comet.	1	pri-pri	a hypothetical future disaster
+580	Rifles have a handle.	Wooden toy rifles have a handle.	1	pri-pri	wooden toy rifles
+581	Those contenders loves playing football.	Those presumed future contenders loves playing football.	1	pri-pri	those presumed future contenders
+582	Machineguns have a long barrel.	Mock wooden machineguns have a long barrel.	1	pri-pri	mock wooden machineguns
+583	The Germans are responsible for several attempts.	The Germans are responsible for several failed past attempts.	1	pri-pri	several failed past attempts
+584	Threats involve nuclear attacks.	Future hypothetical threats involve nuclear attacks.	1	pri-pri	future hypothetical threats
+585	Losses are the result of a selloff.	Theoretical potential losses are the result of a selloff.	1	pri-pri	theoretical potential losses
+586	Flowers have a green stem.	Red plastic flowers have a green stem.	1	pri-pri	red plastic flowers
+587	An impact has a root cause.	A potential negative impact has a root cause.	1	pri-pri	a potential negative impact
+588	The information came from the a friend.	The previous erroneous information came from the a friend.	1	pri-pri	the previous erroneous information
+589	The danger involves a shooting.	The so-called imminent danger involves a shooting.	1	pri-pri	the so-called imminent danger
+590	A reporter loves watching news.	A retired political reporter loves watching news.	1	pri-int	a retired political reporter
+591	Transactions involve two parties.	Sham financial transactions involve two parties.	1	pri-int	sham financial transactions
+592	A ruler loves the people.	A previous military ruler loves the people.	1	pri-int	a previous military ruler
+593	People can talk about a disaster.	People can talk about a theoretical economic disaster.	1	pri-int	a theoretical economic disaster
+594	There’s a winning candidate of a victory.	There’s a winning candidate of a fraudulent electoral victory.	1	pri-int	a fraudulent electoral victory
+595	A mask is blue.	A fraudulent medial mask is blue.	1	pri-int	a fraudulent medial mask
+596	A rose is beautiful.	An artificial white rose is beautiful.	1	pri-int	an artificial white rose
+597	Snow is deep.	Artificial white snow is deep.	1	pri-int	artificial white snow
+598	This coat is made from fur.	This coat is made from artificial white fur.	1	pri-int	artificial white fur
+599	Students are young.	Would-be foreign students are young.	1	pri-int	would-be foreign students
+600	Currency is made of paper.	Counterfeit foreign currency is made of paper.	1	pri-int	counterfeit foreign currency
+601	A banknote is produced in a factory.	A counterfeit Italian banknote is produced in a factory.	1	pri-int	a counterfeit Italian banknote
+602	Drugs have a bitter taste.	Counterfeit medical drugs have a bitter taste.	1	pri-int	counterfeit medical drugs
+603	Records are written in black ink.	Altered medical records are written in black ink.	1	pri-int	altered medical records
+604	There are actors in a movie.	There are actors in a counterfeit Indian movie.	1	pri-int	a counterfeit Indian movie
+605	A passport has a photo in it.	A counterfeit Japanese passport has a photo in it.	1	pri-int	a counterfeit Japanese passport
+606	A card has a person’s name on it.	A counterfeit green card has a person’s name on it.	1	pri-int	a counterfeit green card
+607	An explosion happens within seconds.	A mock nuclear explosion happens within seconds.	1	pri-int	a mock nuclear explosion
+608	A battle has a commander.	A mock naval battle has a commander.	1	pri-int	a mock naval battle
+609	A trial involves debates.	A mock criminal trial involves debates.	1	pri-int	a mock criminal trial
+610	His advantage is from his race.	His presumed political advantage is from his race.	1	pri-int	his presumed political advantage
+611	An advancement is about astronomy.	A presumed scientific advancement is about astronomy.	1	pri-int	a presumed scientific advancement
+612	A soccer jersey can be worn.	A gold Brazilian soccer jersey can be worn.	1	pri-int	a gold Brazilian soccer jersey
+613	A polar bear has round ears.	A toy white polar bear has round ears.	1	pri-int	a toy white polar bear
+614	A dragon has two wings.	A brass decorative dragon has two wings.	1	pri-int	a brass decorative dragon
+615	A rhino is gray.	A stone African rhino is gray.	1	pri-int	a stone African rhino
+616	A cabinet consists of prominent politicians.	A partial new cabinet consists of prominent politicians.	1	pri-sub	a partial new cabinet
+617	A decision arises in her mind.	A seeming minor decision arises in her mind.	1	pri-sub	a seeming minor decision
+618	Cool air makes peopel feel cold.	Artificial cool air makes peopel feel cold.	1	pri-sub	artificial cool air
+619	A coach works with athletes.	An honorary assistant coach works with athletes.	1	pri-sub	an honorary assistant coach
+620	A contractor likes to go to that restaurant.	A retired independent contractor likes to go to that restaurant.	1	pri-sub	a retired independent contractor
+621	A daughter has siblings.	An onetime favorite daughter has siblings.	1	pri-sub	an onetime favorite daughter
+622	A state has natives live on it.	A putative northern state has natives live on it.	1	pri-sub	a putative northern state
+623	The guys enjoyed getting food together.	The supposed good guys enjoyed getting food together.	1	pri-sub	the supposed good guys
+624	A report suggested that Americans’ love for sugar was leading to obesity.	A plausible recent report suggested that Americans’ love for sugar was leading to obesity.	1	pri-sub	a plausible recent report
+625	A monarchy has a King and Queen.	A fictional modern monarchy has a King and Queen.	1	pri-sub	a fictional modern monarchy
+626	A bookstore sells books.	A virtual independent bookstore sells books.	1	pri-sub	a virtual independent bookstore
+627	A son has a parent.	A surrogate good son has a parent.	1	pri-sub	a surrogate good son
+628	A singer plays an instrument.	A virtual unknown singer plays an instrument.	1	pri-sub	a virtual unknown singer
+629	A general likes driving.	A retired northern general likes driving.	1	pri-sub	a retired northern general
+630	The loss is a result of a past mistake.	The probable maximum loss is a result of a past mistake.	1	pri-sub	the probable maximum loss
+631	An energy source is found underground.	An experimental alternative energy source is found underground.	1	pri-sub	an experimental alternative energy source
+632	Targets are discussed in a meeting.	Past official targets are discussed in a meeting.	1	pri-sub	past official targets
+633	An issue is about computer science.	A fictitious technical issue is about computer science.	1	pri-sub	a fictitious technical issue
+634	The economic turbulence is dangerous.	The predicted global economic turbulence is dangerous.	1	pri-sub	the predicted global economic turbulence
+635	A baseball game is held outdoor.	A would-be classic baseball game is held outdoor.	1	pri-sub	A would-be classic baseball game
+636	His competitors participate in the same competition as him.	His presumed strong competitors participate in the same competition as him.	1	pri-sub	his presumed strong competitors
+637	A seller commutes to work.	An unlikely top seller commutes to work.	1	pri-sub	An unlikely top seller
+638	A lawyer has a degree from Harvard Law School.	A retired federal lawyer has a degree from Harvard Law School.	1	pri-sub	a retired federal lawyer
+639	The highest court holds legal case hearings.	The next highest federal court holds legal case hearings.	1	pri-sub	the next highest federal court
+640	A therapy is designed to treat patients.	An experimental new therapy is designed to treat patients.	1	pri-sub	an experimental new therapy
+641	A world has a set of rules.	A theoretical perfect world has a set of rules.	1	pri-sub	a theoretical perfect world
+642	A campaign succeeds in the election.	A surrogate presidential campaign succeeds in the election.	1	pri-sub	a surrogate presidential campaign
+643	A basic principle is what they believed.	A prior basic principle is what they believed.	1	pri-sub	a prior basic principle
+644	A shutdown is in the US.	A partial federal shutdown is in the US.	1	pri-sub	a partial federal shutdown
+645	A runner is 20 years old.	A presumed front runner is 20 years old.	1	pri-sub	a presumed front runner
+646	A state is large.	A fictitious coastal state is large.	1	pri-sub	a fictitious coastal state
+647	A wage is paid biweekly.	A virtual minimum wage is paid biweekly.	1	pri-sub	a virtual minimum wage
+648	A record contains data.	A previous official record contains data.	1	pri-sub	a previous official record
+649	Leaguers play baseball.	Surrogate big leaguers play baseball.	1	pri-sub	surrogate big leaguers
+650	A bid was presented.	An initial minimum bid was presented.	1	pri-sub	an initial minimum bid
+651	An election involves voting.	An imminent parliamentary election involves voting.	1	pri-sub	an imminent parliamentary election
+652	Areas are surrounded by factories.	Past southern areas are surrounded by factories.	1	pri-sub	past southern areas
+653	Debates are heated.	Mock parliamentary debates are heated.	1	pri-sub	mock parliamentary debates
+654	A round meeting entails participants having discussions.	A probable third round meeting entails participants having discussions.	1	pri-sub	a probable third round meeting
+655	A vehicle is made of metal.	A burned technical vehicle is made of metal.	1	pri-sub	a burned technical vehicle
+656	A key piece is part of a bigger mass.	A supposed key piece is part of a bigger mass.	1	pri-sub	a supposed key piece
+657	He received his championship in his hometown.	He received his disputed eighth championship in his hometown.	1	pri-sub	his disputed eighth championship
+658	A proposal is saved in share drive.	A partial alternative proposal is saved in share drive.	1	pri-sub	a partial alternative proposal
+659	Germany 's star released an album this year.	Germany 's next top star released an album this year.	1	pri-sub	Germany 's next top star
+660	Bills were mentioned.	Hypothetical legislative bills were mentioned.	1	pri-sub	hypothetical legislative bills
+661	An event is currently taking place in town.	An unofficial amateur event is currently taking place in town.	1	pri-sub	an unofficial amateur event
+662	A snapper has a camera.	A substitute long snapper has a camera.	1	pri-sub	a substitute long snapper
+663	The suspect spoke to the police.	The apparent chief suspect spoke to the police.	1	pri-sub	the apparent chief suspect
+664	A chief prosecutor serves for a term.	A vice national chief prosecutor serves for a term.	1	pri-sub	a vice national chief prosecutor
+665	A Spanish first minister is elected to office.	A Spanish first vice prime minister is elected to office.	1	pri-sub	a Spanish first vice prime minister
+666	A product includes features.	A plausible new product includes features.	1	pri-sub	a plausible new product
+667	The first minister gives speech in the public.	The first vice prime minister gives speech in the public.	1	pri-sub	the first vice prime minister
+668	A seal is red.	A phony royal seal is red.	1	pri-sub	a phony royal seal
+669	An interest has been discussed.	A prior national interest has been discussed.	1	pri-sub	a prior national interest
+670	A school has a name.	A fictitious high school has a name.	1	pri-sub	a fictitious high school
+671	A boxer is a male.	A onetime amateur boxer is a male.	1	pri-sub	a onetime amateur boxer
+672	A rating will be published.	A supposed low rating will be published.	1	pri-sub	a supposed low rating
+673	He made payments.	He made partial late payments.	1	pri-sub	partial late payments
+674	These promises were originally made under an agreement.	These broken presidential promises were originally made under an agreement.	1	pri-sub	broken presidential promises
+675	A star performs for an audience.	A next top star performs for an audience.	1	pri-sub	a next top star
+676	A baseball game involves two teams.	A would-be classic baseball game involves two teams.	1	pri-sub	A would-be classic baseball game
+677	A circuit has things going around.	A presumed short circuit has things going around.	1	pri-sub	a presumed short circuit
+678	A seller knows how to create deals.	A retired short seller knows how to create deals.	1	pri-sub	a retired short seller
+679	An authority shares his opinions.	A phony moral authority shares his opinions.	1	pri-sub	a phony moral authority
+680	A golfer talks about the weather.	A fictitious professional golfer talks about the weather.	1	pri-sub	a fictitious professional golfer
+681	A list is printed.	A theoretical short list is printed.	1	pri-sub	a theoretical short list
+682	A tone is used in a speech.	A mock serious tone is used in a speech.	1	pri-sub	a mock serious tone
+683	Value has been determined.	Dubious strategic value has been determined.	1	pri-sub	dubious strategic value
+684	A round meeting takes place indoor.	A probable third round meeting takes place indoor.	1	pri-sub	a probable third round meeting
+685	A business requires a capable management team.	A would-be scary business requires a capable management team.	1	pri-sub	a would-be scary business
+686	The judge is well educated.	The onetime municipal judge is well educated.	1	pri-sub	the onetime municipal judge
+687	A budget sets a plan of distributing money.	An initial federal budget sets a plan of distributing money.	1	pri-sub	an initial federal budget
+688	A population collapse coincides with declining birth rates.	A partial global population collapse coincides with declining birth rates.	1	pri-sub	a partial global population collapse
+689	A common ancestor has different appearance than descendants.	A fictional common ancestor has different appearance than descendants.	1	pri-sub	a fictional common ancestor
+690	A show presents a performance.	A mock amateur show presents a performance.	1	pri-sub	a mock amateur show
+691	A standard outlines what's asked or required.	An impossible high standard outlines what's asked or required.	1	pri-sub	an impossible high standard
+692	Maintenance was done before the plane takes off.	Maintenance was done before the substitute presidential plane takes off.	1	pri-sub	the substitute presidential plane
+693	The chairman was on the board.	The honorary national chairman was on the board.	1	pri-sub	the honorary national chairman
+694	His somewhat championship was won in Japan.	His somewhat disputed eighth championship was won in Japan.	1	pri-sub	his somewhat disputed eighth championship
+695	An allegedly election will elect someone.	An allegedly fraudulent national election will elect someone.	1	pri-sub	an allegedly fraudulent national election
+696	Germany 's star can breathe.	Germany 's next top star can breathe.	1	pri-sub	Germany 's next top star
+697	Technical standards contains jargons.	Initial technical standards contains jargons.	1	pri-sub	initial technical standards
+698	A voice speaks to an audience.	A surrogate national voice speaks to an audience.	1	pri-sub	a surrogate national voice
+699	An event involves participants.	An unofficial amateur event involves participants.	1	pri-sub	an unofficial amateur event
+700	A Arab passport contains a photo.	A forged Arab diplomatic passport contains a photo.	1	pri-sub	a forged Arab diplomatic passport
+701	A contender plays baseball.	A probable top contender plays baseball.	1	pri-sub	a probable top contender
+702	The costs are high.	The supposed extra costs are high.	1	pri-sub	the supposed extra costs
+703	The law focus on energy saving.	The would-be federal law focus on energy saving.	1	pri-sub	The would-be federal law
+704	After election, Newspaper published an article about an election result.	After election, Newspaper published an article about a disputed parliamentary election result.	1	pri-sub	a disputed parliamentary election result
+705	The average expenditure increases.	The predicted current average expenditure increases.	1	pri-sub	the predicted current average expenditure
+706	A weapon can hurt people.	An unlikely new weapon can hurt people.	1	pri-sub	an unlikely new weapon
+707	A jury is impartial about the matter.	A prior grand jury is impartial about the matter.	1	pri-sub	a prior grand jury
+708	A general is patriotic.	A retired northern general is patriotic.	1	pri-sub	a retired northern general
+709	The ancestor is described in the textbook.	The hypothetical common ancestor is described in the textbook.	1	pri-sub	the hypothetical common ancestor
+710	A result is released yesterday.	A partial regional result is released yesterday.	1	pri-sub	a partial regional result
+711	Islands has some beaches.	Disputed southern islands has some beaches.	1	pri-sub	disputed southern islands
+712	A schedule contains the plan for the day.	An impossible presidential schedule contains the plan for the day.	1	pri-sub	an impossible presidential schedule
+713	Some performers had sung showtunes.	Some past top performers had sung showtunes.	1	pri-sub	some past top performers
+714	A bulb is made of glass.	A broken light bulb is made of glass.	1	pri-sub	a broken light bulb
+715	Results show the options that were voted upon.	Unofficial early results show the options that were voted upon.	1	pri-sub	unofficial early results
+716	A light brightens the room.	A single artificial light brightens the room.	1	int-pri	a single artificial light
+717	A painter owns paintbrushes.	A French figurative painter owns paintbrushes.	1	int-pri	a French figurative painter
+718	A person was involved in an incident.	A person was involved in a single past incident.	1	int-pri	a single past incident
+719	Goods have a price.	Chinese counterfeit goods have a price.	1	int-pri	Chinese counterfeit goods
+720	You can sit on a chair.	You can sit on a single wooden chair.	1	int-pri	a single wooden chair
+721	Late workers work 9-5pm and earn a paycheck.	Late Chinese model workers work 9-5pm and earn a paycheck.	1	int-pri	late Chinese model workers
+722	A 18-karat earring can be worn with a matching necklace.	A single 18-karat gold earring can be worn with a matching necklace.	1	int-pri	a single 18-karat gold earring
+723	A father bought toys for a child.	A Chinese surrogate father bought toys for a child.	1	int-pri	a Chinese surrogate father
+724	Their photographs were colorful.	Their original disputed photographs were colorful.	1	int-pri	their original disputed photographs
+725	A spy graduated from a military college.	A Russian retired spy graduated from a military college.	1	int-pri	a Russian retired spy
+726	An agreement was about climate change.	A single previous agreement was about climate change.	1	int-pri	a single previous agreement
+727	A diplomat has two brothers.	A French retired diplomat has two brothers.	1	int-pri	a French retired diplomat
+728	A habitat is near the wetland.	A natural temporary habitat is near the wetland.	1	int-pri	a natural temporary habitat
+729	A conviction was announced by the judge.	A single prior conviction was announced by the judge.	1	int-pri	a single prior conviction
+730	A South company has founders.	A South African paper company has founders.	1	int-pri	a South African paper company
+731	Dolls are sold in toy stores.	Russian wooden dolls are sold in toy stores.	1	int-pri	Russian wooden dolls
+732	Their value is represented as a number.	Their original nominal value is represented as a number.	1	int-pri	their original nominal value
+733	A pet is fun to play with.	An original virtual pet is fun to play with.	1	int-pri	an original virtual pet
+734	An agreement involves two parties.	A single previous agreement involves two parties.	1	int-pri	a single previous agreement
+735	A character is someone you can read about in a book.	A French fictional character is someone you can read about in a book.	1	int-pri	a French fictional character
+736	A vote count requires tallying up a lot of paper.	An original unofficial vote count requires tallying up a lot of paper.	1	int-pri	an original unofficial vote count
+737	A meeting is an encounter between two people.	A single previous meeting is an encounter between two people.	1	int-pri	a single previous meeting
+738	A chair is sturdy.	A single wooden chair is sturdy.	1	int-pri	A single wooden chair
+739	An arms dealer has many colleagues.	A Russian alleged arms dealer has many colleagues.	1	int-pri	a Russian alleged arms dealer
+740	Painter owns sporting supplies.	French figurative painter owns sporting supplies.	1	int-pri	French figurative painter
+741	An incident became the topic for dicussion.	A single past incident became the topic for dicussion.	1	int-pri	a single past incident
+742	A coach focuses on winning the game.	A Swedish national coach focuses on winning the game.	1	int-sub	a Swedish national coach
+743	Business education covers topics such as finance, accounting, and marketing.	Western standard business education covers topics such as finance, accounting, and marketing.	1	int-sub	Western standard business education
+744	Coals is mostly carbon.	Western soft coals is mostly carbon.	1	int-sub	Western soft coals
+745	Music is a type of art.	Western popular music is a type of art.	1	int-sub	Western popular music
+746	A statistics agency is operated by people.	A Swedish central statistics agency is operated by people.	1	int-sub	a Swedish central statistics agency
+747	A Australian player wins.	A Western Australian junior player wins.	1	int-sub	a Western Australian junior player
+748	A diplomat speaks with leaders from other countries.	A Swedish top diplomat speaks with leaders from other countries.	1	int-sub	a Swedish top diplomat
+749	An official has official duties.	A Western top official has official duties.	1	int-sub	a Western top official
+750	Players need to run fast.	Australian junior players need to run fast.	1	int-sub	Australian junior players
+751	A diplomat has a passport.	A Swedish top diplomat has a passport.	1	int-sub	a Swedish top diplomat
+752	A skier has skis.	A Swedish technical skier has skis.	1	int-sub	a Swedish technical skier
+753	Coal fuels fire.	Western soft coal fuels fire.	1	int-sub	Western soft coal
+754	Births bring happiness to familes.	Many surrogate births bring happiness to familes.	1	sub-pri	many surrogate births
+755	A society has many members.	A national honorary society has many members.	1	sub-pri	a national honorary society
+756	Interpretations are available online.	Many erroneous interpretations are available online.	1	sub-pri	many erroneous interpretations
+757	The sentence is a type of punishment.	The maximum initial sentence is a type of punishment.	1	sub-pri	the maximum initial sentence
+758	The fee is in US Dollars.	The maximum initial fee is in US Dollars.	1	sub-pri	the maximum initial fee
+759	Ratings are numeric.	Low initial ratings are numeric.	1	sub-pri	low initial ratings
+760	The prison sentence is defined by a period of time.	The maximum possible prison sentence is defined by a period of time.	1	sub-pri	the maximum possible prison sentence
+761	A secretary wears a mask.	A national deputy secretary wears a mask.	1	sub-pri	a national deputy secretary
+762	Bones are mainly composed of calcium carbonate.	Numerous broken bones are mainly composed of calcium carbonate.	1	sub-pri	numerous broken bones
+763	The CO2 levels are recorded.	The maximum proposed CO2 levels are recorded.	1	sub-pri	the maximum proposed CO2 levels
+764	Connections involve at least two people.	Many prior connections involve at least two people.	1	sub-pri	many prior connections
+765	A price is listed online.	A low initial price is listed online.	1	sub-pri	a low initial price
+766	Standards are created by people.	National proposed standards are created by people.	1	sub-pri	national proposed standards
+767	Her friends go to school everyday.	Her many supposed friends go to school everyday.	1	sub-pri	her many supposed friends
+768	A devaluation lowered the worth of a car.	A maximum nominal devaluation lowered the worth of a car.	1	sub-pri	a maximum nominal devaluation
+769	A return was paid by check.	A low likely return was paid by check.	1	sub-pri	a low likely return
+770	A student’s answer sheet contains answers.	A student’s answer sheet contains many partial answers.	1	sub-pri	many partial answers
+771	A rating is out of five stars.	A high initial rating is out of five stars.	1	sub-pri	a high initial rating
+772	The criminals made confessions.	The criminals made numerous spurious confessions.	1	sub-pri	numerous spurious confessions
+773	Decisions were discussed.	Many wrong decisions were discussed.	1	sub-pri	many wrong decisions
+774	Our allies helped us during the first war.	Our numerous onetime allies helped us during the first war.	1	sub-pri	our numerous onetime allies
+775	A speed can be expressed in meters per second.	A maximum theoretical speed can be expressed in meters per second.	1	sub-pri	a maximum theoretical speed
+776	Turns involves turning the steering wheel.	Numerous wrong turns involves turning the steering wheel.	1	sub-pri	numerous wrong turns
+777	A list is printed.	A national candidate list is printed.	1	sub-pri	a national candidate list
+778	Animals are furry.	Many cloned animals are furry.	1	sub-pri	many cloned animals
+779	The sentence was announced by the judge.	The maximum initial sentence was announced by the judge.	1	sub-pri	the maximum initial sentence
+780	An amount was counted by the clerk.	A maximum nominal amount was counted by the clerk.	1	sub-pri	a maximum nominal amount
+781	A cost was discussed with the contractor.	A maximum potential cost was discussed with the contractor.	1	sub-pri	a maximum potential cost
+782	Projects are under implementation.	National experimental projects are under implementation.	1	sub-pri	national experimental projects
+783	An expense was paid.	A high initial expense was paid.	1	sub-pri	a high initial expense
+784	Meetings involved multiple individuals.	Numerous unofficial meetings involved multiple individuals.	1	sub-pri	numerous unofficial meetings
+785	A anti-terror drill was conducted in the daytime.	A national anti-terror military drill was conducted in the daytime.	1	sub-pri	a national anti-terror military drill
+786	Solutions can be found on the internet.	Many supposed solutions can be found on the internet.	1	sub-pri	many supposed solutions
+787	Tree sales are denominated in US dollars.	National artificial tree sales are denominated in US dollars.	1	sub-pri	national artificial tree sales
+788	Her friends act nicely around her.	Her many supposed friends act nicely around her.	1	sub-pri	her many supposed friends
+789	An industry supplies a service to buyers.	A key local industry supplies a service to buyers.	1	sub-int	a key local industry
+790	The parliament seeked to establish a just government.	The fourth democratic parliament seeked to establish a just government.	1	sub-int	the fourth democratic parliament
+791	A rival gives competition to sales of our local store.	A chief online rival gives competition to sales of our local store.	1	sub-int	a chief online rival
+792	An investigator collects and examines evidence.	A chief internal investigator collects and examines evidence.	1	sub-int	a chief internal investigator
+793	China’s artists make a living by painting.	China’s top contemporary artists make a living by painting.	1	sub-int	China’s top contemporary artists
+794	The winner is 35 years old.	The fourth foreign winner is 35 years old.	1	sub-int	the fourth foreign winner
+795	Its election determines the president of the nation.	Its fourth democratic election determines the president of the nation.	1	sub-int	its fourth democratic election
+796	A press is called the Sun Times.	An independent local press is called the Sun Times.	1	sub-int	an independent local press
+797	Its consecutive medal has an engraving on it.	Its fourth consecutive gold medal has an engraving on it.	1	sub-int	its fourth consecutive gold medal
+798	The temperature is measured in Fahrenheit.	The global mean temperature is measured in Fahrenheit.	1	sub-int	the global mean temperature
+799	An industry employs people.	A key local industry employs people.	1	sub-int	a key local industry
+800	The parliament has members.	The fourth democratic parliament has members.	1	sub-int	the fourth democratic parliament
+801	A singer likes to sing with guitar.	A popular female singer likes to sing with guitar.	1	sub-int	a popular female singer
+802	A quartet has four members.	A popular vocal quartet has four members.	1	sub-int	a popular vocal quartet
+803	Conflicts might cause violence.	Regional religious conflicts might cause violence.	1	sub-int	regional religious conflicts
+804	The audience applauded for the winner.	The audience applauded for the fourth Swedish winner.	1	sub-int	the fourth Swedish winner
+805	A school offers courses.	A top secondary school offers courses.	1	sub-sub	a top secondary school
+806	The user uses some product.	The average current user uses some product.	1	sub-sub	the average current user
+807	The golfers play golf.	The top junior golfers play golf.	1	sub-sub	the top junior golfers
+808	A U.S. athlete is from Arkansas.	A top amateur U.S. athlete is from Arkansas.	1	sub-sub	a top amateur U.S. athlete
+809	The chairman can head this meeting.	The former vice chairman can head this meeting.	0	pri-pri	the former vice chairman
+810	The administrator has power.	The future deputy administrator has power.	0	pri-pri	the future deputy administrator
+811	The reality is real.	The simulated virtual reality is real.	0	pri-pri	the simulated virtual reality
+812	The director can chair a meeting.	The former deputy director can chair a meeting.	0	pri-pri	the former deputy director
+813	A car is for getting to work.	A plastic toy car is for getting to work.	0	pri-pri	a plastic toy car
+814	A car can move a person.	A plastic toy car can move a person.	0	pri-pri	a plastic toy car
+815	A banknote can buy things.	An imaginary fake banknote can buy things.	0	pri-pri	an imaginary fake banknote
+816	A banknote is deposited at the bank.	A burned fake banknote is deposited at the bank.	0	pri-pri	a burned fake banknote
+817	You can use a job to make money.	You can use an almost impossible job to make money.	0	pri-pri	an almost impossible job
+818	A solution leads to success.	A likely temporary solution leads to success.	0	pri-pri	a likely temporary solution
+819	Evidence is required to convict someone of murder.	False direct evidence is required to convict someone of murder.	0	pri-int	false direct evidence
+820	Evidence can prove innocence.	False direct evidence can prove innocence.	0	pri-int	false direct evidence
+821	A commissioner has power.	A former European commissioner has power.	0	pri-int	a former European commissioner
+822	A market has brought profits.	A potential European market has brought profits.	0	pri-int	a potential European market
+823	Someone has seen a creature.	Someone has seen a non-existing beautiful creature.	0	pri-int	a non-existing beautiful creature
+824	A diamond can be very expensive.	A fake rhinestone diamond can be very expensive.	0	pri-int	a fake rhinestone diamond
+825	A beast has killed thousands of people in real life.	A mythical wild beast has killed thousands of people in real life.	0	pri-int	a mythical wild beast
+826	You can live in a house.	You can live in a demolished damaged house.	0	pri-int	a demolished damaged house
+827	You can enter the building with a permission.	You can enter the building with a denied access permission.	0	pri-int	a denied access permission
+828	You can prove your identify with an authentication.	You can prove your identify with a failed human authentication.	0	pri-int	a failed human authentication
+829	You can use a window to keep cold air out.	You can use a broken glass window to keep cold air out.	0	pri-int	a broken glass window
+830	A market exists.	A fictitious impersonal market exists.	0	pri-int	a fictitious impersonal market
+831	Apple juice is made from apples.	Phony infant apple juice is made from apples.	0	pri-int	phony infant apple juice
+832	A poisonous pill can kill a person.	A so-called poisonous pill can kill a person.	0	pri-int	a so-called poisonous pill
+833	A detective works in the police department.	A fictional private detective works in the police department.	0	pri-int	a fictional private detective
+834	A gadget can help to prolong life.	A false health gadget can help to prolong life.	0	pri-int	a false health gadget
+835	A move has caused military reactions.	An expected Canadian move has caused military reactions.	0	pri-int	an expected Canadian move
+836	A beneficial effect has helped relieve pain.	An expected beneficial effect has helped relieve pain.	0	pri-int	an expected beneficial effect
+837	The security adviser can give up-to-date advice.	The former national security adviser can give up-to-date advice.	0	pri-sub	the former national security adviser
+838	The president can head the company.	The former senior president can head the company.	0	pri-sub	the former senior president
+839	A big spender can burn through a lot of cash.	An unlikely big spender can burn through a lot of cash.	0	pri-sub	an unlikely big spender
+840	A company has earnings.	A proposed new company has earnings.	0	pri-sub	a proposed new company
+841	A beautiful actress is beautiful.	A former beautiful actress is beautiful.	0	pri-sub	a former beautiful actress
+842	A surgeon can cure patients.	A former skillful surgeon can cure patients.	0	pri-sub	a former skillful surgeon
+843	A perfect solution solves the problem perfectly.	An arguable perfect solution solves the problem perfectly.	0	pri-sub	an arguable perfect solution
+844	They have been working on a case for two years.	They have been working on a hypothetical new case for two years.	0	pri-sub	a hypothetical new case
+845	A famous actor is famous.	A former famous actor is famous.	0	pri-sub	a former famous actor
+846	A book is worth reading.	An overhyped bestselling book is worth reading.	0	pri-sub	an overhyped bestselling book
+847	You can use a gun to kill someone.	You can use a black toy gun to kill someone.	0	int-pri	a black toy gun
+848	A banknote can buy goods.	A well-made forged banknote can buy goods.	0	int-pri	a well-made forged banknote
+849	Her jewelry is worth a lot of money.	Her presented sham jewelry is worth a lot of money.	0	int-pri	her presented sham jewelry
+850	The money has value.	The sold counterfeit money has value.	0	int-pri	the sold counterfeit money
+851	A light comes from the sun.	A bright counterfeit light comes from the sun.	0	int-pri	a bright counterfeit light
+852	A lion can roar.	A red stone lion can roar.	0	int-pri	a red stone lion
+853	A horse can pull a cart.	A brown wooden horse can pull a cart.	0	int-pri	a brown wooden horse
+854	A duck can mother her ducklings.	A yellow rubber duck can mother her ducklings.	0	int-pri	a yellow rubber duck
+855	A duck can be eaten.	A yellow rubber duck can be eaten.	0	int-pri	a yellow rubber duck
+856	An environment has natural light.	A protective artificial environment has natural light.	0	int-pri	a protective artificial environment
+857	A plane can bus people.	A white paper plane can bus people.	0	int-pri	a white paper plane
+858	You can read a book on your phone.	You can read a white paper book on your phone.	0	int-pri	a white paper book
+859	The sky is raining.	The clear blue sky is raining.	0	int-int	the clear blue sky
+860	Roses are disliked.	Fragrant red roses are disliked.	0	int-int	fragrant red roses
+861	A student graduates successfully.	A depressed doctoral student graduates successfully.	0	int-int	a depressed doctoral student
+862	An animal can be harmful to people.	A dead dangerous animal can be harmful to people.	0	int-sub	a dead dangerous animal
+863	A gun is used for fire.	A big fake gun is used for fire.	0	sub-pri	a big fake gun
+864	A gun can arm man.	A big fake gun can arm man.	0	sub-pri	a big fake gun
+865	A gun can be used by murders.	A big toy gun can be used by murders.	0	sub-pri	a big toy gun
+866	A painting is created by a famous artist.	A big fake painting is created by a famous artist.	0	sub-pri	a big fake painting
+867	A ring is loved.	A cheap fake ring is loved.	0	sub-pri	a cheap fake ring
+868	A car A driver's license is needed for.	An expensive toy car A driver's license is needed for.	0	sub-pri	an expensive toy car
+869	Customers has bought many items.	New potential customers has bought many items.	0	sub-pri	new potential customers
+870	A candidate has many opponents.	The only possible candidate has many opponents.	0	sub-pri	the only possible candidate
+871	Fur is from animals.	Soft fake fur is from animals.	0	sub-pri	soft fake fur
+872	A lion can hunt zebras.	A big stone lion can hunt zebras.	0	sub-pri	a big stone lion
+873	An execution can bring a victim to death.	A scary mock execution can bring a victim to death.	0	sub-pri	a scary mock execution
+874	A flower may grow from a bulb.	A beautiful plastic flower may grow from a bulb.	0	sub-pri	a beautiful plastic flower
+875	A flower is alive.	A beautiful plastic flower is alive.	0	sub-pri	a beautiful plastic flower
+876	A speaker is guaranteed to show up.	A likely next speaker is guaranteed to show up.	0	pri-pri	a likely next speaker
+877	A destination has everything we are looking for.	A likely temporary destination has everything we are looking for.	0	pri-pri	a likely temporary destination
+878	An attack has caused heavy casualties.	An expected imminent attack has caused heavy casualties.	0	pri-pri	an expected imminent attack
+879	Her promises are fulfilled.	Her past broken promises are fulfilled.	0	pri-pri	her past broken promises
+880	Victims are in danger now.	Potential future victims are in danger now.	0	pri-pri	potential future victims
+881	A solution solves the problem.	An impossible long-term solution solves the problem.	0	pri-int	an impossible long-term solution
+882	Everyone should abide by a law.	Everyone should abide by a previous federal law.	0	pri-sub	a previous federal law
+883	The government can levy taxes on citizens.	The previous federal government can levy taxes on citizens.	0	pri-sub	the previous federal government
+884	Health can improve working efficienty.	Mental ill health can improve working efficienty.	0	int-sub	mental ill health
+885	An animal is living in the zoo.	An extinct ancient animal is living in the zoo.	0	int-sub	an extinct ancient animal
+886	A copy is electronic.	An original hard copy is electronic.	0	int-sub	an original hard copy
+887	There is an alternative to the choice.	There is an alternative to the only practical choice.	0	sub-int	the only practical choice
+888	A secret is confidential.	A big open secret is confidential.	0	sub-int	a big open secret
+889	A cook cooks terrible dishes.	An awful good cook cooks terrible dishes.	0	sub-sub	an awful good cook
+890	This piece of news surprises everyone.	This piece of boring old news surprises everyone.	0	sub-sub	boring old news
+891	A divorce ends peacefully.	A pretty ugly divorce ends peacefully.	0	sub-sub	a pretty ugly divorce
+892	A crowd has over a thousand people.	A small quiet crowd has over a thousand people.	0	sub-sub	a small quiet crowd
+893	A strategy was agreed.	A faulty initial strategy was agreed.	0	pri-pri	a faulty initial strategy
+894	A milestone will be celebrated.	A dubious historic milestone will be celebrated.	0	pri-pri	a dubious historic milestone
+895	A 28-foot tree is being watered.	A 28-foot fake gold tree is being watered.	0	pri-pri	a 28-foot fake gold tree
+896	A military assignment will be completed in one day.	An almost impossible military assignment will be completed in one day.	0	pri-pri	an almost impossible military assignment
+897	A most president has access to nuke codes.	A most plausible potential president has access to nuke codes.	0	pri-pri	a most plausible potential president
+898	She told everyone she was in a relationship.	She told everyone she was in a fictional past relationship.	0	pri-pri	a fictional past relationship
+899	A trading was in the news.	An initial unofficial trading was in the news.	0	pri-pri	an initial unofficial trading
+900	A foreign minister appeared in the national election.	A deputy foreign vice minister appeared in the national election.	0	pri-pri	a deputy foreign vice minister
+901	Pregnancies would lead to a surplus of food.	Possible later pregnancies would lead to a surplus of food.	0	pri-pri	possible later pregnancies
+902	An airplane has an engine.	A wooden model airplane has an engine.	0	pri-pri	a wooden model airplane
+903	The genius executed trades.	The genius executed so-called erroneous trades.	0	pri-pri	so-called erroneous trades
+904	A raspberry has seeds.	A gold plastic raspberry has seeds.	0	pri-pri	a gold plastic raspberry
+905	A prime minister is 80 years old.	A plausible future prime minister is 80 years old.	0	pri-pri	a plausible future prime minister
+906	A declaration should be trusted.	A possible incorrect declaration should be trusted.	0	pri-pri	a possible incorrect declaration
+907	Value has been rigorously fact-checked.	Doubtful historic value has been rigorously fact-checked.	0	pri-pri	doubtful historic value
+908	Everyone has a license plate.	Everyone has a suspicious temporary license plate.	0	pri-pri	a suspicious temporary license plate
+909	Barriers are made of wood.	Mock wooden barriers are made of wood.	0	pri-pri	mock wooden barriers
+910	A nuclear reactor is put into use.	A future experimental nuclear reactor is put into use.	0	pri-pri	a future experimental nuclear reactor
+911	A temporary passport allows you to travel abroad.	A false temporary passport allows you to travel abroad.	0	pri-pri	a false temporary passport
+912	A sword is used in war.	A fake wooden sword is used in war.	0	pri-pri	a fake wooden sword
+913	A heart contains flesh and blood.	An experimental artificial heart contains flesh and blood.	0	pri-pri	an experimental artificial heart
+914	A joint will last a long time.	A faulty artificial joint will last a long time.	0	pri-pri	a faulty artificial joint
+915	Iraq 's leadership has strong control.	Iraq 's nominal future leadership has strong control.	0	pri-pri	Iraq 's nominal future leadership
+916	Hundreds of trades lead to investor confidence.	Hundreds of so-called erroneous trades lead to investor confidence.	0	pri-pri	hundreds of so-called erroneous trades
+917	A solution is required to earn full credit of this problem.	An experimental temporary solution is required to earn full credit of this problem.	0	pri-pri	an experimental temporary solution
+918	The government encourages people to accept the vaccines.	The government encourages people to accept the future experimental vaccines.	0	pri-pri	the future experimental vaccines
+919	The transactions will be approved shortly.	The so-called erroneous transactions will be approved shortly.	0	pri-pri	the so-called erroneous transactions
+920	Dwellings are for people to live there forever.	Experimental temporary dwellings are for people to live there forever.	0	pri-pri	experimental temporary dwellings
+921	Professionals are retiring soon.	Would-be future professionals are retiring soon.	0	pri-pri	would-be future professionals
+922	A prosecution is happening in the courtroom now.	A possible later prosecution is happening in the courtroom now.	0	pri-pri	a possible later prosecution
+923	Initial public offerings are a good source of funding.	Failed initial public offerings are a good source of funding.	0	pri-pri	failed initial public offerings
+924	A mayor has enough governing experience.	A plausible potential mayor has enough governing experience.	0	pri-pri	a plausible potential mayor
+925	A ID is issued by the government.	A plausible fake ID is issued by the government.	0	pri-pri	a plausible fake ID
+926	A launch was well prepared for.	An unsuccessful previous launch was well prepared for.	0	pri-pri	an unsuccessful previous launch
+927	The threat put individuals at risk.	The so-called imminent threat put individuals at risk.	0	pri-pri	the so-called imminent threat
+928	Decisions are necessary for progress.	Incorrect initial decisions are necessary for progress.	0	pri-pri	incorrect initial decisions
+929	A loss happened a few days ago.	A probable imminent loss happened a few days ago.	0	pri-pri	a probable imminent loss
+930	A Chinese monkey is an animal.	A mythical Chinese stone monkey is an animal.	0	pri-pri	a mythical Chinese stone monkey
+931	A star is a falling star.	A putative future star is a falling star.	0	pri-pri	a putative future star
+932	A small missile are dangerous.	A small mock paper missile are dangerous.	0	pri-pri	a small mock paper missile
+933	A world currency has been adopted by many countires in the world.	An imaginary future world currency has been adopted by many countires in the world.	0	pri-pri	an imaginary future world currency
+934	There are a lot of stuff in a blue field.	There are a lot of stuff in an almost empty blue field.	0	pri-pri	an almost empty blue field
+935	A talk is given by a good talker.	A false empty talk is given by a good talker.	0	pri-pri	a false empty talk
+936	A benefit improve the livelihood of the receipients.	An uncertain future benefit improve the livelihood of the receipients.	0	pri-pri	an uncertain future benefit
+937	A health food is sold in most supermarkets.	A questionable so-called health food is sold in most supermarkets.	0	pri-pri	a questionable so-called health food
+938	A spy is up to date with the latest spycraft technologies.	A retired super spy is up to date with the latest spycraft technologies.	0	pri-pri	a retired super spy
+939	A foe has already inflicted many wounds upon the protagonist.	A next probable foe has already inflicted many wounds upon the protagonist.	0	pri-pri	A next probable foe
+940	A degree is issued at the end of a ceremony.	A fake honorary degree is issued at the end of a ceremony.	0	pri-pri	a fake honorary degree
+941	A senior president have no superiors.	A deputy senior vice president have no superiors.	0	pri-pri	a deputy senior vice president
+942	A friend are real.	A fake virtual friend are real.	0	pri-pri	a fake virtual friend
+943	A wind measurement is indeed correct.	A possible incorrect wind measurement is indeed correct.	0	pri-pri	a possible incorrect wind measurement
+944	A solution results in the case being closed completely.	An experimental temporary solution results in the case being closed completely.	0	pri-pri	an experimental temporary solution
+945	The vaccine is widely accepted by the general population.	The future experimental vaccine is widely accepted by the general population.	0	pri-pri	the future experimental vaccine
+946	The transaction results in a successful chargeback.	The so-called erroneous transaction results in a successful chargeback.	0	pri-pri	the so-called erroneous transaction
+947	A rifle was used to murder the victim.	A fake wooden rifle was used to murder the victim.	0	pri-pri	a fake wooden rifle
+948	A 19th-century train can carry passengers.	A 19th-century wooden toy train can carry passengers.	0	pri-pri	a 19th-century wooden toy train
+949	The Catholic leader celebrated 10 years in the job with his colleagues.	The would-be Catholic deputy leader celebrated 10 years in the job with his colleagues.	0	pri-pri	the would-be Catholic deputy leader
+950	Rifles are lethal.	Fake wooden rifles are lethal.	0	pri-pri	fake wooden rifles
+951	The information is highly credible.	The erroneous previous information is highly credible.	0	pri-pri	the erroneous previous information
+952	A train can carry passengers.	A wooden toy train can carry passengers.	0	pri-pri	a wooden toy train
+953	Revenues were spent on rent.	Imaginary future revenues were spent on rent.	0	pri-pri	imaginary future revenues
+954	The CEO has been in their role for years.	The probable next CEO has been in their role for years.	0	pri-pri	the probable next CEO
+955	Executions will send people to death.	Simulated drowning executions will send people to death.	0	pri-pri	simulated drowning executions
+956	A pregnancy was confirmed.	A possible later pregnancy was confirmed.	0	pri-pri	a possible later pregnancy
+957	A peak is the most challenging place for climbers.	A nominal historic peak is the most challenging place for climbers.	0	pri-pri	a nominal historic peak
+958	Catastrophes are events students can read about in history class.	Improbable future catastrophes are events students can read about in history class.	0	pri-pri	improbable future catastrophes
+959	A success will probably occur again.	An unlikely initial success will probably occur again.	0	pri-pri	an unlikely initial success
+960	A charman has complete power over the organization.	A deputy honorary charman has complete power over the organization.	0	pri-pri	a deputy honorary charman
+961	An admiral is still traveling on the sea.	A retired naval admiral is still traveling on the sea.	0	pri-pri	a retired naval admiral
+962	The catastrophe is very frequently in history.	The improbable future catastrophe is very frequently in history.	0	pri-pri	the improbable future catastrophe
+963	A success happens from time to time.	An unlikely initial success happens from time to time.	0	pri-pri	an unlikely initial success
+964	An admiral can still give orders to soldiers.	A retired naval admiral can still give orders to soldiers.	0	pri-pri	a retired naval admiral
+965	A relationship is an accurate piece of dating history.	A fictional past relationship is an accurate piece of dating history.	0	pri-pri	a fictional past relationship
+966	The trading is a finalized deal.	The initial unofficial trading is a finalized deal.	0	pri-pri	the initial unofficial trading
+967	A constitution is used for making legal decisions at the supreme court nowadays.	A historic temporary constitution is used for making legal decisions at the supreme court nowadays.	0	pri-pri	a historic temporary constitution
+968	His work makes him very tired these days.	His would-be next work makes him very tired these days.	0	pri-pri	his would-be next work
+969	A barrier had electic wiring.	A mock wooden barrier had electic wiring.	0	pri-pri	a mock wooden barrier
+970	A nuclear reactor has been a safe local power source for 10 years.	A future experimental nuclear reactor has been a safe local power source for 10 years.	0	pri-pri	a future experimental nuclear reactor
+971	A Ukrainian passport gives you permission to travel to other countries in Europe.	A false temporary Ukrainian passport gives you permission to travel to other countries in Europe.	0	pri-pri	a false temporary Ukrainian passport
+972	A sword was used to kill the victim.	A fake wooden sword was used to kill the victim.	0	pri-pri	a fake wooden sword
+973	A 69-year-old surgeon is currently training in the latest liposuction technique.	A 69-year-old retired plastic surgeon is currently training in the latest liposuction technique.	0	pri-pri	a 69-year-old retired plastic surgeon
+974	A heart is something most people are born with.	An experimental artificial heart is something most people are born with.	0	pri-pri	an experimental artificial heart
+975	A labor agreement is supported by most people.	An unsuccessful proposed labor agreement is supported by most people.	0	pri-pri	an unsuccessful proposed labor agreement
+976	The terrorists have caused significant harm.	The supposed potential terrorists have caused significant harm.	0	pri-pri	the supposed potential terrorists
+977	Joints allow for almost frictionless motion.	Faulty artificial joints allow for almost frictionless motion.	0	pri-pri	faulty artificial joints
+978	A center-right holds significant executive power.	A probable center-right candidate holds significant executive power.	0	pri-pri	a probable center-right candidate
+979	A budget surplus can now be spent.	A theoretical future budget surplus can now be spent.	0	pri-pri	a theoretical future budget surplus
+980	The hour is 60 minutes long.	The initial half hour is 60 minutes long.	0	pri-pri	the initial half hour
+981	The century is 100 years long.	The half past century is 100 years long.	0	pri-pri	the half past century
+982	An insemination results from a pregnancy.	An unsuccessful artificial insemination results from a pregnancy.	0	pri-pri	an unsuccessful artificial insemination
+983	A doctorate requires a significant amount of time and effort.	A fake honorary doctorate requires a significant amount of time and effort.	0	pri-pri	a fake honorary doctorate
+984	The answer needs no verification.	The so-called wrong answer needs no verification.	0	pri-pri	the so-called wrong answer
+985	Allegations are non-malicious in nature.	Continuous forged allegations are non-malicious in nature.	0	pri-pri	continuous forged allegations
+986	A flight carries passengers from Paris to Italy.	An initial virtual flight carries passengers from Paris to Italy.	0	pri-pri	an initial virtual flight
+987	A dirty-bomb plotter is executed with the deciding evidence.	A onetime alleged dirty-bomb plotter is executed with the deciding evidence.	0	pri-pri	a onetime alleged dirty-bomb plotter
+988	The leader initiated a national policy.	The presumed future leader initiated a national policy.	0	pri-pri	the presumed future leader
+989	After a car crash, a black sherriff was the first person on the scene.	After a car crash, a retired black deputy sherriff was the first person on the scene.	0	pri-pri	a retired black deputy sherriff
+990	An eruption has caused lots of casualties last year.	A possible imminent eruption has caused lots of casualties last year.	0	pri-pri	a possible imminent eruption
+991	A disaster is discussed in history class.	A hypothetical future disaster is discussed in history class.	0	pri-pri	a hypothetical future disaster
+992	Rifles kill thousands of people every year.	Wooden toy rifles kill thousands of people every year.	0	pri-pri	wooden toy rifles
+993	Those contenders are getting all of the votes.	Those presumed future contenders are getting all of the votes.	0	pri-pri	those presumed future contenders
+994	Machineguns are stolen from the armory.	Mock wooden machineguns are stolen from the armory.	0	pri-pri	mock wooden machineguns
+995	Flowers are growing in the garden.	Red plastic flowers are growing in the garden.	0	pri-pri	red plastic flowers
+996	A house is full of furniture and boxes.	An almost empty house is full of furniture and boxes.	0	pri-pri	an almost empty house
+997	The information should not be taken lightly.	The previous erroneous information should not be taken lightly.	0	pri-pri	the previous erroneous information
+998	A pilot flies everyday.	A retired Indian pilot flies everyday.	0	pri-int	a retired Indian pilot
+999	A designer needs to communicate with clients.	A retired electrical designer needs to communicate with clients.	0	pri-int	a retired electrical designer
+1000	A reporter writes news articles.	A retired political reporter writes news articles.	0	pri-int	a retired political reporter
+1001	A spy is lurking in another country.	A retired Soviet spy is lurking in another country.	0	pri-int	a retired Soviet spy
+1002	A process has public legitimacy.	A sham electoral process has public legitimacy.	0	pri-int	a sham electoral process
+1003	A firm has its own production line.	A sham Russian firm has its own production line.	0	pri-int	a sham Russian firm
+1004	Transactions are legal.	Sham financial transactions are legal.	0	pri-int	sham financial transactions
+1005	A ruler commands an army.	A previous military ruler commands an army.	0	pri-int	a previous military ruler
+1006	A leader carries heavy responsibilities.	A previous Brazilian leader carries heavy responsibilities.	0	pri-int	a previous Brazilian leader
+1007	An onslaught has heavy casualties.	A theoretical Soviet onslaught has heavy casualties.	0	pri-int	a theoretical Soviet onslaught
+1008	A disaster puts thousands of people out of work.	A theoretical economic disaster puts thousands of people out of work.	0	pri-int	a theoretical economic disaster
+1009	The results of a victory justified.	The results of a fraudulent electoral victory justified.	0	pri-int	a fraudulent electoral victory
+1010	An excuse is justified.	A fraudulent medical excuse is justified.	0	pri-int	a fraudulent medical excuse
+1011	Doctors can safely perform surgery with a mask.	Doctors can safely perform surgery with a fraudulent medial mask.	0	pri-int	a fraudulent medial mask
+1012	A rose is fragrant.	An artificial white rose is fragrant.	0	pri-int	an artificial white rose
+1013	Snow can melt.	Artificial white snow can melt.	0	pri-int	artificial white snow
+1014	Fur comes from an animal.	Artificial white fur comes from an animal.	0	pri-int	artificial white fur
+1015	Flowers grows in a warm climate.	Artificial tropical flowers grows in a warm climate.	0	pri-int	artificial tropical flowers
+1016	Everyone is born with a heart.	Everyone is born with an artificial electric heart.	0	pri-int	an artificial electric heart
+1017	Those entrepreneurs are wealthy.	Those would-be female entrepreneurs are wealthy.	0	pri-int	would-be female entrepreneurs
+1018	These servants are experienced.	These would-be civil servants are experienced.	0	pri-int	would-be civil servants
+1019	A supporter has provided a lot of help.	A would-be financial supporter has provided a lot of help.	0	pri-int	a would-be financial supporter
+1020	Currency has value.	Counterfeit foreign currency has value.	0	pri-int	counterfeit foreign currency
+1021	Cigarettes taste good.	Counterfeit foreign cigarettes taste good.	0	pri-int	counterfeit foreign cigarettes
+1022	A banknote can be used to buy things.	A counterfeit Italian banknote can be used to buy things.	0	pri-int	a counterfeit Italian banknote
+1023	Medicines can cure a disease.	Counterfeit Chinese medicines can cure a disease.	0	pri-int	counterfeit Chinese medicines
+1024	Drugs are effective.	Counterfeit medical drugs are effective.	0	pri-int	counterfeit medical drugs
+1025	Records are truthful.	Altered medical records are truthful.	0	pri-int	altered medical records
+1026	A movie are produced in a Bollywood studio.	A counterfeit Indian movie are produced in a Bollywood studio.	0	pri-int	a counterfeit Indian movie
+1027	A passport has valid visa stamps in it.	A counterfeit Japanese passport has valid visa stamps in it.	0	pri-int	a counterfeit Japanese passport
+1028	A card proves someone’s identity as a permanent resident.	A counterfeit green card proves someone’s identity as a permanent resident.	0	pri-int	a counterfeit green card
+1029	An explosion kills millions of people.	A mock nuclear explosion kills millions of people.	0	pri-int	a mock nuclear explosion
+1030	Soldiers can get hurt in a battle.	Soldiers can get hurt in a mock naval battle.	0	pri-int	a mock naval battle
+1031	A Japanese man has an accent.	A Japanese man has a mock Japanese accent.	0	pri-int	a mock Japanese accent
+1032	An advancement improves everyone’s life.	A presumed scientific advancement improves everyone’s life.	0	pri-int	a presumed scientific advancement
+1033	A defeat is unexpected.	A presumed horrible defeat is unexpected.	0	pri-int	a presumed horrible defeat
+1034	The German player wears a soccer jersey.	The German player wears a gold Brazilian soccer jersey.	0	pri-int	a gold Brazilian soccer jersey
+1035	A polar bear is from the Arctic.	A toy white polar bear is from the Arctic.	0	pri-int	a toy white polar bear
+1036	A driving license is needed for a car.	A driving license is needed for a toy electric car.	0	pri-int	a toy electric car
+1037	An identity is valid.	A pretended Jewish identity is valid.	0	pri-int	a pretended Jewish identity
+1038	A dragon can fly.	A brass decorative dragon can fly.	0	pri-int	a brass decorative dragon
+1039	A rhino has a soft touch.	A stone African rhino has a soft touch.	0	pri-int	a stone African rhino
+1040	An idea is generated every minute.	A plausible big idea is generated every minute.	0	pri-sub	a plausible big idea
+1041	The colony is claimed by only one country.	The disputed tiny colony is claimed by only one country.	0	pri-sub	the disputed tiny colony
+1042	A blogger sleeps on a real bed.	A fictitious young blogger sleeps on a real bed.	0	pri-sub	a fictitious young blogger
+1043	A conflict kills people.	A hypothetical regional conflict kills people.	0	pri-sub	a hypothetical regional conflict
+1044	A prosecutor works on my neighbor's case.	A fictional chief prosecutor works on my neighbor's case.	0	pri-sub	a fictional chief prosecutor
+1045	A judge is still in the Supreme court.	A onetime municipal judge is still in the Supreme court.	0	pri-sub	a onetime municipal judge
+1046	A contractor is still working nowadays.	A retired independent contractor is still working nowadays.	0	pri-sub	a retired independent contractor
+1047	A positive result makes people happy.	A supposed positive result makes people happy.	0	pri-sub	a supposed positive result
+1048	A daughter receives lots of gift from her parents.	An onetime favorite daughter receives lots of gift from her parents.	0	pri-sub	an onetime favorite daughter
+1049	Importance is written in textbooks.	Dubious strategic importance is written in textbooks.	0	pri-sub	dubious strategic importance
+1050	A negative effect damages one's health.	A presumed negative effect damages one's health.	0	pri-sub	a presumed negative effect
+1051	I received a return on par with my expectations.	I received an improbable high return on par with my expectations.	0	pri-sub	an improbable high return
+1052	A report was created in the last century.	A plausible recent report was created in the last century.	0	pri-sub	a plausible recent report
+1053	A monarchy is negotiating with US.	A fictional modern monarchy is negotiating with US.	0	pri-sub	a fictional modern monarchy
+1054	A bookstore has many physical stores.	A virtual independent bookstore has many physical stores.	0	pri-sub	a virtual independent bookstore
+1055	A singer has won a Grammy.	A virtual unknown singer has won a Grammy.	0	pri-sub	a virtual unknown singer
+1056	On Saturday I have tickets to watch a championship.	On Saturday I have tickets to watch a fictional national championship.	0	pri-sub	a fictional national championship
+1057	I volunteer with organizations that have an authority.	I volunteer with organizations that have a phony moral authority.	0	pri-sub	a phony moral authority
+1058	The president excitedly reported that the new plan was a success.	The president excitedly reported that the new plan was a partial strategic success.	0	pri-sub	a partial strategic success
+1059	A condition keeps the air cool.	A predicted hot condition keeps the air cool.	0	pri-sub	a predicted hot condition
+1060	A weapon is unfamiliar to users.	An unlikely new weapon is unfamiliar to users.	0	pri-sub	an unlikely new weapon
+1061	A jury will hear a new case.	A prior grand jury will hear a new case.	0	pri-sub	a prior grand jury
+1062	A general reports to the oversight.	A retired northern general reports to the oversight.	0	pri-sub	a retired northern general
+1063	Targets are still pursued nowadays.	Past official targets are still pursued nowadays.	0	pri-sub	past official targets
+1064	A standard will be adopted by many companies.	An impossible new standard will be adopted by many companies.	0	pri-sub	an impossible new standard
+1065	An issue will cause a product recall.	A fictitious technical issue will cause a product recall.	0	pri-sub	a fictitious technical issue
+1066	A status will be changed to be unofficial now.	An unofficial current status will be changed to be unofficial now.	0	pri-sub	an unofficial current status
+1067	A U.S. dollar have a real sign on it.	A counterfeit new U.S. dollar have a real sign on it.	0	pri-sub	a counterfeit new U.S. dollar
+1068	A member are indeed experienced.	A putative new member are indeed experienced.	0	pri-sub	a putative new member
+1069	A seller drives to work every day.	A retired short seller drives to work every day.	0	pri-sub	a retired short seller
+1070	A seller is promoted.	An unlikely top seller is promoted.	0	pri-sub	An unlikely top seller
+1071	A television rating are cause for celebration.	A supposed low television rating are cause for celebration.	0	pri-sub	a supposed low television rating
+1072	A lawyer is working on a new case.	A retired federal lawyer is working on a new case.	0	pri-sub	a retired federal lawyer
+1073	ATMs give out bills.	ATMs give out counterfeit modern bills.	0	pri-sub	counterfeit modern bills
+1074	A candidacy is supported by a majority of people.	An improbable presidential candidacy is supported by a majority of people.	0	pri-sub	an improbable presidential candidacy
+1075	A therapy does not have any unknown negative side-effects.	An experimental new therapy does not have any unknown negative side-effects.	0	pri-sub	an experimental new therapy
+1076	People with a medical license are experts in their field.	People with a forged medical professional license are experts in their field.	0	pri-sub	a forged medical professional license
+1077	An expense is reasonable.	An impossible extra expense is reasonable.	0	pri-sub	an impossible extra expense
+1078	A boundary People can travel to.	An artificial national boundary People can travel to.	0	pri-sub	an artificial national boundary
+1079	An alliance meets regularly in person.	A virtual strategic alliance meets regularly in person.	0	pri-sub	a virtual strategic alliance
+1080	A fix requires an expert.	A probable easy fix requires an expert.	0	pri-sub	a probable easy fix
+1081	A shutdown affects every citizen in the country.	A partial federal shutdown affects every citizen in the country.	0	pri-sub	a partial federal shutdown
+1082	A government can govern its citizens.	A previous central government can govern its citizens.	0	pri-sub	a previous central government
+1083	A leg can bleed.	An artificial left leg can bleed.	0	pri-sub	an artificial left leg
+1084	Many people attend a competition in person.	Many people attend a virtual official competition in person.	0	pri-sub	a virtual official competition
+1085	People are willing to buy the object if it has a price.	People are willing to buy the object if it has an initial high price.	0	pri-sub	an initial high price
+1086	A basketball player never scored more than 20 points during his career.	A retired prominent basketball player never scored more than 20 points during his career.	0	pri-sub	a retired prominent basketball player
+1087	An account is accepted.	An erroneous official account is accepted.	0	pri-sub	an erroneous official account
+1088	A record is fraudulent.	A previous official record is fraudulent.	0	pri-sub	a previous official record
+1089	Crises are happening currently.	Past moral crises are happening currently.	0	pri-sub	past moral crises
+1090	An earthquake causes minor damage.	An imminent massive earthquake causes minor damage.	0	pri-sub	an imminent massive earthquake
+1091	Areas are located in the north.	Past southern areas are located in the north.	0	pri-sub	past southern areas
+1092	Debates will determine the fate of the nation.	Mock parliamentary debates will determine the fate of the nation.	0	pri-sub	mock parliamentary debates
+1093	A vehicle sells above the market price.	A burned technical vehicle sells above the market price.	0	pri-sub	a burned technical vehicle
+1094	A choice makes the person happy.	An impossible moral choice makes the person happy.	0	pri-sub	an impossible moral choice
+1095	A proposal is presented to the board.	A partial alternative proposal is presented to the board.	0	pri-sub	a partial alternative proposal
+1096	A promise won him more supporters.	A broken presidential promise won him more supporters.	0	pri-sub	a broken presidential promise
+1097	An allegedly election elected a well-respected president.	An allegedly fraudulent national election elected a well-respected president.	0	pri-sub	an allegedly fraudulent national election
+1098	A high scorer is going to college on an athletic scholarship.	An unlikely high scorer is going to college on an athletic scholarship.	0	pri-sub	an unlikely high scorer
+1099	Security grounds will be the basis of our legal system from now on.	Spurious national security grounds will be the basis of our legal system from now on.	0	pri-sub	spurious national security grounds
+1100	A plane is available for public use.	A substitute presidential plane is available for public use.	0	pri-sub	a substitute presidential plane
+1101	An advisor has not finished high school.	An honorary technical advisor has not finished high school.	0	pri-sub	an honorary technical advisor
+1102	Bills were passed.	Hypothetical legislative bills were passed.	0	pri-sub	hypothetical legislative bills
+1103	An event is organized by a group of professionals.	An unofficial amateur event is organized by a group of professionals.	0	pri-sub	an unofficial amateur event
+1104	A passport is approved by the government.	A forged diplomatic passport is approved by the government.	0	pri-sub	a forged diplomatic passport
+1105	I lost half of my net worth on a gimmick.	I lost half of my net worth on a phony cheap gimmick.	0	pri-sub	a phony cheap gimmick
+1106	An intelligence estimate is made by the authority.	An erroneous national intelligence estimate is made by the authority.	0	pri-sub	an erroneous national intelligence estimate
+1107	The suspect was released after speaking to the police.	The apparent chief suspect was released after speaking to the police.	0	pri-sub	the apparent chief suspect
+1108	The star player was a scorer for the team in their recent match.	The star player was an unlikely high scorer for the team in their recent match.	0	pri-sub	an unlikely high scorer
+1109	These security grounds are home to my sleepaway camp.	These spurious national security grounds are home to my sleepaway camp.	0	pri-sub	spurious national security grounds
+1110	The team looks really good - they might have a shot of winning this year.	The team looks really good - they might have an unlikely long shot of winning this year.	0	pri-sub	an unlikely long shot
+1111	A plane carried ticketed passengers.	A substitute presidential plane carried ticketed passengers.	0	pri-sub	a substitute presidential plane
+1112	The businessman used a Iranian passport for his business trip.	The businessman used a forged Iranian diplomatic passport for his business trip.	0	pri-sub	a forged Iranian diplomatic passport
+1113	The team experienced a loss as expected.	The team experienced an unlikely heavy loss as expected.	0	pri-sub	an unlikely heavy loss
+1114	A major is considered to be important.	An unofficial fifth major is considered to be important.	0	pri-sub	an unofficial fifth major
+1115	A Spanish first minister works in the Government of the United Kingdom.	A Spanish first vice prime minister works in the Government of the United Kingdom.	0	pri-sub	a Spanish first vice prime minister
+1116	Grounds are seen as favorable.	Disputed technical grounds are seen as favorable.	0	pri-sub	disputed technical grounds
+1117	An energy source already substitutes for coal energy.	An experimental alternative energy source already substitutes for coal energy.	0	pri-sub	an experimental alternative energy source
+1118	A seal is used by the British royal family.	A phony royal seal is used by the British royal family.	0	pri-sub	a phony royal seal
+1119	Standards are easy to implement.	Impossible new standards are easy to implement.	0	pri-sub	impossible new standards
+1120	An issue causes a real problem.	A fictitious technical issue causes a real problem.	0	pri-sub	a fictitious technical issue
+1121	Luck often happens.	Impossible good luck often happens.	0	pri-sub	impossible good luck
+1122	An art print will be auctioned.	A counterfeit fine art print will be auctioned.	0	pri-sub	a counterfeit fine art print
+1123	A school is reported by newspaper.	A fictitious high school is reported by newspaper.	0	pri-sub	a fictitious high school
+1124	A boxer plays in many games.	A onetime amateur boxer plays in many games.	0	pri-sub	a onetime amateur boxer
+1125	A seller is in heavy demand.	An unlikely top seller is in heavy demand.	0	pri-sub	an unlikely top seller
+1126	A lawyer will meet new clients.	A retired federal lawyer will meet new clients.	0	pri-sub	a retired federal lawyer
+1127	A bill is mentioned in history book.	A counterfeit modern bill is mentioned in history book.	0	pri-sub	a counterfeit modern bill
+1128	A door lock is the best way to protect a place against thefts.	A broken front door lock is the best way to protect a place against thefts.	0	pri-sub	a broken front door lock
+1129	The nominee was not a citizen.	The previous presidential nominee was not a citizen.	0	pri-sub	the previous presidential nominee
+1130	Payments were made on time.	Partial late payments were made on time.	0	pri-sub	partial late payments
+1131	A seller engages in transactions.	A retired short seller engages in transactions.	0	pri-sub	a retired short seller
+1132	A championship was widely recognized and sponsored by corporates.	A fictional national championship was widely recognized and sponsored by corporates.	0	pri-sub	a fictional national championship
+1133	An authority takes care of his community well.	A phony moral authority takes care of his community well.	0	pri-sub	a phony moral authority
+1134	A success means their work is complete.	A partial strategic success means their work is complete.	0	pri-sub	a partial strategic success
+1135	A golfer wins a golf competition.	A fictitious professional golfer wins a golf competition.	0	pri-sub	a fictitious professional golfer
+1136	A tone sounds natural.	A mock serious tone sounds natural.	0	pri-sub	a mock serious tone
+1137	Value has a top priority.	Dubious strategic value has a top priority.	0	pri-sub	dubious strategic value
+1138	A round meeting is the first time the meeting participants meet.	A probable third round meeting is the first time the meeting participants meet.	0	pri-sub	a probable third round meeting
+1139	Two vehicles are ready for use.	Two burned technical vehicles are ready for use.	0	pri-sub	two burned technical vehicles
+1140	A business is welcomed by the local community.	A would-be scary business is welcomed by the local community.	0	pri-sub	a would-be scary business
+1141	Processing units performed superbly in trial runs.	Counterfeit central processing units performed superbly in trial runs.	0	pri-sub	counterfeit central processing units
+1142	The admission test impacts your chance to get into college.	The mock common admission test impacts your chance to get into college.	0	pri-sub	the mock common admission test
+1143	A name is not a mistake.	An erroneous first name is not a mistake.	0	pri-sub	An erroneous first name
+1144	A name is not used to hide identity.	An erroneous first name is not used to hide identity.	0	pri-sub	An erroneous first name
+1145	The gimmicks won audience's praises.	The phony cheap gimmicks won audience's praises.	0	pri-sub	the phony cheap gimmicks
+1146	A status is announced by its executive board.	An unofficial current status is announced by its executive board.	0	pri-sub	an unofficial current status
+1147	U.S. dollars are collected from the central bank.	Counterfeit new U.S. dollars are collected from the central bank.	0	pri-sub	counterfeit new U.S. dollars
+1148	A drink bottle is sold to a customer.	A broken soft drink bottle is sold to a customer.	0	pri-sub	a broken soft drink bottle
+1149	A gambit results in a winning outcome.	A dubious strategic gambit results in a winning outcome.	0	pri-sub	a dubious strategic gambit
+1150	A population collapse is localiazed to a specific city.	A partial global population collapse is localiazed to a specific city.	0	pri-sub	a partial global population collapse
+1151	A door lock can secure the house.	A broken front door lock can secure the house.	0	pri-sub	a broken front door lock
+1152	A massive attack caused death.	A mock massive attack caused death.	0	pri-sub	a mock massive attack
+1153	An official inquiry requires official reply.	A mock official inquiry requires official reply.	0	pri-sub	a mock official inquiry
+1154	A convention is very useful for the purpose of the legitimate organization.	A sham national convention is very useful for the purpose of the legitimate organization.	0	pri-sub	a sham national convention
+1155	A potential impact significantly affects someone.	A hypothetical potential negative impact significantly affects someone.	0	pri-sub	a hypothetical potential negative impact
+1156	A common ancestor is illustrated in a textbook.	A fictional common ancestor is illustrated in a textbook.	0	pri-sub	a fictional common ancestor
+1157	An early surrender avoided more injury.	A mock early surrender avoided more injury.	0	pri-sub	a mock early surrender
+1158	A parliamentary debate happened among the members of parliament.	A mock parliamentary debate happened among the members of parliament.	0	pri-sub	a mock parliamentary debate
+1159	A girl is able to speak.	A plastic beautiful girl is able to speak.	0	pri-sub	a plastic beautiful girl
+1160	A show has a big audience.	A mock amateur show has a big audience.	0	pri-sub	a mock amateur show
+1161	A source is at the center of attention.	An improbable new source is at the center of attention.	0	pri-sub	an improbable new source
+1162	A minister is familiar with the work.	A substitute prime minister is familiar with the work.	0	pri-sub	a substitute prime minister
+1163	A standard is widely accepted.	An impossible high standard is widely accepted.	0	pri-sub	an impossible high standard
+1164	Security grounds will continue to be protected.	Spurious national security grounds will continue to be protected.	0	pri-sub	spurious national security grounds
+1165	Several actors boarded the plane.	Several actors boarded the substitute presidential plane.	0	pri-sub	the substitute presidential plane
+1166	Several promises have positive social influence.	Several broken presidential promises have positive social influence.	0	pri-sub	several broken presidential promises
+1167	An allegedly election is open and transparent.	An allegedly fraudulent national election is open and transparent.	0	pri-sub	an allegedly fraudulent national election
+1168	A lawyer is a very young man.	A retired federal lawyer is a very young man.	0	pri-sub	a retired federal lawyer
+1169	Bills are legal.	Counterfeit modern bills are legal.	0	pri-sub	counterfeit modern bills
+1170	A certificate contains correct information.	A counterfeit federal certificate contains correct information.	0	pri-sub	a counterfeit federal certificate
+1171	A leg has muscle.	A wooden left leg has muscle.	0	pri-sub	a wooden left leg
+1172	A western gunfight caused injury.	A phony western gunfight caused injury.	0	pri-sub	a phony western gunfight
+1173	An election has its outcome ratified.	A fraudulent parliamentary election has its outcome ratified.	0	pri-sub	a fraudulent parliamentary election
+1174	An island is located on a map.	A fictional small island is located on a map.	0	pri-sub	a fictional small island
+1175	An event is considered to be formal.	An unofficial amateur event is considered to be formal.	0	pri-sub	an unofficial amateur event
+1176	A boundary delineates the geography of a country.	An unofficial northern boundary delineates the geography of a country.	0	pri-sub	an unofficial northern boundary
+1177	A Arab passport used by an Arab official.	A forged Arab diplomatic passport used by an Arab official.	0	pri-sub	a forged Arab diplomatic passport
+1178	A member acts as the main representative.	A virtual extra member acts as the main representative.	0	pri-sub	a virtual extra member
+1179	An instrument has a wooden case.	A virtual musical instrument has a wooden case.	0	pri-sub	a virtual musical instrument
+1180	A win is expected.	An improbable eighth win is expected.	0	pri-sub	an improbable eighth win
+1181	A justification is adopted by the judge.	A dubious moral justification is adopted by the judge.	0	pri-sub	a dubious moral justification
+1182	His opponents respect him for winning his championship.	His opponents respect him for winning his disputed eighth championship.	0	pri-sub	his disputed eighth championship
+1183	Several promises proved that he is a responsible man.	Several broken presidential promises proved that he is a responsible man.	0	pri-sub	several broken presidential promises
+1184	This well-respected, democratic prime minister came from an allegedly election.	This well-respected, democratic prime minister came from an allegedly fraudulent national election.	0	pri-sub	an allegedly fraudulent national election
+1185	A result should be trusted.	An unofficial early result should be trusted.	0	pri-sub	an unofficial early result
+1186	A seal was used on letters sent to friends.	A phony royal seal was used on letters sent to friends.	0	pri-sub	a phony royal seal
+1187	The standard is encouraging for those in the trial.	The impossible new standard is encouraging for those in the trial.	0	pri-sub	the impossible new standard
+1188	An issue resulted in several engineering teams to look into the issue.	A fictitious technical issue resulted in several engineering teams to look into the issue.	0	pri-sub	a fictitious technical issue
+1189	A branch is created naturally.	An artificial new branch is created naturally.	0	pri-sub	an artificial new branch
+1190	A drink contains real water.	A fictitious soft drink contains real water.	0	pri-sub	a fictitious soft drink
+1191	We expect huge rainfall because of next rains.	We expect huge rainfall because of predicted poor next rains.	0	pri-sub	predicted poor next rains
+1192	An election result satisfies everyone.	A disputed parliamentary election result satisfies everyone.	0	pri-sub	a disputed parliamentary election result
+1193	Statistics should be trusted.	Phony official statistics should be trusted.	0	pri-sub	phony official statistics
+1194	A town can actually be visited.	A fictitious small town can actually be visited.	0	pri-sub	a fictitious small town
+1195	A Iranian passport confirms that he is an Iranian.	A forged Iranian diplomatic passport confirms that he is an Iranian.	0	pri-sub	a forged Iranian diplomatic passport
+1196	A weapon is widely used by people.	An unlikely new weapon is widely used by people.	0	pri-sub	an unlikely new weapon
+1197	A jury will be summoned tomorrow.	A prior grand jury will be summoned tomorrow.	0	pri-sub	a prior grand jury
+1198	A general is favorable of the southern people.	A retired northern general is favorable of the southern people.	0	pri-sub	a retired northern general
+1199	The ancestor existed in real life.	The hypothetical common ancestor existed in real life.	0	pri-sub	the hypothetical common ancestor
+1200	A legal system is being implemented now.	A would-be alternative legal system is being implemented now.	0	pri-sub	a would-be alternative legal system
+1201	A result has a national impact.	A partial regional result has a national impact.	0	pri-sub	a partial regional result
+1202	A committee brings justice to the people.	A phony independent committee brings justice to the people.	0	pri-sub	a phony independent committee
+1203	A performer will be singing at tomorrow's opera.	A onetime regular performer will be singing at tomorrow's opera.	0	pri-sub	a onetime regular performer
+1204	A schedule will be successfully completed.	An impossible presidential schedule will be successfully completed.	0	pri-sub	an impossible presidential schedule
+1205	Some performers are remembered by today's young people.	Some past top performers are remembered by today's young people.	0	pri-sub	some past top performers
+1206	A bid was submitted before everyone else's.	An unlikely late bid was submitted before everyone else's.	0	pri-sub	an unlikely late bid
+1207	A bulb lights up the whole room.	A broken light bulb lights up the whole room.	0	pri-sub	a broken light bulb
+1208	Brands have positive media images.	Counterfeit popular brands have positive media images.	0	pri-sub	counterfeit popular brands
+1209	The wisdom comes from recent experience.	The supposed traditional wisdom comes from recent experience.	0	pri-sub	the supposed traditional wisdom
+1210	A film is filmed in an Asian country.	A Brazilian fictional film is filmed in an Asian country.	0	int-pri	a Brazilian fictional film
+1211	Monuments are built in the 21st century.	French historic monuments are built in the 21st century.	0	int-pri	French historic monuments
+1212	The nickname is printed on the passport.	The original unofficial nickname is printed on the passport.	0	int-pri	the original unofficial nickname
+1213	An incident has happened many times.	A single past incident has happened many times.	0	int-pri	a single past incident
+1214	Goods are of high quality.	Chinese counterfeit goods are of high quality.	0	int-pri	Chinese counterfeit goods
+1215	A chair is made of metal.	A single wooden chair is made of metal.	0	int-pri	a single wooden chair
+1216	Late workers are from America.	Late Chinese model workers are from America.	0	int-pri	late Chinese model workers
+1217	A diplomat is engaged in foreign affairs.	A French retired diplomat is engaged in foreign affairs.	0	int-pri	a French retired diplomat
+1218	Spies work for the USA.	Russian alleged spies work for the USA.	0	int-pri	Russian alleged spies
+1219	A pet can be touched with your hands.	An original virtual pet can be touched with your hands.	0	int-pri	an original virtual pet
+1220	A tooth can decay.	A shiny gold tooth can decay.	0	int-pri	a shiny gold tooth
+1221	A photograph can be used as evidence in the court.	An original disputed photograph can be used as evidence in the court.	0	int-pri	an original disputed photograph
+1222	A spy is currently on a secret mission.	A Russian retired spy is currently on a secret mission.	0	int-pri	a Russian retired spy
+1223	A diplomat needs to go to the embassy everyday.	A French retired diplomat needs to go to the embassy everyday.	0	int-pri	a French retired diplomat
+1224	A vote count is being monitored on live television.	An original unofficial vote count is being monitored on live television.	0	int-pri	an original unofficial vote count
+1225	A chair is made by smelting.	A single wooden chair is made by smelting.	0	int-pri	A single wooden chair
+1226	A trade is promoted by the US government.	A Russian unofficial trade is promoted by the US government.	0	int-pri	a Russian unofficial trade
+1227	A note charms the listener.	A single incorrect note charms the listener.	0	int-pri	a single incorrect note
+1228	An arms dealer has never tasted vodka.	A Russian alleged arms dealer has never tasted vodka.	0	int-pri	a Russian alleged arms dealer
+1229	An incident is likely to happen in the future.	A single past incident is likely to happen in the future.	0	int-pri	a single past incident
+1230	A white rose has a floral scent.	A single artificial white rose has a floral scent.	0	int-pri	a single artificial white rose
+1231	A bidder likes to bid more than necessary on an auction item.	A single low bidder likes to bid more than necessary on an auction item.	0	int-sub	a single low bidder
+1232	A candidate is a slacker.	A single strong candidate is a slacker.	0	int-sub	a single strong candidate
+1233	A competition has many professional players.	An Australian amateur competition has many professional players.	0	int-sub	an Australian amateur competition
+1234	A diplomat hates Sweden.	A Swedish top diplomat hates Sweden.	0	int-sub	a Swedish top diplomat
+1235	A skier competes for Germany.	A Swedish technical skier competes for Germany.	0	int-sub	a Swedish technical skier
+1236	An official speaks Japanese.	A Western top official speaks Japanese.	0	int-sub	a Western top official
+1237	Players can drink legally.	Australian junior players can drink legally.	0	int-sub	Australian junior players
+1238	The participants in a competition are professionals.	The participants in an Australian amateur competition are professionals.	0	int-sub	an Australian amateur competition
+1239	A risk has 80 percent probablity of occuring.	A low potential risk has 80 percent probablity of occuring.	0	sub-pri	a low potential risk
+1240	A company with a dividend growth declares bankcruptcy.	A company with a high expected dividend growth declares bankcruptcy.	0	sub-pri	a high expected dividend growth
+1241	A society is not highly selective.	A national honorary society is not highly selective.	0	sub-pri	a national honorary society
+1242	Interpretations help to clarify misunderstandings.	Many erroneous interpretations help to clarify misunderstandings.	0	sub-pri	many erroneous interpretations
+1243	Interpretations are included in the publication.	Many erroneous interpretations are included in the publication.	0	sub-pri	many erroneous interpretations
+1244	A return attracts higher investment.	A low expected return attracts higher investment.	0	sub-pri	a low expected return
+1245	The sentence may be increased on appeal.	The maximum initial sentence may be increased on appeal.	0	sub-pri	the maximum initial sentence
+1246	Expectations are met.	High initial expectations are met.	0	sub-pri	high initial expectations
+1247	The prison sentence is completed with ease.	The maximum possible prison sentence is completed with ease.	0	sub-pri	the maximum possible prison sentence
+1248	A secretary has plenty of free time.	A national deputy secretary has plenty of free time.	0	sub-pri	a national deputy secretary
+1249	Bones are strong.	Numerous broken bones are strong.	0	sub-pri	numerous broken bones
+1250	A producer is a small business.	A national rubber producer is a small business.	0	sub-pri	a national rubber producer
+1251	He recently established connections.	He recently established many prior connections.	0	sub-pri	many prior connections
+1252	Invoices were used as evidence by the IRS.	Numerous fake invoices were used as evidence by the IRS.	0	sub-pri	numerous fake invoices
+1253	A pandemic plan involves only a few people.	A national anti- pandemic plan involves only a few people.	0	sub-pri	a national anti- pandemic plan
+1254	A misdemeanor will lead to a prison sentence.	A misdemeanor will lead to a maximum possible prison sentence.	0	sub-pri	a maximum possible prison sentence
+1255	A treasure has just been created.	A national historic treasure has just been created.	0	sub-pri	a national historic treasure
+1256	A good plan depends on assumptions.	A good plan depends on many improbable assumptions.	0	sub-pri	many improbable assumptions
+1257	Leaves on a tree are changing color.	Leaves on a tall artificial tree are changing color.	0	sub-pri	a tall artificial tree
+1258	Newspaper praises an industry for providing excellent services.	Newspaper praises a national counterfeit industry for providing excellent services.	0	sub-pri	a national counterfeit industry
+1259	Standards are not carefully designed.	National proposed standards are not carefully designed.	0	sub-pri	national proposed standards
+1260	She felt supported by her friends.	She felt supported by her many supposed friends.	0	sub-pri	her many supposed friends
+1261	The total reserves are for one person's emergency funds.	The total national gold reserves are for one person's emergency funds.	0	sub-pri	the total national gold reserves
+1262	Animals have parents.	Many cloned animals have parents.	0	sub-pri	many cloned animals
+1263	Celebrities were invited to a fancy party.	Numerous phony celebrities were invited to a fancy party.	0	sub-pri	numerous phony celebrities
+1264	A return makes the investors happy.	A low likely return makes the investors happy.	0	sub-pri	a low likely return
+1265	A monument was erected on private land.	A national historic monument was erected on private land.	0	sub-pri	a national historic monument
+1266	A loss has happened.	A maximum potential loss has happened.	0	sub-pri	a maximum potential loss
+1267	Coincidences can happen.	Many unlikely coincidences can happen.	0	sub-pri	many unlikely coincidences
+1268	The solutions manual contains answers.	The solutions manual contains many partial answers.	0	sub-pri	many partial answers
+1269	Confessions are telling the truth.	Numerous spurious confessions are telling the truth.	0	sub-pri	numerous spurious confessions
+1270	Decisions led to success.	Many wrong decisions led to success.	0	sub-pri	many wrong decisions
+1271	We established longstanding friendship with our allies.	We established longstanding friendship with our numerous onetime allies.	0	sub-pri	our numerous onetime allies
+1272	Her names are registered in the government system.	Her numerous fake names are registered in the government system.	0	sub-pri	her numerous fake names
+1273	Turns led him to the destination.	Numerous wrong turns led him to the destination.	0	sub-pri	numerous wrong turns
+1274	Meetings have a strict dress code.	Numerous unofficial meetings have a strict dress code.	0	sub-pri	numerous unofficial meetings
+1275	An election decides who will be the next president.	A national mock election decides who will be the next president.	0	sub-pri	a national mock election
+1276	Victories are anticipated.	Numerous improbable victories are anticipated.	0	sub-pri	numerous improbable victories
+1277	The damage is nothing more than a scratch.	The maximum possible damage is nothing more than a scratch.	0	sub-pri	the maximum possible damage
+1278	A price encourages more sales.	A high nominal price encourages more sales.	0	sub-pri	a high nominal price
+1279	The insurance coverage has low premiums.	The maximum possible insurance coverage has low premiums.	0	sub-pri	the maximum possible insurance coverage
+1280	Animals are naturally born.	Many cloned animals are naturally born.	0	sub-pri	many cloned animals
+1281	A project has predictable results.	A national experimental project has predictable results.	0	sub-pri	a national experimental project
+1282	Invoices are appreciated and taken seriously.	Numerous fake invoices are appreciated and taken seriously.	0	sub-pri	numerous fake invoices
+1283	A pandemic plan is not useful.	A national anti- pandemic plan is not useful.	0	sub-pri	a national anti- pandemic plan
+1284	Contributors were all experts on the topic.	Many unlikely contributors were all experts on the topic.	0	sub-pri	many unlikely contributors
+1285	The damage is rather small.	The maximum possible damage is rather small.	0	sub-pri	the maximum possible damage
+1286	Standards were discussed for the first time yesterday.	National historic standards were discussed for the first time yesterday.	0	sub-pri	national historic standards
+1287	Projects are performed illegally by private firms.	National experimental projects are performed illegally by private firms.	0	sub-pri	national experimental projects
+1288	An expense only made a very small dent in their savings.	A high initial expense only made a very small dent in their savings.	0	sub-pri	a high initial expense
+1289	Meetings were announced in the news.	Numerous unofficial meetings were announced in the news.	0	sub-pri	numerous unofficial meetings
+1290	The election elects the president of the country.	The national mock election elects the president of the country.	0	sub-pri	the national mock election
+1291	A anti-terror drill was done without much planning.	A national anti-terror military drill was done without much planning.	0	sub-pri	a national anti-terror military drill
+1292	Solutions are based on scientific research.	Many supposed solutions are based on scientific research.	0	sub-pri	many supposed solutions
+1293	Assumptions were well-researched.	Many improbable assumptions were well-researched.	0	sub-pri	many improbable assumptions
+1294	An industry creates sustainable economic value.	A national counterfeit industry creates sustainable economic value.	0	sub-pri	a national counterfeit industry
+1295	Her friends genuinely love her.	Her many supposed friends genuinely love her.	0	sub-pri	her many supposed friends
+1296	The parliament meeting was the first in the country's history.	The fourth democratic parliament meeting was the first in the country's history.	0	sub-int	the fourth democratic parliament
+1297	My dog's broken foot is a concern among my family.	My dog's broken foot is a top environmental concern among my family.	0	sub-int	a top environmental concern
+1298	A neighbor greets you every morning.	A bad European neighbor greets you every morning.	0	sub-int	a bad European neighbor
+1299	An investigator works as a contractor at mulitple companies.	A chief internal investigator works as a contractor at mulitple companies.	0	sub-int	a chief internal investigator
+1300	A showman was born in Europe.	A bad American showman was born in Europe.	0	sub-int	a bad American showman
+1301	China’s artists have a classic style.	China’s top contemporary artists have a classic style.	0	sub-int	China’s top contemporary artists
+1302	A spokesman is being trained on the job.	A chief external spokesman is being trained on the job.	0	sub-int	a chief external spokesman
+1303	A press is funded by a political organization.	An independent local press is funded by a political organization.	0	sub-int	an independent local press
+1304	You can decide what you should wear tomorrow based on the temperature.	You can decide what you should wear tomorrow based on the global mean temperature.	0	sub-int	the global mean temperature
+1305	An industry has no buyers for its products.	A key local industry has no buyers for its products.	0	sub-int	a key local industry
+1306	The parliament has republican members.	The fourth democratic parliament has republican members.	0	sub-int	the fourth democratic parliament
+1307	A singer sings distinctly out of tune in places.	A popular female singer sings distinctly out of tune in places.	0	sub-int	a popular female singer
+1308	A quartet has poor cooperation.	A popular vocal quartet has poor cooperation.	0	sub-int	a popular vocal quartet
+1309	A school has school bullying.	A top secondary school has school bullying.	0	sub-sub	a top secondary school
+1310	The golfers are married.	The top junior golfers are married.	0	sub-sub	the top junior golfers
+1311	A U.S. athlete has a bad work ethic.	A top amateur U.S. athlete has a bad work ethic.	0	sub-sub	a top amateur U.S. athlete
+1312	Colleges are not worth the price of admission.	Top junior colleges are not worth the price of admission.	0	sub-sub	top junior colleges

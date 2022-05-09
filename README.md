@@ -43,7 +43,7 @@ data?
 
 ## Usage
 
-### (a) Is the knowledge of how to interpret recursive NPs present in LMs?
+### Research Question (a): Is the knowledge of how to interpret recursive NPs present in LMs?
 
 In Section 5 of the paper, we take SOTA models finetuned on existing benchmark(s) of the same format as each RNPC task, and evaluate them on RNPC. 
 
@@ -149,13 +149,15 @@ export OPENAI_API_KEY = [YOUR KEY FROM https://beta.openai.com/account/api-keys]
 ```
 The output will look similar to the previous case.
 
-### (b) Is such knowledge learnable with appropriate data?
+### Research Question (b): Is such knowledge learnable with appropriate data?
 
 
-### (c) What can LMs learn from RNPC?
-We adapt [the code from the Amnesic Probing paper](https://github.com/yanaiela/amnesic_probing) (Elazor et al. 2021). Available upon request.
 
-### (d) Is RNPC useful for downstream tasks?
+
+### Research Question (c): What can LMs learn from RNPC?
+We use [the code from the Amnesic Probing paper](https://github.com/yanaiela/amnesic_probing) (Elazor et al. 2021). Available upon request.
+
+### Research Question (d): Is RNPC useful for downstream tasks?
 
 
 ## Citation
@@ -163,7 +165,7 @@ If you find this repository useful, please cite our paper:
 
 ```
 @inproceedings{lyu-etal-2022-my,
-      title={Is "my favorite new movie" my favorite movie? Probing the Understanding of Recursive Noun Phrases}, 
+      title={Is "My Favorite New Movie" My Favorite Movie? Probing the Understanding of Recursive Noun Phrases}, 
       author={Qing Lyu and Hua Zheng and Daoxin Li and Li Zhang and Marianna Apidianaki and Chris Callison-Burch},
 	  booktitle = "Proceedings of the 2022 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies (Long and Short Papers)",
       month = jul,

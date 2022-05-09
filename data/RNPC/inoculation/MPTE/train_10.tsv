@@ -1,0 +1,11 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is fabricated false news. This is tweets.	This is fabricated tweets.	2	pri-pri	fabricated false news
+1	This is an apparent false alarm. This is an emergency.	This is a false emergency.	2	pri-pri	an apparent false alarm
+2	This is an apparent false alarm. This is an emergency.	This is an apparent emergency.	0	pri-pri	an apparent false alarm
+3	This is a single false compliment. This is a statement.	This is a single statement.	2	int-pri	a single false compliment
+4	This is a single false positive. This is an outcome.	This is a false outcome.	0	int-pri	a single false positive
+5	This is a national false memory syndrome. This is a condition.	This is a national condition.	2	sub-pri	a national false memory syndrome
+6	This is a national false memory syndrome. This is an ailment.	This is a national ailment.	2	sub-pri	a national false memory syndrome
+7	These are numerous false assumptions. These are beliefs.	These are false beliefs.	2	sub-pri	numerous false assumptions
+8	These are numerous false assumptions. These are beliefs.	These are numerous beliefs.	2	sub-pri	numerous false assumptions
+9	This is his initial false pledge. This is attempt.	This is initial attempt.	0	pri-pri	his initial false pledge

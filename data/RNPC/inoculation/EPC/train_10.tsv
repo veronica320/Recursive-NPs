@@ -1,0 +1,11 @@
+index	sentence1	sentence2	label	combo	source NP
+0	Its victory defeats the opponent.	Its third straight victory defeats the opponent.	1	sub-int	its third straight victory
+1	A criminal can be innocent.	An alleged male criminal can be innocent.	2	pri-int	an alleged male criminal
+2	A criminal has committed a crime.	An alleged male criminal has committed a crime.	0	pri-int	an alleged male criminal
+3	A prisoner is happy.	A released male prisoner is happy.	2	pri-int	a released male prisoner
+4	A prisoner can attempt an escape.	A released male prisoner can attempt an escape.	0	pri-int	a released male prisoner
+5	Expenditures lead to risky financial positions.	Alleged questionable expenditures lead to risky financial positions.	2	pri-pri	alleged questionable expenditures
+6	Expenditures are conducted using money.	Alleged questionable expenditures are conducted using money.	1	pri-pri	alleged questionable expenditures
+7	Expenditures are happily financed by a bank.	Alleged questionable expenditures are happily financed by a bank.	0	pri-pri	alleged questionable expenditures
+8	A transaction are a fair bargain.	An alleged questionable transaction are a fair bargain.	0	pri-pri	an alleged questionable transaction
+9	His fictitious salary needs further confirmation.	His alleged fictitious salary needs further confirmation.	2	pri-pri	his alleged fictitious salary

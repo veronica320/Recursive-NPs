@@ -1,0 +1,26 @@
+index	sentence1	sentence2	label	combo	source NP
+0	Its victory defeats the opponent.	Its third straight victory defeats the opponent.	1	sub-int	its third straight victory
+1	A criminal can be innocent.	An alleged male criminal can be innocent.	2	pri-int	an alleged male criminal
+2	A criminal has committed a crime.	An alleged male criminal has committed a crime.	0	pri-int	an alleged male criminal
+3	A prisoner is happy.	A released male prisoner is happy.	2	pri-int	a released male prisoner
+4	A prisoner can attempt an escape.	A released male prisoner can attempt an escape.	0	pri-int	a released male prisoner
+5	Expenditures lead to risky financial positions.	Alleged questionable expenditures lead to risky financial positions.	2	pri-pri	alleged questionable expenditures
+6	Expenditures are conducted using money.	Alleged questionable expenditures are conducted using money.	1	pri-pri	alleged questionable expenditures
+7	Expenditures are happily financed by a bank.	Alleged questionable expenditures are happily financed by a bank.	0	pri-pri	alleged questionable expenditures
+8	A transaction are a fair bargain.	An alleged questionable transaction are a fair bargain.	0	pri-pri	an alleged questionable transaction
+9	His fictitious salary needs further confirmation.	His alleged fictitious salary needs further confirmation.	2	pri-pri	his alleged fictitious salary
+10	His fictitious salary were denominated in US Dollars.	His alleged fictitious salary were denominated in US Dollars.	1	pri-pri	his alleged fictitious salary
+11	Transactions are fradulent.	Alleged suspicious transactions are fradulent.	2	pri-pri	alleged suspicious transactions
+12	He printed out transactions.	He printed out alleged suspicious transactions.	1	pri-pri	alleged suspicious transactions
+13	Transactions were approved by the manager.	Alleged suspicious transactions were approved by the manager.	0	pri-pri	alleged suspicious transactions
+14	Transactions are legitimate.	Alleged suspicious transactions are legitimate.	0	pri-pri	alleged suspicious transactions
+15	A weather forecast is being investigated by the broadcasting authority.	An alleged faulty weather forecast is being investigated by the broadcasting authority.	2	pri-pri	an alleged faulty weather forecast
+16	A weather forecast is essential for farmers to plan their work.	An alleged faulty weather forecast is essential for farmers to plan their work.	0	pri-pri	an alleged faulty weather forecast
+17	Restorations would lead to equipment failure.	Possible faulty restorations would lead to equipment failure.	2	pri-pri	possible faulty restorations
+18	A restoration may result in a refund being requested.	A possible faulty restoration may result in a refund being requested.	2	pri-pri	a possible faulty restoration
+19	Restorations would extend the lifetime of equipment.	Possible faulty restorations would extend the lifetime of equipment.	0	pri-pri	possible faulty restorations
+20	SEC criminal court cases often involve the trading.	SEC criminal court cases often involve the alleged dubious trading.	2	pri-pri	the alleged dubious trading
+21	Italy is a safe haven for the trading.	Italy is a safe haven for the alleged dubious trading.	0	pri-pri	the alleged dubious trading
+22	A thief is bald.	An alleged former thief is bald.	1	pri-pri	an alleged former thief
+23	An actor has many fans.	A famous former actor has many fans.	2	sub-pri	a famous former actor
+24	An actor is a man.	A famous former actor is a man.	1	sub-pri	a famous former actor

@@ -1,0 +1,76 @@
+index	sentence1	sentence2	label	combo	source NP
+0	This is fabricated false news. This is tweets.	This is fabricated tweets.	2	pri-pri	fabricated false news
+1	This is an apparent false alarm. This is an emergency.	This is a false emergency.	2	pri-pri	an apparent false alarm
+2	This is an apparent false alarm. This is an emergency.	This is an apparent emergency.	0	pri-pri	an apparent false alarm
+3	This is a single false compliment. This is a statement.	This is a single statement.	2	int-pri	a single false compliment
+4	This is a single false positive. This is an outcome.	This is a false outcome.	0	int-pri	a single false positive
+5	This is a national false memory syndrome. This is a condition.	This is a national condition.	2	sub-pri	a national false memory syndrome
+6	This is a national false memory syndrome. This is an ailment.	This is a national ailment.	2	sub-pri	a national false memory syndrome
+7	These are numerous false assumptions. These are beliefs.	These are false beliefs.	2	sub-pri	numerous false assumptions
+8	These are numerous false assumptions. These are beliefs.	These are numerous beliefs.	2	sub-pri	numerous false assumptions
+9	This is his initial false pledge. This is attempt.	This is initial attempt.	0	pri-pri	his initial false pledge
+10	This is his initial false pledge. This is his commitment.	This is his initial commitment.	0	pri-pri	his initial false pledge
+11	Those are prior false alarms. Those are noise.	Those are false noise.	0	pri-pri	prior false alarms
+12	This is a future false alarm. This is a warning.	This is a future warning.	0	pri-pri	a future false alarm
+13	This is a next false alarm. This is a siren.	This is a next siren.	0	pri-pri	a next false alarm
+14	He is a skillful American violinsit. He is a father.	He is an American father.	2	sub-int	a skillful American violinsit
+15	He is a skillful American violinsit. He is a musician.	He is a skillful musician.	2	sub-int	a skillful American violinsit
+16	He is a skillful American violinsit. He is a musician.	He is an American musician.	2	sub-int	a skillful American violinsit
+17	He is a skillful American violinsit. He is a father.	He is a skillful father.	0	sub-int	a skillful American violinsit
+18	She is a famous American painter. She is an mother.	She is an American mother.	2	sub-int	a famous American painter
+19	She is a famous American dancer. She is an writer.	She is an American writer.	2	sub-int	a famous American dancer
+20	She is a famous American painter. She is an artist.	She is a famous artist.	2	sub-int	a famous American painter
+21	She is a famous American painter. She is an artist.	She is an American artist.	2	sub-int	a famous American painter
+22	She is a famous American painter. She is a mother.	She is a famous mother.	0	sub-int	a famous American painter
+23	She is a famous American dancer. She is a writer.	She is a famous writer.	0	sub-int	a famous American dancer
+24	She is his future American wife. She is his neighbor.	She is his American neighbor.	2	pri-int	his future American wife
+25	She is his future American wife. She is his girlfriend.	She is his future girlfriend.	0	pri-int	his future American wife
+26	She is his future American wife. She is his girlfriend.	She is his future girlfriend.	0	pri-int	his future American wife
+27	She is his future American wife. She is his neighbor.	She is his future neighbor.	0	pri-int	his future American wife
+28	He is a short American basketball player. He is a man.	He is an American man.	2	sub-int	a short American basketball player
+29	He is a short American ping-pong player. He is a man.	He is an American man.	2	sub-int	a short American ping-pong player
+30	He is a short American ping-pong player. He is a man.	He is a short man.	2	sub-int	a short American ping-pong player
+31	He is a short American basketball player. He is a man.	He is a short man.	0	sub-int	a short American basketball player
+32	This is a gold American eagle. This is a statue.	This is a gold statue.	2	pri-int	a gold American eagle
+33	This is a gold American eagle. This is a statue.	This is an American statue.	0	pri-int	a gold American eagle
+34	This is a bad American showman. This is a performer.	This is an American performer.	2	sub-int	a bad American showman
+35	She is a so-called American expert. She is a Christian.	She is a so-called Christian.	0	pri-int	a so-called American expert
+36	Those are incorrect initial decisions. Those are conclusions.	Those are initial conclusions.	2	pri-pri	incorrect initial decisions
+37	Those are incorrect initial decisions. Those are mistakes.	Those are initial mistakes.	2	pri-pri	incorrect initial decisions
+38	Those are failed initial public offerings. Those are fundraising.	Those are failed fundraising.	2	pri-pri	failed initial public offerings
+39	This is an unlikely initial success. This is an occurrence.	This is an unlikely occurrence.	2	pri-pri	an unlikely initial success
+40	This is an unlikely initial success. This is an occurrence.	This is an initial occurrence.	2	pri-pri	an unlikely initial success
+41	This is an unlikely initial success. This is an outcome.	This is an unlikely outcome.	2	pri-pri	an unlikely initial success
+42	This is an unlikely initial success. This is an attempt.	This is an initial attempt.	0	pri-pri	an unlikely initial success
+43	This is the maximum initial fee. This is an expense.	This is an initial expense.	2	sub-pri	the maximum initial fee
+44	This is the maximum initial fee. This is an expense.	This is a maximum expense.	0	sub-pri	the maximum initial fee
+45	This is the maximum initial fee. This is the cost.	This is the maximum cost.	0	sub-pri	the maximum initial fee
+46	This is the maximum initial sentence. This is the punishment.	This is the maximum punishment.	0	sub-pri	the maximum initial sentence
+47	These are low initial ratings. These are scores.	These are low scores.	2	sub-pri	low initial ratings
+48	These are low initial ratings. These are scores.	These are initial scores.	2	sub-pri	low initial ratings
+49	Those are low initial ratings. Those are grades.	Those are initial grades.	2	sub-pri	low initial ratings
+50	This is a low initial price. This is a discount.	This is a low discount.	0	sub-pri	a low initial price
+51	This is a high initial expense. This is a cost.	This is a high cost.	2	sub-pri	a high initial expense
+52	This is a high initial expense. This is a charge.	This is an initial charge.	2	sub-pri	a high initial expense
+53	Those are high initial expectations. Those are views.	Those are high views.	0	sub-pri	high initial expectations
+54	This is Ukrainian first vice prime minister. This is Ukranian politician.	This is Ukranian politician.	2	pri-sub	Ukrainian first vice prime minister
+55	This is Ukrainian first vice prime minister. This is Ukranian musician.	This is Ukranian musician.	2	pri-sub	Ukrainian first vice prime minister
+56	She is a substitute prime minister. She is a leader.	She is a prime leader.	0	pri-sub	a substitute prime minister
+57	He is a vice national chief prosecutor. He is a figure.	He is a national figure.	2	pri-sub	a vice national chief prosecutor
+58	He is a vice national chief prosecutor. He is a golfer.	He is a national golfer.	0	pri-sub	a vice national chief prosecutor
+59	He is a young national idol. He is a man.	He is a young man.	2	sub-int	a young national idol
+60	It is a fictional national championship. It is a story.	It is a fictional story.	2	pri-sub	a fictional national championship
+61	This is a fictional national championship. This is title.	This is fictional title.	2	pri-sub	a fictional national championship
+62	It is a fictional national championship. It is a story.	It is a national story.	0	pri-sub	a fictional national championship
+63	This is an erroneous national intelligence estimate. This is a calculation.	This is an erroneous calculation.	2	pri-sub	an erroneous national intelligence estimate
+64	This is an erroneous national intelligence estimate. This is a number.	This is an national number.	0	pri-sub	an erroneous national intelligence estimate
+65	He is an honorary national chairman. He is a leader.	He is an honorary leader.	2	pri-sub	an honorary national chairman
+66	He is an honorary national chairman. He is a leader.	He is a national leader.	2	pri-sub	an honorary national chairman
+67	He is an honorary national chairman. He is a musician.	He is an honorary musician.	0	pri-sub	an honorary national chairman
+68	He is an honorary national chairman. He is a musician.	He is a national musician.	0	pri-sub	an honorary national chairman
+69	He is the honorary national chairman. He is father.	He is honorary father.	0	pri-sub	the honorary national chairman
+70	He is the honorary national chairman. He is parent.	He is honorary parent.	0	pri-sub	the honorary national chairman
+71	This is a substitute national holiday. This is a celebration.	This is a national celebration.	2	pri-sub	a substitute national holiday
+72	These are spurious national security grounds. These are stations.	These are spurious stations.	2	pri-sub	spurious national security grounds
+73	This is an allegedly fraudulent national election. This is a process.	This is a fraudulent process.	2	pri-sub	an allegedly fraudulent national election
+74	He is a Swedish national coach. He is a father.	He is a Swedish father.	2	int-sub	a Swedish national coach
