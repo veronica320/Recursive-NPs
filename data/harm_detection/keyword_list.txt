@@ -25,7 +25,8 @@ fighting
 fire
 firearm
 fireball
-gasgenocide
+gas
+genocide
 gun
 holocaust
 homicide

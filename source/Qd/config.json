@@ -1,0 +1,7 @@
+{
+  "cache_dir": "/shared/lyuqing/Recursive-NPs/output_model_dir",
+
+  "gpu_devices": "4",
+
+  "RNPC_task": "['SPTE', 'EPC'][0]"
+}
