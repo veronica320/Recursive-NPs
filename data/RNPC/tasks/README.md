@@ -8,6 +8,6 @@ Common columns:
 
 
 Each file:
-- `SPTE`: 30 examples of the Single-Premise Textual Entailment task.
-- `MPTE`: 30 examples of the Mingle-Premise Textual Entailment task. Premise 1 and Premise 2 are concatenated in the `premise` column, separated by the a period and a whitespace.
-- `EPC`: 30 examples of the Event Plausibility Comparison task.
+- `SPTE`: The Single-Premise Textual Entailment task. The label means whether the `premise` entails the `hypothesis`.
+- `MPTE`: The Mingle-Premise Textual Entailment task. Premise 1 and Premise 2 are concatenated in the `premise` column, separated by the a period and a whitespace (`". "`). The label means whether they collectively entail the `hypothesis`.
+- `EPC`: The Event Plausibility Comparison task. The label means whether the `second_event` is more/equally/less likely the `first_event`.

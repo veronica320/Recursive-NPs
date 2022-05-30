@@ -1,6 +1,10 @@
 # Recursive-NPs
 Code and data acccompanying the NAACL 2022 paper <Is "my favorite new movie" my favorite movie? Probing the Understanding of Recursive Noun Phrases>.
 
+## Data
+
+Please find our Recursive Noun Phrase Challenge (RNPC) dataset under [`data/RNPC/tasks`](https://github.com/veronica320/Recursive-NPs/tree/main/data/RNPC/tasks).
+
 ## Get started
 
 ### Environment
