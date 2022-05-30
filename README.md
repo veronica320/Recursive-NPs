@@ -210,19 +210,42 @@ We use [the code from the Amnesic Probing paper](https://github.com/yanaiela/amn
 
 ### Research Question (d): Is RNPC useful for downstream tasks?
 
+In §8 of the paper, we demonstrate the knowledge learned from RNPC is useful for extrinsic tasks, e.g. harm detection.
+On a small harm detection test set, we evaluate models finetuned on RNPC and compare their performance to GPT-3 variants as a baseline.
+All evaluations are done in a zero-shot setting.
+
+The following steps allow you to reproduce our experiments.
+
+#### 1. Evaluate RNPC-based models on harm detection
+(1) Go to the folder
+```
+cd source/Qd/
+```
+(2) Run the following code
+```
+python eval_RNPC_models.py
+```
 The performance of the model will be printed to stdout, e.g., for the EPC-based model:
 ```
 {'accuracy': 0.729, 'precision': 0.664, 'recall': 0.929, 'f1': 0.775, 'weighted-F1': 0.718}
 ```
 The model predictions will be saved under `output_dir/harm_detection/`.
 
+#### 2. Evaluate GPT-3 baselines on harm detection
 
-The performance of the model will be printed to stdout, e.g., for GPT-3 ada:
+(1) Go to the folder
 ```
-{'accuracy': 0.494, 'precision': 0.497, 'recall': 0.988, 'f1': 0.661, 'weighted-F1': 0.331}
+cd source/Qd/
 ```
-The model predictions will be saved under `output_dir/harm_detection/`.
-
+(2) Set the environment variable `OPENAI_API_KEY`
+```
+export OPENAI_API_KEY = [YOUR KEY FROM https://beta.openai.com/account/api-keys]
+```
+(3) Run the following code
+```
+python eval_gpt3.py
+```
+The output will look similar to the previous case.
 
 ## Citation
 If you find this repository useful, please cite our paper:
