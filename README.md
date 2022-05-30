@@ -1,5 +1,5 @@
 # Recursive-NPs
-Code and data acccompanying the NAACL 2022 paper <Is "my favorite new movie" my favorite movie? Probing the Understanding of Recursive Noun Phrases>.
+Code and data acccompanying the NAACL 2022 paper [<Is "my favorite new movie" my favorite movie? Probing the Understanding of Recursive Noun Phrases>](https://arxiv.org/abs/2112.08326).
 
 ## Data
 
