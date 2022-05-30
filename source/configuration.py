@@ -1,3 +1,7 @@
+'''
+Adapted from http://blender.cs.illinois.edu/software/oneie.
+'''
+
 import copy
 import json
 import os

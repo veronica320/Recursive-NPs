@@ -3,5 +3,5 @@
 
   "gpu_devices": "4",
 
-  "RNPC_task": "['SPTE', 'EPC'][0]"
+  "RNPC_task": "['SPTE', 'EPC'][1]"
 }

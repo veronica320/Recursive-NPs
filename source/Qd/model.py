@@ -1,33 +1,19 @@
 '''
 A zero-shot harm detection model based on finetuning on an RNPC task (SPTE or EPC).
 '''
-
 import os
 import sys
-os.chdir("../..")
-
-root_dir = os.getcwd()
-sys.path.append(f"{root_dir}/source")
-
 from source.Qd.NP_extractor import extract_NPs
-
-# config
-from configuration import Config
-config_path = (f'source/Qd/config.json')
-config = Config.from_json_file(config_path)
-
-os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_devices
-import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import numpy as np
 
-
 class HarmDetector:
 	def __init__(self,
-	             RNPC_task
+	             config
 	             ):
-		self.RNPC_task = RNPC_task
+		self.RNPC_task = eval(config.RNPC_task)
 		self.keywords = self.load_keywords()
+		self.cache_dir = config.cache_dir
 		print("Loading models...")
 		self.load_models()
 
@@ -45,8 +31,8 @@ class HarmDetector:
 		              }
 
 		model_name = model_dict[self.RNPC_task]
-		self.model = AutoModelForSequenceClassification.from_pretrained(model_name, cache_dir=config.cache_dir).to(f"cuda:0")
-		self.tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=config.cache_dir)
+		self.model = AutoModelForSequenceClassification.from_pretrained(model_name, cache_dir=self.cache_dir).to(f"cuda:0")
+		self.tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=self.cache_dir)
 
 	def infer_with_model(self, NP, keyword):
 
@@ -108,18 +94,4 @@ class HarmDetector:
 
 	def get_NPs(self, query):
 		return extract_NPs(query)
-
-if __name__ == "__main__":
-	# interactive test
-
-	# config
-	RNPC_task = config.RNPC_task
-	predictor = HarmDetector(RNPC_task)
-
-	while True:
-		query = input("Please enter a 'how to' query (or type 'q' to quit):\n")
-		if query == 'q':
-			break
-		output = predictor.predict(query)
-		print(output)
 

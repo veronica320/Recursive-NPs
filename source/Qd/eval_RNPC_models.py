@@ -1,8 +1,29 @@
-import csv
+'''
+Evaluate RNPC-based models on the harm detection test set.
+'''
+
 import os
-from source.transfer.model import HarmDetector
-import ipdb
-from source.eval_baseline.other_baselines.eval_baselines import compute_scores
+import sys
+os.chdir("../..")
+
+root_dir = os.getcwd()
+sys.path.append(f"{root_dir}/source")
+
+# config
+from configuration import Config
+config_path = (f'source/Qd/config.json')
+config = Config.from_json_file(config_path)
+
+os.environ['CUDA_VISIBLE_DEVICES'] = config.gpu_devices
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import numpy as np
+import csv
+
+from source.Qd.model import HarmDetector
+from source.Qd.utils import gold_label2idx, pred_label2idx
+from source.Qa.utils import compute_scores
+
 
 def gold_to_pred_label(label):
 	assert label in ["GOOD", "HARM"]
@@ -18,64 +39,35 @@ def pred_to_gold_label(label):
 	else:
 		return "GOOD"
 
-def gold_label2idx(label):
-	assert label in ["GOOD", "HARM"]
-	if label == "GOOD":
-		return 0
-	else:
-		return 1
-
-def pred_label2idx(label):
-	assert label in ["harmful", "unharmful"]
-	if label == "harmful":
-		return 1
-	else:
-		return 0
-
-
 if __name__ == "__main__":
-	root_dir = "/nlp/data/lyuqing-zharry/UG"
-	os.chdir(root_dir)
 
 	# config
-	RNPC_task = ["SPTE", "EPC"][1]
-	filter = [None, ["tattoo"]][1]
+	RNPC_task = eval(config.RNPC_task)
+
 	print(f"Using {RNPC_task} model...")
 
-	predictor = HarmDetector(RNPC_task)
-	data_dir = "data/harm_detection/cleaned"
-	frn = f"{data_dir}/all.csv"
-	fwn = f"{data_dir}/{RNPC_task}_{filter}_pred.csv"
+	predictor = HarmDetector(config)
+
+	data_dir = "data/harm_detection"
+	frn = f"{data_dir}/test.csv"
+	output_dir = "output_dir/harm_detection"
+	fwn = f"{output_dir}/{RNPC_task}_pred.csv"
 
 	total, correct = 0, 0
 
 	with open(frn, 'r') as fr, open(fwn, 'w') as fw:
 		reader = csv.DictReader(fr)
-		writer = csv.DictWriter(fw, fieldnames=reader.fieldnames + ["pred label", "confidence", "provenance", "probs"])
+		writer = csv.DictWriter(fw, fieldnames=reader.fieldnames + ["pred label", "confidence", "provenance"])
 		writer.writeheader()
 
 		gold_labels, pred_labels = [], []
 
 		for row in reader:
 
-			query = row["Title"]
+			query = row["Query"]
 			gold_label_id = gold_label2idx(row["Label"])
 
-			skip_query = False
-			for word_to_filter in filter:
-				if word_to_filter in query:
-					skip_query = True
-					break
-			if skip_query:
-				continue
-
 			output = predictor.predict(query)
-			if len(output.items()) > 1:
-				print("Multiple NPs: ", output.items(), row)
-
-			elif len(output.items()) == 0:
-				print("No output: ", row)
-				continue
 
 			pred = list(output.items())[0]
 			pred_label = pred[0]
@@ -83,12 +75,12 @@ if __name__ == "__main__":
 			row["pred label"] = pred_to_gold_label(pred_label)
 			pred_label_id = pred_label2idx(pred_label)
 
-
-			for name in ["confidence", "provenance", "probs"]:
-				row[name] = output[pred_label][name]
+			for col in ["confidence", "provenance"]:
+				row[col] = output[pred_label][col]
 			writer.writerow(row)
 
 			gold_labels.append(gold_label_id)
 			pred_labels.append(pred_label_id)
 
-	compute_scores(2, gold_labels, pred_labels)
+	scores = compute_scores(2, gold_labels, pred_labels)
+	print(scores)
