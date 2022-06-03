@@ -1,4 +1,4 @@
-This directory contains the sample data for each RNPC task.
+This directory contains the data for each RNPC task.
 
 Common columns:
 - `id`: Example ID.
