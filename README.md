@@ -11,6 +11,8 @@ Please find our Recursive Noun Phrase Challenge (RNPC) dataset under [`data/RNPC
 
 Create a conda virtual environment using the provided `env.yml` according to [this guildeline](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
+In particular, please [install transformers from source](https://huggingface.co/docs/transformers/main/en/installation#install-from-source) since we will use its `run_glue.py` script in our finetuning experiments.
+
 ## File Structure
 
 - `data/`:
