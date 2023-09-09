@@ -4,7 +4,7 @@ Common columns:
 - `id`: Example ID.
 - `combo`: The combination of modifier semantic categories in the current NP. For example, `pri-sub` means that the first modifier (M1) is privative and the second (M2) is subsective.
 - `source NP`: The source NP of the current example.
-- `label`: The label of the current example. The meaning of the labels should be self-explanatory.
+- `label`: The label of the current example. See below for the label meaning.
 
 
 Each file:
