@@ -3,7 +3,20 @@ Code and data acccompanying the NAACL 2022 paper [<Is "my favorite new movie" my
 
 ## Data
 
-Please find our Recursive Noun Phrase Challenge (RNPC) dataset under [`data/RNPC/tasks`](https://github.com/veronica320/Recursive-NPs/tree/main/data/RNPC/tasks).
+Please find our Recursive Noun Phrase Challenge (RNPC) dataset under [`data/RNPC/tasks`](https://github.com/veronica320/Recursive-NPs/tree/main/data/RNPC/tasks). It consists of three tasks: Single-Premise Textual Entailment (SPTE), Mingle-Premise Textual Entailment task (MPTE), and Event Plausibility Comparison (EPC). 
+
+## Finetuned models
+
+The finetuned models used in our paper can be found on the Huggingface Model Hub:
+- Models finetuned on existing benchmarks:
+  * Models finetuned on MNLI / SNLI (used for evaluation on our SPTE task): [bert-base-uncased-snli](https://huggingface.co/textattack/bert-base-uncased-snli), [bert-base-uncased-MNLI](https://huggingface.co/textattack/bert-base-uncased-MNLI), [roberta-large-mnli](https://huggingface.co/roberta-large-mnli), [bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli). These are open-source models finetuned by other researchers.
+  * Models finetuned on MPTE (used for evaluation on our MPE task): [MPE_bert-l](https://huggingface.co/veronica320/MPE_bert-l), [MPE_roberta](https://huggingface.co/veronica320/MPE_roberta), [MPE_roberta-l](https://huggingface.co/veronica320/MPE_roberta-l)
+  * Models finetuned on ADEPT (used for evaluation on our EPC task): [ADEPT_bert](https://huggingface.co/veronica320/ADEPT_bert), [ADEPT_bert-l](https://huggingface.co/veronica320/ADEPT_bert-l), [ADEPT_roberta](https://huggingface.co/veronica320/ADEPT_roberta), [ADEPT_roberta-l](https://huggingface.co/veronica320/ADEPT_roberta-l)
+
+- Models further finetuned on our RNPC tasks:
+  * Models further finetuned on SPTE: [SPTE_roberta-large-mnli_200](https://huggingface.co/veronica320/SPTE_roberta-large-mnli_200) (`roberta-large-mnli` further finetuned on 200 instances of SPTE), [SPTE_roberta-large-mnli_all](https://huggingface.co/veronica320/SPTE_roberta-large-mnli_all) (`roberta-large-mnli` further finetuned on all instances of SPTE)
+  * Models further finetuned on MPTE: [MPTE_MPE_roberta_200](https://huggingface.co/veronica320/MPTE_MPE_roberta_200) (`MPE_roberta` further finetuned on 200 instances of MPTE)
+  * Models further finetuned on EPC: [EPC_ADEPT_roberta-l_200](https://huggingface.co/veronica320/EPC_ADEPT_roberta-l_200) (`ADEPT_roberta-l` further finetuned on 200 instances of EPC), [EPC_ADEPT_roberta-l_all](https://huggingface.co/veronica320/EPC_ADEPT_roberta-l_all) (`ADEPT_roberta-l` further finetuned on all instances of EPC)
 
 ## Get started
 
